@@ -1,0 +1,612 @@
+SAA*KSAA*Shively Field*Saratoga, Wyoming, United States
+SAB*TNCS*Juancho E. Yrausquin Airport*Saba, Caribbean Netherlands
+SAC*KSAC*Sacramento Executive Airport*Sacramento, California, United States
+SAD*KSAD*Safford Regional Airport*Safford, Arizona, United States
+SAF*KSAF*Santa Fe Municipal Airport*Santa Fe, New Mexico, United States
+SAG**Shirdi Airport*Shirdi, Maharashtra, India
+SAH*OYSN*Sana'a International Airport (El Rahaba Airport)*Sana'a, Yemen
+SAK*BIKR*Sauðárkrókur Airport*Sauðárkrókur, Iceland
+SAL*MSLP*Monseñor Óscar Arnulfo Romero International Airport*San Salvador, El Salvador
+SAM**Salamo Airport*Salamo, Papua New Guinea
+SAN*KSAN*San Diego International Airport*San Diego, California, United States
+SAO**metropolitan area1*São Paulo, São Paulo, Brazil
+SAP*MHLM*Ramón Villeda Morales International Airport*San Pedro Sula, Honduras
+SAQ*MYAN*San Andros Airport*Nicholls Town, Andros Island, Bahamas
+SAR*KSAR*Sparta Community Airport (Hunter Field)*Sparta, Illinois, United States
+SAS*KSAS*Salton Sea Airport*Salton City, California, United States
+SAT*KSAT*San Antonio International Airport*San Antonio, Texas, United States
+SAU*WATS*Tardamu Airport*Savu (Sawu), Indonesia
+SAV*KSAV*Savannah/Hilton Head International Airport*Savannah, Georgia, United States
+SAW*LTFJ*Sabiha Gökçen International Airport*Istanbul, Turkey
+SAX**Sambú Airport*Sambú, Panama
+SAY*LIQS*Siena–Ampugnano Airport*Siena, Tuscany, Italy
+SAZ*GLST*Sasstown Airport*Sasstown, Liberia
+SBA*KSBA*Santa Barbara Municipal Airport*Santa Barbara, California, United States
+SBB*SVSB*Santa Bárbara de Barinas Airport*Santa Bárbara, Venezuela
+SBC*AYSO*Selbang Airport*Selbang, Papua New Guinea
+SBD*KSBD*San Bernardino International Airport*San Bernardino, California, United States
+SBE*AYSA*Suabi Airport*Suabi, Papua New Guinea
+SBF*OADS*Sardeh Band Airport*Band-e Sardeh Dam, Afghanistan
+SBG*WITN*Maimun Saleh Airport*Sabang, Indonesia
+SBH*TFFJ*Gustaf III Airport*Gustavia, Saint Barthélemy
+SBI*GUSB*Sambailo Airport*Koundara, Guinea
+SBJ*SNMX*São Mateus Airport*São Mateus, Espírito Santo, Brazil
+SBK*LFRT*Saint-Brieuc – Armor Airport*Saint-Brieuc, Brittany, France
+SBL*SLSA*Santa Ana del Yacuma Airport*Santa Ana del Yacuma, Bolivia
+SBM*KSBM*Sheboygan County Memorial Airport*Sheboygan, Wisconsin, United States
+SBN*KSBN*South Bend International Airport*South Bend, Indiana, United States
+SBO**Salina-Gunnison Airport (FAA: 44U)*Salina / Gunnison, Utah, United States
+SBP*KSBP*San Luis Obispo County Regional Airport (McChesney Field)*San Luis Obispo, California, United States
+SBQ*OPSB*Sibi Airport*Sibi, Pakistan
+SBR*YSII*Saibai Island Airport*Saibai Island, Queensland, Australia
+SBS*KSBS*Steamboat Springs Airport (Bob Adams Field)*Steamboat Springs, Colorado, United States
+SBT*USDA*Sabetta International Airport*Sabetta, Yamalo-Nenets Autonomous Okrug, Russia
+SBU*FASB*Springbok Airport*Springbok, South Africa
+SBV*AYSH*Sabah Airport*Sabah, Papua New Guinea
+SBW*WBGS*Sibu Airport*Sibu, Sarawak, Malaysia
+SBX*KSBX*Shelby Airport*Shelby, Montana, United States
+SBY*KSBY*Salisbury–Ocean City–Wicomico Regional Airport*Salisbury / Ocean City, Maryland, United States
+SBZ*LRSB*Sibiu International Airport*Sibiu, Romania
+SCA**Santa Catalina Airport*Santa Catalina, Colombia
+SCB*KSCB*Scribner State Airport*Scribner, Nebraska, United States
+SCC*PASC*Deadhorse Airport*Prudhoe Bay / Deadhorse, Alaska, United States
+SCD*MHUL*Sulaco Airport*Sulaco, Honduras
+SCE*KUNV*University Park Airport (FAA: UNV)*State College, Pennsylvania, United States
+SCF*KSDL*Scottsdale Airport (FAA: SDL)*Phoenix / Scottsdale, Arizona, United States
+SCG*YSPK*Spring Creek Airport*Conjuboy, Queensland, Australia
+SCH*KSCH*Schenectady County Airport*Schenectady, New York, United States
+SCI*SVPM*Paramillo Airport*San Cristóbal, Venezuela
+SCK*KSCK*Stockton Metropolitan Airport*Stockton, California, United States
+SCL*SCEL*Comodoro Arturo Merino Benítez International Airport*Santiago, Chile
+SCM*PACM*Scammon Bay Airport*Scammon Bay, Alaska, United States
+SCN*EDDR*Saarbrücken Airport*Saarbrücken, Saarland, Germany
+SCO*UATE*Aktau Airport*Aktau, Kazakhstan
+SCP*LFNC*Mont-Dauphin - Saint-Crépin Airport*Mont-Dauphin, Provence-Alpes-Côte d'Azur, France
+SCQ*LEST*Santiago de Compostela Airport*Santiago de Compostela, Galicia, Spain
+SCS*EGPM*Scatsta Airport*Shetland Islands, Scotland, United Kingdom
+SCT*OYSQ*Socotra Airport*Socotra, Yemen
+SCU*MUCU*Antonio Maceo International Airport*Santiago de Cuba, Cuba
+SCW*UUYY*Syktyvkar Airport*Syktyvkar, Komi Republic, Russia
+SCX*MMSZ*Salina Cruz Airport*Salina Cruz, Oaxaca, Mexico
+SCY*SEST*San Cristóbal Airport*San Cristóbal Island, Galápagos Islands, Ecuador
+SCZ*AGGL*Santa Cruz/Graciosa Bay/Luova Airport*Santa Cruz Islands, Solomon Islands
+SDB*FALW*Air Force Base Langebaanweg*Saldanha Bay, South Africa
+SDC**Sand Creek Airport*Sand Creek Village, Guyana
+SDD*FNUB*Lubango Mukanka Airport*Lubango, Angola
+SDE*SANE*Vicecomodoro Ángel de la Paz Aragonés Airport*Santiago del Estero, Santiago del Estero, Argentina
+SDF*KSDF*Louisville International Airport (Standiford Field)*Louisville, Kentucky, United States
+SDG*OICS*Sanandaj Airport*Sanandaj, Iran
+SDH*MHSR*Santa Rosa de Copán Airport*Santa Rosa de Copán, Honduras
+SDI*AYSD*Saidor Airport*Saidor, Papua New Guinea
+SDJ*RJSS*Sendai Airport*Sendai, Honshu, Japan
+SDK*WBKS*Sandakan Airport*Sandakan, Sabah, Malaysia
+SDL*ESNN*Sundsvall-Timrå Airport (Midlanda Airport)*Sundsvall / Härnösand, Sweden
+SDM*KSDM*Brown Field Municipal Airport*San Diego, California, United States
+SDN*ENSD*Sandane Airport, Anda*Sandane, Norway
+SDP*PASD*Sand Point Airport*Sand Point, Alaska, United States
+SDQ*MDSD*Las Américas International Airport*Santo Domingo, Dominican Republic
+SDR*LEXJ*Santander Airport*Santander, Cantabria, Spain
+SDS*RJSD*Sado Airport*Sado, Niigata, Japan
+SDT*OPSS*Saidu Sharif Airport*Saidu Sharif, Pakistan
+SDU*SBRJ*Santos Dumont Airport*Rio de Janeiro, Rio de Janeiro, Brazil
+SDV*LLSD*Sde Dov Airport*Tel Aviv, Israel
+SDX*KSEZ*Sedona Airport (FAA: SEZ)*Sedona, Arizona, United States
+SDY*KSDY*Sidney–Richland Municipal Airport*Sidney, Montana, United States
+SDZ**metropolitan area2*Shetland Islands, Scotland, United Kingdom
+SEA*KSEA*Seattle–Tacoma International Airport*Seattle, Washington, United States
+SEB*HLLS*Sabha Airport*Sabha (Sebha), Libya
+SED**Sdom Airfield (Hashnayim Airfield)*Neve Zohar (Sedom), Israel
+SEE*KSEE*Gillespie Field*San Diego, California, United States
+SEF*KSEF*Sebring Regional Airport*Sebring, Florida, United States
+SEG*KSEG*Penn Valley Airport*Selinsgrove, Pennsylvania, United States
+SEH*WAJS*Senggeh Airport*Senggeh, Indonesia
+SEK*UESK*Srednekolymsk Airport*Srednekolymsk, Yakutia, Russia
+SEL**metropolitan area3*Seoul, South Korea
+SEM*KSEM*Craig Field*Selma, Alabama, United States
+SEN*EGMC*London Southend Airport*London / Southend, England, United Kingdom
+SEO*DISG*Séguéla Airport*Séguéla, Ivory Coast
+SEP*KSEP*Stephenville Clark Regional Airport*Stephenville, Texas, United States
+SEQ*WIBS*Sei Pakning Airport*Bengkalis, Indonesia
+SER*KSER*Freeman Municipal Airport*Seymour, Indiana, United States
+SEU*HTSN*Seronera Airstrip*Seronera, Tanzania
+SEV**Severodonetsk Airport*Severodonetsk, Ukraine
+SEW**Siwa Oasis North Airport*Siwa Oasis, Egypt
+SEY*GQNS*Sélibaby Airport*Sélibaby, Mauritania
+SEZ*FSIA*Seychelles International Airport*Mahé, Seychelles
+SFA*DTTX*Sfax–Thyna International Airport*Sfax, Tunisia
+SFB*KSFB*Orlando Sanford International Airport*Orlando, Florida, United States
+SFC*TFFC*Saint-François Airport*Saint-François, Guadeloupe
+SFD*SVSR*Las Flecheras Airport*San Fernando de Apure, Venezuela
+SFE*RPUS*San Fernando Airport*San Fernando, Philippines
+SFF*KSFF*Felts Field*Spokane, Washington, United States
+SFG*TFFG*L'Espérance Airport (Grand Case Airport)*Grand Case, Saint Martin
+SFH*MMSF*San Felipe International Airport*San Felipe, Baja California, Mexico
+SFJ*BGSF*Kangerlussuaq Airport*Kangerlussuaq, Greenland
+SFK*SNSW*Soure Airport*Soure, Pará, Brazil
+SFL*GVSF*São Filipe Airport*São Filipe, Fogo, Cape Verde
+SFM*KSFM*Sanford Seacoast Regional Airport*Sanford, Maine, United States
+SFN*SAAV*Sauce Viejo Airport*Santa Fe de la Vera Cruz, Santa Fe, Argentina
+SFO*KSFO*San Francisco International Airport*San Francisco, California, United States
+SFS*RPLB*Subic Bay International Airport*Subic Bay, Philippines
+SFT*ESNS*Skellefteå Airport*Skellefteå, Sweden
+SFU**Safia Airport*Safia, Papua New Guinea
+SFV**Santa Fé do Sul Airport*Santa Fé do Sul, São Paulo, Brazil
+SFX**Macagua Airport*San Félix, Venezuela
+SFY**metropolitan area4*Springfield, Massachusetts, United States
+SFZ*KSFZ*North Central State Airport*Pawtucket, Rhode Island, United States
+SGA*OASN*Sheghnan Airport*Shighnan, Afghanistan
+SGB**Singaua Airport*Singaua, Papua New Guinea
+SGC*USRR*Surgut International Airport*Surgut, Khanty-Mansi Autonomous Okrug, Russia
+SGD*EKSB*Sønderborg Airport*Sønderborg, Denmark
+SGE*EDGS*Siegerland Airport*Siegen, North Rhine-Westphalia, Germany
+SGF*KSGF*Springfield–Branson National Airport*Springfield, Missouri, United States
+SGH*KSGH*Springfield–Beckley Municipal Airport*Springfield, Ohio, United States
+SGI*OPSR*PAF Base Mushaf*Sargodha, Pakistan
+SGJ**Sagarai Airport*Sagarai, Papua New Guinea
+SGK*AYSK*Sangapi Airport*Sangapi, Papua New Guinea
+SGL*RPLS*Danilo Atienza Air Base*Manila, Philippines
+SGM**San Ignacio Airfield*San Ignacio, Baja California Sur, Mexico
+SGN*VVTS*Tan Son Nhat International Airport*Ho Chi Minh City, Vietnam
+SGO*YSGE*St George Airport*St George, Queensland, Australia
+SGP*YSHG*Shay Gap Airport*Shay Gap, Western Australia, Australia
+SGQ*WRLA*Sangkimah Airport*Sangatta, Indonesia
+SGR*KSGR*Sugar Land Regional Airport*Houston / Sugar Land, Texas, United States
+SGT*KSGT*Stuttgart Municipal Airport*Stuttgart, Arkansas, United States
+SGU*KSGU*St. George Regional Airport*St. George, Utah, United States
+SGV*SAVS*Sierra Grande Airport*Sierra Grande, Río Negro, Argentina
+SGW**Saginaw Seaplane Base (FAA: A23)*Saginaw Bay, Alaska, United States
+SGX*HTSO*Songea Airport*Songea, Tanzania
+SGY*PAGY*Skagway Airport*Skagway, Alaska, United States
+SGZ*VTSH*Songkhla Airport*Songkhla, Thailand
+SHA*ZSSS*Shanghai Hongqiao International Airport*Shanghai, China
+SHB*RJCN*Nakashibetsu Airport*Nakashibetsu, Hokkaido, Japan
+SHC**Shire Airport*Shire (Inda Selassie), Ethiopia
+SHD*KSHD*Shenandoah Valley Regional Airport*Staunton / Waynesboro / Harrisonburg, Virginia, United States
+SHE*ZYTX*Shenyang Taoxian International Airport*Shenyang, Liaoning, China
+SHF*ZWHZ*Shihezi Huayuan Airport*Shihezi, Xinjiang, China
+SHG*PAHG*Shungnak Airport*Shungnak, Alaska, United States
+SHH*PASH*Shishmaref Airport*Shishmaref, Alaska, United States
+SHI*RORS*Shimojishima Airport*Shimoji-shima, Miyako Islands, Japan
+SHJ*OMSJ*Sharjah International Airport*Sharjah, United Arab Emirates
+SHK*FXSH*Sehonghong Airport*Sehonghong, Lesotho
+SHL*VEBI*Shillong Airport (Barapani Airport)*Shillong, Meghalaya, India
+SHM*RJBD*Nanki–Shirahama Airport*Shirahama, Honshu, Japan
+SHN*KSHN*Sanderson Field*Shelton, Washington, United States
+SHO*FDSK*King Mswati III International Airport (Sikhuphe Int'l)*Manzini, Swaziland
+SHQ*YSPT*Southport Airport*Southport, Queensland, Australia
+SHR*KSHR*Sheridan County Airport*Sheridan, Wyoming, United States
+SHS*ZHSS*Shashi Airport*Jingzhou, Hubei, China
+SHT*YSHT*Shepparton Airport*Shepparton, Victoria, Australia
+SHU*YSMP*Smith Point Airport*Smith Point, Northern Territory, Australia
+SHV*KSHV*Shreveport Regional Airport*Shreveport, Louisiana, United States
+SHW*OESH*Sharurah Domestic Airport*Sharurah, Saudi Arabia
+SHX*PAHX*Shageluk Airport*Shageluk, Alaska, United States
+SHY*HTSY*Shinyanga Airport*Shinyanga, Tanzania
+SHZ*FXSS*Seshutes Airport*Seshote, Lesotho
+SIA*ZLSN*Xi'an Xiguan Airport*Xi'an, Shaanxi, China
+SIB*FCBS*Sibiti Airport*Sibiti, Republic of the Congo
+SIC**San José Airport*San José Island, Panama
+SID*GVAC*Amílcar Cabral International Airport*Sal, Cape Verde
+SIE*LPSI*Sines Airport*Sines, Portugal
+SIF*VNSI*Simara Airport*Simara, Nepal
+SIG*TJIG*Fernando Luis Ribas Dominicci Airport*San Juan, Puerto Rico
+SIH*VNDT*Silgadhi Airport*Dipayal Silgadhi, Nepal
+SII*GMMF*Sidi Ifni Airport (Sania Ramel Airport)*Sidi Ifni, Morocco
+SIJ*BISI*Siglufjörður Airport*Siglufjörður, Iceland
+SIK*KSIK*Sikeston Memorial Municipal Airport*Sikeston, Missouri, United States
+SIL*AYSG*Sila Airport*Sila, Papua New Guinea
+SIM*AYSJ*Simbai Airport*Simbai, Papua New Guinea
+SIN*WSSS*Singapore Changi Airport*Singapore
+SIO*YSMI*Smithton Airport*Smithton, Tasmania, Australia
+SIP*UKFF*Simferopol International Airport*Simferopol
+SIQ*WIDS*Dabo Singkep Airport*Singkep, Indonesia
+SIR*LSGS*Sion Airport*Sion, Switzerland
+SIS*FASS*Sishen Airport*Dingleton, South Africa
+SIT*PASI*Sitka Rocky Gutierrez Airport*Sitka, Alaska, United States
+SIU*MNSI*Siuna Airport*Siuna, Nicaragua
+SIV*KSIV*Sullivan County Airport*Sullivan, Indiana, United States
+SIW*WIMP*Sibisa Airport*Parapat, Indonesia
+SIX*YSGT*Singleton Airport*Singleton, New South Wales, Australia
+SIY*KSIY*Siskiyou County Airport*Montague / Yreka, California, United States
+SIZ*AYZN*Sissano Airport*Sissano, Papua New Guinea
+SJA*SPJN*San Juan de Marcona Airport*San Juan de Marcona, Peru
+SJB*SLJO*San Joaquín Airport*San Joaquín, Bolivia
+SJC*KSJC*San Jose International Airport*San Jose, California, United States
+SJD*MMSD*Los Cabos International Airport*San José del Cabo, Baja California Sur, Mexico
+SJE*SKSJ*Jorge Enrique González Torres Airport*San José del Guaviare, Colombia
+SJF**Cruz Bay Seaplane Base*Saint John, United States Virgin Islands
+SJG**San Pedro de Jagua Airport*San Pedro de Jagua, Colombia
+SJH**San Juan del Cesar Airport*San Juan del Cesar, Colombia
+SJI*RPUH*San Jose Airport*San Jose, Philippines
+SJJ*LQSA*Sarajevo International Airport*Sarajevo, Bosnia and Herzegovina
+SJK*SBSJ*Professor Urbano Ernesto Stumpf Airport*São José dos Campos, São Paulo, Brazil
+SJL*SBUA*São Gabriel da Cachoeira Airport*São Gabriel da Cachoeira, Amazonas, Brazil
+SJN*KSJN*St. Johns Industrial Air Park*St. Johns, Arizona, United States
+SJO*MROC*Juan Santamaría International Airport*San José, Costa Rica
+SJP*SBSR*Prof. Eribelto Manoel Reino State Airport*São José do Rio Preto, São Paulo, Brazil
+SJQ*FLSS*Sesheke Airport*Sesheke, Zambia
+SJR**San Juan de Urabá Airport*San Juan de Urabá, Colombia
+SJS*SLJE*San José de Chiquitos Airport*San José de Chiquitos, Bolivia
+SJT*KSJT*San Angelo Regional Airport (Mathis Field)*San Angelo, Texas, United States
+SJU*TJSJ*Luis Muñoz Marín International Airport*San Juan, Puerto Rico
+SJV*SLJV*San Javier Airport*San Javier, Bolivia
+SJW*ZBSJ*Shijiazhuang Zhengding International Airport*Shijiazhuang, Hebei, China
+SJX**Sarteneja Airport*Sarteneja, Belize
+SJY*EFSI*Seinäjoki Airport*Seinäjoki, Finland
+SJZ*LPSJ*São Jorge Airport*São Jorge Island, Azores, Portugal
+SKA*KSKA*Fairchild Air Force Base*Spokane, Washington, United States
+SKB*TKPK*Robert L. Bradshaw International Airport*Saint Kitts, Saint Kitts and Nevis
+SKC*AYSU*Suki Airport*Suki, Papua New Guinea
+SKD*UTSS*Samarkand International Airport*Samarkand, Uzbekistan
+SKE*ENSN*Skien Airport, Geiteryggen*Skien, Norway
+SKF*KSKF*Kelly Field Annex / Lackland Air Force Base*San Antonio, Texas, United States
+SKG*LGTS*Thessaloniki Airport "Macedonia"*Thessaloniki, Greece
+SKH*VNSK*Surkhet Airport*Surkhet, Nepal
+SKI*DABP*Skikda Airport*Skikda, Algeria
+SKK*PFSH*Shaktoolik Airport (FAA: 2C7)*Shaktoolik, Alaska, United States
+SKL*EGEI*Broadford Airfield*Isle of Skye, Scotland, United Kingdom
+SKM**Skeldon Airport*Skeldon, Guyana
+SKN*ENSK*Stokmarknes Airport, Skagen*Stokmarknes, Norway
+SKO*DNSO*Sadiq Abubakar III International Airport*Sokoto, Nigeria
+SKP*LWSK*Skopje "Alexander the Great" Airport*Skopje, Macedonia
+SKQ*FXSK*Sekake Airport*Sekake, Lesotho
+SKR*HASK*Shakiso Airport*Shakiso, Ethiopia
+SKS*EKSP*Vojens Airport (Skrydstrup Airport)*Vojens, Denmark
+SKT*OPST*Sialkot International Airport*Sialkot, Pakistan
+SKU*LGSY*Skyros Island National Airport*Skyros, Greece
+SKV*HESC*St. Catherine International Airport*Saint Catherine, Egypt
+SKW*PASW*Skwentna Airport*Skwentna, Alaska, United States
+SKX*UWPS*Saransk Airport*Saransk, Mordovia, Russia
+SKY*KSKY*Griffing Sandusky Airport*Sandusky, Ohio, United States
+SKZ*OPSK*Sukkur Airport*Sukkur, Pakistan
+SLA*SASA*Martín Miguel de Güemes International Airport*Salta, Salta, Argentina
+SLB*KSLB*Storm Lake Municipal Airport*Storm Lake, Iowa, United States
+SLC*KSLC*Salt Lake City International Airport*Salt Lake City, Utah, United States
+SLE*KSLE*McNary Field*Salem, Oregon, United States
+SLF*OESL*Sulayel Airport*As Sulayyil (Sulayel), Saudi Arabia
+SLG*KSLG*Smith Field*Siloam Springs, Arkansas, United States
+SLH*NVSC*Vanua Lava Airport*Sola, Vanua Lava, Vanuatu
+SLI*FLSW*Solwezi Airport*Solwezi, Zambia
+SLJ*YSOL*Solomon Airport*Karijini National Park, Western Australia, Australia
+SLK*KSLK*Adirondack Regional Airport*Saranac Lake, New York, United States
+SLL*OOSA*Salalah International Airport*Salalah, Oman
+SLM*LESA*Salamanca Airport*Salamanca, Castile and León, Spain
+SLN*KSLN*Salina Regional Airport*Salina, Kansas, United States
+SLO*KSLO*Salem–Leckrone Airport*Salem, Illinois, United States
+SLP*MMSP*Ponciano Arriaga International Airport*San Luis Potosí City, San Luis Potosí, Mexico
+SLQ*PASL*Sleetmute Airport*Sleetmute, Alaska, United States
+SLR*KSLR*Sulphur Springs Municipal Airport*Sulphur Springs, Texas, United States
+SLS*LBSS*Silistra Airfield*Silistra, Bulgaria
+SLT*KANK*Harriet Alexander Field (FAA: ANK)*Salida, Colorado, United States
+SLU*TLPC*George F. L. Charles Airport*Castries, Saint Lucia
+SLV*VISM*Shimla Airport*Simla, Himachal Pradesh, India
+SLW*MMIO*Plan de Guadalupe International Airport*Saltillo, Coahuila, Mexico
+SLX*MBSY*Salt Cay Airport*Salt Cay, British Overseas Territory of Turks and Caicos Islands
+SLY*USDD*Salekhard Airport*Salekhard, Yamalo-Nenets Autonomous Okrug, Russia
+SLZ*SBSL*Marechal Cunha Machado International Airport*São Luís, Maranhão, Brazil
+SMA*LPAZ*Santa Maria Airport*Santa Maria Island, Azores, Portugal
+SMB*SCSB*Franco Bianco Airport*Cerro Sombrero, Chile
+SMC**Santa María Airport*Santa María, Colombia
+SMD*KSMD*Smith Field*Fort Wayne, Indiana, United States
+SME*KSME*Lake Cumberland Regional Airport*Somerset, Kentucky, United States
+SMF*KSMF*Sacramento International Airport*Sacramento, California, United States
+SMG*SPMR*Santa María Airport*Santa María del Mar, Peru
+SMH*AYSP*Sapmanga Airport*Sapmanga, Papua New Guinea
+SMI*LGSM*Samos International Airport "Aristarchos of Samos"*Samos, Greece
+SMJ**Sim Airport*Sim, Papua New Guinea
+SMK*PAMK*St. Michael Airport*St. Michael, Alaska, United States
+SML*MYLS*Stella Maris Airport*Stella Maris, Long Island, Bahamas
+SMM*WBKA*Semporna Airport*Semporna, Sabah, Malaysia
+SMN*KSMN*Lemhi County Airport*Salmon, Idaho, United States
+SMO*KSMO*Santa Monica Municipal Airport*Santa Monica, California, United States
+SMP**Stockholm Airport*Stockholm, Papua New Guinea
+SMQ*WAOS*H. Asan Airport*Sampit, Indonesia
+SMR*SKSM*Simón Bolívar International Airport*Santa Marta, Colombia
+SMS*FMMS*Sainte Marie Airport*Île Sainte-Marie, Madagascar
+SMU*PASP*Sheep Mountain Airport*Sheep Mountain, Alaska, United States
+SMV*LSZS*Samedan Airport (Engadin Airport)*St. Moritz, Switzerland
+SMW*GMMA*Smara Airport*Smara, Morocco
+SMX*KSMX*Santa Maria Public Airport (Capt. G. Allan Hancock Field)*Santa Maria, California, United States
+SMY*GOTS*Simenti Airport*Simenti, Senegal
+SMZ*SMST*Stoelmans Eiland Airstrip*Stoelmans Eiland (Stoelmanseiland), Suriname
+SNA*KSNA*John Wayne Airport (Orange County Airport)*Santa Ana, California, United States
+SNB*YSNB*Snake Bay Airport*Milikapiti, Northern Territory, Australia
+SNC*SESA*General Ulpiano Paez Airport*Salinas, Ecuador
+SNE*GVSN*Preguiça Airport*São Nicolau, Cape Verde
+SNF*SVSP*Sub Teniente Nestor Arias Airport*San Felipe, Venezuela
+SNG*SLSI*Capitán Av. Juan Cochamanidis Airport*San Ignacio de Velasco, Bolivia
+SNH*YSPE*Stanthorpe Airport*Stanthorpe, Queensland, Australia
+SNI*GLGE*Greenville/Sinoe Airport (R.E. Murray Airport)*Greenville, Liberia
+SNJ*MUSJ*San Julián Air Base*Guane, Cuba
+SNK*KSNK*Winston Field Airport*Snyder, Texas, United States
+SNL*KSNL*Shawnee Regional Airport*Shawnee, Oklahoma, United States
+SNM*SLSM*San Ignacio de Moxos Airport*San Ignacio de Moxos, Bolivia
+SNN*EINN*Shannon Airport*Shannon, Ireland
+SNO*VTUI*Sakon Nakhon Airport*Sakon Nakhon, Thailand
+SNP*PASN*St. Paul Island Airport*St. Paul Island, Alaska, United States
+SNQ**San Quintín Military Airstrip*San Quintín, Baja California, Mexico
+SNR*LFRZ*Saint-Nazaire Montoir Airport*Saint-Nazaire, Pays de la Loire, France
+SNS*KSNS*Salinas Municipal Airport*Salinas, California, United States
+SNT*SKRU*Las Cruces Airport*Sabana de Torres, Colombia
+SNU*MUSC*Abel Santamaría Airport*Santa Clara, Cuba
+SNV*SVSE*Santa Elena de Uairén Airport*Santa Elena de Uairén, Venezuela
+SNW*VYTD*Thandwe Airport*Thandwe, Myanmar
+SNY*KSNY*Sidney Municipal Airport (Lloyd W. Carr Field)*Sidney, Nebraska, United States
+SNZ*SBSC*Santa Cruz Air Force Base*Rio de Janeiro, Rio de Janeiro, Brazil
+SOB*LHSM*Hévíz–Balaton Airport*Hévíz, Hungary
+SOC*WARQ*Adisumarmo International Airport*Surakarta (Solo), Indonesia
+SOD*SDCO*Bertram Luiz Leupolz–Sorocaba Airport*Sorocaba, São Paulo, Brazil
+SOE*FCOS*Souanké Airport*Souanké, Republic of the Congo
+SOF*LBSF*Sofia Airport*Sofia, Bulgaria
+SOG*ENSG*Sogndal Airport, Haukåsen*Sogndal, Norway
+SOJ*ENSR*Sørkjosen Airport*Sørkjosen, Norway
+SOK*FXSM*Semonkong Airport*Semonkong, Lesotho
+SOL**Solomon State Field Airport (FAA: AK26)*Solomon, Alaska, United States
+SOM*SVST*San Tomé Airport*San Tomé, Venezuela
+SON*NVSS*Santo-Pekoa International Airport*Luganville, Vanuatu
+SOO*ESNY*Söderhamn Airport (Helsinge Airport)*Söderhamn, Sweden
+SOP*KSOP*Moore County Airport*Pinehurst / Southern Pines, North Carolina, United States
+SOQ*WASS*Dominique Edward Osok Airport*Sorong, Indonesia
+SOT*EFSO*Sodankylä Airfield*Sodankylä, Finland
+SOU*EGHI*Southampton Airport*Southampton, England, United Kingdom
+SOV*PASO*Seldovia Airport*Seldovia, Alaska, United States
+SOW*KSOW*Show Low Regional Airport*Show Low, Arizona, United States
+SOX*SKSO*Alberto Lleras Camargo Airport*Sogamoso, Colombia
+SOY*EGER*Stronsay Airport*Stronsay, Scotland, United Kingdom
+SOZ*LFKS*Solenzara Air Base*Sari-Solenzara, Corsica, France
+SPA*KSPA*Spartanburg Downtown Memorial Airport*Spartanburg, South Carolina, United States
+SPB**Charlotte Amalie Harbor Seaplane Base (St. Thomas Seaplane Base) (FAA: VI22)*St. Thomas Island, United States Virgin Islands
+SPC*GCLA*La Palma Airport*La Palma, Canary Islands, Spain
+SPD*VGSD*Saidpur Airport*Saidpur, Bangladesh
+SPE*WBKO*Sepulot Airport*Sapulut, Sabah, Malaysia
+SPF*KSPF*Black Hills Airport (Clyde Ice Field)*Spearfish, South Dakota, United States
+SPG*KSPG*Albert Whitted Airport*St. Petersburg, Florida, United States
+SPH*AYQO*Sopu Airport*Sopu, Papua New Guinea
+SPI*KSPI*Abraham Lincoln Capital Airport*Springfield, Illinois, United States
+SPJ*LGSP*Sparti Airport*Sparti (Sparta), Greece
+SPK**metropolitan area5*Sapporo, Hokkaido, Japan
+SPM*ETAD*Spangdahlem Air Base*Spangdahlem, Rhineland-Palatinate, Germany
+SPN*PGSN*Saipan International Airport (Francisco C. Ada Int'l) (FAA: GSN)*Saipan, Northern Mariana Islands
+SPP*FNME*Menongue Airport*Menongue, Angola
+SPR**John Greif II Airport*San Pedro Town, Belize
+SPS*KSPS*Sheppard Air Force Base / Wichita Falls Municipal Airport*Wichita Falls, Texas, United States
+SPT**Sipitang Airstrip*Sipitang, Sabah, Malaysia
+SPU*LDSP*Split Airport*Split, Croatia
+SPV**Sepik Plains Airport*Sepik Plains, Papua New Guinea
+SPW*KSPW*Spencer Municipal Airport*Spencer, Iowa, United States
+SPX**Sphinx International Airport*Egypt, Egypt
+SPY*DISP*San Pédro Airport*San-Pédro, Ivory Coast
+SPZ*KASG*Springdale Municipal Airport (FAA: ASG)*Springdale, Arkansas, United States
+SQA*KIZA*Santa Ynez Airport (FAA: IZA)*Santa Ynez, California, United States
+SQB**Santa Ana Airport*Piedras, Colombia
+SQC*YSCR*Southern Cross Airport*Southern Cross, Western Australia, Australia
+SQD*ZSSR*Shangrao Sanqingshan Airport*Shangrao, Jiangxi, China
+SQE**San Luis de Palenque Airport*San Luis de Palenque, Colombia
+SQG*WIOS*Sintang Airport (Susilo Airport)*Sintang, Indonesia
+SQI*KSQI*Whiteside County Airport (Jos. H. Bittorf Field)*Sterling / Rock Falls, Illinois, United States
+SQJ**Sanming Shaxian Airport*Sanming, Fujian, China
+SQK**Sidi Barrani Airport*Sidi Barrani, Egypt
+SQL*KSQL*San Carlos Airport*San Carlos, California, United States
+SQM*SWUA*São Miguel do Araguaia Airport*São Miguel do Araguaia, Goiás, Brazil
+SQN*WAPN*Sanana Airport*Sanana Island, Indonesia
+SQO*ESUD*Storuman Airport*Storuman, Sweden
+SQQ*EYSA*Šiauliai International Airport*Šiauliai, Lithuania
+SQR*WAWS*Soroako Airport*Soroako, Indonesia
+SQS**Matthew Spain Airport*San Ignacio, Belize
+SQT**China Strait Airstrip*Samarai, Papua New Guinea
+SQU*SPOA*Saposoa Airport*Saposoa, Peru
+SQV**Sequim Valley Airport (FAA: W28)*Sequim, Washington, United States
+SQW*EKSV*Skive Airport*Skive, Denmark
+SQX*SSOE*Hélio Wasum Airport*São Miguel do Oeste, Santa Catarina, Brazil
+SQY*SSRU*São Lourenço do Sul Airport*São Lourenço do Sul, Rio Grande do Sul, Brazil
+SQZ*EGXP*RAF Scampton*Scampton, England, United Kingdom
+SRA*SSZR*Santa Rosa Airport*Santa Rosa, Rio Grande do Sul, Brazil
+SRB*SLSR*Santa Rosa Airport*Santa Rosa de Yacuma, Bolivia
+SRC*KSRC*Searcy Municipal Airport*Searcy, Arkansas, United States
+SRD*SLRA*San Ramón Airport*San Ramón, Bolivia
+SRE*SLSU*Juana Azurduy de Padilla International Airport*Sucre, Bolivia
+SRF**San Rafael Airport (Hamilton Field)*San Rafael, California, United States
+SRG*WARS*Achmad Yani International Airport*Semarang, Indonesia
+SRH*FTTA*Sarh Airport*Sarh, Chad
+SRI*WALS*Temindung Airport*Samarinda, Indonesia
+SRJ*SLSB*Capitán Germán Quiroga Guardia Airport*San Borja, Bolivia
+SRL**Palo Verde Airport*Santa Rosalía, Baja California Sur, Mexico
+SRM**Sandringham Station Airport*Sandringham Station, Queensland, Australia
+SRN*YSRN*Strahan Airport*Strahan, Tasmania, Australia
+SRO**Santana Ramos Airport*Santana Ramos, Colombia
+SRP*ENSA*Stord Airport, Sørstokken*Stord, Norway
+SRQ*KSRQ*Sarasota–Bradenton International Airport*Sarasota / Bradenton, Florida, United States
+SRR**Dunwich Airport*North Stradbroke Island, Queensland, Australia
+SRS**San Marcos Airport*San Marcos, Colombia
+SRT*HUSO*Soroti Airport*Soroti, Uganda
+SRV**Stony River Airport*Stony River, Alaska, United States
+SRW*KRUQ*Rowan County Airport (FAA: RUQ)*Salisbury, North Carolina, United States
+SRX*HLGD*Gardabya Airport*Sirte, Libya
+SRY*OINZ*Dasht-e Naz Airport*Sari, Iran
+SRZ*SLET*El Trompillo Airport*Santa Cruz de la Sierra, Bolivia
+SSA*SBSV*Deputado Luís Eduardo Magalhães International Airport*Salvador, Bahia, Brazil
+SSB**Christiansted Harbor Seaplane Base (St. Croix Seaplane Base) (FAA: VI32)*Saint Croix, United States Virgin Islands
+SSC*KSSC*Shaw Air Force Base*Sumter, South Carolina, United States
+SSD**San Felipe Airport*San Felipe, Colombia
+SSE*VASL*Solapur Airport*Solapur, Maharashtra, India
+SSF*KSSF*Stinson Municipal Airport*San Antonio, Texas, United States
+SSG*FGSL*Malabo International Airport (Saint Isabel Airport)*Malabo, Equatorial Guinea
+SSH*HESH*Sharm el-Sheikh International Airport*Sharm el-Sheikh, Egypt
+SSI*KSSI*Malcolm McKinnon Airport*Brunswick, Georgia, United States
+SSJ*ENST*Sandnessjøen Airport, Stokka*Sandnessjøen, Norway
+SSK**Sturt Creek Airport*Sturt Creek, Western Australia, Australia
+SSL*SKSL*Santa Rosalía Airport*Santa Rosalía, Colombia
+SSN*RKSM*Seoul Air Base*Seoul, South Korea
+SSO*SNLO*São Lourenço Airport*São Lourenço, Minas Gerais, Brazil
+SSP**Silver Plains Airport*Silver Plains, Queensland, Australia
+SSQ**La Sarre Airport (TC: CSR8)*La Sarre, Quebec, Canada
+SSR*NVSH*Sara Airport*Sara, Vanuatu
+SSS**Siassi Airport*Umboi Island (Siassi), Papua New Guinea
+SST*SAZL*Santa Teresita Airport*Santa Teresita, Buenos Aires, Argentina
+SSV**Siasi Airport*Siasi, Philippines
+SSW**Stuart Island Airpark (FAA: 7WA5)*Stuart Island, Washington, United States
+SSY*FNBC*Mbanza Congo Airport*M'banza-Kongo, Angola
+SSZ*SBST*Santos Air Force Base*Santos, São Paulo, Brazil
+STA*EKVJ*Stauning Vestjylland Airport*Skjern, Denmark
+STB*SVSZ*Miguel Urdaneta Fernández Airport*Santa Bárbara del Zulia, Venezuela
+STC*KSTC*St. Cloud Regional Airport*St. Cloud, Minnesota, United States
+STD*SVSO*Mayor Buenaventura Vivas Airport*Santo Domingo, Táchira, Venezuela
+STE*KSTE*Stevens Point Municipal Airport*Stevens Point, Wisconsin, United States
+STF*YSTI*Stephens Island Airport*Stephens Island, Queensland, Australia
+STG*PAPB*St. George Airport (FAA: PBV)*St. George, Alaska, United States
+STH*YSMR*Strathmore Airport*Strathmore Station, Queensland, Australia
+STI*MDST*Cibao International Airport*Santiago de los Caballeros, Dominican Republic
+STJ*KSTJ*Rosecrans Memorial Airport*St. Joseph, Missouri, United States
+STK*KSTK*Sterling Municipal Airport*Sterling, Colorado, United States
+STL*KSTL*Lambert–St. Louis International Airport*St. Louis, Missouri, United States
+STM*SBSN*Santarém-Maestro Wilson Fonseca Airport*Santarém, Pará, Brazil
+STN*EGSS*London Stansted Airport*London, England, United Kingdom
+STO**metropolitan area6*Stockholm, Sweden
+STP*KSTP*St. Paul Downtown Airport (Holman Field)*St. Paul / Minneapolis, Minnesota, United States
+STQ*KOYM*St. Marys Municipal Airport (FAA: OYM)*St. Marys, Pennsylvania, United States
+STR*EDDS*Stuttgart Airport*Stuttgart, Baden-Württemberg, Germany
+STS*KSTS*Charles M. Schulz–Sonoma County Airport*Santa Rosa, California, United States
+STT*TIST*Cyril E. King Airport*St. Thomas Island, United States Virgin Islands
+STV*VASU*Surat Airport*Surat, Gujarat, India
+STW*URMT*Stavropol Shpakovskoye Airport*Stavropol, Stavropol Krai, Russia
+STX*TISX*Henry E. Rohlsen Airport*Saint Croix, United States Virgin Islands
+STY*SUSO*Nueva Hespérides International Airport*Salto, Uruguay
+STZ*SWST*Santa Terezinha Airport*Santa Terezinha, Mato Grosso, Brazil
+SUA*KSUA*Witham Field*Stuart, Florida, United States
+SUB*WARR*Juanda International Airport*Surabaya, Indonesia
+SUD*KSUD*Stroud Municipal Airport*Stroud, Oklahoma, United States
+SUE*KSUE*Door County Cherryland Airport*Sturgeon Bay, Wisconsin, United States
+SUF*LICA*Lamezia Terme International Airport*Lamezia Terme, Calabria, Italy
+SUG*RPMS*Surigao Airport*Surigao City, Philippines
+SUH*OOSR*Sur Airport*Sur, Oman
+SUI*UGSS*Sukhumi Babushara Airport (Dranda Airport)*Sukhumi, Georgia
+SUJ*LRSM*Satu Mare International Airport*Satu Mare, Romania
+SUK*UEBS*Sakkyryr Airport*Batagay-Alyta (Sakkyryr), Yakutia, Russia
+SUL*OPSU*Sui Airport*Sui, Pakistan
+SUM*KSMS*Sumter Airport (FAA: SMS)*Sumter, South Carolina, United States
+SUN*KSUN*Friedman Memorial Airport*Hailey / Sun Valley, Idaho, United States
+SUO**Sunriver Airport (FAA: S21)*Sunriver, Oregon, United States
+SUP*WART*Trunojoyo Airport*Sumenep, Indonesia
+SUQ*SESC*Sucúa Airport*Sucúa, Ecuador
+SUR**Summer Beaver Airport (TC: CJV7)*Summer Beaver, Ontario, Canada
+SUS*KSUS*Spirit of St. Louis Airport*St. Louis, Missouri, United States
+SUT*HTSU*Sumbawanga Airport*Sumbawanga, Tanzania
+SUU*KSUU*Travis Air Force Base*Fairfield, California, United States
+SUV*NFNA*Nausori International Airport*Suva, Fiji
+SUW*KSUW*Richard I. Bong Airport*Superior, Wisconsin, United States
+SUX*KSUX*Sioux Gateway Airport (Colonel Bud Day Field)*Sioux City, Iowa, United States
+SUY*UENS*Suntar Airport*Suntar, Yakutia, Russia
+SUZ**Suria Airport*Suria, Papua New Guinea
+SVA*PASA*Savoonga Airport*Savoonga, Alaska, United States
+SVB*FMNS*Sambava Airport*Sambava, Madagascar
+SVC*KSVC*Grant County Airport*Silver City, New Mexico, United States
+SVD*TVSA*Argyle International Airport*Saint Vincent, Saint Vincent and the Grenadines
+SVE*KSVE*Susanville Municipal Airport*Susanville, California, United States
+SVF*DBBS*Savé Airport*Savé, Benin
+SVG*ENZV*Stavanger Airport, Sola*Stavanger, Norway
+SVH*KSVH*Statesville Regional Airport*Statesville, North Carolina, United States
+SVI*SKSV*Eduardo Falla Solano Airport*San Vicente del Caguán, Colombia
+SVJ*ENSH*Svolvær Airport, Helle*Svolvær, Norway
+SVK**Silver Creek Airport*Silver Creek, Belize
+SVL*EFSA*Savonlinna Airport*Savonlinna, Finland
+SVM**St Pauls Airport*St Pauls, Queensland, Australia
+SVN*KSVN*Hunter Army Airfield*Savannah, Georgia, United States
+SVO*UUEE*Sheremetyevo International Airport*Moscow, Russia
+SVP*FNKU*Kuito Airport*Kuito, Angola
+SVQ*LEZL*Seville Airport*Seville, Andalusia, Spain
+SVS**Stevens Village Airport*Stevens Village, Alaska, United States
+SVT*FBSV*Savuti Airport*Savuti, Botswana
+SVU*NFNS*Savusavu Airport*Savusavu, Fiji
+SVW*PASV*Sparrevohn LRRS Airport*Sparrevohn, Alaska, United States
+SVX*USSS*Koltsovo International Airport*Yekaterinburg, Sverdlovsk Oblast, Russia
+SVY**Savo Airport*Savo Island, Solomon Islands
+SVZ*SVSA*Juan Vicente Gómez International Airport*San Antonio del Táchira, Venezuela
+SWA*ZGOW*Jieyang Chaoshan International Airport*Shantou / Jieyang / Chaozhou, Guangdong, China
+SWB**Shaw River Airport*Shaw River, Western Australia, Australia
+SWC*YSWL*Stawell Airport*Stawell, Victoria, Australia
+SWD*PAWD*Seward Airport*Seward, Alaska, United States
+SWE**Siwea Airport*Siwea, Papua New Guinea
+SWF*KSWF*Stewart International Airport*Newburgh, New York, United States
+SWG**Satwag Airport*Satwag, Papua New Guinea
+SWH*YSWH*Swan Hill Airport*Swan Hill, Victoria, Australia
+SWJ*NVSX*South West Bay Airport*South West Bay, Vanuatu
+SWL*RPSV*San Vicente Airport*San Vicente, Palawan, Philippines
+SWM**Suia-Missu Airport*Alto Boa Vista, Mato Grosso, Brazil
+SWN*OPSW*Sahiwal Airport*Sahiwal, Pakistan
+SWO*KSWO*Stillwater Regional Airport*Stillwater, Oklahoma, United States
+SWP*FYSM*Swakopmund Airport*Swakopmund, Namibia
+SWQ*WADS*Sultan Muhammad Kaharuddin III Airport (Brangbiji Airport)*Sumbawa Besar, Indonesia
+SWR**Silur Airport*Silur, Papua New Guinea
+SWS*EGFH*Swansea Airport*Swansea, Wales, United Kingdom
+SWT*UNSS*Strezhevoy Airport*Strezhevoy, Tomsk Oblast, Russia
+SWU*RKSW*Suwon Air Base*Suwon, South Korea
+SWV*UHMW*Severo-Evensk Airport*Evensk, Magadan Oblast, Russia
+SWW*KSWW*Avenger Field*Sweetwater, Texas, United States
+SWX*FBSW*Shakawe Airport*Shakawe, Botswana
+SWY*WMBA*Sitiawan Airport*Sitiawan, Perak, Malaysia
+SXA**Sialum Airport*Sialum, Papua New Guinea
+SXB*LFST*Strasbourg Airport*Strasbourg, Alsace, France
+SXE*YWSL*West Sale Airport*Sale, Victoria, Australia
+SXF*EDDB*Berlin Schönefeld Airport*Berlin, Germany
+SXG*FLSN*Senanga Airport*Senanga, Zambia
+SXH**Sehulea Airport*Sehulea, Papua New Guinea
+SXI*OIBS*Sirri Island Airport*Sirri Island, Iran
+SXJ*ZWSS*Shanshan Airport*Shanshan, Xinjiang, China
+SXK*WAPI*Saumlaki Airport (Olilit Airport)*Saumlaki, Indonesia
+SXL*EISG*Sligo Airport*Sligo, Ireland
+SXM*TNCM*Princess Juliana International Airport*Sint Maarten, Kingdom of the Netherlands
+SXN*FBSN*Sua Pan Airport*Sua Pan, Botswana
+SXO*SWFX*São Félix do Araguaia Airport*São Félix do Araguaia, Mato Grosso, Brazil
+SXP**Sheldon Point Airport*Nunam Iqua, Alaska, United States
+SXQ*PASX*Soldotna Airport*Soldotna, Alaska, United States
+SXR*VISR*Sheikh ul Alam International Airport*Srinagar, Jammu and Kashmir, India
+SXS*WBKH*Sahabat Airport*Sahabat, Sabah, Malaysia
+SXT*WMAN*Sungai Tiang Airport*Taman Negara, Pahang, Malaysia
+SXU*HASD*Soddu Airport*Sodo, Ethiopia
+SXV*VOSM*Salem Airport*Salem, Tamil Nadu, India
+SXW**Sauren Airport*Sauren, Papua New Guinea
+SXX*SNFX*São Félix do Xingu Airport*São Félix do Xingu, Pará, Brazil
+SXY**Sidney Municipal Airport (FAA: N23)*Sidney, New York, United States
+SXZ*LTCL*Siirt Airport*Siirt, Turkey
+SYA*PASY*Eareckson Air Station*Shemya, Alaska, United States
+SYB**Seal Bay Seaplane Base*Seal Bay, Alaska, United States
+SYC*SPSY*Shiringayoc Airport*Shiringayoc, Peru
+SYD*YSSY*Sydney Airport (Kingsford Smith Airport)*Sydney, New South Wales, Australia
+SYE*OYSH*Saadah Airport*Sa'dah, Yemen
+SYF**Silva Bay Seaplane Base*Gabriola Island, British Columbia, Canada
+SYG*VNSB*Syangboche Airport*Namche Bazaar, Nepal
+SYI*KSYI*Shelbyville Municipal Airport (Bomar Field)*Shelbyville, Tennessee, United States
+SYJ*OIKY*Sirjan Airport*Sirjan, Iran
+SYK*BIST*Stykkishólmur Airport*Stykkishólmur, Iceland
+SYM*ZPSM*Pu'er Simao Airport*Simao, Yunnan, China
+SYN*KSYN*Stanton Airfield*Stanton, Minnesota, United States
+SYP*MPSA*Ruben Cantu Airport*Santiago de Veraguas, Panama
+SYQ*MRPV*Tobías Bolaños International Airport*San José, Costa Rica
+SYR*KSYR*Syracuse Hancock International Airport*Syracuse, New York, United States
+SYS*UERS*Saskylakh Airport*Saskylakh, Yakutia, Russia
+SYT*LFLN*Saint-Yan Airport (Charolais Bourgogne Sud Airport)*Saint-Yan, Burgundy, France
+SYU*YWBS*Warraber Island Airport*Sue Islet, Queensland, Australia
+SYV*KSYV*Sylvester Airport*Sylvester, Georgia, United States
+SYW*OPSN*Sehwan Sharif Airport*Sehwan Sharif, Pakistan
+SYX*ZJSY*Sanya Phoenix International Airport*Sanya, Hainan, China
+SYY*EGPO*Stornoway Airport*Stornoway, Scotland, United Kingdom
+SYZ*OISS*Shiraz International Airport (Shahid Dastghaib Int'l)*Shiraz, Iran
+SZA*FNSO*Soyo Airport*Soyo, Angola
+SZB*WMSA*Sultan Abdul Aziz Shah Airport*Kuala Lumpur,7 Malaysia
+SZE*HASM*Semera Airport*Semera, Ethiopia
+SZG*LOWS*Salzburg Airport*Salzburg, Austria
+SZI**Zaysan Airport*Zaysan, Kazakhstan
+SZJ*MUSN*Siguanea Airport*Isla de la Juventud, Cuba
+SZK*FASZ*Skukuza Airport*Skukuza, South Africa
+SZL*KSZL*Whiteman Air Force Base*Knob Noster, Missouri, United States
+SZM**Sesriem Airport*Sesriem, Namibia
+SZN*KSZN*Santa Cruz Island Airport*Santa Cruz Island, California, United States
+SZP*KSZP*Santa Paula Airport*Santa Paula, California, United States
+SZR*LBSZ*Stara Zagora Airport*Stara Zagora, Bulgaria
+SZS*NZRC*Ryan's Creek Aerodrome*Stewart Island, New Zealand
+SZU**Ségou Airport*Ségou, Mali
+SZV*ZSSZ*Suzhou Guangfu Airport*Suzhou, Jiangsu, China
+SZW*EDOP*Schwerin-Parchim International Airport*Schwerin, Mecklenburg-Vorpommern, Germany
+SZX*ZGSZ*Shenzhen Bao'an International Airport*Shenzhen, Guangdong, China
+SZY*EPSY*Olsztyn-Mazury Regional Airport*Szczytno / Olsztyn, Poland
+SZZ*EPSC*"Solidarity" Szczecin–Goleniów Airport*Szczecin, Poland

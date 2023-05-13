@@ -1,0 +1,517 @@
+AAA*NTGA*Anaa Airport*Anaa, Tuamotus, French Polynesia
+AAB*YARY*Arrabury Airport*Arrabury, Queensland, Australia
+AAC*HEAR*El Arish International Airport*El Arish, Egypt
+AAD**Adado Airport*Adado (Cadaado), Galguduud, Somalia
+AAE*DABB*Rabah Bitat Airport (Les Salines Airport)*Annaba, Algeria
+AAF*KAAF*Apalachicola Regional Airport*Apalachicola, Florida, United States
+AAG*SSYA*Arapoti Airport*Arapoti, Paraná, Brazil
+AAH*EDKA*Merzbrück Airport*Aachen, North Rhine-Westphalia, Germany
+AAI*SWRA*Arraias Airport*Arraias, Tocantins, Brazil
+AAJ*SMCA*Cayana Airstrip*Awaradam, Suriname
+AAK*NGUK*Aranuka Airport*Aranuka, Kiribati
+AAL*EKYT*Aalborg Airport*Aalborg, Denmark
+AAM*FAMD*Mala Mala Airport*Mala Mala, South Africa
+AAN*OMAL*Al Ain International Airport*Al Ain, United Arab Emirates
+AAO*SVAN*Anaco Airport*Anaco, Venezuela
+AAQ*URKA*Anapa Airport*Anapa, Krasnodar Krai, Russia
+AAR*EKAH*Aarhus Airport*Aarhus, Denmark
+AAS**Apalapsili Airport*Apalapsili, Indonesia
+AAT*ZWAT*Altay Airport*Altay, Xinjiang, China
+AAU*NSAU*Asau Airport*Asau, Savai'i Island, Samoa
+AAV*RPMA*Allah Valley Airport*Surallah, Philippines
+AAX*SBAX*Araxá Airport*Araxá, Minas Gerais, Brazil
+AAY*OYGD*Al Ghaydah Airport*Al Ghaydah, Yemen
+AAZ*MGQZ*Quetzaltenango Airport*Quetzaltenango, Guatemala
+ABA*UNAA*Abakan International Airport*Abakan, Republic of Khakassia, Russia
+ABB*DNAS*Asaba International Airport*Asaba, Nigeria
+ABC*LEAB*Albacete Airport*Albacete, Castilla-La Mancha, Spain
+ABD*OIAA*Abadan International Airport*Abadan, Iran
+ABE*KABE*Lehigh Valley International Airport*Allentown, Pennsylvania, United States
+ABF*NGAB*Abaiang Atoll Airport*Abaiang, Kiribati
+ABG*YABI*Abingdon Airport*Abingdon, Queensland, Australia
+ABH*YAPH*Alpha Airport*Alpha, Queensland, Australia
+ABI*KABI*Abilene Regional Airport*Abilene, Texas, United States
+ABJ*DIAP*Port Bouet Airport (Felix Houphouet Boigny Int'l)*Abidjan, Côte d'Ivoire
+ABK*HAKD*Kabri Dar Airport*Kebri Dahar, Ethiopia
+ABL*PAFM*Ambler Airport (FAA: AFM)*Ambler, Alaska, United States
+ABM*YNPE*Northern Peninsula Airport*Bamaga, Queensland, Australia
+ABN*SMBN*Albina Airstrip*Albina, Suriname
+ABO*DIAO*Aboisso Airport*Aboisso, Côte d'Ivoire
+ABP**Atkamba Airport*Atkamba, Papua New Guinea
+ABQ*KABQ*Albuquerque International Sunport*Albuquerque, New Mexico, United States
+ABR*KABR*Aberdeen Regional Airport*Aberdeen, South Dakota, United States
+ABS*HEBL*Abu Simbel Airport*Abu Simbel, Egypt
+ABT*OEBA*Al-Baha Domestic Airport*Al-Baha, Saudi Arabia
+ABU*WATA*Haliwen Airport*Atambua, Indonesia
+ABV*DNAA*Nnamdi Azikiwe International Airport*Abuja, Nigeria
+ABW**Abau Airport*Abau, Papua New Guinea
+ABX*YMAY*Albury Airport*Albury, New South Wales, Australia
+ABY*KABY*Southwest Georgia Regional Airport*Albany, Georgia, United States
+ABZ*EGPD*Aberdeen Airport*Aberdeen, Scotland, United Kingdom
+ACA*MMAA*General Juan N. Álvarez International Airport*Acapulco, Guerrero, Mexico
+ACB*KACB*Antrim County Airport*Bellaire, Michigan, United States
+ACC*DGAA*Kotoka International Airport*Accra, Ghana
+ACD*SKAD*Alcides Fernández Airport*Acandí, Colombia
+ACE*GCRR*Lanzarote Airport*Lanzarote, Canary Islands, Spain
+ACH*LSZR*St. Gallen–Altenrhein Airport*Altenrhein, Switzerland
+ACI*EGJA*Alderney Airport*Alderney, Channel Islands, United Kingdom
+ACJ*VCCA*Anuradhapura Airport*Anuradhapura, Sri Lanka
+ACK*KACK*Nantucket Memorial Airport*Nantucket, Massachusetts, United States
+ACL**Aguaclara Airport*Aguaclara, Colombia
+ACM**Arica Airport*Arica, Colombia
+ACN*MMCC*Ciudad Acuña International Airport*Ciudad Acuña, Coahuila, Mexico
+ACP*OITM*Sahand Airport*Maragheh, Iran
+ACR*SKAC*Araracuara Airport*Araracuara, Colombia
+ACS*UNKS*Achinsk Airport*Achinsk, Krasnoyarsk Krai, Russia
+ACT*KACT*Waco Regional Airport*Waco, Texas, United States
+ACU**Achutupo Airport*Achutupo, Panama
+ACV*KACV*Arcata-Eureka Airport*Eureka / Arcata, California, United States
+ACX*ZUYI*Xingyi Wanfenglin Airport*Xingyi, Guizhou, China
+ACY*KACY*Atlantic City International Airport*Atlantic City, New Jersey, United States
+ACZ*OIZB*Zabol Airport*Zabol, Iran
+ADC*AYAN*Andakombe Airport*Andakombe, Papua New Guinea
+ADD*HAAB*Bole International Airport*Addis Ababa, Ethiopia
+ADE*OYAA*Aden International Airport*Aden, Yemen
+ADG*KADG*Lenawee County Airport*Adrian, Michigan, United States
+ADH*UEEA*Aldan Airport*Aldan, Yakutia, Russia
+ADI*FYAR*Arandis Airport*Arandis, Namibia
+ADJ*OJAM*Amman Civil Airport (Marka International Airport)*Amman, Jordan
+ADK*PADK*Adak Airport*Adak Island, Alaska, United States
+ADL*YPAD*Adelaide Airport*Adelaide, South Australia, Australia
+ADM*KADM*Ardmore Municipal Airport*Ardmore, Oklahoma, United States
+ADN*SKAN*Andes Airport*Andes, Colombia
+ADO*YAMK*Andamooka Airport*Andamooka, South Australia, Australia
+ADP*VCCG*Ampara Airport*Ampara, Sri Lanka
+ADQ*PADQ*Kodiak Airport*Kodiak, Alaska, United States
+ADR*KPHH*Robert F. Swinnie Airport (FAA: PHH)*Andrews, South Carolina, United States
+ADS*KADS*Addison Airport*Dallas, Texas, United States
+ADT*KADH*Ada Municipal Airport (FAA: ADH)*Ada, Oklahoma, United States
+ADU*OITL*Ardabil Airport*Ardabil, Iran
+ADV**Ed Daein Airport*Ed Daein, Sudan
+ADW*KADW*Andrews Field (Andrews Air Force Base)*Camp Springs, Maryland, United States
+ADX*EGQL*RAF Leuchars*St Andrews, Scotland, United Kingdom
+ADY*FAAL*Alldays Airport*Alldays, South Africa
+ADZ*SKSP*Gustavo Rojas Pinilla International Airport*San Andres Island, Colombia
+AEA*NGTB*Abemama Atoll Airport*Abemama Atoll, Kiribati
+AEB*ZGBS*Baise Bama Airport*Baise, Guangxi, China
+AEE**Adareil Airport*Adareil, South Sudan
+AEG*WIME*Aek Godang Airport*Padang Sidempuan, Indonesia
+AEH*FTTC*Abéché Airport*Abéché, Chad
+AEK*AYAX*Aseki Airport*Aseki, Papua New Guinea
+AEL*KAEL*Albert Lea Municipal Airport*Albert Lea, Minnesota, United States
+AEM*UHTG*Amgu Airport*Amgu, Primorsky Krai, Russia
+AEO*GQNA*Aioun el Atrouss Airport*Aioun el Atrouss, Mauritania
+AEP*SABE*Jorge Newbery Airpark*Buenos Aires, Argentina
+AER*URSS*Sochi International Airport*Sochi, Krasnodar Krai, Russia
+AES*ENAL*Ålesund Airport, Vigra*Ålesund, Norway
+AET*PFAL*Allakaket Airport (FAA: 6A8)*Allakaket, Alaska, United States
+AEU*OIBA*Abu Musa Airport*Abu Musa Island, Iran
+AEX*KAEX*Alexandria International Airport*Alexandria, Louisiana, United States
+AEY*BIAR*Akureyri Airport*Akureyri, Iceland
+AFA*SAMR*San Rafael Airport*San Rafael, Mendoza, Argentina
+AFD*FAPA*Port Alfred Airport*Port Alfred, South Africa
+AFF*KAFF*United States Air Force Academy Airfield*Colorado Springs, Colorado, United States
+AFI*SKAM*Amalfi Airport*Amalfi, Colombia
+AFK**Kondavattavan Tank Seaplane Base*Ampara, Sri Lanka
+AFL*SBAT*Alta Floresta Airport*Alta Floresta, Mato Grosso, Brazil
+AFN*KAFN*Jaffrey Airport–Silver Ranch*Jaffrey, New Hampshire, United States
+AFO*KAFO*Afton Municipal Airport*Afton, Wyoming, United States
+AFR*AYAF*Afore Airport*Afore, Papua New Guinea
+AFS*UTSN*Zarafshan Airport*Zarafshan, Uzbekistan
+AFT*AGAF*Afutara Airport*Afutara, Malaita, Solomon Islands
+AFW*KAFW*Fort Worth Alliance Airport*Fort Worth, Texas, United States
+AFY*LTAH*Afyon Airport*Afyon, Turkey
+AFZ*OIMS*Sabzevar Airport*Sabzevar, Iran
+AGA*GMAD*Agadir–Al Massira Airport*Agadir, Morocco
+AGB*EDMA*Augsburg Airport*Augsburg, Bavaria, Germany
+AGC*KAGC*Allegheny County Airport*Pittsburgh, Pennsylvania, United States
+AGD*WASG*Anggi Airport*Anggi, Indonesia
+AGE*EDWG*Wangerooge Airport*Wangerooge, Lower Saxony, Germany
+AGF*LFBA*Agen La Garenne Airport*Agen, Aquitaine, France
+AGG**Angoram Airport*Angoram, Papua New Guinea
+AGH*ESTA*Ängelholm–Helsingborg Airport (former ICAO: ESDB)*Ängelholm, Sweden
+AGI*SMWA*Wageningen Airstrip*Wageningen, Suriname
+AGJ*RORA*Aguni Airport*Aguni, Okinawa, Japan
+AGK**Kagua Airport*Kagua, Papua New Guinea
+AGL*AYWG*Wanigela Airport*Wanigela, Papua New Guinea
+AGN*PAGN*Angoon Seaplane Base*Angoon, Alaska, United States
+AGO*KAGO*Magnolia Municipal Airport*Magnolia, Arkansas, United States
+AGP*LEMG*Málaga Airport*Málaga, Andalusia, Spain
+AGQ*LGAG*Agrinion Airport*Agrinion, Greece
+AGR*VIAG*Agra Airport*Agra, Uttar Pradesh, India
+AGS*KAGS*Augusta Regional Airport at Bush Field*Augusta, Georgia, United States
+AGT*SGES*Guaraní International Airport*Ciudad del Este, Paraguay
+AGU*MMAS*Lic. Jesús Terán Peredo International Airport*Aguascalientes, Aguascalientes, Mexico
+AGV*SVAC*Oswaldo Guevara Mujica Airport*Acarigua, Venezuela
+AGW**Agnew Airport*Agnew, Queensland, Australia
+AGX*VOAT*Agatti Aerodrome*Agatti Island, Lakshadweep, India
+AGZ*FAAG*Aggeneys Airport*Aggeneys, South Africa
+AHB*OEAB*Abha Regional Airport*Abha, Saudi Arabia
+AHC*KAHC*Amedee Army Airfield*Herlong, California, United States
+AHD**Ardmore Downtown Executive Airport (FAA: 1F0)*Ardmore, Oklahoma, United States
+AHE*NTHE*Ahe Airport*Ahe, Tuamotus, French Polynesia
+AHF**Arapahoe Municipal Airport (FAA: 37V)*Arapahoe, Nebraska, United States
+AHH*KAHH*Amery Municipal Airport*Amery, Wisconsin, United States
+AHI*WAPA*Amahai Airport*Amahai, Indonesia
+AHJ*ZUHY*Hongyuan Airport*Hongyuan, Sichuan, China
+AHL*SYAH*Aishalton Airport*Aishalton, Guyana
+AHM**Ashland Municipal Airport (FAA: S03)*Ashland, Oregon, United States
+AHN*KAHN*Athens Ben Epps Airport*Athens, Georgia, United States
+AHO*LIEA*Alghero-Fertilia Airport*Alghero, Sardinia, Italy
+AHS*MHAH*Ahuas Airport*Ahuas, Honduras
+AHU*GMTA*Cherif Al Idrissi Airport*Al Hoceima, Morocco
+AHW**Saih Rawl Airport*Saih Rawl, Oman
+AHY**Ambatolahy Airport*Ambatolahy, Madagascar
+AHZ*LFHU*Alpe d'Huez Airport*Alpe d'Huez, Rhône-Alpes, France
+AIA*KAIA*Alliance Municipal Airport*Alliance, Nebraska, United States
+AIC**Ailinglaplap Airok Airport*Airok, Ailinglaplap Atoll, Marshall Islands
+AID*KAID*Anderson Municipal Airport (Darlington Field)*Anderson, Indiana, United States
+AIE*AYAO*Aiome Airport*Aiome, Papua New Guinea
+AIF*SNAX*Assis Airport (former ICAO: SBAS)*Assis, São Paulo, Brazil
+AIG*FEFY*Yalinga Airport*Yalinga, Central African Republic
+AIH*AYAK*Aiambak Airport*Aiambak, Papua New Guinea
+AII*HDAS*Ali-Sabieh Airport*Ali Sabieh, Djibouti
+AIK*KAIK*Aiken Municipal Airport*Aiken, South Carolina, United States
+AIL**Ailigandí Airport*Ailigandí, Panama
+AIM**Ailuk Airport*Ailuk Atoll, Marshall Islands
+AIN*PAWI*Wainwright Airport (FAA: AWI)*Fort Wainwright, Alaska, United States
+AIO*KAIO*Atlantic Municipal Airport*Atlantic, Iowa, United States
+AIR*SSOU*Aripuanã Airport*Aripuanã, Mato Grosso, Brazil
+AIS*NGTR*Arorae Island Airport*Arorae Island, Kiribati
+AIT*NCAI*Aitutaki Airport*Aitutaki, Cook Islands
+AIU*NCAT*Enua Airport*Atiu Island, Cook Islands
+AIV*KAIV*George Downer Airport*Aliceville, Alabama, United States
+AIW**Ai-Ais Airport*Ai-Ais, Namibia
+AIY*KAIY*Atlantic City Municipal Airport (Bader Field) (closed 2006)*Atlantic City, New Jersey, United States
+AIZ*KAIZ*Lee C. Fine Memorial Airport*Lake Ozark, Missouri, United States
+AJA*LFKJ*Ajaccio Napoleon Bonaparte Airport*Ajaccio, Corsica, France
+AJF*OESK*Al-Jawf Domestic Airport*Sakakah, Al Jawf, Saudi Arabia
+AJJ*GQNJ*Akjoujt Airport*Akjoujt, Mauritania
+AJK*OIHR*Arak Airport*Arak, Iran
+AJL*VELP*Lengpui Airport*Aizawl, Mizoram, India
+AJN*FMCV*Ouani Airport*Anjouan, Comoros
+AJR*ESNX*Arvidsjaur Airport*Arvidsjaur, Sweden
+AJS**Punta Abreojos Airstrip*Punta Abreojos, Baja California Sur, Mexico
+AJU*SBAR*Santa Maria Airport*Aracaju, Sergipe, Brazil
+AJY*DRZA*Mano Dayak International Airport*Agadez, Niger
+AKA*ZLAK*Ankang Wulipu Airport*Ankang, Shaanxi, China
+AKB*PAAK*Atka Airport (FAA: AKA)*Atka, Alaska, United States
+AKC*KAKR*Akron Fulton International Airport (FAA: AKR)*Akron, Ohio, United States
+AKD*VAAK*Akola Airport*Akola, Maharashtra, India
+AKE*FOGA*Akieni Airport*Akiéni, Gabon
+AKF*HLKF*Kufra Airport*Kufra, Libya
+AKG*AYGU*Anguganak Airport*Anguganak, Papua New Guinea
+AKH*OEPS*Prince Sultan Air Base*Al-Kharj, Saudi Arabia
+AKI*PFAK*Akiak Airport*Akiak, Alaska, United States
+AKJ*RJEC*Asahikawa Airport*Asahikawa, Hokkaido, Japan
+AKK*PAKH*Akhiok Airport*Akhiok, Alaska, United States
+AKL*NZAA*Auckland Airport*Auckland, New Zealand
+AKM**Zakouma Airport*Zakouma National Park, Chad
+AKN*PAKN*King Salmon Airport*King Salmon, Alaska, United States
+AKO*KAKO*Colorado Plains Regional Airport*Akron, Colorado, United States
+AKP*PAKP*Anaktuvuk Pass Airport*Anaktuvuk Pass, Alaska, United States
+AKQ*WIAG*Gunung Batin Airport*Astraksetra, Indonesia
+AKR*DNAK*Akure Airport*Akure, Nigeria
+AKS*AGGA*Auki Gwaunaru'u Airport*Auki, Malaita, Solomon Islands
+AKT*LCRA*RAF Akrotiri*Akrotiri, Cyprus
+AKU*ZWAK*Aksu Airport*Aksu, Xinjiang, China
+AKV*CYKO*Akulivik Airport*Akulivik, Quebec, Canada
+AKW*OIAG*Aghajari Airport*Aghajari, Iran
+AKX*UATT*Aktobe Airport*Aktobe, Kazakhstan
+AKY*VYSW*Sittwe Airport*Sittwe, Myanmar
+ALA*UAAA*Almaty International Airport*Almaty, Kazakhstan
+ALB*KALB*Albany International Airport*Albany, New York, United States
+ALC*LEAL*Alicante–Elche Airport*Alicante, Valencia, Spain
+ALD*SPAR*Alerta Airport*Alerta, Peru
+ALE**Alpine–Casparis Municipal Airport (FAA: E38)*Alpine, Texas, United States
+ALF*ENAT*Alta Airport*Alta, Norway
+ALG*DAAG*Houari Boumediene Airport*Algiers, Algeria
+ALH*YABA*Albany Airport*Albany, Western Australia, Australia
+ALI*KALI*Alice International Airport*Alice, Texas, United States
+ALJ*FAAB*Alexander Bay Airport*Alexander Bay, South Africa
+ALK**Asella Airport*Asella, Ethiopia
+ALL*LIMG*Albenga Airport*Albenga, Liguria, Italy
+ALM*KALM*Alamogordo–White Sands Regional Airport*Alamogordo, New Mexico, United States
+ALN*KALN*St. Louis Regional Airport*Alton, Illinois, United States
+ALO*KALO*Waterloo Regional Airport*Waterloo, Iowa, United States
+ALP*OSAP*Aleppo International Airport*Aleppo, Syria
+ALQ*SSLT*Alegrete Airport*Alegrete, Rio Grande do Sul, Brazil
+ALR*NZLX*Alexandra Aerodrome*Alexandra, New Zealand
+ALS*KALS*San Luis Valley Regional Airport*Alamosa, Colorado, United States
+ALT*SDWQ*Alenquer Airport*Alenquer, Pará, Brazil
+ALU*HCMA*Alula Airport*Alula, Somalia
+ALW*KALW*Walla Walla Regional Airport*Walla Walla, Washington, United States
+ALX*KALX*Thomas C. Russell Field*Alexander City, Alabama, United States
+ALY*HEAX*El Nouzha Airport*Alexandria, Egypt
+ALZ**Alitak Seaplane Base*Lazy Bay, Alaska, United States
+AMA*KAMA*Rick Husband Amarillo International Airport*Amarillo, Texas, United States
+AMB*FMNE*Ambilobe Airport*Ambilobe, Madagascar
+AMC*FTTN*Am Timan Airport*Am Timan, Chad
+AMD*VAAH*Sardar Vallabhbhai Patel International Airport*Ahmedabad, Gujarat, India
+AME**Alto Molocue Airport*Alto Molocue, Mozambique
+AMF*AYAA*Ama Airport*Ama, Papua New Guinea
+AMG**Amboin Airport*Amboin, Papua New Guinea
+AMH*HAAM*Arba Minch Airport*Arba Minch, Ethiopia
+AMI*WADA*Selaparang Airport (closed 2011)*Mataram, Indonesia
+AMJ*SNAR*Almenara Airport*Almenara, Minas Gerais, Brazil
+AMK**Animas Air Park (FAA: 00C)*Durango, Colorado, United States
+AML**Puerto Armuelles Airport*Puerto Armuelles, Panama
+AMM*OJAI*Queen Alia International Airport*Amman, Jordan
+AMN*KAMN*Gratiot Community Airport*Alma, Michigan, United States
+AMO*FTTU*Mao Airport*Mao, Chad
+AMP*FMSY*Ampanihy Airport*Ampanihy, Madagascar
+AMQ*WAPP*Pattimura Airport*Ambon, Indonesia
+AMS*EHAM*Amsterdam Airport Schiphol*Amsterdam, Netherlands
+AMT*YAMT*Amata Airport*Amata, South Australia, Australia
+AMU*AYAM*Amanab Airport*Amanab, Papua New Guinea
+AMV*ULDD*Amderma Airport*Amderma, Nenets Autonomous Okrug, Russia
+AMW*KAMW*Ames Municipal Airport*Ames, Iowa, United States
+AMX**Ammaroo Airport*Ammaroo, Northern Territory, Australia
+AMY**Ambatomainty Airport*Ambatomainty, Madagascar
+AMZ*NZAR*Ardmore Airport*Ardmore, New Zealand
+ANB*KANB*Anniston Regional Airport*Anniston, Alabama, United States
+ANC*PANC*Ted Stevens Anchorage International Airport*Anchorage, Alaska, United States
+AND*KAND*Anderson Regional Airport*Anderson, South Carolina, United States
+ANE*LFJR*Angers – Loire Airport*Angers, Pays de la Loire, France
+ANF*SCFA*Cerro Moreno International Airport*Antofagasta, Chile
+ANG*LFBU*Angoulême – Cognac International Airport*Angoulême, Poitou-Charentes, France
+ANI*PANI*Aniak Airport*Aniak, Alaska, United States
+ANJ*FCBZ*Zanaga Airport*Zanaga, Republic of the Congo
+ANK*LTAD*Etimesgut Air Base*Ankara, Turkey
+ANL**Andulo Airport*Andulo, Angola
+ANM*FMNH*Antsirabato Airport*Antalaha, Madagascar
+ANN*PANT*Annette Island Airport*Annette Island, Alaska, United States
+ANO*FQAG*Angoche Airport*Angoche, Mozambique
+ANP*KANP*Lee Airport*Annapolis, Maryland, United States
+ANQ*KANQ*Tri-State Steuben County Airport*Angola, Indiana, United States
+ANR*EBAW*Antwerp International Airport*Antwerp, Belgium
+ANS*SPHY*Andahuaylas Airport*Andahuaylas, Peru
+ANU*TAPA*V. C. Bird International Airport*Antigua, Antigua and Barbuda
+ANV*PANV*Anvik Airport*Anvik, Alaska, United States
+ANW*KANW*Ainsworth Regional Airport*Ainsworth, Nebraska, United States
+ANX*ENAN*Andøya Airport, Andenes*Andenes, Norway
+ANY*KANY*Anthony Municipal Airport*Anthony, Kansas, United States
+ANZ**Angus Downs Airport*Angus Downs, Northern Territory, Australia
+AOA**Aroa Airport*Aroa, Papua New Guinea
+AOB**Annanberg Airport*Annanberg, Papua New Guinea
+AOC*EDAC*Leipzig–Altenburg Airport*Altenburg, Thuringia, Germany
+AOD**Abou-Deïa Airport*Abou-Deïa, Chad
+AOG*ZYAS*Anshan Teng'ao Airport*Anshan, Liaoning, China
+AOH*KAOH*Lima Allen County Airport*Lima, Ohio, United States
+AOI*LIPY*Ancona Falconara Airport*Ancona, Marche, Italy
+AOJ*RJSA*Aomori Airport*Aomori, Honshu, Japan
+AOK*LGKP*Karpathos Island National Airport*Karpathos, Greece
+AOL*SARL*Paso de los Libres Airport*Paso de los Libres, Corrientes, Argentina
+AOM**Adam Airport*Adam, Oman
+AON**Arona Airport*Arona, Papua New Guinea
+AOO*KAOO*Altoona–Blair County Airport*Altoona, Pennsylvania, United States
+AOP**Alférez FAP Alfredo Vladimir Sara Bauer Airport*Andoas, Peru
+AOR*WMKA*Sultan Abdul Halim Airport*Alor Setar, Kedah, Malaysia
+AOS**Amook Bay Seaplane Base (FAA: AK81)*Amook Bay, Alaska, United States
+AOT*LIMW*Aosta Valley Airport*Aosta, Aosta Valley, Italy
+AOU*VLAP*Attapeu International Airport*Attapeu, Laos
+APA*KAPA*Centennial Airport*Denver, Colorado, United States
+APB*SLAP*Apolo Airport*Apolo, Bolivia
+APC*KAPC*Napa County Airport*Napa, California, United States
+APF*KAPF*Naples Municipal Airport*Naples, Florida, United States
+APG*KAPG*Phillips Army Airfield*Aberdeen Proving Ground, Maryland, United States
+APH*KAPH*A.P. Hill Army Airfield*Fort A.P. Hill, Virginia, United States
+API*SKAP*Captain Luis F. Gómez Niño Air Base*Apiay, Colombia
+APK*NTGD*Apataki Airport*Apataki, Tuamotus, French Polynesia
+APL*FQNP*Nampula Airport*Nampula, Mozambique
+APN*KAPN*Alpena County Regional Airport*Alpena, Michigan, United States
+APO*SKLC*Antonio Roldán Betancourt Airport*Apartadó, Colombia
+APP**Asapa Airport*Asapa, Papua New Guinea
+APQ*SNAL*Arapiraca Airport*Arapiraca, Alagoas, Brazil
+APR*AYPE*April River Airport*April River, Papua New Guinea
+APS*SWNS*Anápolis Airport*Anápolis, Goiás, Brazil
+APT*KAPT*Marion County Airport (Brown Field)*Jasper, Tennessee, United States
+APU*SSAP*Apucarana Airport*Apucarana, Paraná, Brazil
+APV*KAPV*Apple Valley Airport*Apple Valley, California, United States
+APW*NSFA*Faleolo International Airport*Apia, Upolu Island, Samoa
+APX*SSOG*Arapongas Airport*Arapongas, Paraná, Brazil
+APY*SNAI*Alto Parnaíba Airport*Alto Parnaíba, Maranhão, Brazil
+APZ*SAHZ*Zapala Airport*Zapala, Neuquén, Argentina
+AQA*SBAQ*Araraquara Airport*Araraquara, São Paulo, Brazil
+AQB*MGQC*Quiché Airport*Quiché, Guatemala
+AQG*ZSAQ*Anqing Tianzhushan Airport*Anqing, Anhui, China
+AQI*OEPA*Al Qaisumah/Hafr Al Batin Airport*Qaisumah / Hafar Al-Batin, Saudi Arabia
+AQJ*OJAQ*King Hussein International Airport*Aqaba, Jordan
+AQM**Ariquemes Airport*Ariquemes, Rondônia, Brazil
+AQP*SPQU*Rodríguez Ballón International Airport*Arequipa, Peru
+AQS**Saqani Airport*Saqani, Fiji
+AQY**Girdwood Airport*Girdwood, Alaska, United States
+ARA*KARA*Acadiana Regional Airport*New Iberia, Louisiana, United States
+ARB*KARB*Ann Arbor Municipal Airport*Ann Arbor, Michigan, United States
+ARC*PARC*Arctic Village Airport*Arctic Village, Alaska, United States
+ARD*WATM*Alor Island Airport*Alor Island, Indonesia
+ARE*TJAB*Antonio (Nery) Juarbe Pol Airport (FAA: ABO)*Arecibo, Puerto Rico, United States
+ARF**Acaricuara Airport*Acaricuara, Colombia
+ARG*KARG*Walnut Ridge Regional Airport*Walnut Ridge, Arkansas, United States
+ARH*ULAA*Talagi Airport*Arkhangelsk, Arkhangelsk Oblast, Russia
+ARI*SCAR*Chacalluta International Airport*Arica, Chile
+ARJ*WAJA*Arso Airport*Arso, Indonesia
+ARK*HTAR*Arusha Airport*Arusha, Tanzania
+ARL*DFER*Arly Airport*Arly, Burkina Faso
+ARM*YARM*Armidale Airport*Armidale, New South Wales, Australia
+ARN*ESSA*Stockholm Arlanda Airport*Stockholm, Sweden
+ARO**Arboletes Airport*Arboletes, Colombia
+ARP**Aragip Airport*Aragip, Papua New Guinea
+ARQ*SKAT*El Troncal Airport*Arauquita, Colombia
+ARR*SAVR*Alto Río Senguer Airport*Alto Río Senguer, Chubut, Argentina
+ARS*SWEC*Aragarças Airport*Aragarças, Goiás, Brazil
+ART*KART*Watertown International Airport*Watertown, New York, United States
+ARU*SBAU*Araçatuba Airport*Araçatuba, São Paulo, Brazil
+ARV*KARV*Lakeland Airport (Noble F. Lee Memorial Field)*Minocqua / Woodruff, Wisconsin, United States
+ARW*LRAR*Arad International Airport*Arad, Romania
+ARY*YARA*Ararat Airport*Ararat, Victoria, Australia
+ARZ*FNZE*N'zeto Airport*N'zeto, Angola
+ASA*HHSB*Assab International Airport*Assab, Eritrea
+ASB*UTAA*Ashgabat International Airport*Ashgabat, Turkmenistan
+ASC*SLAS*Ascención de Guarayos Airport*Ascención de Guarayos, Bolivia
+ASD*MYAF*Andros Town International Airport*Andros Town, Andros Island, Bahamas
+ASE*KASE*Aspen–Pitkin County Airport (Sardy Field)*Aspen, Colorado, United States
+ASF*URWA*Narimanovo Airport*Astrakhan, Astrakhan Oblast, Russia
+ASG*NZAS*Ashburton Aerodrome*Ashburton, New Zealand
+ASH*KASH*Nashua Airport (Boire Field)*Nashua, New Hampshire, United States
+ASI*FHAW*RAF Ascension Island (Wideawake Field)*Ascension Island, British Overseas Territoryof Saint Helena, Ascension and Tristan da Cunha
+ASJ*RJKA*Amami Airport*Amami, Satsunan Islands, Japan
+ASK*DIYO*Yamoussoukro Airport*Yamoussoukro, Côte d'Ivoire
+ASL*KASL*Harrison County Airport*Marshall, Texas, United States
+ASM*HHAS*Asmara International Airport*Asmara, Eritrea
+ASN*KASN*Talladega Municipal Airport*Talladega, Alabama, United States
+ASO*HASO*Asosa Airport*Asosa, Ethiopia
+ASP*YBAS*Alice Springs Airport*Alice Springs, Northern Territory, Australia
+ASQ**Austin Airport (FAA: 9U3)*Austin, Nevada, United States
+ASR*LTAU*Erkilet International Airport*Kayseri, Turkey
+AST*KAST*Astoria Regional Airport*Astoria, Oregon, United States
+ASU*SGAS*Silvio Pettirossi International Airport*Asunción, Paraguay
+ASV*HKAM*Amboseli Airport*Amboseli, Kenya
+ASW*HESN*Aswan International Airport*Aswan, Egypt
+ASX*KASX*John F. Kennedy Memorial Airport*Ashland, Wisconsin, United States
+ASY*KASY*Ashley Municipal Airport*Ashley, North Dakota, United States
+ASZ**Asirim Airport*Asirim, Papua New Guinea
+ATA*SPHZ*Comandante FAP Germán Arias Graziani Airport*Huaraz, Peru
+ATB*HSAT*Atbara Airport*Atbara, Sudan
+ATC*MYCA*Arthur's Town Airport*Arthur's Town, Cat Island, Bahamas
+ATD*AGAT*Uru Harbour Airport*Atoifi, Malaita, Solomon Islands
+ATE**Antlers Municipal Airport (FAA: 80F)*Antlers, Oklahoma, United States
+ATF*SEAM*Chachoan Airport*Ambato, Ecuador
+ATG**PAF Base Minhas*Attock, Pakistan
+ATH*LGAV*Athens International Airport (Eleftherios Venizelos Airport)*Athens, Greece
+ATI*SUAG*Artigas International Airport*Artigas, Uruguay
+ATJ*FMME*Antsirabe Airport*Antsirabe, Madagascar
+ATK*PATQ*Atqasuk Edward Burnell Sr. Memorial Airport*Atqasuk, Alaska, United States
+ATL*KATL*Hartsfield–Jackson Atlanta International Airport*Atlanta, Georgia, United States
+ATM*SBHT*Altamira Airport*Altamira, Pará, Brazil
+ATN*AYNX*Namatanai Airport*Namatanai, Papua New Guinea
+ATO*KUNI*Ohio University Airport (Snyder Field) (FAA: UNI)*Athens / Albany, Ohio, United States
+ATP*AYAI*Aitape Airstrip*Aitape, Papua New Guinea
+ATQ*VIAR*Sri Guru Ram Dass Jee International Airport*Amritsar, Punjab, India
+ATR*GQPA*Atar International Airport*Atar, Mauritania
+ATS*KATS*Artesia Municipal Airport*Artesia, New Mexico, United States
+ATT**Atmautluak Airport (FAA: 4A2)*Atmautluak, Alaska, United States
+ATU*PAAT*Casco Cove Coast Guard Station*Attu Island, Alaska, United States
+ATV*FTTI*Ati Airport*Ati, Chad
+ATW*KATW*Appleton International Airport*Appleton, Wisconsin, United States
+ATX**Atbasar Airport*Atbasar, Kazakhstan
+ATY*KATY*Watertown Regional Airport*Watertown, South Dakota, United States
+ATZ*HEAT*Assiut Airport*Assiut, Egypt
+AUA*TNCA*Queen Beatrix International Airport*Aruba, Kingdom of the Netherlands
+AUC*SKUC*Santiago Pérez Quiroz Airport*Arauca, Colombia
+AUD*YAGD*Augustus Downs Airport*Augustus Downs Station, Queensland, Australia
+AUE**Abu Rudeis Airport*Abou Redis, Egypt
+AUF*LFLA*Auxerre – Branches Aerodrome*Auxerre, Burgundy, France
+AUG*KAUG*Augusta State Airport*Augusta, Maine, United States
+AUH*OMAA*Abu Dhabi International Airport*Abu Dhabi, United Arab Emirates
+AUI*AYND*Aua Island Airport*Aua Island, Papua New Guinea
+AUJ*AYAT*Ambunti Airport*Ambunti, Papua New Guinea
+AUK**Alakanuk Airport*Alakanuk, Alaska, United States
+AUL**Aur Airport*Aur Atoll, Marshall Islands
+AUM*KAUM*Austin Municipal Airport*Austin, Minnesota, United States
+AUN*KAUN*Auburn Municipal Airport*Auburn, California, United States
+AUO*KAUO*Auburn University Regional Airport*Auburn, Alabama, United States
+AUP*AYAG*Agaun Airport*Agaun, Papua New Guinea
+AUQ*NTMN*Atuona Airport*Atuona, Marquesas Islands, French Polynesia
+AUR*LFLW*Aurillac – Tronquières Airport*Aurillac, Auvergne, France
+AUS*KAUS*Austin–Bergstrom International Airport*Austin, Texas, United States
+AUT*WPAT*Atauro Airport*Atauro Island, East Timor
+AUU*YAUR*Aurukun Airport*Aurukun, Queensland, Australia
+AUV*AYUM*Aumo Airport*Aumo, Papua New Guinea
+AUW*KAUW*Wausau Downtown Airport*Wausau, Wisconsin, United States
+AUX*SWGN*Araguaína Airport*Araguaína, Tocantins, Brazil
+AUY*NVVA*Anatom Airport*Anatom Island, Tafea, Vanuatu
+AUZ*KARR*Aurora Municipal Airport (FAA: ARR)*Aurora, Illinois, United States
+AVA*ZUAS*Anshun Huangguoshu Airport*Anshun, Guizhou, China
+AVB*LIPA*Aviano Air Base*Aviano, Pordenone, Italy
+AVG*YAUV*Auvergne Airport*Auvergne Station, Northern Territory, Australia
+AVI*MUCA*Máximo Gómez Airport*Ciego de Ávila, Cuba
+AVK*ZMAH*Arvaikheer Airport*Arvaikheer, Mongolia
+AVL*KAVL*Asheville Regional Airport*Asheville, North Carolina, United States
+AVN*LFMV*Avignon – Provence Airport*Avignon, Provence-Alpes-Côte d'Azur, France
+AVO*KAVO*Avon Park Executive Airport*Avon Park, Florida, United States
+AVP*KAVP*Wilkes-Barre/Scranton International Airport*Wilkes-Barre / Scranton, Pennsylvania, United States
+AVU*AGGJ*Avu Avu Airport*Avu Avu, Guadalcanal, Solomon Islands
+AVV*YMAV*Avalon Airport*Avalon, Victoria, Australia
+AVW*KAVQ*Marana Regional Airport (FAA: AVQ)*Tucson, Arizona, United States
+AVX*KAVX*Catalina Airport*Avalon, California, United States
+AWA*HALA*Awasa Airport*Awasa, Ethiopia
+AWB*AYAW*Awaba Airport*Awaba, Papua New Guinea
+AWD*NVVB*Aniwa Airport*Aniwa Island, Tafea, Vanuatu
+AWE**Alowe Airport*Alowe, Gabon
+AWK*PWAK*Wake Island Airfield*Wake Island, United States Minor Outlying Islands
+AWM*KAWM*West Memphis Municipal Airport*West Memphis, Arkansas, United States
+AWN**Alton Downs Airport*Alton Downs, South Australia, Australia
+AWP**Austral Downs Airport*Austral Downs, Northern Territory, Australia
+AWR**Awar Airport*Awar, Papua New Guinea
+AWZ*OIAW*Ahvaz International Airport*Ahvaz, Iran
+AXA*TQPF*Clayton J. Lloyd International Airport*The Valley, British Overseas Territory of Anguilla
+AXB**Maxson Airfield (FAA: 89N)*Alexandria Bay, New York, United States
+AXC*YAMC*Aramac Airport*Aramac, Queensland, Australia
+AXD*LGAL*Alexandroupoli Airport (Dimokritos Airport)*Alexandroupoli, Greece
+AXE**Xanxere Airport*Xanxerê, Santa Catarina, Brazil
+AXF**Alxa Left Banner Bayanhot Airport*Alxa Left Banner, Inner Mongolia, China
+AXG*KAXA*Algona Municipal Airport (FAA: AXA)*Algona, Iowa, United States
+AXJ*RJDA*Amakusa Airfield*Amakusa, Amakusa Islands, Japan
+AXK*OYAT*Ataq Airport*Ataq, Yemen
+AXL**Alexandria Airport*Alexandria Station, Northern Territory, Australia
+AXM*SKAR*El Edén International Airport*Armenia, Colombia
+AXN*KAXN*Alexandria Municipal Airport (Chandler Field)*Alexandria, Minnesota, United States
+AXP*MYAP*Spring Point Airport*Spring Point, Acklins Island, Bahamas
+AXR*NTGU*Arutua Airport*Arutua, Tuamotus, French Polynesia
+AXS*KAXS*Altus/Quartz Mountain Regional Airport*Altus, Oklahoma, United States
+AXT*RJSK*Akita Airport*Akita, Honshu, Japan
+AXU*HAAX*Axum Airport*Axum, Ethiopia
+AXV*KAXV*Neil Armstrong Airport*Wapakoneta, Ohio, United States
+AXX*KAXX*Angel Fire Airport*Angel Fire, New Mexico, United States
+AYA**Ayapel Airport*Ayapel, Colombia
+AYC**Ayacucho Airport*Ayacucho, Colombia
+AYD**Alroy Downs Airport*Alroy Downs, Northern Territory, Australia
+AYG*SKYA*Yaguara Airport*Yaguara, Colombia
+AYI**Yari Airport*Yari, Colombia
+AYK*UAUR*Arkalyk Airport*Arkalyk, Kazakhstan
+AYL**Anthony Lagoon Airport*Anthony Lagoon, Northern Territory, Australia
+AYM**Yas Island Seaplane Base*Yas Island, Abu Dhabi, United Arab Emirates
+AYN*ZHAY*Anyang Airport*Anyang, Henan, China
+AYO*SGAY*Juan de Ayolas Airport*Ayolas, Paraguay
+AYP*SPHO*Coronel FAP Alfredo Mendívil Duarte Airport*Ayacucho, Peru
+AYQ*YAYE*Ayers Rock Airport*Yulara, Northern Territory, Australia
+AYR*YAYR*Ayr Airport*Ayr, Queensland, Australia
+AYS*KAYS*Waycross–Ware County Airport*Waycross, Georgia, United States
+AYT*LTAI*Antalya Airport*Antalya, Turkey
+AYU*AYAY*Aiyura Airport*Aiyura, Papua New Guinea
+AYW**Ayawasi Airport*Ayawasi, Indonesia
+AYY**Arugam Bay Seaplane Base*Pottuvil, Sri Lanka
+AZA*KIWA*Phoenix–Mesa Gateway Airport (FAA: IWA)*Phoenix, Arizona, United States
+AZB**Amazon Bay Airport*Amazon Bay, Papua New Guinea
+AZD*OIYY*Shahid Sadooghi Airport*Yazd, Iran
+AZG**Pablo L. Sidar Airport*Apatzingán, Michoacán, Mexico
+AZI*OMAD*Al Bateen Executive Airport*Abu Dhabi, United Arab Emirates
+AZL*SWTU*Fazenda Tucunaré Airport*Sapezal, Mato Grosso, Brazil
+AZN*UTKA*Andizhan Airport*Andizhan, Uzbekistan
+AZO*KAZO*Kalamazoo/Battle Creek International Airport*Kalamazoo, Michigan, United States
+AZP*MMJC*Jorge Jiménez Cantú National Airport*Ciudad López Mateos, State of Mexico, Mexico
+AZR*DAUA*Touat-Cheikh Sidi Mohamed Belkebir Airport*Adrar, Algeria
+AZS*MDCY*Samaná El Catey International Airport*El Catey, Dominican Republic
+AZT**Zapatoca Airport*Zapatoca, Colombia
+AZZ*FNAM*Ambriz Airport*Ambriz, Angola

@@ -1,0 +1,472 @@
+PAA*VYPA*Hpa-An Airport*Hpa-An, Myanmar
+PAB*VEBU*Bilaspur Airport*Bilaspur, Chhattisgarh, India
+PAC*MPMG*Albrook "Marcos A. Gelabert" International Airport*Panama City, Panama
+PAD*EDLP*Paderborn Lippstadt Airport*Paderborn / Lippstadt, North Rhine-Westphalia, Germany
+PAE*KPAE*Paine Field (Snohomish County Airport)*Everett, Washington, United States
+PAF*HUPA*Pakuba Airfield*Pakuba, Uganda
+PAG*RPMP*Pagadian Airport*Pagadian, Philippines
+PAH*KPAH*Barkley Regional Airport*Paducah, Kentucky, United States
+PAJ*OPPC*Parachinar Airport*Parachinar, Pakistan
+PAK*PHPA*Port Allen Airport*Hanapepe, Hawaii, United States
+PAL*SKPQ*Captain Germán Olano Moreno Air Base*Palanquero, Colombia
+PAM*KPAM*Tyndall Air Force Base*Panama City, Florida, United States
+PAN*VTSK*Pattani Airport*Pattani, Thailand
+PAO*KPAO*Palo Alto Airport (Santa Clara County Airport)*Palo Alto, California, United States
+PAP*MTPP*Toussaint L'Ouverture International Airport*Port-au-Prince, Haiti
+PAQ*PAAQ*Palmer Municipal Airport*Palmer, Alaska, United States
+PAR**metropolitan area1*Paris, Île-de-France, France
+PAS*LGPA*Paros National Airport*Paros, Greece
+PAT*VEPT*Lok Nayak Jayaprakash Airport*Patna, Bihar, India
+PAU*VYPK*Pauk Airport*Pauk, Myanmar
+PAV*SBUF*Paulo Afonso Airport*Paulo Afonso, Bahia, Brazil
+PAW**Pambwa Airport*Pambwa, Papua New Guinea
+PAX*MTPX*Port-de-Paix Airport*Port-de-Paix, Haiti
+PAY*WBKP*Pamol Airport*Pamol, Sabah, Malaysia
+PAZ*MMPA*El Tajín National Airport*Poza Rica, Veracruz, Mexico
+PBB*SSPN*Paranaíba Airport*Paranaíba, Mato Grosso do Sul, Brazil
+PBC*MMPB*Hermanos Serdán International Airport*Puebla City, Puebla, Mexico
+PBD*VAPR*Porbandar Airport*Porbandar, Gujarat, India
+PBE*SKPR*Morela Airport (Puerto Berrío Airport)*Puerto Berrío, Colombia
+PBF*KPBF*Grider Field*Pine Bluff, Arkansas, United States
+PBG*KPBG*Plattsburgh International Airport*Plattsburgh, New York, United States
+PBH*VQPR*Paro Airport*Paro, Bhutan
+PBI*KPBI*Palm Beach International Airport*West Palm Beach, Florida, United States
+PBJ*NVSI*Paama Airport*Paama, Vanuatu
+PBL*SVPC*Bartolomé Salom Airport*Puerto Cabello, Venezuela
+PBM*SMJP*Johan Adolf Pengel International Airport*Paramaribo, Suriname
+PBN*FNPA*Porto Amboim Airport*Porto Amboim, Angola
+PBO*YPBO*Paraburdoo Airport*Paraburdoo, Western Australia, Australia
+PBP*MRIA*Punta Islita Airport*Punta Islita, Costa Rica
+PBQ*SWPM*Pimenta Bueno Airport*Pimenta Bueno, Rondônia, Brazil
+PBR*MGPB*Puerto Barrios Airport*Puerto Barrios, Guatemala
+PBT**Puerto Leda Airport*Puerto Leda, Paraguay
+PBU*VYPT*Putao Airport*Putao, Myanmar
+PBV*SWPG*Porto dos Gaúchos Airport*Porto dos Gaúchos, Mato Grosso, Brazil
+PBX*SWPQ*Fazenda Piraguassu Airport*Porto Alegre do Norte, Mato Grosso, Brazil
+PBZ*FAPG*Plettenberg Bay Airport*Plettenberg Bay, South Africa
+PCA*PAOC*Portage Creek Airport (FAA: A14)*Portage Creek, Alaska, United States
+PCB*WIHP*Pondok Cabe Airport*South Tangerang, Indonesia
+PCC**Puerto Rico Airport*Puerto Rico, Colombia
+PCD*KPDC*Prairie du Chien Municipal Airport (FAA: PDC)*Prairie du Chien, Wisconsin, United States
+PCF*FAPS*Potchefstroom Airport*Potchefstroom, South Africa
+PCH*MHPC*Palacios Airport*Palacios, Honduras
+PCJ**Puerto La Victoria Airport*Puerto Casado (La Victoria), Paraguay
+PCL*SPCL*FAP Captain David Abensur Rengifo International Airport*Pucallpa, Peru
+PCM**Playa del Carmen Airport*Playa del Carmen, Quintana Roo, Mexico
+PCN*NZOK*Picton Aerodrome*Picton, New Zealand
+PCO*MMPL*Punta Colorada Airstrip*La Ribera, Baja California Sur, Mexico
+PCP*FPPR*Príncipe Airport*Príncipe Island, São Tomé and Príncipe
+PCQ**Boun Neua Airport*Phongsaly, Laos
+PCR*SKPC*Germán Olano Airport*Puerto Carreño, Colombia
+PCS*SNPC*Picos Airport*Picos, Piauí, Brazil
+PCT**Princeton Airport (FAA: 39N)*Princeton / Rocky Hill, New Jersey, United States
+PCU**Poplarville-Pearl River County Airport (FAA: M13)*Poplarville, Mississippi, United States
+PCV**Punta Chivato Airstrip*Punta Chivato, Baja California Sur, Mexico
+PDA*SKPD*Obando Airport*Puerto Inírida, Colombia
+PDB**Pedro Bay Airport (FAA: 4K0)*Pedro Bay, Alaska, United States
+PDC*NWWQ*Mueo/Nickel Airport*Mueo, New Caledonia
+PDD*FQPO*Ponta do Ouro Airport*Ponta do Ouro, Mozambique
+PDE*YPDI*Pandie Pandie Airport*Pandie Pandie Station, South Australia, Australia
+PDF*SIAJ*Faz Taua Airport*Prado, Bahia, Brazil
+PDG*WIPT*Minangkabau International Airport*Padang, Indonesia
+PDI**Pindiu Airport*Pindiu, Papua New Guinea
+PDK*KPDK*DeKalb–Peachtree Airport*Atlanta, Georgia, United States
+PDL*LPPD*João Paulo II Airport*Ponta Delgada, Azores, Portugal
+PDM**Pedasí Airport (Capt. J. Montenegro Airport)*Pedasí, Panama
+PDN**Parndana Airport*Parndana, South Australia, Australia
+PDO*WIPQ*Pendopo Airport*Pendopo, Indonesia
+PDP*SULS*Capitán de Corbeta Carlos A. Curbelo International Airport*Punta del Este, Uruguay
+PDR**Presidente Dutra Airport*Presidente Dutra, Maranhão, Brazil
+PDS*MMPG*Piedras Negras International Airport*Piedras Negras, Coahuila, Mexico
+PDT*KPDT*Eastern Oregon Regional Airport*Pendleton, Oregon, United States
+PDU*SUPU*Tydeo Larre Borges International Airport*Paysandú, Uruguay
+PDV*LBPD*Plovdiv Airport*Plovdiv, Bulgaria
+PDX*KPDX*Portland International Airport*Portland, Oregon, United States
+PDZ*SVPE*Pedernales Airport*Pedernales, Venezuela
+PEA*YPSH*Penneshaw Airport*Penneshaw, South Australia, Australia
+PEB**Pebane Airport*Pebane, Mozambique
+PEC**Pelican Seaplane Base*Pelican, Alaska, United States
+PED*LKPD*Pardubice Airport*Pardubice, Czech Republic
+PEE*USPP*Perm International Airport (Bolshoye Savino Airport)*Perm, Perm Krai, Russia
+PEF*EDCP*Peenemünde Airfield*Peenemünde, Mecklenburg-Vorpommern, Germany
+PEG*LIRZ*Perugia San Francesco d'Assisi – Umbria International Airport*Perugia, Umbria, Italy
+PEH*SAZP*Comodoro Pedro Zanni Airport*Pehuajó, Buenos Aires, Argentina
+PEI*SKPE*Matecaña International Airport*Pereira, Colombia
+PEK*ZBAA*Beijing Capital International Airport*Beijing, China
+PEL*FXPG*Pelaneng Airport*Pelaneng, Lesotho
+PEM*SPTU*Padre Aldamiz International Airport*Puerto Maldonado, Peru
+PEN*WMKP*Penang International Airport*Penang, Malaysia
+PEP**Peppimenarti Airport*Peppimenarti, Northern Territory, Australia
+PEQ*KPEQ*Pecos Municipal Airport*Pecos, Texas, United States
+PER*YPPH*Perth Airport*Perth, Western Australia, Australia
+PES*ULPB*Petrozavodsk Airport (Besovets Airport)*Petrozavodsk, Karelia, Russia
+PET*SBPK*João Simões Lopes Neto International Airport*Pelotas, Rio Grande do Sul, Brazil
+PEU*MHPL*Puerto Lempira Airport*Puerto Lempira, Honduras
+PEV*LHPP*Pécs-Pogány International Airport*Pécs, Hungary
+PEW*OPPS*Bacha Khan International Airport*Peshawar, Pakistan
+PEX*UUYP*Pechora Airport*Pechora, Komi Republic, Russia
+PEY**Penong Airport*Penong, South Australia, Australia
+PEZ*UWPP*Penza Airport (Ternovka Airport)*Penza, Penza Oblast, Russia
+PFB*SBPF*Lauro Kurtz Airport*Passo Fundo, Rio Grande do Sul, Brazil
+PFC*KPFC*Pacific City State Airport*Pacific City, Oregon, United States
+PFJ*BIPA*Patreksfjörður Airport*Patreksfjörður, Iceland
+PFO*LCPH*Paphos International Airport*Paphos, Cyprus
+PFQ*OITP*Parsabad-Moghan Airport*Parsabad, Iran
+PFR*FZVS*Ilebo Airport*Ilebo, Democratic Republic of the Congo
+PGA*KPGA*Page Municipal Airport*Page, Arizona, United States
+PGB**Pangoa Airport*Pangoa, Papua New Guinea
+PGC**Grant County Airport (FAA: W99)*Petersburg, West Virginia, United States
+PGD*KPGD*Punta Gorda Airport*Punta Gorda, Florida, United States
+PGE**Yegepa Airport*Yegepa, Papua New Guinea
+PGF*LFMP*Perpignan–Rivesaltes Airport*Perpignan, Languedoc-Roussillon, France
+PGH*VIPT*Pantnagar Airport*Pantnagar, Uttarakhand, India
+PGI*FNCH*Chitato Airport*Chitato, Angola
+PGK*WIPK*Depati Amir Airport*Pangkal Pinang (Pangkalpinang), Indonesia
+PGL*KPQL*Trent Lott International Airport (FAA: PQL)*Pascagoula, Mississippi, United States
+PGM**Port Graham Airport*Port Graham, Alaska, United States
+PGN**Pangia Airport*Pangia, Papua New Guinea
+PGO*KPSO*Stevens Field (FAA: PSO)*Pagosa Springs, Colorado, United States
+PGR*KPGR*Kirk Field*Paragould, Arkansas, United States
+PGS**Grand Canyon Caverns Airport (FAA: L37)*Peach Springs, Arizona, United States
+PGU*OIBP*Persian Gulf Airport*Asaluyeh (Asaloyeh), Iran
+PGV*KPGV*Pitt–Greenville Airport*Greenville, North Carolina, United States
+PGX*LFBX*Périgueux Bassillac Airport*Périgueux, Aquitaine, France
+PGZ*SSZW*Comte. Antonio Amilton Beraldo Airport*Ponta Grossa, Paraná, Brazil
+PHA*VVPR*Phan Rang Air Base*Phan Rang–Tháp Chàm, Vietnam
+PHB*SBPB*Parnaíba-Prefeito Dr. João Silva Filho International Airport*Parnaíba, Piauí, Brazil
+PHC*DNPO*Port Harcourt International Airport*Port Harcourt, Nigeria
+PHD*KPHD*Harry Clever Field*New Philadelphia, Ohio, United States
+PHE*YPPD*Port Hedland International Airport*Port Hedland, Western Australia, Australia
+PHF*KPHF*Newport News/Williamsburg International Airport*Newport News / Williamsburg, Virginia, United States
+PHG**Port Harcourt City Airport*Port Harcourt, Nigeria
+PHI*SNYE*Pinheiro Airport*Pinheiro, Maranhão, Brazil
+PHK*KPHK*Palm Beach County Glades Airport*Pahokee, Florida, United States
+PHL*KPHL*Philadelphia International Airport*Philadelphia, Pennsylvania, United States
+PHN*KPHN*St. Clair County International Airport*Port Huron, Michigan, United States
+PHO*PAPO*Point Hope Airport*Point Hope, Alaska, United States
+PHP*KPHP*Philip Airport*Philip, South Dakota, United States
+PHQ*YTMO*The Monument Airport*Phosphate Hill, Queensland, Australia
+PHR*NFND*Pacific Harbour Airport*Pacific Harbour, Fiji
+PHS*VTPP*Phitsanulok Airport*Phitsanulok, Thailand
+PHT*KPHT*Henry County Airport*Paris, Tennessee, United States
+PHW*FAPH*Hendrik Van Eck Airport*Phalaborwa, South Africa
+PHX*KPHX*Phoenix Sky Harbor International Airport*Phoenix, Arizona, United States
+PHY*VTPB*Phetchabun Airport*Phetchabun, Thailand
+PIA*KPIA*General Wayne A. Downing Peoria International Airport*Peoria, Illinois, United States
+PIB*KPIB*Hattiesburg–Laurel Regional Airport*Hattiesburg / Laurel, Mississippi, United States
+PIC*MBPI*Pine Cay Airport*Pine Cay, British Overseas Territory of Turks and Caicos Islands
+PIE*KPIE*St. Pete–Clearwater International Airport*St. Petersburg / Clearwater, United States
+PIF*RCDC*Pingtung South Airport*Pingtung City, Taiwan
+PIH*KPIH*Pocatello Regional Airport*Pocatello, Idaho, United States
+PIK*EGPK*Glasgow Prestwick Airport*Glasgow, Scotland, United Kingdom
+PIL*SGPI*Carlos Miguel Jiménez Airport*Pilar, Paraguay
+PIM*KPIM*Harris County Airport*Pine Mountain, Georgia, United States
+PIN*SWPI*Júlio Belém Airport*Parintins, Amazonas, Brazil
+PIO*SPSO*Capitán FAP Renán Elías Olivera Airport*Pisco, Peru
+PIP*PAPN*Pilot Point Airport (FAA: PNP)*Pilot Point, Alaska, United States
+PIQ**Pipillipai Airport*Pipillipai, Guyana
+PIR*KPIR*Pierre Regional Airport*Pierre, South Dakota, United States
+PIS*LFBI*Poitiers–Biard Airport*Poitiers, Poitou-Charentes, France
+PIT*KPIT*Pittsburgh International Airport*Pittsburgh, Pennsylvania, United States
+PIU*SPUR*FAP Captain Guillermo Concha Iberico International Airport*Piura, Peru
+PIV*SNPX*Pirapora Airport*Pirapora, Minas Gerais, Brazil
+PIW*CZMN*Pikwitonei Airport*Pikwitonei, Manitoba, Canada
+PIX*LPPI*Pico Airport*Pico Island, Azores, Portugal
+PIZ*PPIZ*Point Lay LRRS Airport*Point Lay, Alaska, United States
+PJA*ESUP*Pajala Airport*Pajala, Sweden
+PJB*KPAN*Payson Airport (FAA: PAN)*Payson, Arizona, United States
+PJC*SGPJ*Dr. Augusto Roberto Fuster International Airport*Pedro Juan Caballero, Paraguay
+PJG*OPPG*Panjgur Airport*Panjgur, Pakistan
+PJM*MRPJ*Puerto Jiménez Airport*Puerto Jiménez, Costa Rica
+PKA*PAPK*Napaskiak Airport*Napaskiak, Alaska, United States
+PKB*KPKB*Mid-Ohio Valley Regional Airport*Parkersburg, West Virginia, United States
+PKC*UHPP*Petropavlovsk-Kamchatsky Airport (Yelizovo Airport)*Petropavlovsk-Kamchatsky, Kamchatka Krai, Russia
+PKD*KPKD*Park Rapids Municipal Airport (Konshok Field)*Park Rapids, Minnesota, United States
+PKE*YPKS*Parkes Airport*Parkes, New South Wales, Australia
+PKF*KPKF*Park Falls Municipal Airport*Park Falls, Wisconsin, United States
+PKG*WMPA*Pangkor Airport*Pangkor Island, Perak, Malaysia
+PKH*LGHL*Porto Cheli Airport*Porto Cheli (Portochelion), Greece
+PKJ*MGPG*Playa Grande Airport*Playa Grande, Guatemala
+PKK*VYPU*Pakokku Airport*Pakokku, Myanmar
+PKM**Port Kaituma Airstrip*Port Kaituma, Guyana
+PKN*WAOI*Iskandar Airport*Pangkalan Bun (Pangkalanbuun), Indonesia
+PKO*DBBP*Parakou Airport*Parakou, Benin
+PKP*NTGP*Puka-Puka Airport*Puka-Puka, Tuamotus, French Polynesia
+PKR*VNPK*Pokhara Airport*Pokhara, Nepal
+PKT*YKPT*Port Keats Airfield*Wadeye (Port Keats), Northern Territory, Australia
+PKU*WIBB*Sultan Syarif Kasim II International Airport*Pekanbaru, Indonesia
+PKV*ULOO*Pskov Airport*Pskov, Pskov Oblast, Russia
+PKW*FBSP*Selebi-Phikwe Airport*Selebi-Phikwe, Botswana
+PKY*WAGG*Tjilik Riwut Airport*Palangkaraya, Indonesia
+PKZ*VLPS*Pakse International Airport*Pakse, Laos
+PLA**Planadas Airport*Planadas, Colombia
+PLC**Planeta Rica Airport*Planeta Rica, Colombia
+PLD*MRCR*Carrillo Airport (Playa Samara/Carrillo Airport)*Sámara / Puerto Carrillo, Costa Rica
+PLE**Paiela Airport*Paiela, Papua New Guinea
+PLF*FTTP*Pala Airport*Pala, Chad
+PLH*EGHD*Plymouth City Airport*Plymouth, England, United Kingdom
+PLI**Palm Island Airport*Palm Island, Saint Vincent and the Grenadines
+PLJ**Placencia Airport*Placencia, Belize
+PLK*KPLK*M. Graham Clark Downtown Airport*Point Lookout, Missouri, United States
+PLL*SBMN*Manaus Air Force Base*Manaus, Amazonas, Brazil
+PLM*WIPP*Sultan Mahmud Badaruddin II International Airport*Palembang, Indonesia
+PLN*KPLN*Pellston Regional Airport (Emmet County)*Pellston, Michigan, United States
+PLO*YPLC*Port Lincoln Airport*Port Lincoln, South Australia, Australia
+PLP*MPLP*Captain Ramon Xatruch Airport*La Palma, Panama
+PLQ*EYPA*Palanga International Airport*Palanga, Lithuania
+PLR*KPLR*St. Clair County Airport*Pell City, Alabama, United States
+PLS*MBPV*Providenciales International Airport*Providenciales, British Overseas Territoryof Turks and Caicos Islands
+PLT*SKPL*Plato Airport*Plato, Colombia
+PLU*SBBH*Belo Horizonte/Pampulha – Carlos Drummond de Andrade Airport*Belo Horizonte, Minas Gerais, Brazil
+PLV*UKHP*Poltava Airport*Poltava, Ukraine
+PLW*WAFF*Mutiara Airport*Palu, Indonesia
+PLX*UASS*Semey Airport*Semey, Kazakhstan
+PLY**Plymouth Municipal Airport (FAA: C65)*Plymouth, Indiana, United States
+PLZ*FAPE*Port Elizabeth Airport*Port Elizabeth, South Africa
+PMA*HTPE*Pemba Airport*Pemba Island, Tanzania
+PMB*KPMB*Pembina Municipal Airport*Pembina, North Dakota, United States
+PMC*SCTE*El Tepual Airport*Puerto Montt, Chile
+PMD*KPMD*Palmdale Regional Airport*Palmdale, California, United States
+PMF*LIMP*Parma Airport (Giuseppe Verdi Airport)*Parma, Emilia-Romagna, Italy
+PMG*SBPP*Ponta Porã International Airport*Ponta Porã, Mato Grosso do Sul, Brazil
+PMH*KPMH*Greater Portsmouth Regional Airport*Portsmouth, Ohio, United States
+PMI*LEPA*Palma de Mallorca Airport*Palma de Mallorca, Balearic Islands, Spain
+PMK*YPAM*Palm Island Airport*Palm Island, Queensland, Australia
+PML*PAAL*Port Moller Airport (FAA: 1AK3)*Cold Bay, Alaska, United States
+PMM**Phanom Sarakham Airport*Phanom Sarakham, Thailand
+PMN**Pumani Airport*Pumani, Papua New Guinea
+PMO*LICJ*Falcone–Borsellino Airport (Punta Raisi Airport)*Palermo, Sicily, Italy
+PMP**Pimaga Airport*Pimaga, Papua New Guinea
+PMQ*SAWP*Perito Moreno Airport*Perito Moreno, Santa Cruz, Argentina
+PMR*NZPM*Palmerston North Airport*Palmerston North, New Zealand
+PMS*OSPR*Palmyra Airport*Palmyra (Tadmur), Syria
+PMT**Paramakatoi Airstrip*Paramakatoi, Guyana
+PMV*SVMG*Santiago Mariño Caribbean International Airport*Porlamar, Venezuela
+PMW*SBPJ*Palmas–Brigadeiro Lysias Rodrigues Airport*Palmas, Tocantins, Brazil
+PMX**Metropolitan Airport (FAA: 13MA)*Palmer, Massachusetts, United States
+PMY*SAVY*El Tehuelche Airport*Puerto Madryn, Chubut, Argentina
+PMZ*MRPM*Palmar Sur Airport*Palmar Sur, Costa Rica
+PNA*LEPP*Pamplona Airport*Pamplona, Navarre, Spain
+PNB*SBPN*Porto Nacional Airport*Porto Nacional, Tocantins, Brazil
+PNC*KPNC*Ponca City Regional Airport*Ponca City, Oklahoma, United States
+PND**Punta Gorda Airport*Punta Gorda, Belize
+PNE*KPNE*Northeast Philadelphia Airport*Philadelphia, Pennsylvania, United States
+PNG*SSPG*Santos Dumont Airport*Paranaguá, Paraná, Brazil
+PNH*VDPP*Phnom Penh International Airport*Phnom Penh, Cambodia
+PNI*PTPN*Pohnpei International Airport*Pohnpei, Federated States of Micronesia
+PNJ**Penglai Shahekou Airport*Penglai, Shandong, China
+PNK*WIOO*Supadio Airport*Pontianak, Indonesia
+PNL*LICG*Pantelleria Airport*Pantelleria, Sicily, Italy
+PNN*KPNN*Princeton Municipal Airport*Princeton, Maine, United States
+PNP*AYGR*Girua Airport*Popondetta, Papua New Guinea
+PNQ*VAPO*Pune Airport*Pune, Maharashtra, India
+PNR*FCPP*Pointe Noire Airport*Pointe-Noire, Republic of the Congo
+PNS*KPNS*Pensacola International Airport*Pensacola, Florida, United States
+PNT*SCNT*Teniente Julio Gallardo Airport*Puerto Natales, Chile
+PNU**Panguitch Municipal Airport (FAA: U55)*Panguitch, Utah, United States
+PNX*KGYI*North Texas Regional Airport (FAA: GYI)*Sherman / Denison, Texas, United States
+PNY*VOTY*Puducherry Airport*Pondicherry, Puducherry, India
+PNZ*SBPL*Senador Nilo Coelho Airport*Petrolina, Pernambuco, Brazil
+POA*SBPA*Salgado Filho International Airport*Porto Alegre, Rio Grande do Sul, Brazil
+POB*KPOB*Pope Field (Pope AFB)*Fort Bragg, North Carolina, United States
+POC*KPOC*Brackett Field*La Verne, California, United States
+POD*GOSP*Podor Airport*Podor, Senegal
+POE*KPOE*Polk Army Airfield*Fort Polk, Louisiana, United States
+POF*KPOF*Poplar Bluff Municipal Airport*Poplar Bluff, Missouri, United States
+POG*FOOG*Port-Gentil International Airport*Port-Gentil, Gabon
+POH*KPOH*Pocahontas Municipal Airport*Pocahontas, Iowa, United States
+POI*SLPO*Captain Nicolas Rojas Airport*Potosí, Bolivia
+POJ*SNPD*Pedro Pereira dos Santos Airport*Patos de Minas, Minas Gerais, Brazil
+POL*FQPB*Pemba Airport*Pemba, Mozambique
+POM*AYPY*Jacksons International Airport*Port Moresby, Papua New Guinea
+PON*MGPP*Poptún Airport*Poptún, Guatemala
+POO*SBPC*Poços de Caldas Airport*Poços de Caldas, Minas Gerais, Brazil
+POP*MDPP*Gregorio Luperón International Airport*San Felipe de Puerto Plata, Dominican Republic
+POR*EFPO*Pori Airport*Pori, Finland
+POS*TTPP*Piarco International Airport*Port of Spain, Trinidad and Tobago
+POT*MKKJ*Ken Jones Aerodrome*Port Antonio, Jamaica
+POU*KPOU*Dutchess County Airport*Poughkeepsie, New York, United States
+POV*LZPW*Prešov Air Base*Prešov, Slovakia
+POW*LJPZ*Portorož Airport*Portorož, Slovenia
+POX*LFPT*Pontoise – Cormeilles Aerodrome*Paris, Île-de-France, France
+POY*KPOY*Powell Municipal Airport*Powell / Lovell, Wyoming, United States
+PPA*KPPA*Perry Lefors Field*Pampa, Texas, United States
+PPB*SBDN*Presidente Prudente Airport*Presidente Prudente, São Paulo, Brazil
+PPC*PAPR*Prospect Creek Airport*Prospect Creek, Alaska, United States
+PPE*MMPE*Puerto Peñasco International Airport*Puerto Peñasco, Sonora, Mexico
+PPF*KPPF*Tri-City Airport*Parsons, Kansas, United States
+PPG*NSTU*Pago Pago International Airport*Pago Pago, American Samoa
+PPH**Parai-tepuí Airport*Parai-tepuí (Peraitepuy), Venezuela
+PPI*YPIR*Port Pirie Airport*Port Pirie, South Australia, Australia
+PPJ*WIIG*Panjang Island Airport*Panjang Island, Indonesia
+PPK*UACP*Petropavl Airport*Petropavl (Petropavlovsk), Kazakhstan
+PPL*VNPL*Phaplu Airport*Phaphlu, Nepal
+PPM*KPMP*Pompano Beach Airpark (FAA: PMP)*Pompano Beach, Florida, United States
+PPN*SKPP*Guillermo León Valencia Airport*Popayán, Colombia
+PPP*YBPN*Whitsunday Coast Airport*Proserpine, Queensland, Australia
+PPQ*NZPP*Kapiti Coast Airport*Paraparaumu Beach, New Zealand
+PPR*WIDE*Tuanku Tambusai Airport*Pasir Pangaraian (Pasir Pangarayan), Indonesia
+PPS*RPVP*Puerto Princesa International Airport*Puerto Princesa, Philippines
+PPU*VYPP*Papun Airport*Papun, Myanmar
+PPV**Port Protection Seaplane Base (FAA: 19P)*Port Protection, Alaska, United States
+PPW*EGEP*Papa Westray Airport*Papa Westray, Scotland, United Kingdom
+PPX**Param Airport*Param, Papua New Guinea
+PPY*SNZA*Pouso Alegre Airport*Pouso Alegre, Minas Gerais, Brazil
+PPZ**Puerto Páez Airport*Puerto Páez, Venezuela
+PQC*VVPQ*Phu Quoc International Airport*Phu Quoc Island, Vietnam
+PQD**Batticaloa Seaplane Base*Batticaloa, Sri Lanka
+PQI*KPQI*Northern Maine Regional Airport at Presque Isle*Presque Isle, Maine, United States
+PQM*MMPQ*Palenque International Airport*Palenque, Chiapas, Mexico
+PQQ*YPMQ*Port Macquarie Airport*Port Macquarie, New South Wales, Australia
+PQS**Pilot Station Airport (FAA: 0AK)*Pilot Station, Alaska, United States
+PRA*SAAP*General Justo José de Urquiza Airport*Paraná, Entre Ríos, Argentina
+PRB*KPRB*Paso Robles Municipal Airport*Paso Robles, California, United States
+PRC*KPRC*Ernest A. Love Field*Prescott, Arizona, United States
+PRD*YPDO*Pardoo Airport*Pardoo Station, Western Australia, Australia
+PRE**Pore Airport*Pore, Colombia
+PRG*LKPR*Václav Havel Airport Prague*Prague, Czech Republic
+PRH*VTCP*Phrae Airport*Phrae, Thailand
+PRI*FSPP*Praslin Island Airport*Praslin Island, Seychelles
+PRK*FAPK*Prieska Airport*Prieska, South Africa
+PRM*LPPM*Portimão Airport*Portimão, Portugal
+PRN*BKPR*Pristina International Airport*Pristina, Kosovo
+PRO*KPRO*Perry Municipal Airport*Perry, Iowa, United States
+PRP*LFKO*Propriano Airport*Propriano, Corsica, France
+PRQ*SARS*Presidencia Roque Sáenz Peña Airport*Presidencia Roque Sáenz Peña, Chaco, Argentina
+PRR*SYPR*Paruima Airport*Paruima, Guyana
+PRS**Parasi Airport*Parasi, Solomon Islands
+PRU*VYPY*Pyay Airport*Pyay (Prome), Myanmar
+PRW**Prentice Airport (FAA: 5N2)*Prentice, Wisconsin, United States
+PRX*KPRX*Cox Field*Paris, Texas, United States
+PRY*FAWB*Wonderboom Airport*Pretoria, South Africa
+PRZ**Prineville Airport (FAA: S39)*Prineville, Oregon, United States
+PSA*LIRP*Pisa International Airport (Galileo Galilei Airport)*Pisa, Tuscany, Italy
+PSB**Bellefonte Airport (FAA: N96)*Philipsburg, Pennsylvania, United States
+PSC*KPSC*Tri-Cities Airport*Pasco, Washington, United States
+PSD*HEPS*Port Said Airport*Port Said, Egypt
+PSE*TJPS*Mercedita Airport*Ponce, Puerto Rico
+PSF*KPSF*Pittsfield Municipal Airport*Pittsfield, Massachusetts, United States
+PSG*PAPG*Petersburg James A. Johnson Airport*Petersburg, Alaska, United States
+PSH*EDXO*Sankt Peter-Ording Airport*Sankt Peter-Ording, Schleswig-Holstein, Germany
+PSI*OPPI*Pasni Airport*Pasni, Pakistan
+PSJ*WAMP*Kasiguncu Airport*Poso, Indonesia
+PSK*KPSK*New River Valley Airport*Dublin, Virginia, United States
+PSL*EGPT*Perth Airport (Scone Airport)*Perth, Scotland, United Kingdom
+PSM*KPSM*Portsmouth International Airport at Pease*Portsmouth, New Hampshire, United States
+PSN*KPSN*Palestine Municipal Airport*Palestine, Texas, United States
+PSO*SKPS*Antonio Nariño Airport*Pasto, Colombia
+PSP*KPSP*Palm Springs International Airport*Palm Springs, California, United States
+PSQ**Philadelphia Seaplane Base (FAA: 9N2)*Philadelphia, Pennsylvania, United States
+PSR*LIBP*Abruzzo Airport*Pescara, Abruzzo, Italy
+PSS*SARP*Libertador General José de San Martín Airport*Posadas, Misiones, Argentina
+PSU*WIOP*Pangsuma Airport*Putussibau, Indonesia
+PSV**Papa Stour Airport*Papa Stour, Scotland, United Kingdom
+PSW*SNOS*Passos Airport*Passos, Minas Gerais, Brazil
+PSX*KPSX*Palacios Municipal Airport*Palacios, Texas, United States
+PSY*SFAL*Port Stanley Airport*Stanley, British Overseas Territory of Falkland Islands
+PSZ*SLPS*Puerto Suárez International Airport*Puerto Suárez, Bolivia
+PTA*PALJ*Port Alsworth Airport (FAA: TPO)*Port Alsworth, Alaska, United States
+PTB*KPTB*Dinwiddie County Airport*Petersburg, Virginia, United States
+PTC**Port Alice Seaplane Base (FAA: 16K)*Port Alice, Alaska, United States
+PTD*PAAP*Port Alexander Seaplane Base (FAA: AHP)*Port Alexander, Alaska, United States
+PTF*NFFO*Malolo Lailai Airport*Malolo Lailai, Fiji
+PTG*FAPP*Polokwane International Airport*Polokwane, South Africa
+PTH*PAPH*Port Heiden Airport*Port Heiden, Alaska, United States
+PTJ*YPOD*Portland Airport*Portland, Victoria, Australia
+PTK*KPTK*Oakland County International Airport*Pontiac, Michigan, United States
+PTM*SVPT*Palmarito Airport*Palmarito, Venezuela
+PTN*KPTN*Harry P. Williams Memorial Airport*Patterson, Louisiana, United States
+PTO*SSPB*Juvenal Loureiro Cardoso Airport*Pato Branco, Paraná, Brazil
+PTP*TFFR*Pointe-à-Pitre International Airport (Le Raizet Airport)*Pointe-à-Pitre, Guadeloupe
+PTQ*SNMZ*Porto de Moz Airport*Porto de Moz, Pará, Brazil
+PTS*KPTS*Atkinson Municipal Airport*Pittsburg, Kansas, United States
+PTT*KPTT*Pratt Regional Airport*Pratt, Kansas, United States
+PTU*PAPM*Platinum Airport*Platinum, Alaska, United States
+PTV*KPTV*Porterville Municipal Airport*Porterville, California, United States
+PTW*KPTW*Heritage Field*Pottstown, Pennsylvania, United States
+PTX*SKPI*Contador Airport*Pitalito, Colombia
+PTY*MPTO*Tocumen International Airport*Panama City, Panama
+PTZ*SEPA*Río Amazonas Airport*Shell Mera, Ecuador
+PUA**Puas Airport*Puas, Papua New Guinea
+PUB*KPUB*Pueblo Memorial Airport*Pueblo, Colorado, United States
+PUC*KPUC*Carbon County Regional Airport*Price, Utah, United States
+PUD*SAWD*Puerto Deseado Airport*Puerto Deseado, Santa Cruz, Argentina
+PUE*MPOA*Puerto Obaldia Airport*Puerto Obaldía, Panama
+PUF*LFBP*Pau Pyrénées Airport*Pau, Aquitaine, France
+PUG*YPAG*Port Augusta Airport*Port Augusta, South Australia, Australia
+PUI**Pureni Airport*Pureni, Papua New Guinea
+PUJ*MDPC*Punta Cana International Airport*Punta Cana, Dominican Republic
+PUK*NTGQ*Pukarua Airport*Pukarua, Tuamotus, French Polynesia
+PUL**Port of Poulsbo Marina Moorage Seaplane Base (FAA: 83Q)*Poulsbo, Washington, United States
+PUM*WAWP*Kolaka Pomala Airport*Kolaka, Indonesia
+PUN*FZOP*Punia Airport*Punia, Democratic Republic of the Congo
+PUP*DFCP*Pô Airport*Pô, Burkina Faso
+PUQ*SCCI*Presidente Carlos Ibáñez del Campo International Airport*Punta Arenas, Chile
+PUR*SLPR*Puerto Rico Airport*Puerto Rico, Bolivia
+PUS*RKPK*Gimhae International Airport*Busan, South Korea
+PUT*VOPN*Sri Sathya Sai Airport*Puttaparthi, Andhra Pradesh, India
+PUU*SKAS*Tres de Mayo Airport*Puerto Asís, Colombia
+PUV*NWWP*Malabou Airport*Poum, New Caledonia
+PUW*KPUW*Pullman–Moscow Regional Airport*Pullman / Moscow (ID), Washington, United States
+PUX*SCPV*El Mirador Airport*Puerto Varas, Chile
+PUY*LDPL*Pula Airport*Pula, Croatia
+PUZ*MNPC*Puerto Cabezas Airport*Puerto Cabezas, Nicaragua
+PVA*SKPV*El Embrujo Airport*Providencia Island, Colombia
+PVC*KPVC*Provincetown Municipal Airport*Provincetown, Massachusetts, United States
+PVD*KPVD*Theodore Francis Green State Airport*Providence, Rhode Island, United States
+PVE*MPVR*El Porvenir Airport*El Porvenir, Panama
+PVF*KPVF*Placerville Airport*Placerville, California, United States
+PVG*ZSPD*Shanghai Pudong International Airport*Shanghai, China
+PVH*SBPV*Governador Jorge Teixeira de Oliveira International Airport*Porto Velho, Rondônia, Brazil
+PVI*SSPI*Edu Chaves Airport*Paranavaí, Paraná, Brazil
+PVK*LGPZ*Aktion National Airport*Preveza / Lefkada, Greece
+PVL*KPBX*Pike County Airport (FAA: PBX)*Pikeville, Kentucky, United States
+PVO*SEPV*Reales Tamarindos Airport*Portoviejo, Ecuador
+PVR*MMPR*Licenciado Gustavo Díaz Ordaz International Airport*Puerto Vallarta, Jalisco, Mexico
+PVS*UHMD*Provideniya Bay Airport*Provideniya, Chukotka, Russia
+PVU*KPVU*Provo Municipal Airport*Provo, Utah, United States
+PVW*KPVW*Hale County Airport*Plainview, Texas, United States
+PWA*KPWA*Wiley Post Airport*Oklahoma City, Oklahoma, United States
+PWD*KPWD*Sher-Wood Airport*Plentywood, Montana, United States
+PWE*UHMP*Pevek Airport*Pevek, Chukotka, Russia
+PWI**Beles Airport*Pawi, Ethiopia
+PWK*KPWK*Chicago Executive Airport*Chicago, Illinois, United States
+PWL*WICP*Wirasaba Airport*Purwokerto, Indonesia
+PWM*KPWM*Portland International Jetport*Portland, Maine, United States
+PWN*MYCP*Pitts Town Airport*Pitts Town, Crooked Island, Bahamas
+PWO*FZQC*Pweto Airport*Pweto, Democratic Republic of the Congo
+PWQ*UASP*Pavlodar Airport*Pavlodar, Kazakhstan
+PWR**Port Walter Seaplane Base*Port Walter, Alaska, United States
+PWT*KPWT*Bremerton National Airport*Bremerton, Washington, United States
+PWY*KPNA*Ralph Wenz Field (FAA: PNA)*Pinedale, Wyoming, United States
+PXH*YPMH*Prominent Hill Airport*Prominent Hill, South Australia, Australia
+PXL**Polacca Airport (FAA: P10)*Polacca, Arizona, United States
+PXM*MMPS*Puerto Escondido International Airport*Puerto Escondido, Oaxaca, Mexico
+PXO*LPPS*Porto Santo Airport*Porto Santo Island, Madeira, Portugal
+PXR*VTUJ*Surin Airport*Surin, Thailand
+PXU*VVPK*Pleiku Airport*Pleiku, Vietnam
+PYA*SKVL*Velasquez Airport*Puerto Boyacá, Colombia
+PYB*VEJP*Jeypore Airport*Jeypore, Odisha, India
+PYC**Playón Chico Airport*Ukupseni (Playón Chico), Panama
+PYE*NCPY*Tongareva Airport*Penrhyn Atoll, Cook Islands
+PYH*SVPA*Cacique Aramare Airport*Puerto Ayacucho, Venezuela
+PYJ*UERP*Polyarny Airport*Polyarny, Yakutia, Russia
+PYK*OIIP*Payam International Airport*Karaj, Iran
+PYL**Perry Island Seaplane Base*Perry Island, Alaska, United States
+PYM*KPYM*Plymouth Municipal Airport*Plymouth, Massachusetts, United States
+PYN**Payán Airport*Payán, Colombia
+PYO*SEPT*Putumayo Airport*Puerto El Carmen de Putumayo, Ecuador
+PYR*LGAD*Andravida Air Base*Pyrgos, Greece
+PYS**Paradise Skypark (FAA: CA92)*Paradise, California, United States
+PYV**Yaviza Airport*Yaviza, Panama
+PYX*VTBF*Pattaya Airpark*Pattaya, Thailand
+PYY**Pai Airport*Pai, Thailand
+PZA*SKPZ*Paz de Ariporo Airport*Paz de Ariporo, Colombia
+PZB*FAPM*Pietermaritzburg Airport*Pietermaritzburg, South Africa
+PZH*OPZB*Zhob Airport*Zhob, Pakistan
+PZI*ZUZH*Panzhihua Bao'anying Airport*Panzhihua, Sichuan, China
+PZK*NCPK*Pukapuka Island Airfield*Pukapuka Island, Cook Islands
+PZL*FADQ*Zulu Inyala Airport*Phinda, South Africa
+PZO*SVPR*Manuel Carlos Piar Guayana Airport*Ciudad Guayana / Puerto Ordaz, Venezuela
+PZS*SCTC*Maquehue Airport*Temuco, Chile
+PZU*HSPN*Port Sudan New International Airport*Port Sudan, Sudan

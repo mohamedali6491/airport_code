@@ -1,0 +1,604 @@
+BAA*AYBL*Bialla Airport*Bialla, Papua New Guinea
+BAB*KBAB*Beale Air Force Base*Marysville, California, United States
+BAC**Barranca de Upia Airport*Barranca de Upía, Colombia
+BAD*KBAD*Barksdale Air Force Base*Bossier City, Louisiana, United States
+BAE*LFMR*Barcelonnette – Saint-Pons Airport*Barcelonnette, Alpes-de-Haute-Provence, France
+BAF*KBAF*Westfield-Barnes Regional Airport*Westfield / Springfield, Massachusetts, United States
+BAG*RPUB*Loakan Airport*Baguio, Philippines
+BAH*OBBI*Bahrain International Airport*Manama, Bahrain
+BAI*MRBA*Buenos Aires Airport*Buenos Aires, Costa Rica
+BAJ**Bali Airport*Bali, Papua New Guinea
+BAK**metropolitan area2*Baku, Azerbaijan
+BAL*LTCJ*Batman Airport*Batman, Turkey
+BAM*KBAM*Battle Mountain Airport (Lander County Airport)*Battle Mountain, Nevada, United States
+BAN*FZVR*Basongo Airport*Basongo, Democratic Republic of the Congo
+BAP**Baibara Airport*Baibara, Papua New Guinea
+BAQ*SKBQ*Ernesto Cortissoz International Airport*Barranquilla, Colombia
+BAR**Qionghai Bo'ao Airport*Qionghai, Hainan, China
+BAS*AGGE*Balalae Airport*Balalae Island, Western, Solomon Islands
+BAT*SBBT*Chafei Amsei Airport*Barretos, São Paulo, Brazil
+BAV*ZBOW*Baotou Airport*Baotou, Inner Mongolia, China
+BAW**Biawonque Airport*Biawonque, Gabon
+BAX*UNBB*Barnaul Airport*Barnaul, Altai Krai, Russia
+BAY*LRBM*Baia Mare Airport*Baia Mare, Romania
+BAZ*SWBC*Barcelos Airport*Barcelos, Amazonas, Brazil
+BBA*SCBA*Balmaceda Airport*Balmaceda, Chile
+BBB*KBBB*Benson Municipal Airport*Benson, Minnesota, United States
+BBC*KBYY*Bay City Municipal Airport (FAA: BYY)*Bay City, Texas, United States
+BBD*KBBD*Curtis Field*Brady, Texas, United States
+BBG*NGTU*Butaritari Atoll Airport*Butaritari Atoll, Kiribati
+BBH*EDBH*Stralsund–Barth Airport*Stralsund / Barth, Mecklenburg-Vorpommern, Germany
+BBI*VEBS*Biju Patnaik International Airport*Bhubaneswar, Odisha, India
+BBJ*EDRB*Bitburg Airport (former Bitburg Air Base)*Bitburg, Rhineland-Palatinate, Germany
+BBK*FBKE*Kasane Airport*Kasane, Botswana
+BBL*YLLE*Ballera Airport*Ballera, Queensland, Australia
+BBM*VDBG*Battambang Airport*Battambang, Cambodia
+BBN*WBGZ*Bario Airport*Bario, Sarawak, Malaysia
+BBO*HCMI*Berbera Airport*Berbera, Somalia
+BBP*EGHJ*Bembridge Airport*Bembridge, England, United Kingdom
+BBQ*TAPH*Barbuda Codrington Airport*Barbuda, Antigua and Barbuda
+BBR*TFFB*Baillif Airport*Basse-Terre, Guadeloupe
+BBS*EGLK*Blackbushe Airport*Yateley, England, United Kingdom
+BBT*FEFT*Berbérati Airport*Berbérati, Central African Republic
+BBV*DIGN*Nero-Mer Airport*Grand-Béréby, Ivory Coast
+BBW*KBBW*Broken Bow Municipal Airport*Broken Bow, Nebraska, United States
+BBX*KLOM*Wings Field (FAA: LOM)*Philadelphia, Pennsylvania, United States
+BBY*FEFM*Bambari Airport*Bambari, Central African Republic
+BBZ*FLZB*Zambezi Airport*Zambezi, Zambia
+BCA*MUBA*Gustavo Rizo Airport*Baracoa, Cuba
+BCB*KBCB*Virginia Tech Montgomery Executive Airport*Blacksburg, Virginia, United States
+BCC**Bear Creek 3 Airport (FAA: Z48)*Bear Creek, Alaska, United States
+BCD*RPVB*Bacolod–Silay International Airport*Bacolod, Philippines
+BCE*KBCE*Bryce Canyon Airport*Bryce Canyon, Utah, United States
+BCF*FEGU*Bouca Airport*Bouca, Central African Republic
+BCG**Bemichi Airport*Kumaka, Guyana
+BCH*WPEC*Baucau Airport*Baucau, East Timor
+BCI*YBAR*Barcaldine Airport*Barcaldine, Queensland, Australia
+BCK**Bolwarra Airport*Bolwarra, Queensland, Australia
+BCL*MRBC*Barra del Colorado Airport*Barra del Colorado, Costa Rica
+BCN*LEBL*Barcelona–El Prat Airport*Barcelona, Catalonia, Spain
+BCO*HABC*Baco Airport (Jinka Airport)*Jinka, Ethiopia
+BCP*AYBC*Bambu Airport*Bambu, Papua New Guinea
+BCQ**Brak Airport*Brak, Libya
+BCR*SWNK*Novo Campo Airport*Boca do Acre, Amazonas, Brazil
+BCS**Southern Seaplane Airport (FAA: 65LA)*Belle Chasse, Louisiana, United States
+BCT*KBCT*Boca Raton Airport*Boca Raton, Florida, United States
+BCU**Bauchi State Airport*Bauchi, Nigeria
+BCV**Hector Silva Airstrip*Belmopan, Belize
+BCW**Benguerra Island Airport*Benguerra Island, Mozambique
+BCX*UWUB*Beloretsk Airport*Beloretsk, Republic of Bashkortostan, Russia
+BCY*HABU*Bulchi Airport*Bulchi, Ethiopia
+BCZ**Bickerton Island Airport*Bickerton Island, Northern Territory, Australia
+BDA*TXKF*L.F. Wade International Airport*Hamilton, British Overseas Territory of Bermuda
+BDB*YBUD*Bundaberg Airport*Bundaberg, Queensland, Australia
+BDC*SNBC*Barra do Corda Airport*Barra do Corda, Maranhão, Brazil
+BDD*YBAU*Badu Island Airport*Badu Island, Queensland, Australia
+BDE*KBDE*Baudette International Airport*Baudette, Minnesota, United States
+BDF**Rinkenberger RLA Airport (FAA: 3IS8)*Bradford, Illinois, United States
+BDG*KBDG*Blanding Municipal Airport*Blanding, Utah, United States
+BDH*OIBL*Bandar Lengeh Airport*Bandar Lengeh, Iran
+BDI*FSSB*Bird Island Airport*Bird Island, Seychelles
+BDJ*WAOO*Syamsudin Noor Airport*Banjarmasin, Indonesia
+BDK*DIBU*Soko Airport*Bondoukou, Ivory Coast
+BDL*KBDL*Bradley International Airport*Windsor Locks / Hartford, Connecticut, United States
+BDN*OPTH*Talhar Airport*Badin, Pakistan
+BDO*WICC*Husein Sastranegara International Airport*Bandung, Indonesia
+BDP*VNCG*Bhadrapur Airport (Chandragadhi Airport)*Bhadrapur / Chandragadhi, Nepal
+BDQ*VABO*Vadodara Airport (Civil Airport Harni)*Vadodara, Gujarat, India
+BDR*KBDR*Igor I. Sikorsky Memorial Airport*Bridgeport, Connecticut, United States
+BDS*LIBR*Brindisi – Salento Airport*Brindisi, Apulia, Italy
+BDT*FZFD*Gbadolite Airport*Gbadolite, Democratic Republic of the Congo
+BDU*ENDU*Bardufoss Airport*Bardufoss, Norway
+BDV*FZRB*Moba Airport*Moba, Democratic Republic of the Congo
+BDW*YBDF*Bedford Downs Airport*Bedford Downs, Western Australia, Australia
+BDX**Broadus Airport*Broadus, Montana, United States
+BDY**Bandon State Airport (FAA: S05)*Bandon, Oregon, United States
+BDZ*AYBG*Baindoung Airport*Baindoung, Papua New Guinea
+BEA**Bereina Airport*Bereina, Papua New Guinea
+BEB*EGPL*Benbecula Airport*Benbecula, Scotland, United Kingdom
+BEC*KBEC*Beech Factory Airport*Wichita, Kansas, United States
+BED*KBED*Laurence G. Hanscom Field*Bedford, Massachusetts, United States
+BEE**Beagle Bay Airport*Beagle Bay, Western Australia, Australia
+BEF*MNBL*Bluefields Airport*Bluefields, Nicaragua
+BEG*LYBE*Belgrade Nikola Tesla Airport*Belgrade, Serbia
+BEH*KBEH*Southwest Michigan Regional Airport*Benton Harbor, Michigan, United States
+BEI*HABE*Beica Airport*Beica, Ethiopia
+BEJ*WALK*Kalimarau Airport*Tanjung Redeb, Indonesia
+BEK*VIBY*Bareilly Airport*Bareilly, Uttar Pradesh, India
+BEL*SBBE*Val de Cans International Airport*Belém, Pará, Brazil
+BEM*GMMD*Beni Mellal Airport*Beni Mellal, Morocco
+BEN*HLLB*Benina International Airport*Benghazi, Libya
+BEO*YLMQ*Lake Macquarie Airport (Belmont Airport)*Newcastle, New South Wales, Australia
+BEP*VOBI*Bellary Airport*Bellary, Karnataka, India
+BEQ*EGXH*RAF Honington*Bury St Edmunds, England, United Kingdom
+BER*EDDB*Berlin Brandenburg Airport (in construction)*Berlin, Germany
+BES*LFRB*Brest Bretagne Airport*Brest, Brittany, France
+BET*PABE*Bethel Airport*Bethel, Alaska, United States
+BEU*YBIE*Bedourie Airport*Bedourie, Queensland, Australia
+BEV*LLBS*Beersheba Airport*Beersheba, Israel
+BEW*FQBR*Beira Airport*Beira, Mozambique
+BEX*EGUB*RAF Benson*Benson, England, United Kingdom
+BEY*OLBA*Beirut–Rafic Hariri International Airport / Beirut Air Base*Beirut, Lebanon
+BEZ*NGBR*Beru Island Airport*Beru Island, Kiribati
+BFA*SGBN*Bahía Negra Airport*Bahía Negra, Paraguay
+BFC**Bloomfield Airport*Bloomfield, Queensland, Australia
+BFD*KBFD*Bradford Regional Airport*Bradford, Pennsylvania, United States
+BFE*EDLI*Bielefeld Airport*Bielefeld, North Rhine-Westphalia, Germany
+BFF*KBFF*Western Nebraska Regional Airport (William B. Heilig Field)*Scottsbluff, Nebraska, United States
+BFG**Bullfrog Basin Airport (FAA: U07)*Glen Canyon, Utah, United States
+BFH*SBBI*Bacacheri Airport*Curitiba, Paraná, Brazil
+BFI*KBFI*Boeing Field/King County International Airport*Seattle, Washington, United States
+BFJ*ZUBJ*Bijie Feixiong Airport*Bijie, Guizhou, China
+BFK*KBKF*Buckley Air Force Base*Aurora, Colorado, United States
+BFL*KBFL*Meadows Field Airport*Bakersfield, California, United States
+BFM*KBFM*Mobile Downtown Airport*Mobile, Alabama, United States
+BFN*FABL*Bloemfontein Airport*Bloemfontein, South Africa
+BFO*FVCZ*Buffalo Range Airport*Chiredzi, Zimbabwe
+BFP*KBVI*Beaver County Airport (FAA: BVI)*Beaver Falls, Pennsylvania, United States
+BFQ**Bahía Piña Airport*Puerto Piña, Panama
+BFR*KBFR*Virgil I. Grissom Municipal Airport*Bedford, Indiana, United States
+BFS*EGAA*Belfast International Airport*Belfast, Northern Ireland, United Kingdom
+BFT*KARW*Beaufort County Airport (FAA: ARW)*Beaufort County, South Carolina, United States
+BFU*ZSBB*Bengbu Airport*Bengbu, Anhui, China
+BFV*VTUO*Buriram Airport*Buriram, Thailand
+BFW*DAOS*Sidi Bel Abbès Airport*Sidi Bel Abbès, Algeria
+BFX*FKKU*Bafoussam Airport*Bafoussam, Cameroon
+BGA*SKBG*Palonegro International Airport*Bucaramanga, Colombia
+BGB*FOGB*Booué Airport*Booué, Gabon
+BGC*LPBG*Bragança Airport*Bragança, Portugal
+BGD*KBGD*Hutchinson County Airport*Borger, Texas, United States
+BGE*KBGE*Decatur County Industrial Air Park*Bainbridge, Georgia, United States
+BGF*FEFF*Bangui M'Poko International Airport*Bangui, Central African Republic
+BGG*LTCU*Bingöl Airport*Bingöl, Turkey
+BGH*GQNE*Abbaye Airport*Bogué, Mauritania
+BGI*TBPB*Grantley Adams International Airport*Bridgetown, Barbados
+BGJ*BIBF*Borgarfjörður Eystri Airport*Borgarfjörður Eystri, Iceland
+BGK**Big Creek Airport*Big Creek, Belize
+BGL*VNBL*Balewa Airport*Baglung, Nepal
+BGM*KBGM*Greater Binghamton Airport (Edwin A. Link Field)*Binghamton, New York, United States
+BGN*UESG*Belaya Gora Airport*Belaya Gora, Yakutia, Russia
+BGO*ENBR*Bergen Airport, Flesland*Bergen, Norway
+BGP**Bongo Airport*Bongo, Gabon
+BGQ*PAGQ*Big Lake Airport*Big Lake, Alaska, United States
+BGR*KBGR*Bangor International Airport*Bangor, Maine, United States
+BGT**Bagdad Airport (FAA: E51)*Bagdad, Arizona, United States
+BGU*FEFG*Bangassou Airport*Bangassou, Central African Republic
+BGV**Bento Gonçalves Airport*Bento Gonçalves, Rio Grande do Sul, Brazil
+BGW*ORBI*Baghdad International Airport*Baghdad, Iraq
+BGX*SBBG*Comandante Gustavo Kraemer Airport*Bagé, Rio Grande do Sul, Brazil
+BGY*LIME*Il Caravaggio International Airport (Orio al Serio Airport)*Milan / Bergamo, Lombardy, Italy
+BGZ*LPBR*Braga Airport*Braga, Portugal
+BHA*SESV*Los Perales Airport*Bahía de Caráquez, Ecuador
+BHB*KBHB*Hancock County-Bar Harbor Airport*Bar Harbor, Maine, United States
+BHD*EGAC*George Best Belfast City Airport*Belfast, Northern Ireland, United Kingdom
+BHE*NZWB*Woodbourne Airport*Blenheim, New Zealand
+BHF*SKCP*Bahía Cupica Airport*Bahía Cupica, Colombia
+BHG**Brus Laguna Airport*Brus Laguna, Honduras
+BHH*OEBH*Bisha Domestic Airport*Bisha, Saudi Arabia
+BHI*SAZB*Comandante Espora Airport*Bahía Blanca, Buenos Aires, Argentina
+BHJ*VABJ*Bhuj Airport / Bhuj Rudra Mata Air Force Base*Bhuj, Gujarat, India
+BHK*UTSB*Bukhara International Airport*Bukhara, Uzbekistan
+BHL**Bahía de los Ángeles Airport*Bahía de los Ángeles, Baja California, Mexico
+BHM*KBHM*Birmingham–Shuttlesworth International Airport*Birmingham, Alabama, United States
+BHN*OYBN*Beihan Airport*Beihan, Yemen
+BHO*VABP*Raja Bhoj Airport*Bhopal, Madhya Pradesh, India
+BHP*VNBJ*Bhojpur Airport*Bhojpur, Nepal
+BHQ*YBHI*Broken Hill Airport*Broken Hill, New South Wales, Australia
+BHR*VNBP*Bharatpur Airport*Bharatpur, Nepal
+BHS*YBTH*Bathurst Airport*Bathurst, New South Wales, Australia
+BHT**Brighton Downs Airport*Brighton Downs, Queensland, Australia
+BHU*VABV*Bhavnagar Airport*Bhavnagar, Gujarat, India
+BHV*OPBW*Bahawalpur Airport*Bahawalpur, Pakistan
+BHW**Bhagatanwala Airport*Sargodha, Pakistan
+BHX*EGBB*Birmingham Airport*Birmingham, England, United Kingdom
+BHY*ZGBH*Beihai Fucheng Airport*Beihai, Guangxi, China
+BHZ**metropolitan area3*Belo Horizonte, Minas Gerais, Brazil
+BIA*LFKB*Bastia – Poretta Airport*Bastia, Corsica, France
+BIB*HCMB*Baidoa Airport*Baidoa, Somalia
+BID*KBID*Block Island State Airport*Block Island, Rhode Island, United States
+BIE*KBIE*Beatrice Municipal Airport*Beatrice, Nebraska, United States
+BIF*KBIF*Biggs Army Airfield*El Paso, Texas, United States
+BIG*PABI*Allen Army Airfield*Delta Junction, Alaska, United States
+BIH*KBIH*Eastern Sierra Regional Airport*Bishop, California, United States
+BII**Bikini Atoll Airport*Bikini Atoll, Marshall Islands
+BIJ**Biliau Airport*Biliau, Papua New Guinea
+BIK*WABB*Frans Kaisiepo Airport*Biak, Indonesia
+BIL*KBIL*Billings Logan International Airport*Billings, Montana, United States
+BIM*MYBS*South Bimini Airport*Bimini, Bahamas
+BIN*OABN*Bamyan Airport*Bamyan, Afghanistan
+BIO*LEBB*Bilbao Airport*Bilbao, Basque Country, Spain
+BIP**Bulimba Airport*Bulimba, Queensland, Australia
+BIQ*LFBZ*Biarritz Pays Basque Airport*Biarritz, Aquitaine, France
+BIR*VNVT*Biratnagar Airport*Biratnagar, Nepal
+BIS*KBIS*Bismarck Municipal Airport*Bismarck, North Dakota, United States
+BIT*VNBT*Baitadi Airport*Baitadi, Nepal
+BIU*BIBD*Bíldudalur Airport*Bíldudalur, Iceland
+BIV*FEFR*Bria Airport*Bria, Central African Republic
+BIW**Billiluna Airport*Billiluna, Western Australia, Australia
+BIX*KBIX*Keesler Air Force Base*Biloxi, Mississippi, United States
+BIY*FABE*Bhisho Airport*Bhisho, South Africa
+BIZ**Bimin Airport*Bimin, Papua New Guinea
+BJA*DAAE*Soummam – Abane Ramdane Airport*Béjaïa, Algeria
+BJB*OIMN*Bojnord Airport*Bojnord, Iran
+BJC*KBJC*Rocky Mountain Metropolitan Airport*Denver, Colorado, United States
+BJD*BIBK*Bakkafjörður Airport*Bakkafjörður, Iceland
+BJE**Baleela Airport*Baleela, Sudan
+BJF*ENBS*Båtsfjord Airport*Båtsfjord, Norway
+BJG**Kotamobagu Mopait Airport*Kotamobagu, Indonesia
+BJH*VNBG*Bajhang Airport*Bajhang, Nepal
+BJI*KBJI*Bemidji Regional Airport*Bemidji, Minnesota, United States
+BJJ*KBJJ*Wayne County Airport*Wooster, Ohio, United States
+BJK*WAPK*Benjina Airport (Nangasuri Airport)*Benjina, Indonesia
+BJL*GBYD*Banjul International Airport*Banjul, Gambia
+BJM*HBBA*Bujumbura International Airport*Bujumbura, Burundi
+BJN**Bajone Airport*Bajone, Mozambique
+BJO*SLBJ*Bermejo Airport*Bermejo, Bolivia
+BJP*SBBP*Arthur Siqueira–Bragança Paulista State Airport*Bragança Paulista, São Paulo, Brazil
+BJQ**Bahja Airport*Bahja, Oman
+BJR*HABD*Bahir Dar Airport*Bahir Dar, Ethiopia
+BJS**metropolitan area4*Beijing, China
+BJT**Bentota River Airport*Bentota, Sri Lanka
+BJU*VNBR*Bajura Airport*Bajura, Nepal
+BJV*LTFE*Milas–Bodrum Airport*Milas / Bodrum, Turkey
+BJW*WRKB*Bajawa Soa Airport*Bajawa, Indonesia
+BJX*MMLO*Del Bajío International Airport (Guanajuato Int'l Airport)*León, Guanajuato, Mexico
+BJY*LYBT*Batajnica Air Base*Batajnica, Serbia
+BJZ*LEBZ*Badajoz Airport (Talavera la Real Air Base)*Badajoz, Extremadura, Spain
+BKA*UUBB*Bykovo Airport*Moscow, Russia
+BKB*VIBK*Nal Airport*Bikaner, Rajasthan, India
+BKC*PABL*Buckland Airport (FAA: BVK)*Buckland, Alaska, United States
+BKD*KBKD*Stephens County Airport*Breckenridge, Texas, United States
+BKE*KBKE*Baker City Municipal Airport*Baker City, Oregon, United States
+BKF**Lake Brooks Seaplane Base*Brooks Camp, Alaska, United States
+BKG*KBBG*Branson Airport (FAA: BBG)*Branson, Missouri, United States
+BKH*PHBK*Barking Sands PMRF*Kekaha, Hawaii, United States
+BKI*WBKK*Kota Kinabalu International Airport*Kota Kinabalu, Sabah, Malaysia
+BKJ*GUOK*Boké Baralande Airport*Boké, Guinea
+BKK*VTBS*Suvarnabhumi Airport*Bangkok, Thailand
+BKL*KBKL*Cleveland Burke Lakefront Airport*Cleveland, Ohio, United States
+BKM*WBGQ*Bakelalan Airport*Bakelalan, Sarawak, Malaysia
+BKN**Balkanabat Airport*Balkanabat, Turkmenistan
+BKO*GABS*Bamako–Sénou International Airport*Bamako, Mali
+BKP*YBAW*Barkly Downs Airport*Barkly Downs, Queensland, Australia
+BKQ*YBCK*Blackall Airport*Blackall, Queensland, Australia
+BKR*FTTK*Bokoro Airport*Bokoro, Chad
+BKS*WIPL*Fatmawati Soekarno Airport*Bengkulu, Indonesia
+BKT*KBKT*Blackstone Army Airfield (Allen C. Perkinson Airport)*Blackstone, Virginia, United States
+BKU*FMSV*Betioky Airport*Betioky, Madagascar
+BKW*KBKW*Raleigh County Memorial Airport*Beckley, West Virginia, United States
+BKX*KBKX*Brookings Regional Airport*Brookings, South Dakota, United States
+BKY*FZMA*Kavumu Airport*Bukavu, Democratic Republic of the Congo
+BKZ*HTBU*Bukoba Airport*Bukoba, Tanzania
+BLA*SVBC*General José Antonio Anzoátegui International Airport*Barcelona, Venezuela
+BLB*MPHO*Panamá Pacífico International Airport (former Howard AFB)*Panama Pacifico, Panama
+BLC*FKKG*Bali Airport*Bali, Cameroon
+BLD**Boulder City Municipal Airport (FAA: 61B)*Boulder City, Nevada, United States
+BLE*ESSD*Dala Airport (Borlänge Airport)*Borlänge, Sweden
+BLF*KBLF*Mercer County Airport*Bluefield, West Virginia, United States
+BLG*WBGC*Belaga Airport*Belaga, Sarawak, Malaysia
+BLH*KBLH*Blythe Airport*Blythe, California, United States
+BLI*KBLI*Bellingham International Airport*Bellingham, Washington, United States
+BLJ*DABT*Mostépha Ben Boulaid Airport*Batna, Algeria
+BLK*EGNH*Blackpool Airport*Blackpool, England, United Kingdom
+BLL*EKBI*Billund Airport*Billund, Denmark
+BLM*KBLM*Monmouth Executive Airport*Belmar / Farmingdale, New Jersey, United States
+BLN*YBLA*Benalla Airport*Benalla, Victoria, Australia
+BLO*BIBL*Blönduós Airport*Blönduós, Iceland
+BLP*SPBL*Huallaga Airport*Bellavista, Peru
+BLQ*LIPE*Bologna Guglielmo Marconi Airport*Bologna, Emilia-Romagna, Italy
+BLR*VOBL*Kempegowda International Airport*Bangalore, Karnataka, India
+BLS*YBLL*Bollon Airport*Bollon, Queensland, Australia
+BLT*YBTR*Blackwater Airport*Blackwater, Queensland, Australia
+BLU*KBLU*Blue Canyon–Nyack Airport*Emigrant Gap, California, United States
+BLV*KBLV*MidAmerica St. Louis Airport / Scott Air Force Base*Belleville, Illinois, United States
+BLX*LIDB*Belluno Airport*Belluno, Veneto, Italy
+BLY*EIBT*Belmullet Aerodrome*Belmullet, Ireland
+BLZ*FWCL*Chileka International Airport*Blantyre, Malawi
+BMA*ESSB*Stockholm Bromma Airport*Stockholm, Sweden
+BMB*FZFU*Bumba Airport*Bumba, Democratic Republic of the Congo
+BMC*KBMC*Brigham City Airport*Brigham City, Utah, United States
+BMD*FMML*Belo sur Tsiribihina Airport*Belo sur Tsiribihina, Madagascar
+BME*YBRM*Broome International Airport*Broome, Western Australia, Australia
+BMF*FEGM*Bakouma Airport*Bakouma, Central African Republic
+BMG*KBMG*Monroe County Airport*Bloomington, Indiana, United States
+BMH*AYBO*Bomai Airport*Bomai, Papua New Guinea
+BMI*KBMI*Central Illinois Regional Airport*Bloomington, Illinois, United States
+BMJ*SYBR*Baramita Airport*Baramita, Guyana
+BMK*EDWR*Borkum Airfield*Borkum, Lower Saxony, Germany
+BML*KBML*Berlin Regional Airport*Berlin, New Hampshire, United States
+BMM*FOOB*Bitam Airport*Bitam, Gabon
+BMN*ORBB*Bamarni Airport*Bamarni, Iraq
+BMO*VYBM*Bhamo Airport*Bhamo, Myanmar
+BMP*YBPI*Brampton Island Airport*Brampton Island, Queensland, Australia
+BMQ**Bamburi Airport*Bamburi, Kenya
+BMR*EDWZ*Baltrum Airport*Baltrum, Lower Saxony, Germany
+BMS*SNBU*Socrates Mariani Bittencourt Airport*Brumado, Bahia, Brazil
+BMT*KBMT*Beaumont Municipal Airport*Beaumont, Texas, United States
+BMU*WADB*Sultan Muhammad Salahudin Airport (Bima Airport)*Bima, Indonesia
+BMV*VVBM*Buon Ma Thuot Airport*Buon Ma Thuot, Vietnam
+BMW*DATM*Bordj Mokhtar Airport*Bordj Badji Mokhtar, Algeria
+BMX*PABM*Big Mountain Air Force Station (FAA: 37AK)*Big Mountain, Alaska, United States
+BMY*NWWC*Île Art – Waala Airport*Waala, Belep Islands, New Caledonia
+BMZ*AYBF*Bamu Airport*Bamu, Papua New Guinea
+BNA*KBNA*Nashville International Airport*Nashville, Tennessee, United States
+BNB*FZGN*Boende Airport*Boende, Democratic Republic of the Congo
+BNC*FZNP*Beni Airport*Beni, Democratic Republic of the Congo
+BND*OIKB*Bandar Abbas International Airport*Bandar Abbas, Iran
+BNE*YBBN*Brisbane Airport*Brisbane, Queensland, Australia
+BNF**Warm Springs Bay Seaplane Base*Baranof Warm Springs, Alaska, United States
+BNG*KBNG*Banning Municipal Airport*Banning, California, United States
+BNI*DNBE*Benin Airport*Benin City, Nigeria
+BNK*YBNA*Ballina Byron Gateway Airport*Ballina, New South Wales, Australia
+BNL*KBNL*Barnwell Regional Airport*Barnwell, South Carolina, United States
+BNM*AYBD*Bodinumu Airport*Bodinumu, Papua New Guinea
+BNN*ENBN*Brønnøysund Airport, Brønnøy*Brønnøysund, Norway
+BNO*KBNO*Burns Municipal Airport*Burns, Oregon, United States
+BNP*OPBN*Bannu Airport*Bannu, Pakistan
+BNQ**Baganga Airport*Baganga, Philippines
+BNR*DFOB*Banfora Airport*Banfora, Burkina Faso
+BNS*SVBI*Barinas Airport*Barinas, Venezuela
+BNT*AYDI*Bundi Airport*Bundi, Papua New Guinea
+BNU*SSBL*Blumenau Airport*Blumenau, Santa Catarina, Brazil
+BNV**Boana Airport*Boana, Papua New Guinea
+BNW*KBNW*Boone Municipal Airport*Boone, Iowa, United States
+BNX*LQBK*Banja Luka International Airport*Banja Luka, Bosnia and Herzegovina
+BNY*AGGB*Bellona/Anua Airport*Bellona Island, Rennell and Bellona, Solomon Islands
+BNZ**Banz Airport*Banz, Papua New Guinea
+BOA*FZAJ*Boma Airport*Boma, Democratic Republic of the Congo
+BOB*NTTB*Bora Bora Airport (Motu Mute Airport)*Bora Bora, French Polynesia
+BOC*MPBO*Bocas del Toro "Isla Colón" International Airport*Bocas Town, Panama
+BOD*LFBD*Bordeaux–Mérignac Airport*Bordeaux, Aquitaine, France
+BOE*FCOB*Boundji Airport*Boundji, Republic of the Congo
+BOG*SKBO*El Dorado International Airport*Bogotá, Colombia
+BOH*EGHH*Bournemouth Airport*Bournemouth, England, United Kingdom
+BOI*KBOI*Boise Air Terminal (Gowen Field)*Boise, Idaho, United States
+BOJ*LBBG*Burgas Airport*Burgas, Bulgaria
+BOK*KBOK*Brookings Airport*Brookings, Oregon, United States
+BOL*EGQB*Ballykelly Airfield (RAF Ballykelly)*Ballykelly, Northern Ireland, United Kingdom
+BOM*VABB*Chhatrapati Shivaji International Airport*Mumbai, Maharashtra, India
+BON*TNCB*Flamingo International Airport*Kralendijk, Bonaire, Caribbean Netherlands
+BOO*ENBO*Bodø Airport*Bodø, Norway
+BOP*FEFO*Bouar Airport*Bouar, Central African Republic
+BOQ**Boku Airport*Boku, Papua New Guinea
+BOS*KBOS*Logan International Airport*Boston, Massachusetts, United States
+BOT*AYET*Bosset Airport*Bosset, Papua New Guinea
+BOU*LFLD*Bourges Airport*Bourges, Centre-Val de Loire, France
+BOV**Boang Island Airport*Boang Island, Papua New Guinea
+BOW*KBOW*Bartow Municipal Airport*Bartow, Florida, United States
+BOX*YBRL*Borroloola Airport*Borroloola, Northern Territory, Australia
+BOY*DFOO*Bobo Dioulasso Airport*Bobo-Dioulasso, Burkina Faso
+BOZ*FEGZ*Bozoum Airport*Bozoum, Central African Republic
+BPB**Boridi Airport*Boridi, Papua New Guinea
+BPC*FKKV*Bamenda Airport*Bamenda, Cameroon
+BPD*AYBP*Bapi Airport*Bapi, Papua New Guinea
+BPE*ZBDH*Qinhuangdao Beidaihe Airport*Qinhuangdao, Hebei, China
+BPF*AGBT*Batuna Airport*Batuna, Solomon Islands
+BPG*SBBW*Barra do Garças Airport*Barra do Garças, Mato Grosso, Brazil
+BPH*RPMF*Bislig Airport*Bislig, Philippines
+BPI*KBPI*Miley Memorial Field*Big Piney, Wyoming, United States
+BPK*AYBQ*Biangabip Airport*Biangabip, Papua New Guinea
+BPL*ZWBL*Bole Alashankou Airport*Bole, Xinjiang, China
+BPM*VOHY*Begumpet Airport*Hyderabad, Telangana, India
+BPN*WALL*Sultan Aji Muhammad Sulaiman Airport*Balikpapan, Indonesia
+BPS*SBPS*Porto Seguro Airport*Porto Seguro, Bahia, Brazil
+BPT*KBPT*Jack Brooks Regional Airport*Beaumont / Port Arthur, Texas, United States
+BPX*ZUBD*Qamdo Bamda Airport*Qamdo, Tibet Autonomous Region, China
+BPY*FMNQ*Besalampy Airport*Besalampy, Madagascar
+BQA*RPUR*Dr. Juan C. Angara Airport*Baler, Philippines
+BQB*YBLN*Busselton Regional Airport*Busselton, Western Australia, Australia
+BQE*GGBU*Bubaque Airport*Bubaque, Guinea-Bissau
+BQG*UHNB*Bogorodskoye Airport*Bogorodskoye, Khabarovsk Krai, Russia
+BQH*EGKB*London Biggin Hill Airport*London / Biggin Hill, England, United Kingdom
+BQI**Bagani Airport*Bagani, Namibia
+BQJ**Batagay Airport*Batagay, Yakutia, Russia
+BQK*KBQK*Brunswick Golden Isles Airport*Brunswick, Georgia, United States
+BQL*YBOU*Boulia Airport*Boulia, Queensland, Australia
+BQN*TJBQ*Rafael Hernández Airport*Aguadilla, Puerto Rico, United States
+BQO*DIBN*Tehini Airport*Bouna, Ivory Coast
+BQQ*SNBX*Barra Airport*Barra, Bahia, Brazil
+BQS*UHBB*Ignatyevo Airport*Blagoveshchensk, Amur Oblast, Russia
+BQT*UMBB*Brest Airport*Brest, Belarus
+BQU*TVSB*J. F. Mitchell Airport*Bequia, Saint Vincent and the Grenadines
+BQV**Bartlett Cove Seaplane Base*Bartlett Cove, Alaska, United States
+BQW*YBGO*Balgo Hill Airport*Balgo Hill, Western Australia, Australia
+BRA*SNBR*Barreiras Airport*Barreiras, Bahia, Brazil
+BRB*SBRR*Barreirinhas Airport*Barreirinhas, Maranhão, Brazil
+BRC*SAZS*San Carlos de Bariloche Airport*San Carlos de Bariloche, Río Negro, Argentina
+BRD*KBRD*Brainerd Lakes Regional Airport*Brainerd, Minnesota, United States
+BRE*EDDW*Bremen Airport*Bremen, Bremen, Germany
+BRH**Brahman Airport*Brahman, Papua New Guinea
+BRJ**Bright Airport*Bright, Victoria, Australia
+BRK*YBKE*Bourke Airport*Bourke, New South Wales, Australia
+BRL*KBRL*Southeast Iowa Regional Airport*Burlington, Iowa, United States
+BRM*SVBM*Jacinto Lara International Airport*Barquisimeto, Venezuela
+BRN*LSZB*Bern Airport*Bern, Switzerland
+BRO*KBRO*Brownsville/South Padre Island International Airport*Brownsville, Texas, United States
+BRP*AYBR*Biaru Airport*Biaru, Papua New Guinea
+BRR*EGPR*Barra Airport*Barra, Scotland, United Kingdom
+BRS*EGGD*Bristol Airport*Bristol, England, United Kingdom
+BRT*YBTI*Bathurst Island Airport*Bathurst Island, Northern Territory, Australia
+BRU*EBBR*Brussels Airport (Zaventem Airport)*Brussels, Belgium
+BRV*EDWB*Bremerhaven Airport*Bremerhaven, Bremen, Germany
+BRW*PABR*Wiley Post–Will Rogers Memorial Airport*Barrow, Alaska, United States
+BRX*MDBH*María Montez International Airport*Barahona, Dominican Republic
+BRY*KBRY*Samuels Field*Bardstown, Kentucky, United States
+BSA*HCMF*Bender Qassim International Airport*Bosaso, Somalia
+BSB*SBBR*Brasília International Airport (Presidente J. Kubitschek Int'l Airport)*Brasília, Distrito Federal, Brazil
+BSC*SKBS*José Celestino Mutis Airport*Bahía Solano, Colombia
+BSD*ZPBS*Baoshan Yunduan Airport*Baoshan, Yunnan, China
+BSE*WBGN*Sematan Airport*Sematan, Sarawak, Malaysia
+BSF*PHSF*Bradshaw Army Airfield*Camp Pohakuloa, Hawaii, United States
+BSG*FGBT*Bata Airport*Bata, Equatorial Guinea
+BSI*RPLE*Balesin Airport*Balesin Island, Quezon, Philippines
+BSJ*YBNS*Bairnsdale Airport*Bairnsdale, Victoria, Australia
+BSK*DAUB*Biskra Airport*Biskra, Algeria
+BSL*LFSB*EuroAirport Basel-Mulhouse-Freiburg*Basel, Switzerland
+BSM*OINJ*Bishe Kola Air Base*Amol, Iran
+BSN*FEFS*Bossangoa Airport*Bossangoa, Central African Republic
+BSO*RPUO*Basco Airport*Basco, Philippines
+BSP*AYBH*Bensbach Airport*Bensbach, Papua New Guinea
+BSQ**Bisbee Municipal Airport (FAA: P04)*Bisbee, Arizona, United States
+BSR*ORMM*Basra International Airport*Basra, Iraq
+BSS*SNBS*Balsas Airport*Balsas, Maranhão, Brazil
+BST*OABT*Bost Airport*Lashkar Gah (Bost), Afghanistan
+BSU*FZEN*Basankusu Airport*Basankusu, Democratic Republic of the Congo
+BSV**Besakoa Airport*Besakoa, Madagascar
+BSW**Boswell Bay Airport (FAA: AK97)*Boswell Bay, Alaska, United States
+BSX*VYPN*Pathein Airport*Pathein, Myanmar
+BSY*HCMD*Bardera Airport*Bardera, Somalia
+BTA*FKKO*Bertoua Airport*Bertoua, Cameroon
+BTB*FCOT*Bétou Airport*Bétou, Republic of the Congo
+BTC*VCCB*Batticaloa Airport*Batticaloa, Sri Lanka
+BTD**Brunette Downs Airport*Brunette Downs, Northern Territory, Australia
+BTE*GFBN*Sherbro International Airport*Bonthe, Sierra Leone
+BTF*KBTF*Skypark Airport*Bountiful, Utah, United States
+BTG*FEGF*Batangafo Airport*Batangafo, Central African Republic
+BTH*WIDD*Hang Nadim Airport*Batam, Indonesia
+BTI*PABA*Barter Island LRRS Airport*Barter Island, Alaska, United States
+BTJ*WITT*Sultan Iskandar Muda International Airport*Banda Aceh, Indonesia
+BTK*UIBB*Bratsk Airport*Bratsk, Irkutsk Oblast, Russia
+BTL*KBTL*W. K. Kellogg Airport*Battle Creek, Michigan, United States
+BTM*KBTM*Bert Mooney Airport*Butte, Montana, United States
+BTN*KBBP*Marlboro County Jetport (FAA: BBP)*Bennettsville, South Carolina, United States
+BTO**Botopasi Airstrip*Botopasi, Suriname
+BTP*KBTP*Butler County Airport (K.W. Scholter Field)*Butler, Pennsylvania, United States
+BTQ*HRYI*Butare Airport*Butare, Rwanda
+BTR*KBTR*Baton Rouge Metropolitan Airport (Ryan Field)*Baton Rouge, Louisiana, United States
+BTS*LZIB*M. R. Štefánik Airport*Bratislava, Slovakia
+BTT*PABT*Bettles Airport*Bettles, Alaska, United States
+BTU*WBGB*Bintulu Airport*Bintulu, Sarawak, Malaysia
+BTV*KBTV*Burlington International Airport*Burlington, Vermont, United States
+BTW*WAOC*Batu Licin Airport*Batu Licin, Indonesia
+BTX*YBEO*Betoota Airport*Betoota, Queensland, Australia
+BTY*KBTY*Beatty Airport*Beatty, Nevada, United States
+BUA*AYBK*Buka Island Airport*Buka Island, Papua New Guinea
+BUB*KBUB*Cram Field*Burwell, Nebraska, United States
+BUC*YBKT*Burketown Airport*Burketown, Queensland, Australia
+BUD*LHBP*Budapest Ferenc Liszt International Airport*Budapest, Hungary
+BUE**metropolitan area5*Buenos Aires, Argentina
+BUF*KBUF*Buffalo Niagara International Airport*Buffalo, New York, United States
+BUG*FNBG*Benguela Airport (Gen. V. Deslandes Airport)*Benguela, Angola
+BUH**metropolitan area6*Bucharest, Romania
+BUI*WAJB*Bokondini Airport*Bokondini, Indonesia
+BUJ*DAAD*Bou Saada Airport*Bou Saâda, Algeria
+BUK**Albuq Airport*Albuq, Yemen
+BUL*AYBU*Bulolo Airport*Bulolo, Papua New Guinea
+BUM*KBUM*Butler Memorial Airport*Butler, Missouri, United States
+BUN*SKBU*Gerardo Tobar López Airport*Buenaventura, Colombia
+BUO*HCMV*Burao Airport*Burao, Somalia
+BUP*VIBT*Bathinda Airport (Bhisiana Air Force Station)*Bathinda, Punjab, India
+BUQ*FVBU*Joshua Mqabuko Nkomo International Airport*Bulawayo, Zimbabwe
+BUR*KBUR*Bob Hope Airport*Burbank, California, United States
+BUS*UGSB*Batumi International Airport (Alexander Kartveli Batumi Int'l Airport)*Batumi, Georgia
+BUT*VQBT*Bathpalathang Airport*Jakar, Bhutan
+BUU*WIPI*Muara Bungo Airport*Bungo Regency, Jambi, Indonesia
+BUV*SUBU*Placeres Airport*Bella Unión, Uruguay
+BUW*WAWB*Betoambari Airport*Bau-Bau, Indonesia
+BUX*FZKA*Bunia Airport*Bunia, Democratic Republic of the Congo
+BUY*YBUN*Bunbury Airport*Bunbury, Western Australia, Australia
+BUZ*OIBB*Bushehr Airport*Bushehr, Iran
+BVA*LFOB*Beauvais–Tillé Airport*Beauvais, Picardy, France
+BVB*SBBV*Boa Vista International Airport*Boa Vista, Roraima, Brazil
+BVC*GVBA*Aristides Pereira International Airport (Rabil Airport)*Boa Vista, Cape Verde
+BVE*LFSL*Brive–Souillac Airport*Brive-la-Gaillarde, Limousin, France
+BVF*NFNU*Dama Airport*Bua, Fiji
+BVG*ENBV*Berlevåg Airport*Berlevåg, Norway
+BVH*SBVH*Vilhena Airport (Brigadeiro Camarão Airport)*Vilhena, Rondônia, Brazil
+BVI*YBDV*Birdsville Airport*Birdsville, Queensland, Australia
+BVK*SLHJ*Huacaraje Airport*Huacaraje, Bolivia
+BVL*SLBU*Baures Airport*Baures, Bolivia
+BVM*SNBL*Belmonte Airport*Belmonte, Bahia, Brazil
+BVO*KBVO*Bartlesville Municipal Airport*Bartlesville, Oklahoma, United States
+BVP**Bolovip Airport*Bolovip, Papua New Guinea
+BVR*GVBR*Esperadinha Airport*Brava, Cape Verde
+BVS*SNVS*Breves Airport*Breves, Pará, Brazil
+BVU*PABG*Beluga Airport (FAA: BLG)*Beluga, Alaska, United States
+BVV*UHSB*Burevestnik Airport*Burevestnik, Sakhalin Oblast, Russia
+BVW**Batavia Downs Airport*Batavia Downs, Queensland, Australia
+BVX*KBVX*Batesville Regional Airport*Batesville, Arkansas, United States
+BVY*KBVY*Beverly Municipal Airport*Beverly, Massachusetts, United States
+BVZ*YBYS*Beverley Springs Airport*Beverley Springs, Western Australia, Australia
+BWA*VNBW*Gautam Buddha Airport*Siddharthanagar (Bhairawa), Nepal
+BWB*YBWX*Barrow Island Airport*Barrow Island, Western Australia, Australia
+BWC*KBWC*Brawley Municipal Airport*Brawley, California, United States
+BWD*KBWD*Brownwood Regional Airport*Brownwood, Texas, United States
+BWE*EDVE*Braunschweig–Wolfsburg Airport*Braunschweig, Lower Saxony, Germany
+BWF*EGNL*Barrow/Walney Island Airport*Barrow-in-Furness, England, United Kingdom
+BWG*KBWG*Bowling Green-Warren County Regional Airport*Bowling Green, Kentucky, United States
+BWH*WMKB*RMAF Butterworth*Butterworth, Penang, Malaysia
+BWI*KBWI*Baltimore/Washington International Thurgood Marshall Airport*Baltimore–Washington metropolitan area, United States
+BWJ**Bawan Airport*Bawan, Papua New Guinea
+BWL*KBKN*Blackwell–Tonkawa Municipal Airport (FAA: BKN)*Blackwell, Oklahoma, United States
+BWM*KBPP*Bowman Municipal Airport (FAA: BPP)*Bowman, North Dakota, United States
+BWN*WBSB*Brunei International Airport*Bandar Seri Begawan, Brunei
+BWO*UWSB*Balakovo Airport*Balakovo, Saratov Oblast, Russia
+BWP*AYBI*Bewani Airport*Bewani, Papua New Guinea
+BWQ*YBRW*Brewarrina Airport*Brewarrina, New South Wales, Australia
+BWT*YWYY*Burnie Airport*Burnie, Tasmania, Australia
+BWU*YSBK*Bankstown Airport*Bankstown, New South Wales, Australia
+BWW*MUBR*Las Brujas Airport*Cayo Santa María, Cuba
+BWX*WADY*Banyuwangi Airport*Banyuwangi, Indonesia
+BXA*KBXA*George R. Carr Memorial Air Field*Bogalusa, Louisiana, United States
+BXB*WASO*Babo Airport*Babo, Indonesia
+BXD*WAKE*Bade Airport*Bade, Indonesia
+BXE*GOTB*Bakel Airport*Bakel, Senegal
+BXF*YBEB*Bellburn Airstrip*Bellburn Camps, Western Australia, Australia
+BXG*YBDG*Bendigo Airport*Bendigo, Victoria, Australia
+BXH*UAAH*Balkhash Airport*Balkhash, Kazakhstan
+BXI*DIBI*Boundiali Airport*Boundiali, Ivory Coast
+BXJ*UAAR*Boraldai Airport*Almaty, Kazakhstan
+BXK*KBXK*Buckeye Municipal Airport*Buckeye, Arizona, United States
+BXL**Blue Lagoon Seaplane Base*Nanuya Lailai, Fiji
+BXM**Batom Airport*Batom, Indonesia
+BXN*LTBV*Bodrum-Imsik Airport*Bodrum, Turkey
+BXO*LSZC*Buochs Airport*Buochs, Switzerland
+BXR*OIKM*Bam Airport*Bam, Iran
+BXS**Borrego Valley Airport (FAA: L08)*Borrego Springs, California, United States
+BXT*WRLC*PT Badak Bontang Airport*Bontang, Indonesia
+BXU*RPME*Bancasi Airport*Butuan, Philippines
+BXV*BIBV*Breiðdalsvík Airport*Breiðdalsvík, Iceland
+BXX**Borama Airport*Borama, Somalia
+BXY*UAOL*Krayniy Airport*Baikonur, Kazakhstan
+BXZ*AYNS*Bunsil Airport*Bunsil, Papua New Guinea
+BYA**Boundary Airport*Boundary, Alaska, United States
+BYB**Dibba Airport*Dibba Al-Baya, Oman
+BYC*SLYA*Yacuiba Airport*Yacuíba, Bolivia
+BYD*OYBI*Al Bayda Airport*Al Bayda, Yemen
+BYF*LFAQ*Albert – Picardie Airport*Albert, Picardy, France
+BYG*KBYG*Johnson County Airport*Buffalo, Wyoming, United States
+BYH*KBYH*Arkansas International Airport*Blytheville, Arkansas, United States
+BYI*KBYI*Burley Municipal Airport*Burley, Idaho, United States
+BYJ*LPBJ*Beja Airport*Beja, Portugal
+BYK*DIBK*Bouaké Airport*Bouaké, Ivory Coast
+BYL**Bella Yella Airport*Bella Yella, Liberia
+BYM*MUBY*Carlos Manuel de Céspedes Airport*Bayamo, Cuba
+BYN*ZMBH*Bayankhongor Airport*Bayankhongor, Mongolia
+BYO*SBDB*Bonito Airport*Bonito, Mato Grosso do Sul, Brazil
+BYP*YBRY*Barimunya Airport*Barimunya, Western Australia, Australia
+BYQ*WALV*Bunyu Airport*Bunyu, Indonesia
+BYR*EKLS*Læsø Airport*Læsø, Denmark
+BYS*KBYS*Bicycle Lake Army Airfield (Fort Irwin)*Barstow, California, United States
+BYT*EIBN*Bantry Aerodrome*Bantry, Ireland
+BYU*EDQD*Bindlacher Berg Airport*Bayreuth, Bavaria, Germany
+BYV**Beira Lake Seaplane Base*Colombo, Sri Lanka
+BYW**Blakely Island Airport (FAA: 38WA)*Blakely Island, Washington, United States
+BYX**Baniyala Airport*Baniyala, Northern Territory, Australia
+BZA*MNBZ*San Pedro Airport*Bonanza, Nicaragua
+BZB**Bazaruto Island Airport*Bazaruto Island, Mozambique
+BZC*SBBZ*Umberto Modiano Airport*Armação dos Búzios, Rio de Janeiro, Brazil
+BZD*YBRN*Balranald Airport*Balranald, New South Wales, Australia
+BZE*MZBZ*Philip S. W. Goldson International Airport*Belize City, Belize
+BZF**Benton Field*Redding, California, United States
+BZG*EPBY*Bydgoszcz Ignacy Jan Paderewski Airport*Bydgoszcz, Poland
+BZH**Bumi Hills Airstrip*Bumi Hills, Zimbabwe
+BZK*UUBP*Bryansk International Airport*Bryansk, Bryansk Oblast, Russia
+BZL*VGBR*Barisal Airport*Barisal, Bangladesh
+BZM**Bemolanga Airport*Bemolanga, Madagascar
+BZN*KBZN*Bozeman Yellowstone International Airport (Gallatin Field)*Bozeman, Montana, United States
+BZO*LIPB*Bolzano Airport*Bolzano, Trentino-Alto Adige/Südtirol, Italy
+BZP**Bizant Airport*Bizant, Queensland, Australia
+BZR*LFMU*Béziers Cap d'Agde Airport*Béziers, Languedoc-Roussillon, France
+BZT**Eagle Air Park*Brazoria, Texas, United States
+BZU*FZKJ*Buta Zega Airport*Buta, Democratic Republic of the Congo
+BZV*FCBB*Maya-Maya Airport*Brazzaville, Republic of the Congo
+BZZ*EGVN*RAF Brize Norton*Carterton, England, United Kingdom

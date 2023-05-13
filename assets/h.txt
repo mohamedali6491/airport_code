@@ -1,0 +1,293 @@
+HAA*ENHK*Hasvik Airport*Hasvik, Norway
+HAB*KHAB*Marion County – Rankin Fite Airport*Hamilton, Alabama, United States
+HAD*ESMT*Halmstad Airport (Halmstad City Airport)*Halmstad, Sweden
+HAF*KHAF*Half Moon Bay Airport*Half Moon Bay, California, United States
+HAH*FMCH*Prince Said Ibrahim International Airport*Moroni, Comoros
+HAI*KHAI*Three Rivers Municipal Airport (Dr. Haines Flying Field)*Three Rivers, Michigan, United States
+HAJ*EDDV*Hannover Airport*Hanover, Lower Saxony, Germany
+HAK*ZJHK*Haikou Meilan International Airport*Haikou, Hainan, China
+HAL*FYHI*Halali Airport*Halali, Namibia
+HAM*EDDH*Hamburg Airport*Hamburg, Germany
+HAN*VVNB*Noi Bai International Airport*Hanoi, Vietnam
+HAO*KHAO*Butler County Regional Airport*Hamilton, Ohio, United States
+HAQ*VRMH*Hanimaadhoo International Airport*Hanimaadhoo, Haa Dhaalu Atoll, Maldives
+HAR*KCXY*Capital City Airport (FAA: CXY)*Harrisburg, Pennsylvania, United States
+HAS*OEHL*Ha'il Regional Airport*Ha'il (Hail), Saudi Arabia
+HAT*YHTL*Heathlands Airport*Heathlands, Queensland, Australia
+HAU*ENHD*Haugesund Airport, Karmøy*Haugesund, Norway
+HAV*MUHA*José Martí International Airport*Havana, Cuba
+HAW*EGFE*Haverfordwest Aerodrome*Haverfordwest, Wales, United Kingdom
+HAZ**Hatzfeldthaven Airport*Hatzfeldthaven, Papua New Guinea
+HBA*YMHB*Hobart International Airport*Hobart, Tasmania, Australia
+HBB**Hobbs Industrial Airpark*Hobbs, New Mexico, United States
+HBD**Habi Airport*Habi, Papua New Guinea
+HBE*HEBA*Borg El Arab Airport*Alexandria / Borg El Arab, Egypt
+HBG*KHBG*Hattiesburg Bobby L. Chain Municipal Airport*Hattiesburg, Mississippi, United States
+HBH**Entrance Island Seaplane Base (Hobart Bay) (FAA: 2Z1)*Entrance Island, Alaska, United States
+HBK**Holbrook Municipal Airport (FAA: P14)*Holbrook, Arizona, United States
+HBR*KHBR*Hobart Regional Airport*Hobart, Oklahoma, United States
+HBT**Hambantota Sea Plane Base*Hambantota, Sri Lanka
+HBU*ZMBS*Bulgan Airport, Khovd*Bulgan (Khovd Province), Mongolia
+HBX*VAHB*Hubli Airport*Hubli / Dharwad, Karnataka, India
+HCA*KBPG*Big Spring McMahon–Wrinkle Airport (FAA: BPG)*Big Spring, Texas, United States
+HCC**Columbia County Airport (FAA: 1B1)*Hudson, New York, United States
+HCJ*ZGHC*Hechi Jinchengjiang Airport*Hechi, Guangxi, China
+HCM*HCME*Eyl Airport*Eyl, Somalia
+HCN*RCKW*Hengchun Airport*Hengchun, Taiwan
+HCQ*YHLC*Halls Creek Airport*Halls Creek, Western Australia, Australia
+HCR*PAHC*Holy Cross Airport (FAA: HCA)*Holy Cross, Alaska, United States
+HCW*KCQW*Cheraw Municipal Airport (Lynch Bellinger Field, FAA: CQW)*Cheraw, South Carolina, United States
+HDB*EDIU*Heidelberg Airport*Heidelberg, Baden-Württemberg, Germany
+HDD*OPKD*Hyderabad Airport*Hyderabad, Pakistan
+HDE*KHDE*Brewster Field*Holdrege, Nebraska, United States
+HDF*EDAH*Heringsdorf Airport*Heringsdorf, Mecklenburg-Vorpommern, Germany
+HDG*ZBHD*Handan Airport*Handan, Hebei, China
+HDM*OIHH*Hamadan Airport*Hamadan, Iran
+HDN*KHDN*Yampa Valley Airport*Hayden, Colorado, United States
+HDR*OIKP*Havadarya Airport*Bandar Abbas, Iran
+HDS*FAHS*Air Force Base Hoedspruit*Hoedspruit, South Africa
+HDY*VTSS*Hat Yai International Airport*Hat Yai, Thailand
+HEA*OAHR*Herat International Airport*Herat, Afghanistan
+HEB*VBHD*Hinthada Airport*Hinthada, Myanmar
+HED**Herendeen Bay Airport (FAA: AK33)*Herendeen Bay, Alaska, United States
+HEE*KHEE*Thompson–Robbins Airport*Helena-West Helena, Arkansas, United States
+HEH*VYHH*Heho Airport*Heho, Myanmar
+HEI*EDXB*Heide–Büsum Airport*Heide / Büsum, Schleswig-Holstein, Germany
+HEK*ZYHE*Heihe Airport*Heihe, Heilongjiang, China
+HEL*EFHK*Helsinki Airport (Helsinki-Vantaa Airport)*Helsinki, Finland
+HEM*EFHF*Helsinki-Malmi Airport*Helsinki, Finland
+HEO**Haelogo Airport*Haelogo, Papua New Guinea
+HER*LGIR*Heraklion International Airport (Nikos Kazantzakis Airport)*Heraklion, Greece
+HES*KHRI*Hermiston Municipal Airport (FAA: HRI)*Hermiston, Oregon, United States
+HET*ZBHH*Hohhot Baita International Airport*Hohhot, Inner Mongolia, China
+HEZ*KHEZ*Natchez–Adams County Airport (Hardy–Anders Field)*Natchez, Mississippi, United States
+HFA*LLHA*Haifa Airport (Uri Michaeli Airport)*Haifa, Israel
+HFD*KHFD*Hartford–Brainard Airport*Hartford, Connecticut, United States
+HFE*ZSOF*Hefei Xinqiao International Airport (formerly Hefei Luogang International Airport)*Hefei, Anhui, China
+HFF*KHFF*Mackall Army Airfield*Hoffman, North Carolina, United States
+HFN*BIHN*Hornafjörður Airport*Höfn, Iceland
+HFS*ESOH*Hagfors Airport*Hagfors, Sweden
+HFT*ENHF*Hammerfest Airport*Hammerfest, Norway
+HGA*HCMH*Hargeisa International Airport (Egal Int'l)*Hargeisa, Somalia
+HGD*YHUG*Hughenden Airport*Hughenden, Queensland, Australia
+HGE*SVHG*Higuerote Airport*Higuerote, Venezuela
+HGH*ZSHC*Hangzhou Xiaoshan International Airport*Hangzhou, Zhejiang, China
+HGI*HSFA*Paloich Airport*Higlieg, Sudan
+HGL*EDXH*Heligoland Airport (Düne Airport)*Heligoland, Schleswig-Holstein, Germany
+HGN*VTCH*Mae Hong Son Airport*Mae Hong Son, Thailand
+HGO*DIKO*Korhogo Airport*Korhogo, Ivory Coast
+HGR*KHGR*Hagerstown Regional Airport (Richard A. Henson Field)*Hagerstown, Maryland, United States
+HGS*GFHA*Hastings Airport*Freetown, Sierra Leone
+HGU*AYMH*Mount Hagen Airport*Mount Hagen, Papua New Guinea
+HGZ**Hog River Airport (FAA: 2AK6)*Hogatza, Alaska, United States
+HHE*RJSH*JMSDF Hachinohe Air Base*Hachinohe, Honshu, Japan
+HHH*KHXD*Hilton Head Airport (FAA: HXD)*Hilton Head Island, South Carolina, United States
+HHI*PHHI*Wheeler Army Airfield*Wahiawa, Hawaii, United States
+HHN*EDFH*Frankfurt–Hahn Airport*Hahn, Rhineland-Palatinate, Germany
+HHQ*VTPH*Hua Hin Airport*Hua Hin, Thailand
+HHR*KHHR*Hawthorne Municipal Airport (Jack Northrop Field)*Hawthorne, California, United States
+HHZ*NTGH*Hikueru Airport*Hikueru Atoll, French Polynesia
+HIA*ZSSH*Huai'an Lianshui Airport*Huai'an, Jiangsu, China
+HIB*KHIB*Range Regional Airport*Hibbing, Minnesota, United States
+HID*YHID*Horn Island Airport*Horn Island, Queensland, Australia
+HIE*KHIE*Mount Washington Regional Airport*Whitefield, New Hampshire, United States
+HIF*KHIF*Hill Air Force Base*Ogden, Utah, United States
+HIG*YHHY*Highbury Airport*Highbury, Queensland, Australia
+HII*KHII*Lake Havasu City Airport*Lake Havasu City, Arizona, United States
+HIJ*RJOA*Hiroshima Airport*Hiroshima, Honshu, Japan
+HIL*HASL*Shilavo Airport*Shilavo, Ethiopia
+HIM*VCCH*Hingurakgoda Airport (Minneriya Airport)*Hingurakgoda, Sri Lanka
+HIN*RKPS*Sacheon Airport*Jinju, South Korea
+HIO*KHIO*Hillsboro Airport (Portland–Hillsboro Airport)*Hillsboro / Portland, Oregon, United States
+HIP*YHDY*Headingly Airport*Headingly, Queensland, Australia
+HIR*AGGH*Honiara International Airport*Honiara, Guadalcanal, Solomon Islands
+HIT*AYHO*Haivaro Airport*Haivaro, Papua New Guinea
+HIW*RJBH*Hiroshima–Nishi Airport*Hiroshima, Honshu, Japan
+HJJ*ZGCJ*Huaihua Zhijiang Airport*Huaihua, Hunan, China
+HJR*VAKJ*Civil Aerodrome Khajuraho*Khajuraho, Madhya Pradesh, India
+HJT*ZMHU*Khujirt Airport*Khujirt, Mongolia
+HKA*KHKA*Blytheville Municipal Airport*Blytheville, Arkansas, United States
+HKB**Healy Lake Airport*Healy Lake, Alaska, United States
+HKD*RJCH*Hakodate Airport*Hakodate, Hokkaido, Japan
+HKG*VHHH*Hong Kong International Airport (Chek Lap Kok Airport)*Hong Kong
+HKK*NZHK*Hokitika Airport*Hokitika, New Zealand
+HKN*AYHK*Hoskins Airport*Kimbe, Papua New Guinea
+HKS*KHKS*Hawkins Field*Jackson, Mississippi, United States
+HKT*VTSP*Phuket International Airport*Phuket, Thailand
+HKV*LBHS*Haskovo Malevo Airport*Haskovo, Bulgaria
+HKY*KHKY*Hickory Regional Airport*Hickory, North Carolina, United States
+HLA*FALA*Lanseria International Airport*Johannesburg, South Africa
+HLB*KHLB*Hillenbrand Industries Airport*Batesville, Indiana, United States
+HLC*KHLC*Hill City Municipal Airport*Hill City, Kansas, United States
+HLD*ZBLA*Hulunbuir Hailar Airport*Hailar, Inner Mongolia, China
+HLE*FHSH*Saint Helena Airport (under construction)*Jamestown, British Overseas Territoryof Saint Helena, Ascension and Tristan da Cunha
+HLF*ESSF*Hultsfred-Vimmerby Airport*Hultsfred / Vimmerby, Sweden
+HLG*KHLG*Wheeling Ohio County Airport*Wheeling, West Virginia, United States
+HLH*ZBUL*Ulanhot Airport*Ulanhot, Inner Mongolia, China
+HLI*KCVH*Hollister Municipal Airport (FAA: CVH)*Hollister, California, United States
+HLL*YHIL*Hillside Airport*Hillside, Western Australia, Australia
+HLM*KHLM*Park Township Airport*Holland, Michigan, United States
+HLN*KHLN*Helena Regional Airport*Helena, Montana, United States
+HLP*WIHH*Halim Perdanakusuma International Airport*Jakarta, Indonesia
+HLR*KHLR*Hood Army Airfield*Fort Hood / Killeen, Texas, United States
+HLS*YSTH*St Helens Airport*St Helens, Tasmania, Australia
+HLT*YHML*Hamilton Airport*Hamilton, Victoria, Australia
+HLV**Helenvale Airport*Helenvale, Queensland, Australia
+HLW*FAHL*Hluhluwe Airport*Hluhluwe, South Africa
+HLZ*NZHN*Hamilton Airport*Hamilton, New Zealand
+HMA*USHH*Khanty-Mansiysk Airport*Khanty-Mansiysk, Khanty-Mansi Autonomous Okrug, Russia
+HMB*HEMK*Sohag International Airport*Sohag, Egypt
+HME*DAUH*Oued Irara–Krim Belkacem Airport*Hassi Messaoud, Algeria
+HMG*YHMB*Hermannsburg Airport*Hermannsburg, Northern Territory, Australia
+HMI*ZWHM*Hami Airport (Kumul Airport)*Hami, Xinjiang, China
+HMJ*UKLH*Khmelnytskyi Airport*Khmelnytsky, Ukraine
+HMN*KHMN*Holloman Air Force Base*Alamogordo, New Mexico, United States
+HMO*MMHO*General Ignacio Pesqueira García International Airport*Hermosillo, Sonora, Mexico
+HMR*ENHA*Hamar Airport, Stafsberg*Hamar, Norway
+HMT*KHMT*Hemet-Ryan Airport*Hemet, California, United States
+HMV*ESUT*Hemavan Tärnaby Airport*Hemavan / Tärnaby, Sweden
+HMY*RKTP*Seosan Air Base*Seosan, South Korea
+HNA*RJSI*Hanamaki Airport*Hanamaki, Honshu, Japan
+HNB*KHNB*Huntingburg Airport*Huntingburg, Indiana, United States
+HNC*KHSE*Billy Mitchell Airport (FAA: HSE)*Hatteras, North Carolina, United States
+HND*RJTT*Haneda Airport*Tokyo, Honshu, Japan
+HNH*PAOH*Hoonah Airport*Hoonah, Alaska, United States
+HNI**Heiweni Airport*Heiweni, Papua New Guinea
+HNL*PHNL*Honolulu International Airport*Honolulu, Hawaii, United States
+HNM*PHHN*Hana Airport*Hana, Hawaii, United States
+HNN**Honinabi Airport*Honinabi, Papua New Guinea
+HNS*PAHN*Haines Airport*Haines, Alaska, United States
+HNY*ZGHY*Hengyang Nanyue Airport*Hengyang, Hunan, China
+HOA*HKHO*Hola Airport*Hola, Kenya
+HOB*KHOB*Lea County Regional Airport*Hobbs, New Mexico, United States
+HOC**Komako Airport*Komako, Papua New Guinea
+HOD*OYHD*Hodeida International Airport*Al Hudaydah (Hodeida), Yemen
+HOE*VLHS*Ban Huoeisay Airport*Ban Houayxay (Ban Huoeisay), Laos
+HOF*OEAH*Al-Ahsa International Airport*Hofuf, Saudi Arabia
+HOG*MUHG*Frank País Airport*Holguín, Cuba
+HOH*LOIH*Hohenems-Dornbirn Airport*Dornbirn, Austria
+HOI*NTTO*Hao Airport*Hao, Tuamotus, French Polynesia
+HOK*YHOO*Hooker Creek Airport*Lajamanu, Northern Territory, Australia
+HOM*PAHO*Homer Airport*Homer, Alaska, United States
+HON*KHON*Huron Regional Airport*Huron, South Dakota, United States
+HOO**Nhon Co Airport*Quang Duc, Vietnam
+HOP*KHOP*Campbell Army Airfield*Fort Campbell / Hopkinsville, Kentucky, United States
+HOQ*EDQM*Hof–Plauen Airport*Hof, Bavaria, Germany
+HOR*LPHR*Horta Airport*Horta, Azores, Portugal
+HOS*SAHC*Chos Malal Airport*Chos Malal, Neuquén, Argentina
+HOT*KHOT*Memorial Field Airport*Hot Springs, Arkansas, United States
+HOU*KHOU*William P. Hobby Airport*Houston, Texas, United States
+HOV*ENOV*Ørsta–Volda Airport, Hovden*Ørsta / Volda, Norway
+HOX*VYHL*Homalin Airport*Homalin, Myanmar
+HOY**Hoy Island Airport*Longhope, Scotland, United Kingdom
+HPB*PAHP*Hooper Bay Airport*Hooper Bay, Alaska, United States
+HPE**Hopevale Airport*Hopevale, Queensland, Australia
+HPG*ZHSN*Shennongjia Hongping Airport*Shennongjia, Hubei, China
+HPH*VVCI*Cat Bi International Airport*Haiphong, Vietnam
+HPN*KHPN*Westchester County Airport*White Plains, New York, United States
+HPT*KHPT*Hampton Municipal Airport*Hampton, Iowa, United States
+HPV**Princeville Airport (FAA: HI01)*Hanalei, Hawaii, United States
+HPY*KHPY*Baytown Airport*Baytown, Texas, United States
+HQM*KHQM*Bowerman Airport*Hoquiam, Washington, United States
+HRB*ZYHB*Harbin Taiping International Airport*Harbin, Heilongjiang, China
+HRC**Zhayrem Airport*Zhayrem, Kazakhstan
+HRE*FVHA*Harare International Airport*Harare, Zimbabwe
+HRG*HEGN*Hurghada International Airport*Hurghada, Egypt
+HRI*VCRI*Mattala Rajapaksa International Airport*Hambantota, Sri Lanka
+HRK*UKHH*Kharkiv International Airport (Osnova Airport)*Kharkiv, Ukraine
+HRL*KHRL*Valley International Airport*Harlingen, Texas, United States
+HRM*DAFH*Hassi R'Mel Airport (Tilrempt Airport)*Hassi R'Mel, Algeria
+HRO*KHRO*Boone County Airport*Harrison, Arkansas, United States
+HRR**La Herrera Airport*La Herrera, Colombia
+HRS*FAHR*Harrismith Airport*Harrismith, South Africa
+HRT*EGXU*RAF Linton-on-Ouse*Linton-on-Ouse, England, United Kingdom
+HRY*YHBY*Henbury Airport*Henbury, Northern Territory, Australia
+HRZ*SSHZ*Horizontina Airport*Horizontina, Rio Grande do Sul, Brazil
+HSB*KHSB*Harrisburg-Raleigh Airport*Harrisburg, Illinois, United States
+HSC**Shaoguan Guitou Airport*Shaoguan, Guangdong, China
+HSG*RJFS*Saga Airport*Saga, Kyushu, Japan
+HSH*KHND*Henderson Executive Airport (FAA: HND)*Las Vegas, Nevada, United States
+HSI*KHSI*Hastings Municipal Airport*Hastings, Nebraska, United States
+HSJ**Zhengzhou Shangjie Airport*Zhengzhou, Henan, China
+HSK*LEHC*Huesca–Pirineos Airport*Huesca, Aragon, Spain
+HSL*PAHL*Huslia Airport (FAA: HLA)*Huslia, Alaska, United States
+HSM*YHSM*Horsham Airport*Horsham, Victoria, Australia
+HSN*ZSZS*Zhoushan Putuoshan Airport*Zhoushan, Zhejiang, China
+HSP*KHSP*Ingalls Field*Hot Springs, Virginia, United States
+HSS*VIHR*Hisar Airport*Hisar, Haryana, India
+HST*KHST*Homestead Air Reserve Base*Homestead, Florida, United States
+HSV*KHSV*Huntsville International Airport (Carl T. Jones Field)*Huntsville, Alabama, United States
+HSZ*RCPO*Hsinchu Air Base*Hsinchu, Taiwan
+HTA*UIAA*Chita International Airport (Kadala Airport)*Chita, Zabaykalsky Krai, Russia
+HTG*UOHH*Khatanga Airport*Khatanga, Krasnoyarsk Krai, Russia
+HTH*KHTH*Hawthorne Industrial Airport*Hawthorne, Nevada, United States
+HTI*YBHM*Great Barrier Reef Airport*Hamilton Island, Queensland, Australia
+HTL*KHTL*Roscommon County–Blodgett Memorial Airport*Houghton Lake, Michigan, United States
+HTM*ZMHG*Khatgal Airport*Khatgal, Mongolia
+HTN*ZWTN*Hotan Airport*Hotan, Xinjiang, China
+HTO*KHTO*East Hampton Airport*East Hampton, New York, United States
+HTR*RORH*Hateruma Airport*Hateruma, Yaeyama Islands, Japan
+HTS*KHTS*Tri-State Airport (Milton J. Ferguson Field)*Huntington, West Virginia, United States
+HTT**Huatugou Airport*Huatugou, Qinghai, China
+HTU*YHPN*Hopetoun Airport*Hopetoun, Victoria, Australia
+HTV*KUTS*Huntsville Municipal Airport (Bruce Brothers Regional)*Huntsville, Texas, United States
+HTW*KHTW*Lawrence County Airpark*Chesapeake / Huntington (WV), Ohio, United States
+HTY*LTDA*Hatay Airport*Hatay, Turkey
+HTZ*SKHC*Hato Corozal Airport*Hato Corozal, Colombia
+HUA*KHUA*Redstone Army Airfield*Redstone Arsenal / Huntsville, Alabama, United States
+HUB*YHBR*Humbert River Airport*Humbert River, Northern Territory, Australia
+HUC**Humacao Airport*Humacao, Puerto Rico, United States
+HUD**Humboldt Municipal Airport (FAA: 0K7)*Humboldt, Iowa, United States
+HUE*HAHU*Humera Airport*Humera, Ethiopia
+HUF*KHUF*Terre Haute International Airport (Hulman Field)*Terre Haute, Indiana, United States
+HUG*MGHT*Huehuetenango Airport*Huehuetenango, Guatemala
+HUH*NTTH*Huahine – Fare Airport*Huahine, Society Islands, French Polynesia
+HUJ*KHHW*Stan Stamper Municipal Airport (FAA: HHW)*Hugo, Oklahoma, United States
+HUK**Hukuntsi Airport*Hukuntsi, Botswana
+HUL*KHUL*Houlton International Airport*Houlton, Maine, United States
+HUM*KHUM*Houma–Terrebonne Airport*Houma, Louisiana, United States
+HUN*RCYU*Hualien Airport*Hualien, Taiwan
+HUO*ZBHZ*Holingol Huolinhe Airport*Holingol (Huolinguole), Inner Mongolia, China
+HUQ*HLON*Hun Airport*Hun, Libya
+HUS*PAHU*Hughes Airport*Hughes, Alaska, United States
+HUT*KHUT*Hutchinson Municipal Airport*Hutchinson, Kansas, United States
+HUU*SPNC*Alférez FAP David Figueroa Fernandini Airport*Huánuco, Peru
+HUV*ESNH*Hudiksvall Airport*Hudiksvall, Sweden
+HUW*SWHT*Francisco Correa da Cruz Airport*Humaitá, Amazonas, Brazil
+HUX*MMBT*Bahías de Huatulco International Airport*Huatulco, Oaxaca, Mexico
+HUY*EGNJ*Humberside Airport*Humberside, England, United Kingdom
+HUZ*ZGHZ*Huizhou Pingtan Airport*Huizhou, Guangdong, China
+HVA*FMNL*Analalava Airport*Analalava, Madagascar
+HVB*YHBA*Hervey Bay Airport*Hervey Bay, Queensland, Australia
+HVD*ZMKD*Khovd Airport*Khovd, Mongolia
+HVE*KHVE*Hanksville Airport*Hanksville, Utah, United States
+HVG*ENHV*Honningsvåg Airport, Valan*Honningsvåg, Norway
+HVK*BIHK*Hólmavík Airport*Hólmavík, Iceland
+HVN*KHVN*Tweed New Haven Airport*New Haven, Connecticut, United States
+HVR*KHVR*Havre City–County Airport*Havre, Montana, United States
+HVS*KHVS*Hartsville Regional Airport*Hartsville, South Carolina, United States
+HWA**Hawabango Airport*Hawabango, Papua New Guinea
+HWD*KHWD*Hayward Executive Airport*Hayward, California, United States
+HWI**Hawk Inlet Seaplane Base*Hawk Inlet, Alaska, United States
+HWK*YHAW*Wilpena Pound Airport*Hawker, South Australia, Australia
+HWN*FVWN*Hwange National Park Airport*Hwange National Park, Zimbabwe
+HWO*KHWO*North Perry Airport*Hollywood, Florida, United States
+HXD*ZLDL*Delingha Airport*Delingha, Qinghai, China
+HXX*YHAY*Hay Airport*Hay, New South Wales, Australia
+HYA*KHYA*Barnstable Municipal Airport (Boardman/Polando Field)*Hyannis, Massachusetts, United States
+HYC*EGTB*Wycombe Air Park*High Wycombe, England, United Kingdom
+HYD*VOHS*Rajiv Gandhi International Airport*Hyderabad, Telangana, India
+HYF**Hayfields Airport*Hayfields, Papua New Guinea
+HYG*PAHY*Hydaburg Seaplane Base*Hydaburg, Alaska, United States
+HYL**Hollis Clark Bay Seaplane Base*Hollis, Alaska, United States
+HYN*ZSLQ*Taizhou Luqiao Airport*Taizhou, Zhejiang, China
+HYR*KHYR*Sawyer County Airport*Hayward, Wisconsin, United States
+HYS*KHYS*Hays Regional Airport*Hays, Kansas, United States
+HYV*EFHV*Hyvinkää Airfield*Hyvinkää, Finland
+HZB*LFQT*Merville–Calonne Airport*Hazebrouck, Nord-Pas-de-Calais, France
+HZG*ZLHZ*Hanzhong Chenggu Airport*Hanzhong, Shaanxi, China
+HZH*ZUNP*Liping Airport*Liping, Guizhou, China
+HZK*BIHU*Húsavík Airport*Húsavík, Iceland
+HZL*KHZL*Hazleton Municipal Airport*Hazleton, Pennsylvania, United States
+HZP*CYNR*Fort MacKay/Horizon Airport*Fort McKay, Alberta, Canada
+HZV*FAHW*Hazyview Airport*Hazyview, South Africa

@@ -1,0 +1,333 @@
+RAA**Rakanda Airport*Rakanda, Papua New Guinea
+RAB*AYTK*Rabaul Airport (Tokua Airport)*Rabaul, Papua New Guinea
+RAC*KRAC*John H. Batten Airport*Racine, Wisconsin, United States
+RAD**Road Town Seaplane Base*Tortola, British Overseas Territory of Virgin Islands
+RAE*OERR*Arar Domestic Airport*Arar, Saudi Arabia
+RAF*SAFR*Rafaela Airport*Rafaela, Santa Fe, Argentina
+RAG*NZRA*Raglan Aerodrome*Raglan, New Zealand
+RAH*OERF*Rafha Domestic Airport*Rafha, Saudi Arabia
+RAI*GVNP*Nelson Mandela International Airport*Praia, Cape Verde
+RAJ*VARK*Rajkot Airport*Rajkot, Gujarat, India
+RAK*GMMX*Marrakesh Menara Airport*Marrakesh, Morocco
+RAL*KRAL*Riverside Municipal Airport*Riverside, California, United States
+RAM*YRNG*Ramingining Airport*Ramingining, Northern Territory, Australia
+RAN*LIDR*Ravenna Airport*Ravenna, Emilia-Romagna, Italy
+RAO*SBRP*Leite Lopes Airport*Ribeirão Preto, São Paulo, Brazil
+RAP*KRAP*Rapid City Regional Airport*Rapid City, South Dakota, United States
+RAQ*WAWR*Sugimanuru Airport*Muna Island, Indonesia
+RAR*NCRG*Rarotonga International Airport*Avarua, Rarotonga, Cook Islands
+RAS*OIGG*Rasht Airport*Rasht, Iran
+RAT*USNR*Raduzhny Airport*Raduzhny, Khanty-Mansi Autonomous Okrug, Russia
+RAV*SKCN*Cravo Norte Airport*Cravo Norte, Colombia
+RAW**Arawa Airport*Arawa, Papua New Guinea
+RAX**Oram Airport*Oram, Papua New Guinea
+RAZ*OPRT*Rawalakot Airport*Rawalakot, Pakistan
+RBA*GMME*Rabat–Salé Airport*Rabat, Morocco
+RBB*SWBR*Borba Airport*Borba, Amazonas, Brazil
+RBC*YROI*Robinvale Airport*Robinvale, Victoria, Australia
+RBD*KRBD*Dallas Executive Airport*Dallas, Texas, United States
+RBE*VDRK*Ratanakiri Airport*Ratanakiri, Cambodia
+RBF**Big Bear City Airport (FAA: L35)*Big Bear City, California, United States
+RBG*KRBG*Roseburg Regional Airport*Roseburg, Oregon, United States
+RBI*NFFR*Rabi Airport*Rabi Island, Fiji
+RBJ*RJCR*Rebun Airport*Rebun, Rebun Island, Japan
+RBK**French Valley Airport (FAA: F70)*Murrieta / Temecula, California, United States
+RBL*KRBL*Red Bluff Municipal Airport*Red Bluff, California, United States
+RBM*EDMS*Straubing Wallmühle Airport*Straubing, Bavaria, Germany
+RBO*SLRB*Roboré Airport*Roboré, Bolivia
+RBP**Rabaraba Airport*Rabaraba, Papua New Guinea
+RBQ*SLRQ*Rurrenabaque Airport*Rurrenabaque, Bolivia
+RBR*SBRB*Plácido de Castro International Airport*Rio Branco, Acre, Brazil
+RBS*YORB*Orbost Airport*Orbost, Victoria, Australia
+RBT*HKMB*Marsabit Airport*Marsabit, Kenya
+RBU*YROE*Roebourne Airport*Roebourne, Western Australia, Australia
+RBV*AGRM*Ramata Airport*Ramata Island, Solomon Islands
+RBW*KRBW*Lowcountry Regional Airport*Walterboro, South Carolina, United States
+RBX*HSMK*Rumbek Airport*Rumbek, South Sudan
+RBY*PARY*Ruby Airport*Ruby, Alaska, United States
+RCA*KRCA*Ellsworth Air Force Base*Rapid City, South Dakota, United States
+RCB*FARB*Richards Bay Airport*Richards Bay, South Africa
+RCE**Roche Harbor Seaplane Base*Roche Harbor, Washington, United States
+RCH*SKRH*Almirante Padilla Airport*Riohacha, Colombia
+RCK*KRCK*H. H. Coffield Regional Airport*Rockdale, Texas, United States
+RCL*NVSR*Redcliffe Airport*Redcliffe, Aoba Island, Vanuatu
+RCM*YRMD*Richmond Airport*Richmond, Queensland, Australia
+RCN**American River Airport*American River, South Australia, Australia
+RCO*LFDN*Rochefort – Saint-Agnant Airport*Rochefort, Poitou-Charentes, France
+RCQ*SATR*Reconquista Airport*Reconquista, Santa Fe, Argentina
+RCR*KRCR*Fulton County Airport*Rochester, Indiana, United States
+RCS*EGTO*Rochester Airport*Rochester, England, United Kingdom
+RCT*KRCT*Nartron Field*Reed City, Michigan, United States
+RCU*SAOC*Las Higueras Airport*Río Cuarto, Córdoba, Argentina
+RCY*MYRP*Port Nelson Airport*Port Nelson, Rum Cay Island, Bahamas
+RDA*YRKD*Rockhampton Downs Airport*Rockhampton Downs, Northern Territory, Australia
+RDB*PADG*Red Dog Airport*Red Dog, Alaska, United States
+RDC*SNDC*Redenção Airport*Redenção, Pará, Brazil
+RDD*KRDD*Redding Municipal Airport*Redding, California, United States
+RDE**Merdey Airport (Jahabra Airport)*Merdey, Indonesia
+RDG*KRDG*Reading Regional Airport (Carl A. Spaatz Field)*Reading, Pennsylvania, United States
+RDM*KRDM*Roberts Field*Redmond / Bend, Oregon, United States
+RDN*WMPR*Redang Airport*Redang Island, Terengganu, Malaysia
+RDO*EPRA*Radom Airport*Radom, Poland
+RDP*VEDG*Kazi Nazrul Islam Airport*Durgapur, West Bengal, India
+RDR*KRDR*Grand Forks Air Force Base*Grand Forks, North Dakota, United States
+RDS*SAHS*Rincón de los Sauces Airport*Rincón de los Sauces, Neuquén, Argentina
+RDT*GOSR*Richard Toll Airport*Richard Toll, Senegal
+RDU*KRDU*Raleigh–Durham International Airport*Raleigh / Durham, North Carolina, United States
+RDV**Red Devil Airport*Red Devil, Alaska, United States
+RDZ*LFCR*Rodez–Marcillac Airport*Rodez, Midi-Pyrénées, France
+REA*NTGE*Reao Airport*Reao, Tuamotus, French Polynesia
+REB*EDAX*Rechlin–Lärz Airfield*Rechlin, Mecklenburg-Vorpommern, Germany
+REC*SBRF*Recife/Guararapes–Gilberto Freyre International Airport*Recife, Pernambuco, Brazil
+RED*KRVL*Mifflin County Airport (FAA: RVL)*Reedsville / Lewistown, Pennsylvania, United States
+REE**Reese Airpark (FAA: 8XS8)*Lubbock, Texas, United States
+REG*LICR*Reggio di Calabria Airport*Reggio di Calabria, Calabria, Italy
+REI*SOOR*Régina Airport*Régina, French Guiana
+REK**metropolitan area1*Reykjavík, Iceland
+REL*SAVT*Almirante Marcos A. Zar Airport*Trelew, Chubut, Argentina
+REN*UWOO*Orenburg Tsentralny Airport*Orenburg, Orenburg Oblast, Russia
+REO*KREO*Rome State Airport*Rome, Oregon, United States
+REP*VDSR*Siem Reap International Airport (Angkor Int'l)*Siem Reap, Cambodia
+REQ**Reko Diq Airport*Reko Diq, Pakistan
+RER*MGRT*Retalhuleu Airport*Retalhuleu, Guatemala
+RES*SARE*Resistencia International Airport*Resistencia, Chaco, Argentina
+RET*ENRS*Røst Airport*Røst, Norway
+REU*LERS*Reus Airport*Reus, Catalonia, Spain
+REW**Churhata Airport*Rewa, Madhya Pradesh, India
+REX*MMRX*General Lucio Blanco International Airport*Reynosa, Tamaulipas, Mexico
+REY*SLRY*Reyes Airport*Reyes, Bolivia
+REZ*SDRS*Resende Airport*Resende, Rio de Janeiro, Brazil
+RFA*FEGR*Rafaï Airport*Rafaï, Central African Republic
+RFD*KRFD*Chicago Rockford International Airport (Greater Rockford Airport)*Rockford, Illinois, United States
+RFG*KRFG*Rooke Field*Refugio, Texas, United States
+RFK**Rollang Field (FAA: 5MS1)*Rolling Fork, Mississippi, United States
+RFN*BIRG*Raufarhöfn Airport*Raufarhöfn, Iceland
+RFP*NTTR*Raiatea Airport (Uturoa Airport)*Raiatea, Society Islands, French Polynesia
+RFR*MRRF*Río Frío Airport*Río Frío, Costa Rica
+RFS*MNRT*Rosita Airport*Rosita, Nicaragua
+RGA*SAWE*Hermes Quijada International Airport*Río Grande, Tierra del Fuego, Argentina
+RGE**Porgera Airport*Porgera, Papua New Guinea
+RGH*VEBG*Balurghat Airport*Balurghat, West Bengal, India
+RGI*NTTG*Rangiroa Airport*Rangiroa, Tuamotus, French Polynesia
+RGK*UNBG*Gorno-Altaysk Airport*Gorno-Altaysk, Altai Republic, Russia
+RGL*SAWG*Piloto Civil Norberto Fernández International Airport*Río Gallegos, Santa Cruz, Argentina
+RGN*VYYY*Yangon International Airport*Yangon, Myanmar
+RGO*ZKHM*Chongjin Airport*Chongjin, North Korea
+RGR**Ranger Municipal Airport (FAA: F23)*Ranger, Texas, United States
+RGS*LEBG*Burgos Airport*Burgos, Castile and León, Spain
+RGT*WIPR*Japura Airport*Rengat, Indonesia
+RHA*BIRE*Reykhólar Airport*Reykhólar, Iceland
+RHD*SANR*Termas de Río Hondo Airport*Termas de Río Hondo, Santiago del Estero, Argentina
+RHE*LFSR*Reims – Champagne Air Base*Reims, Champagne-Ardenne, France
+RHG*HRYU*Ruhengeri Airport*Ruhengeri, Rwanda
+RHI*KRHI*Rhinelander–Oneida County Airport*Rhinelander, Wisconsin, United States
+RHL*YRYH*Roy Hill Station Airport*Roy Hill Station, Western Australia, Australia
+RHN*FYSA*Skorpion Mine Airport*Rosh Pinah, Namibia
+RHO*LGRP*Rhodes International Airport*Rhodes, Greece
+RHP*VNRC*Ramechhap Airport*Ramechhap, Nepal
+RHR**Al Hamra Seaplane Base*Ras al-Khaimah, United Arab Emirates
+RHT**Alxa Right Banner Badanjilin Airport*Alxa Right Banner, Inner Mongolia, China
+RHV*KRHV*Reid–Hillview Airport of Santa Clara County*San Jose, California, United States
+RIA*SBSM*Santa Maria Airport*Santa Maria, Rio Grande do Sul, Brazil
+RIB*SLRI*Riberalta Airport*Riberalta, Bolivia
+RIC*KRIC*Richmond International Airport*Richmond, Virginia, United States
+RID*KRID*Richmond Municipal Airport*Richmond, Indiana, United States
+RIE*KRPD*Rice Lake Regional Airport (Carl's Field) (FAA: RPD)*Rice Lake, Wisconsin, United States
+RIF*KRIF*Richfield Municipal Airport*Richfield, Utah, United States
+RIG*SBRG*Rio Grande Regional Airport*Rio Grande, Rio Grande do Sul, Brazil
+RIH*MPSM*Scarlett Martinez International Airport*Río Hato, Panama
+RIJ*SPJA*Juan Simons Vela Airport*Rioja, Peru
+RIL*KRIL*Garfield County Regional Airport*Rifle, Colorado, United States
+RIM*SPLN*San Nicolas Airport*Rodríguez de Mendoza, Peru
+RIN*AGRC*Ringgi Cove Airport*Ringgi Cove, Solomon Islands
+RIO**metropolitan area2*Rio de Janeiro, Brazil
+RIR*KRIR*Flabob Airport*Riverside, California, United States
+RIS*RJER*Rishiri Airport*Rishiri, Rishiri Island, Japan
+RIV*KRIV*March Air Reserve Base*Riverside, California, United States
+RIW*KRIW*Riverton Regional Airport*Riverton, Wyoming, United States
+RIX*EVRA*Riga International Airport*Riga, Latvia
+RIY*OYRN*Riyan Airport*Mukalla, Yemen
+RIZ**Rizhao Shanzihe Airport*Rizhao, Shandong, China
+RJA*VORY*Rajahmundry Airport*Rajahmundry, Andhra Pradesh, India
+RJB*VNRB*Rajbiraj Airport*Rajbiraj, Nepal
+RJH*VGRJ*Shah Makhdum Airport*Rajshahi, Bangladesh
+RJI**Rajauri Airport*Rajauri, Jammu and Kashmir, India
+RJK*LDRI*Rijeka Airport*Rijeka, Croatia
+RJL*LELO*Logroño–Agoncillo Airport*Logroño, La Rioja, Spain
+RJM**Marinda Airport*Waisai, Indonesia
+RJN*OIKR*Rafsanjan Airport*Rafsanjan, Iran
+RKA*NTKK*Aratika-Nord Airport*Aratika, Tuamotus, French Polynesia
+RKD*KRKD*Knox County Regional Airport*Rockland, Maine, United States
+RKE*EKRK*Roskilde Airport*Copenhagen, Denmark
+RKH*KUZA*Rock Hill/York County Airport (FAA: UZA)*Rock Hill, South Carolina, United States
+RKI*WIBR*Rokot Airport*Sipura, Indonesia
+RKP*KRKP*Aransas County Airport*Rockport, Texas, United States
+RKR*KRKR*Robert S. Kerr Airport*Poteau, Oklahoma, United States
+RKS*KRKS*Rock Springs–Sweetwater County Airport*Rock Springs, Wyoming, United States
+RKT*OMRK*Ras Al Khaimah International Airport*Ras al-Khaimah, United Arab Emirates
+RKU**Kairuku Airport*Yule Island, Papua New Guinea
+RKV*BIRK*Reykjavík Airport*Reykjavík, Iceland
+RKW*KRKW*Rockwood Municipal Airport*Rockwood, Tennessee, United States
+RKY**Rokeby Airport*Rokeby, Queensland, Australia
+RKZ*ZURK*Shigatse Peace Airport*Shigatse, Tibet Autonomous Region, China
+RLD*KRLD*Richland Airport*Richland, Washington, United States
+RLG*ETNL*Rostock–Laage Airport*Rostock, Mecklenburg-Vorpommern, Germany
+RLK*ZBYZ*Bayannur Tianjitai Airport*Bayannur, Inner Mongolia, China
+RLO*SAOS*Valle del Conlara Airport*Villa de Merlo, San Luis, Argentina
+RLP**Rosella Plains Airport*Rosella Plains, Queensland, Australia
+RLR**Relais de la Reine Airport*Isalo, Madagascar
+RLT*DRZL*Arlit Airport*Arlit, Niger
+RMA*YROM*Roma Airport*Roma, Queensland, Australia
+RMB*OOBR*Buraimi Airport*Buraimi, Oman
+RMD*VORG*Ramagundam Airport (Basanth Nagar Airport)*Ramagundam, Telangana, India
+RME*KRME*Griffiss International Airport*Rome, New York, United States
+RMF*HEMA*Marsa Alam International Airport*Marsa Alam, Egypt
+RMG*KRMG*Richard B. Russell Airport*Rome, Georgia, United States
+RMI*LIPR*Federico Fellini International Airport*Rimini, Emilia-Romagna, Italy
+RMK*YREN*Renmark Airport*Renmark, South Australia, Australia
+RML*VCCC*Ratmalana Airport*Colombo, Sri Lanka
+RMN**Rumginae Airport*Rumginae, Papua New Guinea
+RMP**Rampart Airport*Rampart, Alaska, United States
+RMQ*RCMQ*Taichung Airport (Taichung Ching Chuan Kang Airport)*Taichung, Taiwan
+RMS*ETAR*Ramstein Air Base*Ramstein, Rhineland-Palatinate, Germany
+RMT*NTAM*Rimatara Airport*Rimatara, Austral Islands, French Polynesia
+RMU*LEMI*Región de Murcia International Airport*Murcia / Cartagena, Murcia, Spain
+RMY*KMPI*Mariposa-Yosemite Airport (FAA: MPI)*Mariposa, California, United States
+RNA*AGAR*Ulawa Airport*Arona, Ulawa Island, Solomon Islands
+RNB*ESDF*Ronneby Airport*Ronneby / Karlskrona, Sweden
+RNC*KRNC*Warren County Memorial Airport*McMinnville, Tennessee, United States
+RND*KRND*Randolph Air Force Base*San Antonio, Texas, United States
+RNE*LFLO*Roanne Renaison Airport*Roanne, Rhône-Alpes, France
+RNG**Rangely Airport (FAA: 4V0)*Rangely, Colorado, United States
+RNH*KRNH*New Richmond Regional Airport*New Richmond, Wisconsin, United States
+RNI*MNCI*Corn Island Airport*Corn Islands, Nicaragua
+RNJ*RORY*Yoron Airport*Yoronjima, Amami Islands, Japan
+RNL*AGGR*Rennell/Tingoa Airport*Rennell Island, Solomon Islands
+RNM*OOGB*Qarn Alam Airport*Qarn Alam, Oman
+RNN*EKRN*Bornholm Airport*Rønne, Denmark
+RNO*KRNO*Reno–Tahoe International Airport*Reno, Nevada, United States
+RNP**Rongelap Airport*Rongelap Atoll, Marshall Islands
+RNR**Robinson River Airport*Robinson River, Papua New Guinea
+RNS*LFRN*Rennes–Saint-Jacques Airport*Rennes, Brittany, France
+RNT*KRNT*Renton Municipal Airport*Renton, Washington, United States
+RNU*WBKR*Ranau Airport*Ranau, Sabah, Malaysia
+RNZ*KRZL*Jasper County Airport (FAA: RZL)*Rensselaer, Indiana, United States
+ROA*KROA*Roanoke–Blacksburg Regional Airport (Woodrum Field)*Roanoke, Virginia, United States
+ROB*GLRB*Roberts International Airport*Monrovia, Liberia
+ROC*KROC*Greater Rochester International Airport*Rochester, New York, United States
+ROD*FARS*Robertson Airfield*Robertson, South Africa
+ROF**Montague Airport (Yreka Rohrer Field) (FAA: 1O5)*Montague / Yreka, California, United States
+ROG*KROG*Rogers Municipal Airport (Carter Field)*Rogers, Arkansas, United States
+ROH*YROB*Robinhood Airport*Robinhood, Queensland, Australia
+ROI*VTUV*Roi Et Airport*Roi Et, Thailand
+ROK*YBRK*Rockhampton Airport*Rockhampton, Queensland, Australia
+ROL**Roosevelt Municipal Airport*Roosevelt, Utah, United States
+ROM**metropolitan area3*Rome, Lazio, Italy
+RON*SKPA*Juan José Rondón Airport*Paipa, Colombia
+ROO*SWRD*Maestro Marinho Franco Airport*Rondonópolis, Mato Grosso, Brazil
+ROP*PGRO*Rota International Airport (FAA: GRO)*Rota, Northern Mariana Islands
+ROR*PTRO*Roman Tmetuchl International Airport*Koror, Palau
+ROS*SAAR*Rosario – Islas Malvinas International Airport*Rosario, Santa Fe, Argentina
+ROT*NZRO*Rotorua Regional Airport*Rotorua, New Zealand
+ROU*LBRS*Ruse Airport*Ruse, Bulgaria
+ROV*URRR*Rostov-on-Don Airport*Rostov-on-Don, Rostov Oblast, Russia
+ROW*KROW*Roswell International Air Center*Roswell, New Mexico, United States
+ROX*KROX*Roseau Municipal Airport (Rudy Billberg Field)*Roseau, Minnesota, United States
+ROY*SAWM*Río Mayo Airport*Río Mayo, Chubut, Argentina
+ROZ*LERT*US Naval Station Rota*Rota, Andalusia, Spain
+RPA*VNRP*Rolpa Airport*Rolpa, Nepal
+RPB*YRRB*Roper Bar Airport*Roper Bar, Northern Territory, Australia
+RPI*WAFK*Rampi Airport*Rampi, South Sulawesi, Indonesia
+RPM*YNGU*Ngukurr Airport*Ngukurr, Northern Territory, Australia
+RPN*LLIB*Rosh Pina Airport*Rosh Pinna, Israel
+RPR*VARP*Swami Vivekananda Airport*Raipur, Chhattisgarh, India
+RPV**Roper Valley Airport*Roper Valley, Northern Territory, Australia
+RPX*KRPX*Roundup Airport*Roundup, Montana, United States
+RQA*ZWRQ*Ruoqiang Loulan Airport*Ruoqiang, Xinjiang, China
+RQW**Qayyarah Airfield West*Qayyarah, Iraq
+RRE**Marree Airport*Marree, South Australia, Australia
+RRG*FIMR*Sir Gaëtan Duval Airport*Rodrigues Island, Mauritius
+RRI**Barora Airport*Barora, Solomon Islands
+RRK*VERK*Rourkela Airport*Rourkela, Odisha, India
+RRL*KRRL*Merrill Municipal Airport*Merrill, Wisconsin, United States
+RRM**Marromeu Airport*Marromeu, Mozambique
+RRR*NTKO*Raroia Airport*Raroia, Tuamotus, French Polynesia
+RRS*ENRO*Røros Airport*Røros, Norway
+RRT*KRRT*Warroad International Memorial Airport (Swede Carlson Field)*Warroad, Minnesota, United States
+RRV**Robinson River Airport*Robinson River, Northern Territory, Australia
+RSA*SAZR*Santa Rosa Airport*Santa Rosa, La Pampa, Argentina
+RSB**Roseberth Airport*Roseberth, Queensland, Australia
+RSD*MYER*Rock Sound International Airport*Rock Sound, Eleuthera Island, Bahamas
+RSE**Rose Bay Water Airport*Sydney, New South Wales, Australia
+RSH*PARS*Russian Mission Airport*Russian Mission, Alaska, United States
+RSJ**Rosario Seaplane Base (FAA: W49)*Orcas Island, Washington, United States
+RSK*WASC*Abresso Airport*Ransiki, Indonesia
+RSL*KRSL*Russell Municipal Airport*Russell, Kansas, United States
+RSN*KRSN*Ruston Regional Airport*Ruston, Louisiana, United States
+RSS*HSDZ*Damazin Airport*Ad-Damazin, Sudan
+RST*KRST*Rochester International Airport*Rochester, Minnesota, United States
+RSU*RKJY*Yeosu/Suncheon Airport*Yeosu / Suncheon, South Korea
+RSW*KRSW*Southwest Florida International Airport*Fort Myers, Florida, United States
+RSX**Rouses Point Seaplane Base (FAA: K21)*Rouses Point, New York, United States
+RTA*NFNR*Rotuma Airport*Rotuma Island, Fiji
+RTB*MHRO*Juan Manuel Gálvez International Airport*Roatán, Honduras
+RTC*VARG*Ratnagiri Airport*Ratnagiri, Maharashtra, India
+RTG*WATG*Frans Sales Lega Airport*Ruteng, Indonesia
+RTI**Rote Airport*Rote Island (Roti), Indonesia
+RTL**Spirit Lake Municipal Airport (FAA: 0F3)*Spirit Lake, Iowa, United States
+RTM*EHRD*Rotterdam The Hague Airport*Rotterdam, Netherlands
+RTN*KRTN*Raton Municipal Airport (Crews Field)*Raton, New Mexico, United States
+RTP*YRTP*Rutland Plains Airport*Rutland Plains, Queensland, Australia
+RTS*YRTI*Rottnest Island Airport*Rottnest Island, Western Australia, Australia
+RTW*UWSS*Saratov Tsentralny Airport*Saratov, Saratov Oblast, Russia
+RTY*YMYT*Merty Merty Airport*Merty Merty, South Australia, Australia
+RUA*HUAR*Arua Airport*Arua, Uganda
+RUD*OIMJ*Shahroud Airport*Shahrud, Iran
+RUE**Butembo Airport*Butembo, Democratic Republic of the Congo
+RUF*WAJE*Yuruf Airport*Yuruf, Indonesia
+RUG*ZSRG*Rugao Air Base*Rugao, Jiangsu, China
+RUH*OERK*King Khalid International Airport*Riyadh, Saudi Arabia
+RUI*KSRR*Sierra Blanca Regional Airport (FAA: SRR)*Ruidoso, New Mexico, United States
+RUK*VNRK*Chaurjahari Airport*Rukumkot, Nepal
+RUM*VNRT*Rumjatar Airport*Rumjatar, Nepal
+RUN*FMEE*Roland Garros Airport*St-Denis, Réunion, France
+RUP*VERU*Rupsi Airport*Rupsi, Assam, India
+RUR*NTAR*Rurutu Airport*Rurutu, French Polynesia
+RUS*AGGU*Marau Airport*Marau, Solomon Islands
+RUT*KRUT*Rutland – Southern Vermont Regional Airport*Rutland, Vermont, United States
+RUU**Ruti Airport*Kawbenaberi, Papua New Guinea
+RUV*MGRB*Rubelsanto Airport*Rubelsanto, Guatemala
+RUY*MHRU*Copán Ruinas Airport*Copán Ruinas, Honduras
+RVA*FMSG*Farafangana Airport*Farafangana, Madagascar
+RVC**River Cess Airport*River Cess, Liberia
+RVD*SWLC*General Leite de Castro Airport*Rio Verde, Goiás, Brazil
+RVE*SKSA*Los Colonizadores Airport*Saravena, Colombia
+RVH*ULSS*Rzhevka Airport*Saint Petersburg, Russia
+RVK*ENRM*Rørvik Airport, Ryum*Rørvik, Norway
+RVN*EFRO*Rovaniemi Airport*Rovaniemi, Finland
+RVO*FARI*Reivilo Airport*Reivilo, South Africa
+RVR**Green River Municipal Airport (FAA: U34)*Green River, Utah, United States
+RVS*KRVS*Richard Lloyd Jones Jr. Airport*Tulsa, Oklahoma, United States
+RVT*YNRV*Ravensthorpe Airport*Ravensthorpe, Western Australia, Australia
+RVV*NTAV*Raivavae Airport*Raivavae, Austral Islands, French Polynesia
+RVY*SURV*Pres. Gral. Óscar D. Gestido International Airport*Rivera, Uruguay
+RWF*KRWF*Redwood Falls Municipal Airport*Redwood Falls, Minnesota, United States
+RWI*KRWI*Rocky Mount–Wilson Regional Airport*Rocky Mount, North Carolina, United States
+RWL*KRWL*Rawlins Municipal Airport (Harvey Field)*Rawlins, Wyoming, United States
+RWN*UKLR*Rivne International Airport*Rivne, Ukraine
+RXA**Ar Rawdah Airport*Ar Rawdah (Raudha), Yemen
+RXE*KRXE*Rexburg–Madison County Airport*Rexburg, Idaho, United States
+RXS*RPVR*Roxas Airport*Roxas, Philippines
+RYB*UUBK*Staroselye Airport*Rybinsk, Yaroslavl Oblast, Russia
+RYG*ENRY*Moss Airport, Rygge / Rygge Air Station*Oslo / Moss, Norway
+RYK*OPRK*Shaikh Zayed International Airport*Rahim Yar Khan, Pakistan
+RYL**Royal Airstrip*Lower Zambezi National Park, Zambia
+RYN*LFCY*Royan – Médis Aerodrome*Royan, Poitou-Charentes, France
+RYO*SAWT*Rio Turbio Airport*Río Turbio, Santa Cruz, Argentina
+RZA*SAWU*Santa Cruz Airport*Puerto Santa Cruz, Santa Cruz, Argentina
+RZE*EPRZ*Rzeszów–Jasionka Airport*Rzeszów, Poland
+RZN*UUWR*Turlatovo Airport*Ryazan, Ryazan Oblast, Russia
+RZP*RPSD*Cesar Lim Rodriguez Airport*Taytay, Philippines
+RZR*OINR*Ramsar International Airport*Ramsar, Iran
+RZS*OPSW*Sawan Airport*Sawan, Pakistan
+RZZ*KRZZ*Halifax County Airport*Roanoke Rapids, North Carolina, United States

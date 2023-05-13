@@ -1,0 +1,493 @@
+TAA**Tarapaina Airport*Tarapaina, Solomon Islands
+TAB*TTCP*Arthur Napoleon Raymond Robinson International Airport*Tobago, Trinidad and Tobago
+TAC*RPVA*Daniel Z. Romualdez Airport*Tacloban, Philippines
+TAD*KTAD*Perry Stokes Airport*Trinidad, Colorado, United States
+TAE*RKTN*Daegu International Airport*Daegu, South Korea
+TAF*DAOL*Oran Tafaraoui Airport*Oran, Algeria
+TAG*RPVT*Tagbilaran Airport*Tagbilaran, Philippines
+TAH*NVVW*Whitegrass Airport*Tanna Island, Vanuatu
+TAI*OYTZ*Taiz International Airport*Taiz (Ta'izz), Yemen
+TAJ**Tadji Airport*Aitape, Papua New Guinea
+TAK*RJOT*Takamatsu Airport*Takamatsu, Shikoku, Japan
+TAL*PATA*Ralph M. Calhoun Memorial Airport*Tanana, Alaska, United States
+TAM*MMTM*General Francisco Javier Mina International Airport*Tampico, Tamaulipas, Mexico
+TAN*YTGA*Tangalooma Airport*Tangalooma, Queensland, Australia
+TAO*ZSQD*Qingdao Liuting International Airport*Qingdao, Shandong, China
+TAP*MMTP*Tapachula International Airport*Tapachula, Chiapas, Mexico
+TAQ**Tarcoola Airport*Tarcoola, South Australia, Australia
+TAR*LIBG*Taranto-Grottaglie Airport*Taranto, Apulia, Italy
+TAS*UTTT*Tashkent International Airport*Tashkent, Uzbekistan
+TAT*LZTT*Poprad–Tatry Airport*Poprad, Slovakia
+TAU**Tauramena Airport*Tauramena, Colombia
+TAV**Tau Airport (FAA: HI36)*Tau, American Samoa
+TAW*SUTB*Tacuarembó Airport*Tacuarembó, Uruguay
+TAX*WAPT*Taliabu Airport*Taliabu, Indonesia
+TAY*EETU*Tartu Airport*Tartu, Estonia
+TBA**Tabibuga Airport*Tabibuga, Papua New Guinea
+TBB*VVTH*Dong Tac Airport*Tuy Hòa, Vietnam
+TBC**Tuba City Airport (FAA: T03)*Tuba City, Arizona, United States
+TBD*SKMB*Timbiquí Airport*Timbiqui, Colombia
+TBE**Timbunke Airport*Timbunke, Papua New Guinea
+TBF*NGTE*Tabiteuea North Airport*Tabiteuea North, Kiribati
+TBG*AYTB*Tabubil Airport*Tabubil, Papua New Guinea
+TBH*RPVU*Tugdan Airport*Tablas Island, Philippines
+TBI*MYCB*New Bight Airport*New Bight, Cat Island, Bahamas
+TBJ*DTKA*Tabarka–Aïn Draham International Airport*Tabarka, Tunisia
+TBK*YTBR*Timber Creek Airport*Timber Creek, Northern Territory, Australia
+TBL*YTAB*Tableland Homestead Airport*Tableland, Western Australia, Australia
+TBM*WAOW*Tumbang Samba Airport*Tumbang Samba, Indonesia
+TBN*KTBN*Waynesville-St. Robert Regional Airport (Forney Field)*Fort Leonard Wood, Missouri, United States
+TBO*HTTB*Tabora Airport*Tabora, Tanzania
+TBP*SPME*Cap. FAP Pedro Canga Rodríguez Airport*Tumbes, Peru
+TBQ**Tarabo Airport*Tarabo, Papua New Guinea
+TBR*KTBR*Statesboro–Bulloch County Airport*Statesboro, Georgia, United States
+TBS*UGTB*Tbilisi International Airport*Tbilisi, Georgia
+TBT*SBTT*Tabatinga International Airport*Tabatinga, Amazonas, Brazil
+TBV**Tabal Airport*Tabal Island, Aur Atoll, Marshall Islands
+TBW*UUOT*Tambov Donskoye Airport*Tambov, Tambov Oblast, Russia
+TBY*FBTS*Tshabong Airport*Tsabong, Botswana
+TBZ*OITT*Tabriz International Airport*Tabriz, Iran
+TCA*YTNK*Tennant Creek Airport*Tennant Creek, Northern Territory, Australia
+TCB*MYAT*Treasure Cay Airport*Treasure Cay, Abaco Islands, Bahamas
+TCC*KTCC*Tucumcari Municipal Airport*Tucumcari, New Mexico, United States
+TCD*SKRA*Tarapacá Airport*Tarapacá, Colombia
+TCE*LRTC*Tulcea Danube Delta Airport*Tulcea, Romania
+TCF**Tocoa Airport*Tocoa, Honduras
+TCG*ZWTC*Tacheng Airport*Tacheng, Xinjiang, China
+TCH*FOOT*Tchibanga Airport*Tchibanga, Gabon
+TCI**metropolitan area1*Tenerife, Canary Islands, Spain
+TCJ**Torembi Airport*Torembi, Papua New Guinea
+TCK**Tinboli Airport*Tinboli, Papua New Guinea
+TCL*KTCL*Tuscaloosa Regional Airport*Tuscaloosa, Alabama, United States
+TCM*KTCM*McChord Field*Tacoma, Washington, United States
+TCN*MMHC*Tehuacán Airport*Tehuacán, Puebla, Mexico
+TCO*SKCO*La Florida Airport*Tumaco, Colombia
+TCP*HETB*Taba International Airport*Taba, Egypt
+TCQ*SPTN*Coronel FAP Carlos Ciriani Santa Rosa International Airport*Tacna, Peru
+TCR*VOTK*Tuticorin Airport*Thoothukudi (Tuticorin), Tamil Nadu, India
+TCS*KTCS*Truth or Consequences Municipal Airport*Truth or Consequences, New Mexico, United States
+TCT**Takotna Airport*Takotna, Alaska, United States
+TCU*FATN*Thaba Nchu Airport*Thaba 'Nchu, South Africa
+TCW*YTOC*Tocumwal Airport*Tocumwal, New South Wales, Australia
+TCX*OIMT*Tabas Airport*Tabas, Iran
+TCY*FYTE*Terrace Bay Airport*Terrace Bay, Namibia
+TCZ*ZUTC*Tengchong Tuofeng Airport*Tengchong, Yunnan, China
+TDA*SKTD*Trinidad Airport*Trinidad, Colombia
+TDB**Tetebedi Airport*Tetebedi, Papua New Guinea
+TDD*SLTR*Teniente Jorge Henrich Arauz Airport*Trinidad, Bolivia
+TDG*RPMW*Tandag Airport*Tandag, Philippines
+TDJ*HDTJ*Tadjoura Airport*Tadjoura, Djibouti
+TDK**Taldykorgan Airport*Taldykorgan, Kazakhstan
+TDL*SAZT*Tandil Airport*Tandil, Buenos Aires, Argentina
+TDN*YTHD*Theda Station Airport*Theda Station, Western Australia, Australia
+TDO*KTDO*South Lewis County Airport (Ed Carlson Memorial Field)*Toledo, Washington, United States
+TDP*SPDR*Trompeteros Airport*Trompeteros, Peru
+TDR*YTDR*Theodore Airport*Theodore, Queensland, Australia
+TDS*AYSS*Sasereme Airport*Sasereme, Papua New Guinea
+TDT**Tanda Tula Airport*Timbavati, South Africa
+TDV*FMSN*Samangoky Airport*Tanandava, Madagascar
+TDW*KTDW*Tradewind Airport*Amarillo, Texas, United States
+TDX*VTBO*Trat Airport*Trat, Thailand
+TDZ*KTDZ*Toledo Executive Airport*Toledo, Ohio, United States
+TEA*MHTE*Tela Airport*Tela, Honduras
+TEB*KTEB*Teterboro Airport*Teterboro, New Jersey, United States
+TEC*SBTL*Telêmaco Borba Airport*Telêmaco Borba, Paraná, Brazil
+TED*EKTS*Thisted Airport*Thisted, Denmark
+TEE*DABS*Cheikh Larbi Tébessi Airport*Tébessa, Algeria
+TEF*YTEF*Telfer Airport*Telfer, Western Australia, Australia
+TEG*DFET*Tenkodogo Airport*Tenkodogo, Burkina Faso
+TEH**Tetlin Airport (FAA: 3T4)*Tetlin, Alaska, United States
+TEI*VETJ*Tezu Airport*Tezu, Arunachal Pradesh, India
+TEK**Tatitlek Airport (FAA: 7KA)*Tatitlek, Alaska, United States
+TEL*WBKE*Telupid Airport*Telupid, Sabah, Malaysia
+TEM*YTEM*Temora Airport*Temora, New South Wales, Australia
+TEN*ZUTR*Tongren Fenghuang Airport*Tongren, Guizhou, China
+TEO**Terapo Airport*Terapo, Papua New Guinea
+TEP**Teptep Airport*Teptep, Papua New Guinea
+TER*LPLA*Lajes Field*Terceira Island, Azores, Portugal
+TES*HHTS*Teseney Airport*Teseney, Eritrea
+TET*FQTT*Chingozi Airport*Tete, Mozambique
+TEU*NZMO*Te Anau Airport (Manapouri Airport)*Te Anau, New Zealand
+TEV*LETL*Teruel Airport*Teruel, Aragon, Spain
+TEX*KTEX*Telluride Regional Airport*Telluride, Colorado, United States
+TEY*BITE*Thingeyri Airport*Thingeyri (Þingeyri), Iceland
+TEZ*VETZ*Tezpur Airport*Tezpur, Assam, India
+TFB**Tifalmin Airport*Tifalmin, Papua New Guinea
+TFF*SBTF*Tefé Airport*Tefé, Amazonas, Brazil
+TFI*AYTU*Tufi Airport*Tufi, Papua New Guinea
+TFL*SNTO*Teófilo Otoni Airport (Juscelino Kubitscheck Airport)*Teófilo Otoni, Minas Gerais, Brazil
+TFM*AYTE*Telefomin Airport*Telefomin, Papua New Guinea
+TFN*GCXO*Tenerife–North Airport (Los Rodeos Airport)*Tenerife, Canary Islands, Spain
+TFR**Wadi al Jandali Airport*10th of Ramadan City, Egypt
+TFS*GCTS*Tenerife–South Airport (Reina Sofia Airport)*Tenerife, Canary Islands, Spain
+TFT**Taftan Airport*Taftan, Pakistan
+TGA*WSAT*Tengah Air Base*Singapore
+TGB**Tagbita Airport*Rizal, Philippines
+TGC*WBTM*Tanjung Manis Airport*Tanjung Manis, Sarawak, Malaysia
+TGD*LYPG*Podgorica Airport*Podgorica, Montenegro
+TGE**Sharpe Field (FAA: AL73)*Tuskegee, Alabama, United States
+TGG*WMKN*Sultan Mahmud Airport*Kuala Terengganu, Terengganu, Malaysia
+TGH*NVST*Tongoa Airport*Tongoa, Shefa, Vanuatu
+TGI*SPGM*Tingo María Airport*Tingo María, Peru
+TGJ*NWWA*Tiga Airport*Tiga Island, Loyalty Islands, New Caledonia
+TGK*URRT*Taganrog Airport*Taganrog, Rostov Oblast, Russia
+TGL**Tagula Airport*Vanatinai (Tagula Island), Papua New Guinea
+TGN*YLTV*Latrobe Regional Airport*Traralgon, Victoria, Australia
+TGO*ZBTL*Tongliao Airport*Tongliao, Inner Mongolia, China
+TGP*UNIP*Podkamennaya Tunguska Airport*Bor, Krasnoyarsk Krai, Russia
+TGQ*SWTS*Tangará da Serra Airport*Tangará da Serra, Mato Grosso, Brazil
+TGR*DAUK*Sidi Mahdi Airport*Touggourt, Algeria
+TGS**Chokwe Airport*Chokwe, Mozambique
+TGT*HTTG*Tanga Airport*Tanga, Tanzania
+TGU*MHTG*Toncontín International Airport*Tegucigalpa, Honduras
+TGV*LBTG*Targovishte Airport (Buhovtsi Airfield)*Targovishte, Bulgaria
+TGZ*MMTG*Ángel Albino Corzo International Airport*Tuxtla Gutiérrez, Chiapas, Mexico
+THA*KTHA*Tullahoma Regional Airport (William Northern Field)*Tullahoma, Tennessee, United States
+THB*FXTA*Thaba Tseka Airport*Thaba-Tseka, Lesotho
+THC*GLTN*Tchien Airport*Tchien, Liberia
+THD*VVTX*Tho Xuan Airport*Thanh Hóa, Vietnam
+THE*SBTE*Teresina–Senador Petrônio Portella Airport*Teresina, Piauí, Brazil
+THG*YTNG*Thangool Airport*Thangool, Queensland, Australia
+THH**Taharoa Aerodrome*Taharoa, New Zealand
+THI*GQNC*Tichitt Airport*Tichit, Mauritania
+THK*VLTK*Thakhek Airport*Thakhek, Laos
+THL*VYTL*Tachilek Airport*Tachileik (Tachilek), Myanmar
+THM*KTHM*Thompson Falls Airport*Thompson Falls, Montana, United States
+THN*ESGT*Trollhättan–Vänersborg Airport*Trollhättan / Vänersborg, Sweden
+THO*BITN*Thorshofn Airport*Thorshofn (Þórshöfn), Iceland
+THP*KTHP*Hot Springs County–Thermopolis Municipal Airport*Thermopolis, Wyoming, United States
+THQ*ZLTS*Tianshui Maijishan Airport*Tianshui, Gansu, China
+THR*OIII*Mehrabad International Airport*Tehran, Iran
+THS*VTPO*Sukhothai Airport*Sukhothai, Thailand
+THT*GQNT*Tamchakett Airport*Tamchakett, Mauritania
+THU*BGTL*Thule Air Base*Pituffik, Greenland
+THV*KTHV*York Airport*York, Pennsylvania, United States
+THW**Trincomalee Harbour Seaplane Base*Trincomalee, Sri Lanka
+THX*UOTT*Turukhansk Airport*Turukhansk, Krasnoyarsk Krai, Russia
+THY*FATH*P.R. Mphephu Airport*Thohoyandou, South Africa
+THZ*DRRT*Tahoua Airport*Tahoua, Niger
+TIA*LATI*Tirana International Airport Nënë Tereza*Tirana, Albania
+TIB*SKTB*Tibú Airport*Tibú, Colombia
+TIC**Tinak Airport (FAA: N18)*Tinak Island, Arno Atoll, Marshall Islands
+TID*DAOB*Abdelhafid Boussouf Bou Chekif Airport*Tiaret, Algeria
+TIE*HATP*Tippi Airport*Tepi (Tippi), Ethiopia
+TIF*OETF*Ta'if Regional Airport*Ta'if, Saudi Arabia
+TIG**Tingwon Airport*Tingwon, Papua New Guinea
+TIH*NTGC*Tikehau Airport*Tikehau, Tuamotus, French Polynesia
+TII*OATN*Tarinkot Airport*Tarinkot (Tarin Kowt), Afghanistan
+TIJ*MMTJ*Tijuana International Airport*Tijuana, Baja California, Mexico
+TIK*KTIK*Tinker Air Force Base*Oklahoma City, Oklahoma, United States
+TIL**Cheadle Airport (TC: CFQ4)*Cheadle, Alberta, Canada
+TIM*WABP*Mozes Kilangin Airport*Tembagapura / Timika, Indonesia
+TIN*DAOF*Tindouf Airport*Tindouf, Algeria
+TIO*VYHN*Tilin Airport*Htilin (Tilin), Myanmar
+TIP*HLLT*Tripoli International Airport*Tripoli, Libya
+TIQ*PGWT*Tinian International Airport (West Tinian Airport) (FAA: TNI)*Tinian, Northern Mariana Islands
+TIR*VOTP*Tirupati Airport*Tirupati, Andhra Pradesh, India
+TIU*NZTU*Richard Pearse Airport*Timaru, New Zealand
+TIV*LYTV*Tivat Airport*Tivat, Montenegro
+TIW*KTIW*Tacoma Narrows Airport*Tacoma, Washington, United States
+TIX*KTIX*Space Coast Regional Airport*Titusville, Florida, United States
+TIY*GQND*Tidjikja Airport*Tidjikja, Mauritania
+TIZ*AYTA*Tari Airport*Tari, Papua New Guinea
+TJA*SLTJ*Capitán Oriel Lea Plaza Airport*Tarija, Bolivia
+TJB*WIBT*Sei Bati Airport*Tanjung Balai, Indonesia
+TJC**Ticantiquí Airport*Ticantiquí, Panama
+TJG*WAON*Warukin Airport*Tanjung, Indonesia
+TJH*RJBT*Tajima Airport*Toyooka, Honshu, Japan
+TJI*MHTJ*Trujillo Airport (Capiro Airport)*Trujillo, Honduras
+TJK*LTAW*Tokat Airport*Tokat, Turkey
+TJL*SBTG*Plínio Alarcom Airport*Três Lagoas, Mato Grosso do Sul, Brazil
+TJM*USTR*Roshchino International Airport*Tyumen, Tyumen Oblast, Russia
+TJN*NTKM*Takume Airport*Takume, Tuamotus, French Polynesia
+TJQ*WIKD*H.A.S. Hanandjoeddin Airport (Buluh Tumbang Airport)*Tanjung Pandan, Indonesia
+TJS*WAGD*Tanjung Harapan Airport*Tanjung Selor, Indonesia
+TJU*UTDK*Kulob Airport*Kulob, Tajikistan
+TJV*VOTJ*Thanjavur Air Force Station*Thanjavur, Tamil Nadu, India
+TKA*PATK*Talkeetna Airport*Talkeetna, Alaska, United States
+TKB**Tekadu Airport*Tekadu, Papua New Guinea
+TKC*FKKC*Tiko Airport*Tiko, Cameroon
+TKD*DGTK*Takoradi Airport*Sekondi-Takoradi, Ghana
+TKE**Tenakee Seaplane Base*Tenakee Springs, Alaska, United States
+TKF*KTRK*Truckee Tahoe Airport (FAA: TRK)*Truckee, California, United States
+TKG*WILL*Radin Inten II Airport*Bandar Lampung, Indonesia
+TKH*VTPI*Takhli Royal Thai Air Force Base*Takhli, Thailand
+TKI**Tokeen Seaplane Base (FAA: 57A)*Tokeen, Alaska, United States
+TKJ*PFTO*Tok Junction Airport (FAA: 6K8)*Tok, Alaska, United States
+TKK*PTKK*Chuuk International Airport*Chuuk, Federated States of Micronesia
+TKL**Taku Lodge Seaplane Base*Taku Lodge, Alaska, United States
+TKN*RJKN*Tokunoshima Airport*Tokunoshima, Amami Islands, Japan
+TKO*FXTK*Tlokoeng Airport*Tlokoeng, Lesotho
+TKP*NTGT*Takapoto Airport*Takapoto, Tuamotus, French Polynesia
+TKQ*HTKA*Kigoma Airport*Kigoma, Tanzania
+TKR*VGSG*Thakurgaon Airport*Thakurgaon, Bangladesh
+TKS*RJOS*Tokushima Airport*Tokushima, Shikoku, Japan
+TKT*VTPT*Tak Airport*Tak, Thailand
+TKU*EFTU*Turku Airport*Turku, Finland
+TKV*NTGO*Tatakoto Airport*Tatakoto, Tuamotus, French Polynesia
+TKW*AYTN*Tekin Airport*Tekin, Papua New Guinea
+TKX*NTKR*Takaroa Airport*Takaroa, Tuamotus, French Polynesia
+TKY*YTKY*Turkey Creek Airport*Warmun (Turkey Creek), Western Australia, Australia
+TKZ*NZTO*Tokoroa Aerodrome*Tokoroa, New Zealand
+TLA*PATE*Teller Airport (FAA: TER)*Teller, Alaska, United States
+TLB*OPTA*Tarbela Dam Airport*Tarbela Dam, Pakistan
+TLC*MMTO*Licenciado Adolfo López Mateos International Airport*Toluca, State of Mexico, Mexico
+TLD*FBTL*Tuli Lodge Airport*Tuli Lodge, Botswana
+TLE*FMST*Toliara Airport*Toliara, Madagascar
+TLF**Telida Airport (FAA: 2K5)*Telida, Alaska, United States
+TLG*AGTI*Tulaghi Heliport*Tulagi, Solomon Islands
+TLH*KTLH*Tallahassee International Airport*Tallahassee, Florida, United States
+TLI*WAMI*Sultan Bantilan Airport (Lalos Airport)*Tolitoli, Indonesia
+TLJ*PATL*Tatalina LRRS Airport*Tatalina, Alaska, United States
+TLK*UECT*Talakan Airport*Talakan, Yakutia, Russia
+TLL*EETN*Tallinn Airport (Lennart Meri Tallinn Airport)*Tallinn, Estonia
+TLM*DAON*Zenata – Messali El Hadj Airport*Tlemcen, Algeria
+TLN*LFTH*Toulon–Hyères Airport (Hyères Le Palyvestre Airport)*Toulon / Hyères, Provence-Alpes-Côte d'Azur, France
+TLO**Tol Airport*Tol, Papua New Guinea
+TLP**Tumolbil Airport*Tumolbil, Papua New Guinea
+TLQ*ZWTP*Turpan Jiaohe Airport*Turpan, Xinjiang, China
+TLR*KTLR*Mefford Field Airport*Tulare, California, United States
+TLS*LFBO*Toulouse–Blagnac Airport*Toulouse, Midi-Pyrénées, France
+TLT**Tuluksak Airport*Tuluksak, Alaska, United States
+TLU*SKTL*Golfo de Morrosquillo Airport*Tolú, Colombia
+TLV*LLBG*Ben Gurion Airport*Tel Aviv, Israel
+TLW*AYVL*Talasea Airport*Talasea, Papua New Guinea
+TLX*SCTL*Panguilemo Airport*Talca, Chile
+TLY*UHWP*Plastun Airport*Plastun, Primorsky Krai, Russia
+TLZ*SWKT*Catalão Airport*Catalão, Goiás, Brazil
+TMA*KTMA*Henry Tift Myers Airport*Tifton, Georgia, United States
+TMB*KTMB*Miami Executive Airport*Miami, Florida, United States
+TMC*WADT*Tambolaka Airport (Waikabubak Airport)*Tambolaka, Indonesia
+TMD*GQNH*Timbedra Airport*Timbédra, Mauritania
+TME*SKTM*Gabriel Vargas Santos Airport*Tame, Colombia
+TMF*VRNT*Thimarafushi Airport*Thimarafushi, Thaa Atoll, Maldives
+TMG*WBKM*Tommanggong Airport*Tommanggong, Sabah, Malaysia
+TMH*WAKT*Tanah Merah Airport*Tanahmerah, Indonesia
+TMI*VNTR*Tumlingtar Airport*Tumlingtar, Nepal
+TMJ*UTST*Termez Airport*Termez, Uzbekistan
+TML*DGLE*Tamale Airport*Tamale, Ghana
+TMM*FMMT*Toamasina Airport*Toamasina, Madagascar
+TMN*NGTM*Tamana Airport*Tamana, Kiribati
+TMO*SVTM*Tumeremo Airport*Tumeremo, Venezuela
+TMP*EFTP*Tampere–Pirkkala Airport*Tampere, Finland
+TMQ*DFEM*Tambao Airport*Tambao, Burkina Faso
+TMR*DAAT*Aguenar – Hadj Bey Akhamok Airport*Tamanrasset, Algeria
+TMS*FPST*São Tomé International Airport*São Tomé, São Tomé and Príncipe
+TMT*SBTB*Porto Trombetas Airport*Porto Trombetas / Oriximiná, Pará, Brazil
+TMU*MRTR*Tambor Airport*Tambor, Costa Rica
+TMW*YSTW*Tamworth Airport*Tamworth, New South Wales, Australia
+TMX*DAUT*Timimoun Airport*Timimoun, Algeria
+TMY**Tiom Airport*Tiom, Indonesia
+TMZ*NZTH*Thames Aerodrome*Thames, New Zealand
+TNA*ZSJN*Jinan Yaoqiang International Airport*Jinan, Shandong, China
+TNB*WRLH*Tanah Grogot Airport*Tanah Grogot, Indonesia
+TNC*PATC*Tin City LRRS Airport*Tin City, Alaska, United States
+TND*MUTD*Alberto Delgado Airport*Trinidad, Cuba
+TNF*LFPN*Toussus-le-Noble Airport*Toussus-le-Noble, Île-de-France, France
+TNG*GMTT*Tangier Ibn Battouta Airport*Tangier, Morocco
+TNH*ZYTN*Tonghua Sanyuanpu Airport*Tonghua, Jilin, China
+TNI*VIST*Satna Airport*Satna, Madhya Pradesh, India
+TNJ*WIDN*Raja Haji Fisabilillah Airport*Tanjung Pinang, Indonesia
+TNK**Tununak Airport (FAA: 4KA)*Tununak, Alaska, United States
+TNL*UKLT*Ternopil International Airport*Ternopil, Ukraine
+TNM*SCRM*Teniente R. Marsh Airport*King George Island, Antarctica
+TNN*RCNN*Tainan Airport*Tainan, Taiwan
+TNO*MRTM*Tamarindo Airport*Tamarindo, Costa Rica
+TNP*KTNP*Twentynine Palms Airport*Twentynine Palms, California, United States
+TNQ**Teraina Airport*Teraina, Kiribati
+TNR*FMMI*Ivato International Airport*Antananarivo, Madagascar
+TNS**Tungsten (Cantung) Airport (TC: CBX5)*Tungsten, Northwest Territories, Canada
+TNT*KTNT*Dade-Collier Training and Transition Airport*Miami, Florida, United States
+TNU*KTNU*Newton Municipal Airport*Newton, Iowa, United States
+TNV**Tabuaeran Island Airport*Tabuaeran, Kiribati
+TNW*SEJD*Jumandy Airport*Tena, Ecuador
+TNX*VDST*Steung Treng Airport*Stung Treng, Cambodia
+TNZ*ZMTL*Tosontsengel Airport*Tosontsengel, Mongolia
+TOA*KTOA*Zamperini Field*Torrance, California, United States
+TOB*HLGN*Tobruk Airport*Tobruk, Libya
+TOC*KTOC*Toccoa Airport (R.G. LeTourneau Field)*Toccoa, Georgia, United States
+TOD*WMBT*Tioman Airport*Tioman Island, Pahang, Malaysia
+TOE*DTTZ*Tozeur–Nefta International Airport*Tozeur, Tunisia
+TOF*UNTT*Bogashevo Airport*Tomsk, Tomsk Oblast, Russia
+TOG*PATG*Togiak Airport*Togiak, Alaska, United States
+TOH*NVSD*Torres Airport*Torres Islands, Vanuatu
+TOI*KTOI*Troy Municipal Airport*Troy, Alabama, United States
+TOJ*LETO*Madrid–Torrejón Airport*Madrid, Community of Madrid, Spain
+TOK**Torokina Airport*Torokina, Papua New Guinea
+TOL*KTOL*Toledo Express Airport*Toledo, Ohio, United States
+TOM*GATB*Timbuktu Airport*Timbuktu (Tombouctou), Mali
+TON**Tonu Airport*Tonu, Papua New Guinea
+TOO*MRSV*San Vito de Java Airport*San Vito, Costa Rica
+TOP*KTOP*Philip Billard Municipal Airport*Topeka, Kansas, United States
+TOQ*SCBE*Barriles Airport*Tocopilla, Chile
+TOR*KTOR*Torrington Municipal Airport*Torrington, Wyoming, United States
+TOS*ENTC*Tromsø Airport, Langnes*Tromsø, Norway
+TOT*SMCO*Totness Airstrip*Totness, Suriname
+TOU*NWWU*Touho Airport*Touho, New Caledonia
+TOV**West End Seaplane Base*Tortola, British Overseas Territory of Virgin Islands
+TOW*SBTD*Luiz dal Canalle Filho Airport*Toledo, Paraná, Brazil
+TOX*USTO*Tobolsk Airport*Tobolsk, Tyumen Oblast, Russia
+TOY*RJNT*Toyama Airport*Toyama, Honshu, Japan
+TOZ*DITM*Mahana Airport*Touba, Ivory Coast
+TPA*KTPA*Tampa International Airport*Tampa, Florida, United States
+TPC*SETR*Tarapoa Airport*Tarapoa, Ecuador
+TPE*RCTP*Taiwan Taoyuan International Airport*Taoyuan, Taiwan
+TPF*KTPF*Peter O. Knight Airport*Tampa, Florida, United States
+TPG*WMBI*Taiping Airport*Taiping, Perak, Malaysia
+TPH*KTPH*Tonopah Airport*Tonopah, Nevada, United States
+TPI*AYTI*Tapini Airport*Tapini, Papua New Guinea
+TPJ*VNTJ*Taplejung Airport*Taplejung, Nepal
+TPK*WITA*Teuku Cut Ali Airport*Tapaktuan, Indonesia
+TPL*KTPL*Draughon–Miller Central Texas Regional Airport*Temple, Texas, United States
+TPN*SETI*Tiputini Airport*Tiputini, Ecuador
+TPP*SPST*Cad. FAP Guillermo del Castillo Paredes Airport*Tarapoto, Peru
+TPQ*MMEP*Amado Nervo International Airport*Tepic, Nayarit, Mexico
+TPR*YTMP*Tom Price Airport*Tom Price, Western Australia, Australia
+TPS*LICT*Vincenzo Florio Airport Trapani–Birgi*Trapani, Sicily, Italy
+TPT**Tapeta Airport*Tapeta, Liberia
+TPU*VNTP*Tikapur Airport*Tikapur, Nepal
+TQD*ORAT*Al-Taqaddum Air Base*Fallujah, Iraq
+TQL*USDS*Tarko-Sale Airport*Tarko-Sale, Yamalo-Nenets Autonomous Okrug, Russia
+TQN*OATQ*Taloqan Airport*Taloqan, Afghanistan
+TQP*YTEE*Trepell Airport*Trepell, Queensland, Australia
+TQQ**Maranggo Airport*Tomia Island, Indonesia
+TQS*SKTQ*Captain Ernesto Esguerra Cubides Air Base*Tres Esquinas, Colombia
+TRA*RORT*Tarama Airport*Tarama, Miyako Islands, Japan
+TRB*SKTU*Gonzalo Mejía Airport*Turbo, Colombia
+TRC*MMTC*Francisco Sarabia International Airport (Torreón Int'l)*Torreón, Coahuila, Mexico
+TRD*ENVA*Trondheim Airport, Værnes*Trondheim, Norway
+TRE*EGPU*Tiree Airport*Tiree, Scotland, United Kingdom
+TRF*ENTO*Sandefjord Airport, Torp*Sandefjord / Oslo, Norway
+TRG*NZTG*Tauranga Airport*Tauranga, New Zealand
+TRH**Trona Airport (FAA: L72)*Trona, California, United States
+TRI*KTRI*Tri-Cities Regional Airport*Bristol / Johnson City / Kingsport, Tennessee, United States
+TRJ*AYTT*Tarakbits Airport*Tarakbits, Papua New Guinea
+TRK*WALR*Juwata International Airport*Tarakan, Indonesia
+TRL*KTRL*Terrell Municipal Airport*Terrell, Texas, United States
+TRM*KTRM*Jacqueline Cochran Regional Airport*Thermal, California, United States
+TRN*LIMF*Turin Airport (Caselle Airport)*Turin, Piedmont, Italy
+TRO*YTRE*Taree Airport*Taree, New South Wales, Australia
+TRQ*SBTK*José Galera dos Santos Airport*Tarauacá, Acre, Brazil
+TRR*VCCT*China Bay Airport*Trincomalee, Sri Lanka
+TRS*LIPQ*Trieste – Friuli Venezia Giulia Airport (Ronchi dei Legionari Airport)*Trieste, Friuli-Venezia Giulia, Italy
+TRU*SPRU*FAP Captain Carlos Martínez de Pinillos International Airport*Trujillo, Peru
+TRV*VOTV*Trivandrum International Airport*Thiruvananthapuram, Kerala, India
+TRW*NGTA*Bonriki International Airport*Tarawa, Kiribati
+TRX*KTRX*Trenton Municipal Airport*Trenton, Missouri, United States
+TRY*HUTO*Tororo Airport*Tororo, Uganda
+TRZ*VOTR*Tiruchirappalli International Airport*Tiruchirappalli (Tiruchchirappalli), Tamil Nadu, India
+TSA*RCSS*Taipei Songshan Airport*Taipei, Taiwan
+TSB*FYTM*Tsumeb Airport*Tsumeb, Namibia
+TSC*SETH*Taisha Airport*Taisha, Ecuador
+TSD**Tshipise Airport*Tshipise, South Africa
+TSE*UACC*Astana International Airport*Astana, Kazakhstan
+TSF*LIPH*Treviso-Sant'Angelo Airport*Treviso / Venice, Veneto, Italy
+TSG**Tanacross Airport*Tanacross, Alaska, United States
+TSH*FZUK*Tshikapa Airport*Tshikapa, Democratic Republic of the Congo
+TSI**Tsile Tsile Airport*Tsili Tsili (Tsile Tsile), Papua New Guinea
+TSJ*RJDT*Tsushima Airport*Tsushima, Tsushima Island, Japan
+TSK**Taskul Airport*Taskul, Papua New Guinea
+TSL*MMTN*Tamuín National Airport*Tamuín, San Luis Potosí, Mexico
+TSM*KSKX*Taos Regional Airport (FAA: SKX)*Taos, New Mexico, United States
+TSN*ZBTJ*Tianjin Binhai International Airport*Tianjin, China
+TSP*KTSP*Tehachapi Municipal Airport*Tehachapi, California, United States
+TSQ*SBTR*Torres Airport*Torres, Rio Grande do Sul, Brazil
+TST*VTST*Trang Airport*Trang, Thailand
+TSU*NGTS*Tabiteuea South Airport*Tabiteuea South, Kiribati
+TSV*YBTL*Townsville Airport*Townsville, Queensland, Australia
+TSW**Tsewi Airport*Tsewi, Papua New Guinea
+TSX*WRLT*Tanjung Santan Airport*Tanjung Santan, Indonesia
+TSY*WICM*Tasikmalaya Airport (Wiriadinata Airport)*Tasikmalaya, West Java, Indonesia
+TSZ*ZMTG*Tsetserleg Airport*Tsetserleg, Mongolia
+TTA*GMAT*Tan Tan Airport (Plage Blanche Airport)*Tan-Tan, Morocco
+TTB*LIET*Tortolì Airport (Arbatax Airport)*Tortolì, Sardinia, Italy
+TTC*SCTT*Las Breas Airport*Taltal, Chile
+TTD*KTTD*Portland–Troutdale Airport*Portland, Oregon, United States
+TTE*WAEE*Sultan Babullah Airport*Ternate, Indonesia
+TTG*SAST*Tartagal "General Enrique Mosconi" Airport*Tartagal, Salta, Argentina
+TTH*OOTH*RAFO Thumrait*Thumrait, Oman
+TTI*NTTE*Tetiaroa Airport*Tetiaroa, Society Islands, French Polynesia
+TTJ*RJOR*Tottori Airport*Tottori, Honshu, Japan
+TTL**Turtle Island Seaplane Base*Nanuya Levu, Fiji
+TTM**Tablón de Tamará Airport*Tablón de Tamará, Colombia
+TTN*KTTN*Trenton–Mercer Airport*Trenton, New Jersey, United States
+TTO*KBTN*Britton Municipal Airport (FAA: BTN)*Britton, South Dakota, United States
+TTQ*MRBT*Tortuguero Airport (Barra de Tortuguero Airport)*Tortuguero, Costa Rica
+TTR*WAWT*Pongtiku Airport*Tana Toraja, Indonesia
+TTS*FMNT*Tsaratanana Airport*Tsaratanana, Madagascar
+TTT*RCFN*Taitung Airport (Taitung Fongnian Airport)*Taitung, Taiwan
+TTU**Sania Ramel Airport*Tétouan, Morocco
+TTW**Tissa Tank Waterdrome*Tissamaharama, Sri Lanka
+TTX*YTST*Truscott-Mungalalu Airport*Mungalalu, Western Australia, Australia
+TUA*SETU*Teniente Coronel Luis a Mantilla International Airport*Tulcán, Ecuador
+TUB*NTAT*Tubuai – Mataura Airport*Tubuai, French Polynesia
+TUC*SANT*Teniente General Benjamín Matienzo International Airport*San Miguel de Tucumán, Tucumán, Argentina
+TUD*GOTT*Tambacounda Airport*Tambacounda, Senegal
+TUF*LFOT*Tours Val de Loire Airport*Tours, Centre-Val de Loire, France
+TUG*RPUT*Tuguegarao Airport*Tuguegarao, Philippines
+TUI*OETR*Turaif Domestic Airport*Turaif, Saudi Arabia
+TUJ*HAMJ*Tum Airport*Tum, Ethiopia
+TUK*OPTU*Turbat International Airport*Turbat, Pakistan
+TUL*KTUL*Tulsa International Airport*Tulsa, Oklahoma, United States
+TUM*YTMU*Tumut Airport*Tumut, New South Wales, Australia
+TUN*DTTA*Tunis–Carthage International Airport*Tunis, Tunisia
+TUO*NZAP*Taupo Airport*Taupo, New Zealand
+TUP*KTUP*Tupelo Regional Airport*Tupelo, Mississippi, United States
+TUQ*DFOT*Tougan Airport*Tougan, Burkina Faso
+TUR*SBTU*Tucuruí Airport*Tucuruí, Pará, Brazil
+TUS*KTUS*Tucson International Airport*Tucson, Arizona, United States
+TUT**Tauta Airport*Tauta, Papua New Guinea
+TUU*OETB*Tabuk Regional Airport*Tabuk, Saudi Arabia
+TUV*SVTC*San Rafael Airport*Tucupita, Venezuela
+TUW**Tubala Airport*Tubala (Tubualá), Panama
+TUX**Tumbler Ridge Airport (TC: CBX7)*Tumbler Ridge, British Columbia, Canada
+TUY**Tulum Airport*Tulum, Quintana Roo, Mexico
+TUZ**Tucumã Airport*Tucumã, Pará, Brazil
+TVA*FMMR*Morafenobe Airport*Morafenobe, Madagascar
+TVC*KTVC*Cherry Capital Airport*Traverse City, Michigan, United States
+TVF*KTVF*Thief River Falls Regional Airport*Thief River Falls, Minnesota, United States
+TVI*KTVI*Thomasville Regional Airport*Thomasville, Georgia, United States
+TVL*KTVL*Lake Tahoe Airport*South Lake Tahoe, California, United States
+TVS*ZBTS*Tangshan Sannühe Airport*Tangshan, Hebei, China
+TVU*NFNM*Matei Airport*Taveuni, Fiji
+TVY*VYDW*Dawei Airport*Dawei, Myanmar
+TWA**Twin Hills Airport (FAA: A63)*Twin Hills, Alaska, United States
+TWB*YTWB*Toowoomba City Aerodrome*Toowoomba, Queensland, Australia
+TWD**Jefferson County International Airport (FAA: 0S9)*Port Townsend, Washington, United States
+TWE**Taylor Airport (FAA: AK49)*Taylor, Alaska, United States
+TWF*KTWF*Magic Valley Regional Airport (Joslin Field)*Twin Falls, Idaho, United States
+TWN**Tewantin Airport*Tewantin, Queensland, Australia
+TWP**Torwood Airport*Torwood, Queensland, Australia
+TWT*RPMN*Sanga-Sanga Airport*Tawitawi Island (Tawi-Tawi), Philippines
+TWU*WBKW*Tawau Airport*Tawau, Sabah, Malaysia
+TWY**Tawa Airport*Tawa, Papua New Guinea
+TWZ*NZUK*Pukaki Airport (Twizel Airport)*Twizel, New Zealand
+TXF*SNTF*Teixeira de Freitas Airport (9 de maio Airport)*Teixeira de Freitas, Bahia, Brazil
+TXK*KTXK*Texarkana Regional Airport (Webb Field)*Texarkana, Arkansas, United States
+TXL*EDDT*Berlin Tegel Airport*Berlin, Germany
+TXM*WAST*Teminabuan Airport*Teminabuan, Indonesia
+TXN*ZSTX*Huangshan Tunxi International Airport*Huangshan, Anhui, China
+TXR**Tanbar Airport*Tanbar, Queensland, Australia
+TXU*DITB*Tabou Airport*Tabou, Ivory Coast
+TYA*UUBT*Klokovo Airport*Tula, Tula Oblast, Russia
+TYB*YTIB*Tibooburra Airport*Tibooburra, New South Wales, Australia
+TYD*UHBW*Tynda Airport*Tynda, Amur Oblast, Russia
+TYE**Tyonek Airport*Tyonek, Alaska, United States
+TYF*ESST*Torsby Airport*Torsby, Sweden
+TYG**Thylungra Airport*Thylungra, Queensland, Australia
+TYL*SPYL*Capitán FAP Víctor Montes Arias International Airport*Talara, Peru
+TYM*MYES*Staniel Cay Airport*Staniel Cay, Exuma Islands, Bahamas
+TYN*ZBYN*Taiyuan Wusu International Airport*Taiyuan, Shanxi, China
+TYO**metropolitan area2*Tokyo, Honshu, Japan
+TYP*YTMY*Tobermorey Airport*Tobermorey, Northern Territory, Australia
+TYR*KTYR*Tyler Pounds Regional Airport*Tyler, Texas, United States
+TYS*KTYS*McGhee Tyson Airport*Knoxville, Tennessee, United States
+TYT*SUTR*Treinta y Tres Airport*Treinta y Tres, Uruguay
+TYZ*KTYL*Taylor Airport (FAA: TYL)*Taylor, Arizona, United States
+TZA**Belize City Municipal Airport*Belize City, Belize
+TZC*KCFS*Tuscola Area Airport (FAA: CFS)*Caro, Michigan, United States
+TZL*LQTZ*Tuzla International Airport*Tuzla, Bosnia and Herzegovina
+TZM**Cupul National Airport*Tizimín, Yucatán, Mexico
+TZN*MYAK*South Andros Airport (Congo Town Airport)*South Andros, Andros Island, Bahamas
+TZO**Tsimiroro Airport*Ankisatra, Madagascar
+TZX*LTCG*Trabzon Airport*Trabzon, Turkey

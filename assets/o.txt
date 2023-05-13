@@ -1,0 +1,301 @@
+OAA*OASH*Forward Operating Base Shank*Gardez, Afghanistan
+OAG*YORG*Orange Airport*Orange, New South Wales, Australia
+OAH*OASD*Shindand Air Base*Shindand, Afghanistan
+OAI*OAIX*Bagram Airfield*Bagram, Afghanistan
+OAJ*KOAJ*Albert J. Ellis Airport*Jacksonville, North Carolina, United States
+OAK*KOAK*Oakland International Airport*Oakland, California, United States
+OAL*SSKW*Capital do Café Airport*Cacoal, Rondônia, Brazil
+OAM*NZOU*Oamaru Airport*Oamaru, New Zealand
+OAN*MHEA*El Arrayán Airport*Olanchito, Honduras
+OAR*KOAR*Marina Municipal Airport*Monterey / Marina, California, United States
+OAS*OASA*Sharana Airstrip / Forward Operating Base Sharana*Sharana, Afghanistan
+OAX*MMOX*Xoxocotlán International Airport*Oaxaca de Juárez, Oaxaca, Mexico
+OAZ*OAZI*Camp Bastion Air Base*Girishk (Gereshk), Afghanistan
+OBA**Oban Airport*Oban, Queensland, Australia
+OBC*HDOB*Obock Airport*Obock, Djibouti
+OBD**Obano Airport*Obano, Indonesia
+OBE*KOBE*Okeechobee County Airport*Okeechobee, Florida, United States
+OBF*EDMO*Oberpfaffenhofen Airport*Oberpfaffenhofen, Bavaria, Germany
+OBI*SBTI*Óbidos Airport*Óbidos, Pará, Brazil
+OBL*EBZR*Oostmalle Airfield*Zoersel, Belgium
+OBM**Morobe Airport*Morobe, Papua New Guinea
+OBN*EGEO*Oban Airport (North Connel Airport)*Oban, Scotland, United Kingdom
+OBO*RJCB*Tokachi–Obihiro Airport*Obihiro, Hokkaido, Japan
+OBS*LFHO*Aubenas Aerodrome (Ardèche Méridionale Aerodrome)*Aubenas, Rhône-Alpes, France
+OBU*PAOB*Kobuk Airport*Kobuk, Alaska, United States
+OBX*AYOB*Obo Airport*Obo, Papua New Guinea
+OCA**Ocean Reef Club Airport (FAA: 07FA)*Key Largo, Florida, United States
+OCC*SECO*Francisco de Orellana Airport*Puerto Francisco de Orellana (Coca), Ecuador
+OCE*KOXB*Ocean City Municipal Airport*Ocean City, Maryland, United States
+OCF*KOCF*Ocala International Airport (Jim Taylor Field)*Ocala, Florida, United States
+OCH*KOCH*A.L. Mangham Jr. Regional Airport*Nacogdoches, Texas, United States
+OCJ*MKBS*Ian Fleming International Airport*Ocho Rios, Jamaica
+OCM*YBGD*Boolgeeda Airport*Boolgeeda, Western Australia, Australia
+OCN*KOKB*Oceanside Municipal Airport (FAA: OKB)*Oceanside, California, United States
+OCS**Corisco International Airport*Corisco Island, Equatorial Guinea
+OCV*SKOC*Aguas Claras Airport*Ocaña, Colombia
+OCW*KOCW*Washington–Warren Airport (Warren Field)*Washington, North Carolina, United States
+ODA*FEFW*Ouadda Airport*Ouadda, Central African Republic
+ODB*LEBA*Córdoba Airport*Córdoba, Andalusia, Spain
+ODC**Oakdale Airport (FAA: O27)*Oakdale, California, United States
+ODD*YOOD*Oodnadatta Airport*Oodnadatta, South Australia, Australia
+ODE*EKOD*Hans Christian Andersen Airport*Odense, Denmark
+ODH*EGVO*RAF Odiham*Odiham, England, United Kingdom
+ODJ*FEGO*Ouanda Djallé Airport*Ouanda Djallé, Central African Republic
+ODL**Cordillo Downs Airport*Cordillo Downs, South Australia, Australia
+ODM**Garrett County Airport (FAA: 2G4)*Oakland, Maryland, United States
+ODN*WBGI*Long Seridan Airport*Long Seridan, Sarawak, Malaysia
+ODO*UIKB*Bodaybo Airport*Bodaybo, Irkutsk Oblast, Russia
+ODR*YORV*Ord River Airport*Ord River, Western Australia, Australia
+ODS*UKOO*Odessa International Airport*Odessa, Ukraine
+ODW*KOKH*A.J. Eisenberg Airport (FAA: OKH)*Oak Harbor, Washington, United States
+ODY*VLOS*Oudomsay Airport*Muang Xay (Oudomxai), Laos
+OEC*WPOC*Oecusse Airport*Oecussi, East Timor
+OEL*UUOR*Oryol Yuzhny Airport*Oryol (Orel), Oryol Oblast, Russia
+OEM*SMPA*Vincent Fayks Airport*Paloemeu, Suriname
+OEO*KOEO*L.O. Simenstad Municipal Airport*Osceola, Wisconsin, United States
+OER*ESNO*Örnsköldsvik Airport*Örnsköldsvik, Sweden
+OES*SAVN*Antoine de Saint Exupéry Airport*San Antonio Oeste, Río Negro, Argentina
+OFF*KOFF*Offutt Air Force Base*Omaha, Nebraska, United States
+OFI*DIOF*Ouango Fitini Airport*Ouango Fitini, Ivory Coast
+OFJ*BIOF*Ólafsfjörður Airport*Ólafsfjörður, Iceland
+OFK*KOFK*Norfolk Regional Airport (Karl Stefan Memorial Field)*Norfolk, Nebraska, United States
+OFU*NSAS*Ofu Airport (FAA: Z08)*Ofu Island, American Samoa
+OGA*KOGA*Searle Field*Ogallala, Nebraska, United States
+OGB*KOGB*Orangeburg Municipal Airport*Orangeburg, South Carolina, United States
+OGD*KOGD*Ogden-Hinckley Airport*Ogden, Utah, United States
+OGE**Ogeramnang Airport*Ogeramnang, Papua New Guinea
+OGG*PHOG*Kahului Airport*Kahului, Hawaii, United States
+OGL*SYGO*Ogle Airport*Georgetown, Guyana
+OGM**Ustupu-Ogobsucum Airport*Ustupo, Panama
+OGN*ROYN*Yonaguni Airport*Yonaguni, Yaeyama Islands, Japan
+OGO*DIAU*Abengourou Airport*Abengourou, Ivory Coast
+OGR*FTTB*Bongor Airport*Bongor, Chad
+OGS*KOGS*Ogdensburg International Airport*Ogdensburg, New York, United States
+OGU*LTCB*Ordu–Giresun Airport*Ordu / Giresun, Turkey
+OGV*FYNG*Ongava Airstrip*Ongava, Namibia
+OGX*DAUU*Ain Beida Airport*Ouargla, Algeria
+OGZ*URMO*Beslan Airport*Vladikavkaz, North Ossetia-Alania, Russia
+OHA*NZOH*RNZAF Base Ohakea*Bulls, New Zealand
+OHB**Ambohibary Airport*Moramanga, Madagascar
+OHD*LWOH*Ohrid "St. Paul the Apostle" Airport*Ohrid, Republic of Macedonia
+OHE*ZYMH*Mohe Gulian Airport*Mohe, Heilongjiang, China
+OHH*UHSH*Okha Airport (Novostroyka Airport)*Okha, Sakhalin Oblast, Russia
+OHI*FYOS*Oshakati Airport*Oshakati, Namibia
+OHO*UHOO*Okhotsk Airport*Okhotsk, Khabarovsk Krai, Russia
+OHR*EDXY*Wyk auf Föhr Airport*Wyk auf Föhr, Schleswig-Holstein, Germany
+OHS*OOSH*Sohar Airport*Sohar, Oman
+OHT*OPKT*PAF Base Kohat*Kohat, Pakistan
+OIA*SDOW*Ourilândia do Norte Airport*Ourilândia do Norte, Pará, Brazil
+OIC*KOIC*Lt. Warren Eaton Airport*Norwich, New York, United States
+OIR*RJEO*Okushiri Airport*Okushiri, Okushiri Island, Japan
+OIT*RJFO*Oita Airport*Oita, Kyushu, Japan
+OJC*KOJC*Johnson County Executive Airport*Olathe, Kansas, United States
+OJU**Tanjung Api Airport*Ampana, Tojo Una-Una Regency, Central Sulawesi, Indonesia
+OKA*ROAH*Naha Airport*Okinawa, Ryukyu Islands, Japan
+OKB*YORC*Orchid Beach Airport*Fraser Island, Queensland, Australia
+OKC*KOKC*Will Rogers World Airport*Oklahoma City, Oklahoma, United States
+OKD*RJCO*Okadama Airport*Sapporo, Hokkaido, Japan
+OKE*RJKB*Okinoerabu Airport*Okinoerabujima, Amami Islands, Japan
+OKF*FYOO*Okaukuejo Airport*Okaukuejo, Namibia
+OKG**Okoyo Airport*Okoyo, Republic of the Congo
+OKH*EGXJ*RAF Cottesmore*Oakham, England, United Kingdom
+OKI*RJNO*Oki Airport*Dogo, Oki Islands, Japan
+OKJ*RJOB*Okayama Airport*Okayama, Honshu, Japan
+OKK*KOKK*Kokomo Municipal Airport*Kokomo, Indiana, United States
+OKL*WAJO*Gunung Bintang Airport*Oksibil, Indonesia
+OKM*KOKM*Okmulgee Regional Airport*Okmulgee, Oklahoma, United States
+OKN*FOGQ*Okondja Airport*Okondja, Gabon
+OKO*RJTY*Yokota Air Base*Fussa, Honshu, Japan
+OKP*AYOJ*Oksapmin Airport*Oksapmin, Papua New Guinea
+OKQ*WAKO*Okaba Airport*Okaba, Indonesia
+OKR*YYKI*Yorke Island Airport*Yorke Island, Queensland, Australia
+OKS*KOKS*Garden County Airport*Oshkosh, Nebraska, United States
+OKT*UWUK*Oktyabrsky Airport*Oktyabrsky, Bashkortostan, Russia
+OKU*FYMO*Mokuti Lodge Airport*Mokuti Lodge, Namibia
+OKV**Okao Airport*Okao, Papua New Guinea
+OKY*YBOK*Oakey Army Aviation Centre*Oakey, Queensland, Australia
+OLA*ENOL*Ørland Airport*Ørland, Norway
+OLB*LIEO*Olbia Costa Smeralda Airport*Olbia, Sardinia, Italy
+OLC*SDCG*Senadora Eunice Michiles Airport*São Paulo de Olivença, Amazonas, Brazil
+OLD*KOLD*Old Town Municipal Airport and Seaplane Base (Dewitt Field)*Old Town, Maine, United States
+OLE*KOLE*Cattaraugus County-Olean Airport*Olean, New York, United States
+OLF*KOLF*L. M. Clayton Airport*Wolf Point, Montana, United States
+OLH**Old Harbor Airport (FAA: 6R7)*Old Harbor, Alaska, United States
+OLI*BIRF*Rif Airport*Ólafsvík, Iceland
+OLJ*NVSZ*Olpoi Airport (North West Santo Airport)*Olpoi, Vanuatu
+OLK*SGOL*Fuerte Olimpo Airport*Fuerte Olimpo, Paraguay
+OLL**Oyo Ollombo Airport*Oyo, Republic of the Congo
+OLM*KOLM*Olympia Regional Airport*Olympia, Washington, United States
+OLN*SAVM*Lago Musters Airport*Sarmiento, Chubut, Argentina
+OLP*YOLD*Olympic Dam Airport*Olympic Dam, South Australia, Australia
+OLQ**Olsobip Airport*Olsobip, Papua New Guinea
+OLR*OASL*Forward Operating Base Salerno*Khost, Afghanistan
+OLS*KOLS*Nogales International Airport*Nogales, Arizona, United States
+OLU*KOLU*Columbus Municipal Airport*Columbus, Nebraska, United States
+OLV*KOLV*Olive Branch Airport*Olive Branch, Mississippi, United States
+OLX**Olkiombo Airstrip*Olkiombo, Kenya
+OLY*KOLY*Olney-Noble Airport*Olney / Noble, Illinois, United States
+OLZ*UEMO*Olyokminsk Airport*Olyokminsk, Yakutia, Russia
+OMA*KOMA*Eppley Airfield*Omaha, Nebraska, United States
+OMB*FOOH*Omboué Hospital Airport*Omboué, Gabon
+OMC*RPVO*Ormoc Airport*Ormoc, Philippines
+OMD*FYOG*Oranjemund Airport*Oranjemund, Namibia
+OME*PAOM*Nome Airport*Nome, Alaska, United States
+OMF*OJMF*King Hussein Air Base*Mafraq, Jordan
+OMG*FYOE*Omega Airport*Omega, Namibia
+OMI*OIAJ*Omidiyeh Air Base*Omidiyeh, Iran
+OMK*KOMK*Omak Airport*Omak, Washington, United States
+OML**Omkalai Airport*Omkalai, Papua New Guinea
+OMM*OOMX*Marmul Airport*Marmul, Oman
+OMO*LQMO*Mostar Airport*Mostar, Bosnia and Herzegovina
+OMR*LROD*Oradea International Airport*Oradea, Romania
+OMS*UNOO*Omsk Tsentralny Airport*Omsk, Omsk Oblast, Russia
+OMY**Thbeng Meanchey Airport (Preah Vinhear Airport)*Phnom Tbeng Meanchey, Cambodia
+ONA*KONA*Winona Municipal Airport (Max Conrad Field)*Winona, Minnesota, United States
+ONB*AYQQ*Ononge Airport*Ononge, Papua New Guinea
+OND*FYOA*Ondangwa Airport*Ondangwa, Namibia
+ONE**Onepusu Airport*Onepusu, Solomon Islands
+ONG*YMTI*Mornington Island Airport*Mornington Island, Queensland, Australia
+ONH**Oneonta Municipal Airport (FAA: N66)*Oneonta, New York, United States
+ONI*WABD*Moanamani Airport*Moanemani (Moanamani), Indonesia
+ONK*UERO*Olenyok Airport*Olenyok, Yakutia, Russia
+ONL*KONL*O'Neill Municipal Airport (John L. Baker Field)*O'Neill, Nebraska, United States
+ONM*KONM*Socorro Municipal Airport*Socorro, New Mexico, United States
+ONO*KONO*Ontario Municipal Airport*Ontario, Oregon, United States
+ONP*KONP*Newport Municipal Airport*Newport, Oregon, United States
+ONQ*LTAS*Zonguldak Airport*Zonguldak, Turkey
+ONR*YMNK*Monkira Airport*Monkira, Queensland, Australia
+ONS*YOLW*Onslow Airport*Onslow, Western Australia, Australia
+ONT*KONT*Ontario International Airport*Ontario, California, United States
+ONU*NFOL*Ono-i-Lau Airport*Ono-i-Lau, Fiji
+ONX*MPEJ*Enrique Adolfo Jiménez Airport*Colón, Panama
+ONY*KONY*Olney Municipal Airport*Olney, Texas, United States
+OOA*KOOA*Oskaloosa Municipal Airport*Oskaloosa, Iowa, United States
+OOK*PAOO*Toksook Bay Airport*Toksook Bay, Alaska, United States
+OOL*YBCG*Gold Coast Airport (Coolangatta Airport)*Gold Coast, Queensland, Australia
+OOM*YCOM*Cooma–Snowy Mountains Airport*Cooma, New South Wales, Australia
+OOR*YMOO*Mooraberree Airport*Mooraberree, Queensland, Australia
+OOT*NGON*Onotoa Airport*Onotoa, Kiribati
+OPA*BIKP*Kópasker Airport*Kópasker, Iceland
+OPB**Open Bay Airport*Open Bay, Papua New Guinea
+OPF*KOPF*Miami-Opa Locka Executive Airport*Miami, Florida, United States
+OPI*YOEN*Oenpelli Airport*Gunbalanya (Oenpelli), Queensland, Australia
+OPL*KOPL*St. Landry Parish Airport (Ahart Field)*Opelousas, Louisiana, United States
+OPO*LPPR*Francisco de Sá Carneiro Airport*Porto, Portugal
+OPS*SWSI*Presidente João Figueiredo Airport*Sinop, Mato Grosso, Brazil
+OPU*AYBM*Balimo Airport*Balimo, Papua New Guinea
+OPW*FYOP*Opuwa Airport*Opuwo, Namibia
+ORA*SASO*Orán Airport*Orán, Salta, Argentina
+ORB*ESOE*Örebro Airport*Örebro, Sweden
+ORC*SKOE*Orocue Airport*Orocué, Colombia
+ORD*KORD*O'Hare International Airport*Chicago, Illinois, United States
+ORE*LFOZ*Orléans – Saint-Denis-de-l'Hôtel Airport*Orléans, Centre-Val de Loire, France
+ORF*KORF*Norfolk International Airport*Norfolk, Virginia, United States
+ORG*SMZO*Zorg en Hoop Airport*Paramaribo, Suriname
+ORH*KORH*Worcester Regional Airport*Worcester, Massachusetts, United States
+ORI*KORI*Port Lions Airport*Port Lions, Alaska, United States
+ORJ*SYDR*Orinduik Airport*Orinduik, Guyana
+ORK*EICK*Cork Airport*Cork, Ireland
+ORL*KORL*Orlando Executive Airport*Orlando, Florida, United States
+ORM*EGBK*Sywell Aerodrome*Northampton, England, United Kingdom
+ORN*DAOO*Oran Es Sénia Airport*Oran, Algeria
+ORO*MHYR*Yoro Airport*Yoro, Honduras
+ORP*FBOR*Orapa Airport*Orapa, Botswana
+ORR*YYOR*Yorketown Airport*Yorketown, South Australia, Australia
+ORS**Orpheus Island Resort Waterport*Orpheus Island, Queensland, Australia
+ORT*PAOR*Northway Airport*Northway, Alaska, United States
+ORU*SLOR*Juan Mendoza Airport*Oruro, Bolivia
+ORV*PFNO*Robert (Bob) Curtis Memorial Airport (FAA: D76)*Noorvik, Alaska, United States
+ORW*OPOR*Ormara Airport*Ormara, Pakistan
+ORX*SNOX*Oriximiná Airport*Oriximiná, Pará, Brazil
+ORY*LFPO*Orly Airport*Paris, Île-de-France, France
+ORZ**Orange Walk Airport*Orange Walk Town, Belize
+OSA**metropolitan area1*Osaka, Honshu, Japan
+OSB**Grand Glaize-Osage Beach Airport (FAA: K15)*Osage Beach, Missouri, United States
+OSC*KOSC*Oscoda–Wurtsmith Airport*Oscoda, Michigan, United States
+OSD*ESNZ*Åre Östersund Airport*Östersund, Sweden
+OSE**Omora Airport*Omora, Papua New Guinea
+OSF*UUMO*Ostafyevo International Airport*Moscow / Podolsk, Moscow Oblast, Russia
+OSG**Ossima Airport*Ossima, Papua New Guinea
+OSH*KOSH*Wittman Regional Airport*Oshkosh, Wisconsin, United States
+OSI*LDOS*Osijek Airport*Osijek, Croatia
+OSK*ESMO*Oskarshamn Airport*Oskarshamn, Sweden
+OSL*ENGM*Oslo Airport, Gardermoen*Oslo, Norway
+OSM*ORBM*Mosul International Airport*Mosul, Iraq
+OSN*RKSO*Osan Air Base*Osan, South Korea
+OSO*YOSB*Osborne Mine Airport*Osborne Mine, Queensland, Australia
+OSS*UAFO*Osh Airport*Osh, Kyrgyzstan
+OST*EBOS*Ostend–Bruges International Airport*Ostend / Bruges, Belgium
+OSU*KOSU*Ohio State University Airport*Columbus, Ohio, United States
+OSW*UWOR*Orsk Airport*Orsk, Orenburg Oblast, Russia
+OSX*KOSX*Kosciusko-Attala County Airport*Kosciusko, Mississippi, United States
+OSY*ENNM*Namsos Airport, Høknesøra*Namsos, Norway
+OSZ*EPKZ*Koszalin-Zegrze Pomorskie Airport*Koszalin, Poland
+OTA**Mota Airport*Mota, Ethiopia
+OTC*FTTL*Bol-Bérim Airport*Bol, Chad
+OTD**Contadora Airport*Contadora Island, Panama
+OTG*KOTG*Worthington Municipal Airport*Worthington, Minnesota, United States
+OTH*KOTH*Southwest Oregon Regional Airport*North Bend, Oregon, United States
+OTI*WAMR*Pitu Airport*Morotai Island, Indonesia
+OTJ*FYOW*Otjiwarongo Airport*Otjiwarongo, Namibia
+OTK*KTMK*Tillamook Airport (FAA: TMK)*Tillamook, Oregon, United States
+OTL*GQNB*Boutilimit Airport*Boutilimit, Mauritania
+OTM*KOTM*Ottumwa Regional Airport*Ottumwa, Iowa, United States
+OTN**Ed-Air Airport (FAA: 2IG4)*Oaktown, Indiana, United States
+OTR*MRCC*Coto 47 Airport*Coto 47, Costa Rica
+OTS**Anacortes Airport (FAA: 74S)*Anacortes, Washington, United States
+OTT**Andre Maggi Airport*Cotriguaçu, Mato Grosso, Brazil
+OTU*SKOT*Otú Airport*Remedios, Colombia
+OTV*AGGQ*Ontong Java Airport*Ontong Java Atoll, Solomon Islands
+OTY**Oria Airport*Oria, Papua New Guinea
+OTZ*PAOT*Ralph Wien Memorial Airport*Kotzebue, Alaska, United States
+OUA*DFFD*Ouagadougou Airport*Ouagadougou, Burkina Faso
+OUD*GMFO*Angads Airport*Oujda, Morocco
+OUE*FCOU*Ouésso Airport*Ouésso, Republic of the Congo
+OUG*DFCC*Ouahigouya Airport*Ouahigouya, Burkina Faso
+OUH*FAOH*Oudtshoorn Airport*Oudtshoorn, South Africa
+OUK**Out Skerries Airport*Out Skerries, Scotland, United Kingdom
+OUL*EFOU*Oulu Airport*Oulu, Finland
+OUM**Oum Hadjer Airport*Oum Hadjer, Chad
+OUN*KOUN*University of Oklahoma Westheimer Airport (Max Westheimer Airport)*Norman, Oklahoma, United States
+OUR*FKKI*Batouri Airport*Batouri, Cameroon
+OUS*SDOU*Jornalista Benedito Pimentel–Ourinhos State Airport*Ourinhos, São Paulo, Brazil
+OUT*FTTS*Bousso Airport*Bousso, Chad
+OUU**Ouanga Airport*Ouanga, Gabon
+OUZ*GQPZ*Tazadit Airport*Zouerate, Mauritania
+OVA*FMSL*Bekily Airport*Bekily, Madagascar
+OVB*UNNT*Tolmachevo Airport*Novosibirsk, Novosibirsk Oblast, Russia
+OVD*LEAS*Asturias Airport (Oviedo Airport)*Oviedo, Asturias, Spain
+OVE*KOVE*Oroville Municipal Airport*Oroville, California, United States
+OVG*FAOB*Air Force Base Overberg*Bredasdorp, South Africa
+OVL*SCOV*El Tuqui Airport*Ovalle, Chile
+OVR*SAZF*Olavarría Airport*Olavarría, Buenos Aires, Argentina
+OVS*USHS*Sovetsky Airport*Sovetsky, Khanty-Mansi Autonomous Okrug, Russia
+OWA*KOWA*Owatonna Degner Regional Airport*Owatonna, Minnesota, United States
+OWB*KOWB*Owensboro–Daviess County Airport*Owensboro, Kentucky, United States
+OWD*KOWD*Norwood Memorial Airport*Norwood, Massachusetts, United States
+OWE**Owendo Airport*Owendo, Gabon
+OWK*KOWK*Central Maine Airport of Norridgewock*Norridgewock, Maine, United States
+OXB*GGOV*Osvaldo Vieira International Airport*Bissau, Guinea-Bissau
+OXC*KOXC*Waterbury–Oxford Airport*Oxford, Connecticut, United States
+OXD*KOXD*Miami University Airport*Oxford, Ohio, United States
+OXF*EGTK*Oxford Airport (London Oxford Airport)*Oxford, England, United Kingdom
+OXO**Orientos Airport*Orientos, Queensland, Australia
+OXR*KOXR*Oxnard Airport*Oxnard, California, United States
+OXY*YMNY*Morney Airport*Morney, Queensland, Australia
+OYA*SATG*Goya Airport*Goya, Corrientes, Argentina
+OYE*FOGO*Oyem Airport*Oyem, Gabon
+OYG**Moyo Airport*Moyo Town, Uganda
+OYK*SBOI*Oiapoque Airport*Oiapoque, Amapá, Brazil
+OYL*HKMY*Moyale Airport*Moyale, Kenya
+OYN*YOUY*Ouyen Airport*Ouyen, Victoria, Australia
+OYO*SAZH*Tres Arroyos Airport*Tres Arroyos, Buenos Aires, Argentina
+OYP*SOOG*Saint-Georges-de-l'Oyapock Airport*Saint-Georges-de-l'Oyapock, French Guiana
+OZA*KOZA*Ozona Municipal Airport*Ozona, Texas, United States
+OZC*RPMO*Labo Airport*Ozamiz, Philippines
+OZG*GMAZ*Zagora Airport*Zagora, Morocco
+OZH*UKDE*Zaporizhia International Airport*Zaporizhia, Ukraine
+OZP*LEMO*Morón Air Base*Morón de la Frontera, Andalusia, Spain
+OZR*KOZR*Cairns Army Airfield*Fort Rucker / Ozark, Alabama, United States
+OZZ*GMMZ*Ouarzazate Airport*Ouarzazate, Morocco

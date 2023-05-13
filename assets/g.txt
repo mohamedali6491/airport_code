@@ -1,0 +1,358 @@
+GAA**Guamal Airport*Guamal, Colombia
+GAB*KGAB*Gabbs Airport*Gabbs, Nevada, United States
+GAC*MHGS*Gracias Airport*Gracias, Honduras
+GAD*KGAD*Northeast Alabama Regional Airport*Gadsden, Alabama, United States
+GAE*DTTG*Gabès – Matmata International Airport*Gabès, Tunisia
+GAF*DTTF*Gafsa – Ksar International Airport*Gafsa, Tunisia
+GAG*KGAG*Gage Airport*Gage, Oklahoma, United States
+GAH*YGAY*Gayndah Airport*Gayndah, Queensland, Australia
+GAI*KGAI*Montgomery County Airpark*Gaithersburg, Maryland, United States
+GAJ*RJSC*Yamagata Airport (Junmachi Airport)*Yamagata, Honshu, Japan
+GAL*PAGA*Edward G. Pitka Sr. Airport*Galena, Alaska, United States
+GAM*PAGM*Gambell Airport*Gambell, Alaska, United States
+GAN*VRMG*Gan International Airport*Gan Island, Addu Atoll, Maldives
+GAO*MUGT*Mariana Grajales Airport*Guantánamo, Cuba
+GAP*AYGP*Gusap Airport*Gusap, Papua New Guinea
+GAQ*GAGO*Gao International Airport (Korogoussou Airport)*Gao, Mali
+GAR*AYGI*Garaina Airport*Garaina, Papua New Guinea
+GAS*HKGA*Garissa Airport*Garissa, Kenya
+GAT*LFNA*Gap–Tallard Airport*Gap, Provence-Alpes-Côte d'Azur, France
+GAU*VEGT*Lokpriya Gopinath Bordoloi International Airport*Guwahati, Assam, India
+GAV**Gag Island Airport*Gag Island, Indonesia
+GAW*VYGG*Gangaw Airport*Gangaw, Myanmar
+GAX**Gamba Airport*Gamba, Gabon
+GAY*VEGY*Gaya Airport (Bodhgaya Airport)*Gaya, Bihar, India
+GAZ**Guasopa Airport*Guasopa, Papua New Guinea
+GBA*EGBP*Cotswold Airport[2]*Kemble, England, United Kingdom
+GBB*UBBQ*Qabala International Airport*Qabala, Azerbaijan
+GBC*AYGS*Gasuke Airport*Gasuke, Papua New Guinea
+GBD*KGBD*Great Bend Municipal Airport*Great Bend, Kansas, United States
+GBE*FBSK*Sir Seretse Khama International Airport*Gaborone, Botswana
+GBF*AYNE*Negarbo Airport*Negarbo, Papua New Guinea
+GBG*KGBG*Galesburg Municipal Airport*Galesburg, Illinois, United States
+GBH*PAGB*Galbraith Lake Airport*Galbraith Lake, Alaska, United States
+GBJ*TFFM*Marie-Galante Airport (Les Bases)*Grand-Bourg, Marie-Galante Island, Guadeloupe
+GBK*GFGK*Gbangbatok Airport*Gbangbatok, Sierra Leone
+GBL*YGBI*South Goulburn Island Airport*Goulburn Islands, Northern Territory, Australia
+GBM**Garbaharey Airport*Garbaharey, Somalia
+GBP*YGAM*Gamboola Airport*Gamboola, Queensland, Australia
+GBR*KGBR*Walter J. Koladza Airport*Great Barrington, Massachusetts, United States
+GBT*OING*Gorgan Airport[2]*Gorgan, Iran
+GBU*HSKG*Khashm el Girba Airport*Khashm el Girba, Sudan
+GBV*YGIB*Gibb River Airport*Gibb River, Western Australia, Australia
+GBW*YGIA*Ginbata Airport[2]*Ginbata, Western Australia, Australia
+GBZ*NZGB*Great Barrier Aerodrome*Great Barrier Island, New Zealand
+GCA**Guacamayas Airport*Guacamayas, Colombia
+GCC*KGCC*Gillette–Campbell County Airport*Gillette, Wyoming, United States
+GCD**Grand Coulee Dam Airport[2] (FAA: 3W7)*Electric City, Washington, United States
+GCH*OIAH*Gachsaran Airport[2]*Gachsaran, Iran
+GCI*EGJB*Guernsey Airport*Guernsey, Channel Islands, United Kingdom
+GCJ*FAGC*Grand Central Airport*Johannesburg, South Africa
+GCK*KGCK*Garden City Regional Airport*Garden City, Kansas, United States
+GCM*MWCR*Owen Roberts International Airport*Grand Cayman, British Overseas Territory of Cayman Islands
+GCN*KGCN*Grand Canyon National Park Airport*Tusayan, Arizona, United States
+GCW**Grand Canyon West Airport[2] (FAA: 1G4)*Peach Springs, Arizona, United States
+GCY*KGCY*Greeneville–Greene County Municipal Airport*Greeneville, Tennessee, United States
+GDA**Gounda Airport*Gounda, Central African Republic
+GDC*KGYH*Donaldson Center Airport (FAA: GYH)*Greenville, South Carolina, United States
+GDD*YGDN*Gordon Downs Airport*Gordon Downs, Western Australia, Australia
+GDE*HAGO*Gode Airport*Gode, Ethiopia
+GDG*UHBI*Magdagachi Airport*Magdagachi, Amur Oblast, Russia
+GDH**Golden Horn Lodge Seaplane Base (FAA: 3Z8)*Golden Horn Lodge, Alaska, United States
+GDI**Gordil Airport*Gordil, Central African Republic
+GDJ*FZWC*Gandajika Airport*Gandajika, Democratic Republic of the Congo
+GDL*MMGL*Guadalajara International Airport (Miguel Hidalgo y Costilla Int'l)*Guadalajara, Jalisco, Mexico
+GDM*KGDM*Gardner Municipal Airport*Gardner, Massachusetts, United States
+GDO*SVGD*Guasdualito Airport (Vare Maria Airport)*Guasdualito, Venezuela
+GDP*SNGD*Guadalupe Airport*Guadalupe, Piauí, Brazil
+GDQ*HAGN*Gondar Airport (Atse Tewodros Airport)*Gondar, Ethiopia
+GDT*MBGT*JAGS McCartney International Airport (Grand Turk Int'l)*Grand Turk Island, British Overseas Territoryof Turks and Caicos Islands
+GDV*KGDV*Dawson Community Airport*Glendive, Montana, United States
+GDW*KGDW*Gladwin Zettel Memorial Airport*Gladwin, Michigan, United States
+GDX*UHMM*Sokol Airport*Magadan, Magadan Oblast, Russia
+GDZ*URKG*Gelendzhik Airport*Gelendzhik, Krasnodar Krai, Russia
+GEA*NWWM*Nouméa Magenta Airport*Nouméa, New Caledonia
+GEB*WAMJ*Gebe Airport*Gebe, Indonesia
+GEC**Geçitkale Air Base*Geçitkale, Northern Cyprus
+GED*KGED*Delaware Coastal Airport*Georgetown, Delaware, United States
+GEE*YGTO*George Town Aerodrome*George Town, Tasmania, Australia
+GEF*AGEV*Geva Airport*Liangai, Vella Lavella, Solomon Islands
+GEG*KGEG*Spokane International Airport*Spokane, Washington, United States
+GEL*SBNM*Sepé Tiaraju Airport*Santo Ângelo, Rio Grande do Sul, Brazil
+GEM*FGMY*President Obiang Nguema International Airport[2]*Mengomeyén, Equatorial Guinea
+GEO*SYCJ*Cheddi Jagan International Airport*Georgetown, Guyana
+GER*MUNG*Rafael Cabrera Mustelier Airport*Nueva Gerona, Cuba
+GES*RPMR*General Santos International Airport (Tambler Airport)*General Santos, Philippines
+GET*YGEL*Geraldton Airport*Geraldton, Western Australia, Australia
+GEV*ESNG*Gällivare Airport*Gällivare, Sweden
+GEW*AYGC*Gewoia Airport*Gewoia, Papua New Guinea
+GEX*YGLG*Geelong Airport*Geelong, Victoria, Australia
+GEY*KGEY*South Big Horn County Airport*Greybull, Wyoming, United States
+GFD*KGFD*Pope Field*Greenfield, Indiana, United States
+GFE**Grenfell Airport[2]*Grenfell, New South Wales, Australia
+GFF*YGTH*Griffith Airport*Griffith, New South Wales, Australia
+GFK*KGFK*Grand Forks International Airport*Grand Forks, North Dakota, United States
+GFL*KGFL*Floyd Bennett Memorial Airport*Glens Falls, New York, United States
+GFN*YGFN*Clarence Valley Regional Airport*Grafton, New South Wales, Australia
+GFO*SYBT*Bartica Airport*Bartica, Guyana
+GFR*LFRF*Granville–Mont-Saint-Michel Aerodrome (fr)*Granville, Lower Normandy, France
+GFY*FYGF*Grootfontein Air Base*Grootfontein, Namibia
+GGC**Lumbala N'guimbo Airport*Lumbala N'guimbo, Angola
+GGD*YGDS*Gregory Downs Airport*Gregory Downs, Queensland, Australia
+GGE*KGGE*Georgetown County Airport*Georgetown, South Carolina, United States
+GGG*KGGG*East Texas Regional Airport*Longview, Texas, United States
+GGL**Gilgal Airport[2]*Gilgal, Colombia
+GGM*HKKG*Kakamega Airport[2]*Kakamega, Kenya
+GGN*DIGA*Gagnoa Airport*Gagnoa, Ivory Coast
+GGO*DIGL*Guiglo Airport*Guiglo, Ivory Coast
+GGR**Garowe International Airport*Garowe, Somalia
+GGS*SAWR*Gobernador Gregores Airport*Gobernador Gregores, Santa Cruz, Argentina
+GGT*MYEF*Exuma International Airport*Moss Town, Great Exuma Island, Bahamas
+GGW*KGGW*Glasgow Airport (Wokal Field)*Glasgow, Montana, United States
+GHA*DAUG*Noumérat – Moufdi Zakaria Airport*Ghardaïa, Algeria
+GHB*MYEM*Governor's Harbour Airport*Governor's Harbour, Eleuthera Island, Bahamas
+GHC*MYBG*Great Harbour Cay Airport*Great Harbour Cay, Berry Islands, Bahamas
+GHE**Garachiné Airport*Garachiné, Panama
+GHF*ETEU*Giebelstadt Airport*Giebelstadt, Bavaria, Germany
+GHK**Gahcho Kue Aerodrome[2] (TC: CGK2)*Kennedy Lake, Northwest Territories, Canada
+GHM*KGHM*Centerville Municipal Airport*Centerville, Tennessee, United States
+GHN*ZUGH*Guanghan Airport*Guanghan, Sichuan, China
+GHT*HLGT*Ghat Airport*Ghat, Libya
+GHU*SAAG*Gualeguaychú Airport*Gualeguaychú, Entre Ríos, Argentina
+GIB*LXGB*Gibraltar International Airport (North Front Airport)*British Overseas Territory of Gibraltar
+GIC*YBOI*Boigu Island Airport*Boigu Island, Queensland, Australia
+GID*HBBE*Gitega Airport*Gitega, Burundi
+GIF*KGIF*Winter Haven's Gilbert Airport*Winter Haven, Florida, United States
+GIG*SBGL*Rio de Janeiro–Galeão International Airport*Rio de Janeiro, Brazil
+GII*GUSI*Siguiri Airport*Siguiri, Guinea
+GIL*OPGT*Gilgit Airport*Gilgit, Pakistan
+GIM**Miele Mimbale Airport*Miele Mimbale, Gabon
+GIR*SKGI*Santiago Vila Airport*Girardot, Colombia
+GIS*NZGS*Gisborne Airport*Gisborne, New Zealand
+GIT**Geita Airport*Geita, Tanzania
+GIU*VCCS*Sigiriya Airport[2]*Dambulla, Sri Lanka
+GIY*FAGI*Giyani Airport*Giyani, South Africa
+GIZ*OEGN*Jizan Regional Airport (King Abdullah bin Abdulaziz Airport)*Jizan, Saudi Arabia
+GJA*MHNJ*Guanaja Airport*Guanaja, Honduras
+GJL*DAAV*Jijel Ferhat Abbas Airport*Jijel, Algeria
+GJM*SBGM*Guajará-Mirim Airport*Guajará-Mirim, Rondônia, Brazil
+GJR*BIGJ*Gjögur Airport*Gjögur, Iceland
+GJT*KGJT*Grand Junction Regional Airport (Walker Field)*Grand Junction, Colorado, United States
+GKA*AYGA*Goroka Airport*Goroka, Papua New Guinea
+GKD*LTFK*Gökçeada Airport*Gökçeada, Turkey
+GKE*ETNG*NATO Air Base Geilenkirchen*Geilenkirchen,  North Rhine-Westphalia, Germany
+GKH*VNGK*Palungtar Airport*Gorkha, Nepal
+GKK*VRMO*Kooddoo Airport[2]*Kooddoo, Gaafu Alif Atoll, Maldives
+GKL*YGKL*Great Keppel Island Airport*Great Keppel Island, Queensland, Australia
+GKN*PAGK*Gulkana Airport*Gulkana, Alaska, United States
+GKO**Kongo Boumba Airport*Kongo Boumba, Gabon
+GKT*KGKT*Gatlinburg–Pigeon Forge Airport*Sevierville, Tennessee, United States
+GLA*EGPF*Glasgow Airport*Glasgow, Scotland, United Kingdom
+GLB**San Carlos Apache Airport[2] (FAA: P13)*Globe, Arizona, United States
+GLC**Geladi Airport*Geladi, Ethiopia
+GLD*KGLD*Goodland Municipal Airport (Renner Field)*Goodland, Kansas, United States
+GLE*KGLE*Gainesville Municipal Airport*Gainesville, Texas, United States
+GLF*MRGF*Golfito Airport*Golfito, Costa Rica
+GLG*YGLE*Glengyle Airport*Glengyle, Queensland, Australia
+GLH*KGLH*Mid-Delta Regional Airport*Greenville, Mississippi, United States
+GLI*YGLI*Glen Innes Airport*Glen Innes, New South Wales, Australia
+GLK*HCMR*Abdullahi Yusuf International Airport*Galkayo, Somalia
+GLL*ENKL*Gol Airport, Klanten*Gol, Norway
+GLM*YGLO*Glenormiston Airport*Glenormiston, Queensland, Australia
+GLN**Guelmim Airport*Guelmim, Morocco
+GLO*EGBJ*Gloucestershire Airport*Gloucester / Cheltenham, England, United Kingdom
+GLP*AYUP*Gulgubip Airport*Gulgubip, Papua New Guinea
+GLR*KGLR*Gaylord Regional Airport*Gaylord, Michigan, United States
+GLS*KGLS*Scholes International Airport at Galveston*Galveston, Texas, United States
+GLT*YGLA*Gladstone Airport*Gladstone, Queensland, Australia
+GLU*VQGP*Gelephu Airport[2]*Gelephu, Bhutan
+GLV*PAGL*Golovin Airport*Golovin, Alaska, United States
+GLW*KGLW*Glasgow Municipal Airport*Glasgow, Kentucky, United States
+GLX*WAMA*Gamarmalamo Airport*Galela, Indonesia
+GLY**Goldsworthy Airport*Goldsworthy, Western Australia, Australia
+GLZ*EHGR*Gilze-Rijen Air Base*Breda, Netherlands
+GMA*FZFK*Gemena Airport*Gemena, Democratic Republic of the Congo
+GMB*HAGM*Gambela Airport*Gambela, Ethiopia
+GMC**Guerima Airport*Guerima, Colombia
+GMD*GMMB*Ben Slimane Airport[2]*Ben Slimane, Morocco
+GME*UMGG*Gomel Airport*Gomel, Belarus
+GMI*AYGT*Gasmata Airport*Gasmata, Papua New Guinea
+GMM*FCOG*Gamboma Airport*Gamboma, Republic of the Congo
+GMN*NZGM*Greymouth Airport*Greymouth, New Zealand
+GMO*DNGO*Gombe Lawanti International Airport[2]*Gombe, Nigeria
+GMP*RKSS*Gimpo International Airport*Seoul, South Korea
+GMQ*ZLGL*Golog Maqin Airport[2]*Golog, Qinghai, China
+GMR*NTGJ*Totegegie Airport (Gambier Island Airport)*Mangareva, Gambier Islands, French Polynesia
+GMS*SNGM*Guimarães Airport*Guimarães, Maranhão, Brazil
+GMT*PAGZ*Granite Mountain Air Station (FAA: GSZ)*Granite Mountain, Alaska, United States
+GMU*KGMU*Greenville Downtown Airport*Greenville, South Carolina, United States
+GMV**Monument Valley Airport (FAA: UT25)*Monument Valley, Utah, United States
+GMZ*GCGM*La Gomera Airport*La Gomera / Canary Islands, Spain
+GNA*UMMG*Grodno Airport*Grodno, Belarus
+GNB*LFLS*Grenoble–Isère Airport*Grenoble, Rhône-Alpes, France
+GND*TGPY*Maurice Bishop International Airport*St. George's, Grenada
+GNF**Gansner Field[2] (FAA: 2O1)*Quincy, California, United States
+GNG*KGNG*Gooding Municipal Airport*Gooding, Idaho, United States
+GNI*RCGI*Lyudao Airport (Green Island Airport)*Lyudao (Green Island), Taiwan
+GNM*SNGI*Guanambi Airport*Guanambi, Bahia, Brazil
+GNN*HAGH*Ginir Airport*Ginir, Ethiopia
+GNR*SAHR*Dr. Arturo Umberto Illia Airport*General Roca, Río Negro, Argentina
+GNS*WIMB*Binaka Airport*Gunungsitoli, Indonesia
+GNT*KGNT*Grants-Milan Municipal Airport*Grants, New Mexico, United States
+GNU**Goodnews Airport*Goodnews Bay, Alaska, United States
+GNV*KGNV*Gainesville Regional Airport*Gainesville, Florida, United States
+GNZ*FBGZ*Ghanzi Airport*Ghanzi, Botswana
+GOA*LIMJ*Genoa Cristoforo Colombo Airport*Genoa, Liguria, Italy
+GOB*HAGB*Robe Airport*Goba, Ethiopia
+GOC*AYGX*Gora Airport*Gora, Papua New Guinea
+GOE**Gonaili Airstrip*Gonaili, Papua New Guinea
+GOG*FYGB*Gobabis Airport*Gobabis, Namibia
+GOH*BGGH*Nuuk Airport*Nuuk, Greenland
+GOI*VOGO*Goa International Airport (Dabolim Airport)*Dabolim, Goa, India
+GOJ*UWGG*Nizhny Novgorod International Airport (Strigino Airport)*Nizhny Novgorod, Nizhny Novgorod Oblast, Russia
+GOK*KGOK*Guthrie–Edmond Regional Airport*Guthrie, Oklahoma, United States
+GOL**Gold Beach Municipal Airport (FAA: 4S1)*Gold Beach, Oregon, United States
+GOM*FZNA*Goma International Airport*Goma, Democratic Republic of the Congo
+GON*KGON*Groton–New London Airport*Groton / New London, Connecticut, United States
+GOO*YGDI*Goondiwindi Airport*Goondiwindi, Queensland, Australia
+GOP*VEGK*Gorakhpur Airport*Gorakhpur, Uttar Pradesh, India
+GOQ*ZLGM*Golmud Airport*Golmud, Qinghai, China
+GOR*HAGR*Gore Airport*Gore, Ethiopia
+GOS**Gosford Airport*Gosford, New South Wales, Australia
+GOT*ESGG*Göteborg Landvetter Airport*Gothenburg, Sweden
+GOU*FKKR*Garoua International Airport*Garoua, Cameroon
+GOV*YPGV*Gove Airport*Nhulunbuy, Northern Territory, Australia
+GOZ*LBGO*Gorna Oryahovitsa Airport*Gorna Oryahovitsa, Bulgaria
+GPA*LGRX*Araxos Airport*Patras, Greece
+GPB*SBGU*Tancredo Thomas de Faria Airport*Guarapuava, Paraná, Brazil
+GPD*YGON*Mount Gordon Airport[2]*Mount Gordon Mine, Queensland, Australia
+GPI*SKGP*Guapi Airport (Juan Casiano Airport)*Guapi, Colombia
+GPL*MRGP*Guápiles Airport*Guápiles, Costa Rica
+GPN*YGPT*Garden Point Airport*Pularumpi, Northern Territory, Australia
+GPO*SAZG*General Pico Airport*General Pico, La Pampa, Argentina
+GPS*SEGS*Seymour Airport*Baltra Island, Galápagos Islands, Ecuador
+GPT*KGPT*Gulfport–Biloxi International Airport*Gulfport / Biloxi, Mississippi, United States
+GPZ*KGPZ*Grand Rapids–Itasca County Airport (Gordon Newstrom Field)*Grand Rapids, Minnesota, United States
+GQQ*KGQQ*Galion Municipal Airport*Galion, Ohio, United States
+GRA**Gamarra Airport*Gamarra, Colombia
+GRB*KGRB*Austin Straubel International Airport*Green Bay, Wisconsin, United States
+GRC**Grand Cess Airport*Grand Cess, Liberia
+GRD*KGRD*Greenwood County Airport*Greenwood, South Carolina, United States
+GRE*KGRE*Greenville Airport*Greenville, Illinois, United States
+GRF*KGRF*Gray Army Airfield*Tacoma, Washington, United States
+GRG*OAGZ*Gardez Airport*Gardez, Afghanistan
+GRH**Garuahi Airport*Garuahi, Papua New Guinea
+GRI*KGRI*Central Nebraska Regional Airport*Grand Island, Nebraska, United States
+GRJ*FAGG*George Airport*George, South Africa
+GRK*KGRK*Killeen–Fort Hood Regional Airport / Robert Gray Army Airfield*Fort Hood / Killeen, Texas, United States
+GRL*AYGG*Garasa Airport*Garasa, Papua New Guinea
+GRM*KCKC*Grand Marais/Cook County Airport (FAA: CKC)*Grand Marais, Minnesota, United States
+GRN*KGRN*Gordon Municipal Airport*Gordon, Nebraska, United States
+GRO*LEGE*Girona–Costa Brava Airport*Girona, Catalonia, Spain
+GRP*SWGI*Gurupi Airport*Gurupi, Tocantins, Brazil
+GRQ*EHGG*Groningen Airport Eelde*Groningen, Netherlands
+GRR*KGRR*Gerald R. Ford International Airport*Grand Rapids, Michigan, United States
+GRS*LIRS*Grosseto Airport*Grosseto, Tuscany, Italy
+GRT**Gujrat Airport*Gujrat, Pakistan
+GRU*SBGR*São Paulo–Guarulhos International Airport*São Paulo, Brazil
+GRV*URMG*Grozny Airport*Grozny, Chechnya, Russia
+GRW*LPGR*Graciosa Airport*Graciosa, Azores, Portugal
+GRX*LEGR*Federico García Lorca Airport (Granada Jaén Airport)*Granada, Andalusia, Spain
+GRY*BIGR*Grímsey Airport*Grímsey, Iceland
+GRZ*LOWG*Graz Airport*Graz, Austria
+GSA*WBKN*Long Pasia Airport*Long Pasia, Sabah, Malaysia
+GSB*KGSB*Seymour Johnson Air Force Base*Goldsboro, North Carolina, United States
+GSC*YGSC*Gascoyne Junction Airport*Gascoyne Junction, Western Australia, Australia
+GSE*ESGP*Göteborg City Airport*Gothenburg, Sweden
+GSH*KGSH*Goshen Municipal Airport*Goshen, Indiana, United States
+GSI*SOGS*Grand-Santi Airport[2]*Grand-Santi, French Guiana
+GSJ*MGSJ*San José Airport[2]*Puerto San José, Guatemala
+GSL**Taltheilei Narrows Airport[2] (TC: CFA7)*Taltheilei Narrows, Northwest Territories, Canada
+GSM*OIKQ*Dayrestan Airport (Qeshm International Airport)*Qeshm, Iran
+GSN*YMGN*Mount Gunson Airport*Mount Gunson, South Australia, Australia
+GSO*KGSO*Piedmont Triad International Airport*Greensboro, North Carolina, United States
+GSP*KGSP*Greenville–Spartanburg International Airport*Greenville / Spartanburg, South Carolina, United States
+GSQ*HEOW*Sharq Al-Owainat Airport*Sharq Al-Owainat, Egypt
+GSR*HCMG*Qardho Airport*Qardho, Somalia
+GSS**Sabi Sabi Airport*Sabie, South Africa
+GST*PAGS*Gustavus Airport*Gustavus, Alaska, United States
+GSU*HSGF*Azaza Airport*Gedaref, Sudan
+GTA*AGOK*Gatokae Aerodrome*Gatokae, Solomon Islands
+GTE*YGTE*Groote Eylandt Airport*Groote Eylandt, Northern Territory, Australia
+GTF*KGTF*Great Falls International Airport*Great Falls, Montana, United States
+GTG*KGTG*Grantsburg Municipal Airport*Grantsburg, Wisconsin, United States
+GTI*EDCG*Rügen Airport (Güttin Airfield)*Güttin, Mecklenburg-Vorpommern, Germany
+GTN*NZGT*Glentanner Aerodrome*Mount Cook, New Zealand
+GTO*WAMG*Jalaluddin Airport*Gorontalo, Indonesia
+GTP**Grants Pass Airport[2] (FAA: 3S8)*Grants Pass, Oregon, United States
+GTR*KGTR*Golden Triangle Regional Airport*Columbus / West Point / Starkville, Mississippi, United States
+GTS*YTGT*The Granites Airport*The Granites, Northern Territory, Australia
+GTT*YGTN*Georgetown Airport*Georgetown, Queensland, Australia
+GTW*LKHO*Holešov Airport*Zlín, Czech Republic
+GTY**Gettysburg Regional Airport (FAA: W05)*Gettysburg, Pennsylvania, United States
+GTZ**Kirawira B Airstrip[2]*Grumeti, Tanzania
+GUA*MGGT*La Aurora International Airport*Guatemala City, Guatemala
+GUB*MMGR*Guerrero Negro Airport*Guerrero Negro, Baja California Sur,2 Mexico
+GUC*KGUC*Gunnison–Crested Butte Regional Airport*Gunnison, Colorado, United States
+GUD*GAGM*Goundam Airport*Goundam, Mali
+GUE**Guriaso Airport*Guriaso, Papua New Guinea
+GUF*KJKA*Jack Edwards Airport (FAA: JKA)*Gulf Shores, Alabama, United States
+GUG*AYGF*Guari Airport*Guari, Papua New Guinea
+GUH*YGDH*Gunnedah Airport*Gunnedah, New South Wales, Australia
+GUI*SVGI*Güiria Airport*Güiria, Venezuela
+GUJ*SBGW*Guaratinguetá Airport*Guaratinguetá, São Paulo, Brazil
+GUL*YGLB*Goulburn Airport*Goulburn, New South Wales, Australia
+GUM*PGUM*Antonio B. Won Pat International Airport (Guam Int'l)*Hagåtña, Guam
+GUP*KGUP*Gallup Municipal Airport*Gallup, New Mexico, United States
+GUQ*SVGU*Guanare Airport*Guanare, Venezuela
+GUR*AYGN*Gurney Airport*Alotau, Papua New Guinea
+GUS*KGUS*Grissom Air Reserve Base*Peru, Indiana, United States
+GUT*ETUO*RAF Gütersloh*Gütersloh, North Rhine-Westphalia, Germany
+GUU*BIGF*Grundarfjörður Airport*Grundarfjörður, Iceland
+GUV*AYML*Mougulu Airport*Mougulu, Papua New Guinea
+GUW*UATG*Atyrau Airport*Atyrau, Kazakhstan
+GUX*VAGN*Guna Airport*Guna, Madhya Pradesh, India
+GUY*KGUY*Guymon Municipal Airport*Guymon, Oklahoma, United States
+GUZ*SNGA*Guarapari Airport*Guarapari, Espírito Santo, Brazil
+GVA*LSGG*Geneva Airport*Geneva, Switzerland
+GVE*KGVE*Gordonsville Municipal Airport*Gordonsville, Virginia, United States
+GVI*AYGV*Green River Airport*Green River, Papua New Guinea
+GVL*KGVL*Lee Gilmer Memorial Airport*Gainesville, Georgia, United States
+GVN*UHKM*Sovetskaya Gavan Airport[2]*Sovetskaya Gavan, Khabarovsk Krai, Russia
+GVP*YGNV*Greenvale Airport*Greenvale, Queensland, Australia
+GVR*SBGV*Coronel Altino Machado de Oliveira Airport*Governador Valadares, Minas Gerais, Brazil
+GVT*KGVT*Majors Airport*Greenville, Texas, United States
+GVX*ESSK*Gävle-Sandviken Airport*Gävle, Sweden
+GWA*VYGW*Gwa Airport*Gwa, Myanmar
+GWD*OPGD*Gwadar International Airport*Gwadar, Pakistan
+GWE*FVTL*Thornhill Air Base*Gweru, Zimbabwe
+GWL*VIGR*Rajmata Vijaya Raje Scindia Airport (Gwalior Airport)*Gwalior, Madhya Pradesh, India
+GWN**Gnarowein Airport*Gnarowein, Papua New Guinea
+GWO*KGWO*Greenwood–Leflore Airport*Greenwood, Mississippi, United States
+GWS*KGWS*Glenwood Springs Municipal Airport*Glenwood Springs, Colorado, United States
+GWT*EDXW*Sylt Airport (Westerland Airport)*Sylt, Schleswig-Holstein, Germany
+GWV**Glendale Fokker Field (FAA: WV66)*Glen Dale, West Virginia, United States
+GWY*EICM*Galway Airport*Galway, Ireland
+GXF*OYSY*Sayun Airport*Sayun, Yemen
+GXG*FNNG*Negage Airport*Negage, Angola
+GXH*ZLXH*Gannan Xiahe Airport*Xiahe, Gansu, China
+GXQ*SCCY*Teniente Vidal Airfield*Coyhaique, Chile
+GXX*FKKJ*Yagoua Airport*Yagoua, Cameroon
+GXY*KGXY*Greeley–Weld County Airport*Greeley, Colorado, United States
+GYA*SLGY*Guayaramerín Airport*Guayaramerín, Bolivia
+GYD*UBBB*Heydar Aliyev International Airport*Baku, Azerbaijan
+GYE*SEGU*José Joaquín de Olmedo International Airport*Guayaquil, Ecuador
+GYG*UEMM*Magan Airport*Magan, Yakutia, Russia
+GYI*HRYG*Gisenyi Airport*Gisenyi, Rwanda
+GYL*YARG*Argyle Airport*Argyle, Western Australia, Australia
+GYM*MMGM*General José María Yáñez International Airport*Guaymas, Sonora, Mexico
+GYN*SBGO*Santa Genoveva Airport*Goiânia, Goiás, Brazil
+GYP*YGYM*Gympie Airport*Gympie, Queensland, Australia
+GYR*KGYR*Phoenix Goodyear Airport*Goodyear, Arizona, United States
+GYS*ZUGU*Guangyuan Panlong Airport*Guangyuan, Sichuan, China
+GYU*ZLGY*Guyuan Liupanshan Airport[2]*Guyuan, Ningxia, China
+GYY*KGYY*Gary/Chicago International Airport*Gary, Indiana (near Chicago/IL), United States
+GZA*LVGZ*Yasser Arafat International Airport*Gaza, Palestine
+GZI*OAGN*Ghazni Airport*Ghazni, Afghanistan
+GZO*AGGN*Nusatupe Airport*Gizo, Western Province, Solomon Islands
+GZW*OIIK*Qazvin Airport[2]*Qazvin, Iran

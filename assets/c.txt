@@ -1,0 +1,535 @@
+CAA*MHCA*Catacamas Airport*Catacamas, Honduras
+CAB*FNCA*Cabinda Airport*Cabinda, Angola
+CAC*SBCA*Cascavel Airport (Adalberto Mendes da Silva Airport)*Cascavel, Paraná, Brazil
+CAD*KCAD*Wexford County Airport*Cadillac, Michigan, United States
+CAE*KCAE*Columbia Metropolitan Airport*Columbia, South Carolina, United States
+CAF*SWCA*Carauari Airport*Carauari, Amazonas, Brazil
+CAG*LIEE*Cagliari Elmas Airport*Cagliari, Sardinia, Italy
+CAH*VVCM*Cà Mau Airport*Cà Mau, Vietnam
+CAI*HECA*Cairo International Airport*Cairo, Egypt
+CAJ*SVCN*Canaima Airport*Canaima, Venezuela
+CAK*KCAK*Akron-Canton Airport*Akron / Canton, Ohio, United States
+CAL*EGEC*Campbeltown Airport / RAF Machrihanish*Campbeltown, Scotland, United Kingdom
+CAM*SLCA*Camiri Airport*Camiri, Bolivia
+CAN*ZGGG*Guangzhou Baiyun International Airport*Guangzhou, Guangdong, China
+CAO*KCAO*Clayton Municipal Airpark*Clayton, New Mexico, United States
+CAP*MTCH*Hugo Chávez International Airport*Cap-Haïtien, Haiti
+CAQ*SKCU*Juan H. White Airport*Caucasia, Colombia
+CAR*KCAR*Caribou Municipal Airport*Caribou, Maine, United States
+CAS*GMMC*Anfa Airport*Casablanca, Morocco
+CAT*LPCS*Cascais Municipal Aerodrome*Cascais, Portugal
+CAU*SNRU*Caruaru Airport (Oscar Laranjeiras Airport)*Caruaru, Pernambuco, Brazil
+CAV*FNCZ*Cazombo Airport*Cazombo, Angola
+CAW*SBCP*Bartolomeu Lysandro Airport*Campos dos Goytacazes, Rio de Janeiro, Brazil
+CAX*EGNC*Carlisle Lake District Airport*Carlisle, England, United Kingdom
+CAY*SOCA*Cayenne – Félix Eboué Airport*Cayenne, French Guiana
+CAZ*YCBA*Cobar Airport*Cobar, New South Wales, Australia
+CBB*SLCB*Jorge Wilstermann International Airport*Cochabamba, Bolivia
+CBC**Cherrabun Airport*Cherrabun, Western Australia, Australia
+CBD*VOCX*Car Nicobar Air Force Base*Car Nicobar, Andaman and Nicobar Islands, India
+CBE*KCBE*Greater Cumberland Regional Airport*Cumberland, Maryland, United States
+CBF*KCBF*Council Bluffs Municipal Airport*Council Bluffs, Iowa, United States
+CBG*EGSC*Cambridge Airport*Cambridge, England, United Kingdom
+CBH*DAOR*Boudghene Ben Ali Lotfi Airport*Béchar, Algeria
+CBI**Cape Barren Island Airport*Cape Barren Island, Tasmania, Australia
+CBJ*MDCR*Cabo Rojo Airport*Pedernales, Dominican Republic
+CBK*KCBK*Colby Municipal Airport (Shalz Field)*Colby, Kansas, United States
+CBL*SVCB*Tomás de Heres Airport*Ciudad Bolívar, Venezuela
+CBM*KCBM*Columbus Air Force Base*Columbus, Mississippi, United States
+CBN*WICD*Penggung Airport (Cakrabuwana Airport)*Cirebon, Indonesia
+CBO*RPMC*Awang Airport*Cotabato City, Philippines
+CBP*LPCO*Coimbra Airport*Coimbra, Portugal
+CBQ*DNCA*Margaret Ekpo International Airport*Calabar, Nigeria
+CBR*YSCB*Canberra Airport*Canberra, Australian Capital Territory, Australia
+CBS*SVON*Oro Negro Airport*Cabimas, Venezuela
+CBT*FNCT*Catumbela Airport*Catumbela, Angola
+CBU*EDCD*Cottbus-Drewitz Airport*Cottbus, Brandenburg, Germany
+CBV*MGCB*Cobán Airport*Cobán, Guatemala
+CBW*SSKM*Campo Mourão Airport*Campo Mourão, Paraná, Brazil
+CBX*YCDO*Condobolin Airport*Condobolin, New South Wales, Australia
+CBY**Canobie Airport*Canobie Station, Queensland, Australia
+CCB*KCCB*Cable Airport*Upland, California, United States
+CCC*MUCC*Jardines del Rey Airport*Cayo Coco, Cuba
+CCF*LFMK*Carcassonne Airport*Carcassonne, Languedoc-Roussillon, France
+CCG**Crane County Airport (FAA: E13)*Crane, Texas, United States
+CCH*SCCC*Chile Chico Airfield*Chile Chico, Chile
+CCI*SSCK*Concórdia Airport*Concórdia, Santa Catarina, Brazil
+CCJ*VOCL*Calicut International Airport*Kozhikode (Calicut), Kerala, India
+CCK*YPCC*Cocos (Keeling) Islands Airport*Cocos (Keeling) Islands, Australia
+CCL*YCCA*Chinchilla Airport*Chinchilla, Queensland, Australia
+CCM*SBCM*Diomício Freitas Airport*Criciúma, Santa Catarina, Brazil
+CCN*OACC*Chaghcharan Airport*Chaghcharan, Afghanistan
+CCO*SKCI*Carimagua Airport*Carimagua, Colombia
+CCP*SCIE*Carriel Sur International Airport*Concepción, Chile
+CCR*KCCR*Buchanan Field Airport*Concord, California, United States
+CCS*SVMI*Simón Bolívar International Airport*Caracas, Venezuela
+CCT**Colonia Catriel Airport*Catriel, Río Negro, Argentina
+CCU*VECC*Netaji Subhas Chandra Bose International Airport*Kolkata, West Bengal, India
+CCV*NVSF*Craig Cove Airport*Craig Cove, Ambrym Island, Malampa, Vanuatu
+CCW*YCWL*Cowell Airport*Cowell, South Australia, Australia
+CCX*SWKC*Cáceres Airport*Cáceres, Mato Grosso, Brazil
+CCY*KCCY*Northeast Iowa Regional Airport*Charles City, Iowa, United States
+CCZ*MYBC*Chub Cay International Airport*Chub Cay, Berry Islands, Bahamas
+CDA*YCOO*Cooinda Airport*Cooinda, Northern Territory, Australia
+CDB*PACD*Cold Bay Airport*Cold Bay, Alaska, United States
+CDC*KCDC*Cedar City Regional Airport*Cedar City, Utah, United States
+CDD**Cauquira Airport*Cauquira, Honduras
+CDE*ZBCD*Chengde Puning Airport*Chengde, Hebei, China
+CDG*LFPG*Charles de Gaulle Airport (Roissy Airport)*Paris, Île-de-France, France
+CDH*KCDH*Harrell Field*Camden, Arkansas, United States
+CDI**Cachoeiro de Itapemirim Airport (Raimundo de Andrade Airport)*Cachoeiro de Itapemirim, Espírito Santo, Brazil
+CDJ*SBAA*Conceição do Araguaia Airport*Conceição do Araguaia, Pará, Brazil
+CDK*KCDK*George T. Lewis Airport*Cedar Key, Florida, United States
+CDL**Candle 2 Airport (FAA: AK75)*Candle, Alaska, United States
+CDN*KCDN*Woodward Field*Camden, South Carolina, United States
+CDO*FACD*Cradock Airport*Cradock, South Africa
+CDP*VOCP*Kadapa Airport*Kadapa, Andhra Pradesh, India
+CDQ*YCRY*Croydon Airport*Croydon, Queensland, Australia
+CDR*KCDR*Chadron Municipal Airport*Chadron, Nebraska, United States
+CDS*KCDS*Childress Municipal Airport*Childress, Texas, United States
+CDT*LECS*Castellón–Costa Azahar Airport*Castellón de la Plana, Valencia, Spain
+CDU*YSCN*Camden Airport*Camden, New South Wales, Australia
+CDV*PACV*Merle K. (Mudhole) Smith Airport*Cordova, Alaska, United States
+CDW*KCDW*Essex County Airport*Caldwell, New Jersey, United States
+CDY*RPMU*Cagayan de Sulu Airport*Mapun, Philippines
+CEA*KCEA*Cessna Aircraft Field*Wichita, Kansas, United States
+CEB*RPVM*Mactan–Cebu International Airport*Lapu-Lapu, Philippines
+CEC*KCEC*Del Norte County Airport (Jack McNamara Field)*Crescent City, California, United States
+CED*YCDU*Ceduna Airport*Ceduna, South Australia, Australia
+CEE*ULWC*Cherepovets Airport*Cherepovets, Vologda Oblast, Russia
+CEF*KCEF*Westover Metropolitan Airport / Westover Air Reserve Base*Springfield, Massachusetts, United States
+CEG*EGNR*Hawarden Airport (Chester Airport)*Chester, England, United Kingdom
+CEH*FWCD*Chelinda Airport*Chelinda, Malawi
+CEI*VTCT*Chiang Rai International Airport (Mae Fah Luang Int'l)*Chiang Rai, Thailand
+CEK*USCC*Chelyabinsk Airport*Chelyabinsk, Chelyabinsk Oblast, Russia
+CEM*PARL*Central Airport*Central, Alaska, United States
+CEN*MMCN*Ciudad Obregón International Airport*Ciudad Obregón, Sonora, Mexico
+CEO*FNWK*Waco Kungo Airport*Waku-Kungo, Angola
+CEP*SLCP*Concepción Airport*Concepción, Bolivia
+CEQ*LFMD*Cannes – Mandelieu Airport*Cannes, Provence-Alpes-Côte d'Azur, France
+CER*LFRC*Cherbourg – Maupertus Airport*Cherbourg-Octeville, Lower Normandy, France
+CES*YCNK*Cessnock Airport*Cessnock, New South Wales, Australia
+CET*LFOU*Cholet Le Pontreau Airport*Cholet, Pays de la Loire, France
+CEU*KCEU*Oconee County Regional Airport*Clemson, South Carolina, United States
+CEV*KCEV*Mettel Field*Connersville, Indiana, United States
+CEW*KCEW*Bob Sikes Airport*Crestview, Florida, United States
+CEX**Chena Hot Springs Airport (FAA: AK13)*Chena Hot Springs, Alaska, United States
+CEY*KCEY*Murray-Calloway County Airport*Murray, Kentucky, United States
+CEZ*KCEZ*Cortez Municipal Airport*Cortez, Colorado, United States
+CFB*SBCB*Cabo Frio International Airport*Cabo Frio, Rio de Janeiro, Brazil
+CFC*SBCD*Caçador Airport*Caçador, Santa Catarina, Brazil
+CFD*KCFD*Coulter Field*Bryan, Texas, United States
+CFE*LFLC*Clermont-Ferrand Auvergne Airport*Clermont-Ferrand, Auvergne, France
+CFF*FNCF*Cafunfo Airport*Cafunfo, Angola
+CFG*MUCF*Jaime González Airport*Cienfuegos, Cuba
+CFH**Clifton Hills Airport*Clifton Hills, South Australia, Australia
+CFI*YCFD*Camfield Airport*Camfield Station, Northern Territory, Australia
+CFK*DAOI*Chlef International Airport*Chlef, Algeria
+CFN*EIDL*Donegal Airport*Donegal, Ireland
+CFO**Confresa Airport*Confresa, Mato Grosso, Brazil
+CFP**Carpentaria Downs Airport*Carpentaria Downs, Queensland, Australia
+CFQ**Creston Aerodrome (TC: CAJ3)*Creston, British Columbia, Canada
+CFR*LFRK*Caen – Carpiquet Airport*Caen, Lower Normandy, France
+CFS*YCFS*Coffs Harbour Airport*Coffs Harbour, New South Wales, Australia
+CFT*KCFT*Greenlee County Airport*Clifton / Morenci, Arizona, United States
+CFU*LGKR*Corfu International Airport (Ioannis Kapodistrias Int'l Airport)*Corfu, Greece
+CFV*KCFV*Coffeyville Municipal Airport*Coffeyville, Kansas, United States
+CGA**Craig Seaplane Base*Craig, Alaska, United States
+CGB*SBCY*Marechal Rondon International Airport*Cuiabá, Mato Grosso, Brazil
+CGC*AYCG*Cape Gloucester Airport*Cape Gloucester, Papua New Guinea
+CGD*ZGCD*Changde Taohuayuan Airport*Changde, Hunan, China
+CGE*KCGE*Cambridge–Dorchester Airport*Cambridge, Maryland, United States
+CGF*KCGF*Cuyahoga County Airport*Cleveland, Ohio, United States
+CGG**Casiguran Airport*Casiguran, Philippines
+CGH*SBSP*São Paulo–Congonhas Airport*São Paulo, São Paulo, Brazil
+CGI*KCGI*Cape Girardeau Regional Airport*Cape Girardeau, Missouri, United States
+CGJ**Kasompe Airport*Chingola, Zambia
+CGK*WIII*Soekarno–Hatta International Airport*Jakarta, Indonesia
+CGM*RPMH*Camiguin Airport*Mambajao, Philippines
+CGN*EDDK*Cologne Bonn Airport*Cologne / Bonn, North Rhine-Westphalia, Germany
+CGO*ZHCC*Zhengzhou Xinzheng International Airport*Zhengzhou, Henan, China
+CGP*VGEG*Shah Amanat International Airport*Chittagong, Bangladesh
+CGQ*ZYCC*Changchun Longjia International Airport*Changchun, Jilin, China
+CGR*SBCG*Campo Grande International Airport*Campo Grande, Mato Grosso do Sul, Brazil
+CGS*KCGS*College Park Airport*College Park, Maryland, United States
+CGT**Chinguetti Airport*Chinguetti, Mauritania
+CGV*YCAG*Caiguna Airport*Caiguna, Western Australia, Australia
+CGY*RPMY*Laguindingan Airport*Cagayan de Oro, Philippines
+CGZ*KCGZ*Casa Grande Municipal Airport*Casa Grande, Arizona, United States
+CHA*KCHA*Chattanooga Metropolitan Airport (Lovell Field)*Chattanooga, Tennessee, United States
+CHB*OPCL*Chilas Airport*Chilas, Pakistan
+CHC*NZCH*Christchurch International Airport*Christchurch, New Zealand
+CHF*RKPE*Jinhae Airport*Jinhae, South Korea
+CHG*ZYCY*Chaoyang Airport*Chaoyang, Liaoning, China
+CHH*SPPY*Chachapoyas Airport*Chachapoyas, Peru
+CHI**metropolitan area2*Chicago, Illinois, United States
+CHJ*FVCH*Chipinge Airport*Chipinge, Zimbabwe
+CHK*KCHK*Chickasha Municipal Airport*Chickasha, Oklahoma, United States
+CHL*KLLJ*Challis Airport (FAA: LLJ)*Challis, Idaho, United States
+CHM*SPEO*Tnte. FAP Jaime Montreuil Morales Airport*Chimbote, Peru
+CHN*RKJU*Jeonju Airport*Jeonju, South Korea
+CHO*KCHO*Charlottesville–Albemarle Airport*Charlottesville, Virginia, United States
+CHP**Circle Hot Springs Airport*Circle Hot Springs, Alaska, United States
+CHQ*LGSA*Chania International Airport ("Ioannis Daskalogiannis")*Chania, Greece
+CHR*LFLX*Châteauroux-Centre "Marcel Dassault" Airport*Châteauroux, Centre-Val de Loire, France
+CHS*KCHS*Charleston International Airport / Charleston Air Force Base*Charleston, South Carolina, United States
+CHT*NZCI*Chatham Islands / Tuuta Airport*Chatham Islands, New Zealand
+CHU**Chuathbaluk Airport (FAA: 9A3)*Chuathbaluk, Alaska, United States
+CHV*LPCH*Chaves Airport*Chaves, Portugal
+CHX*MPCH*Changuinola "Capitán Manuel Niño" International Airport*Changuinola, Panama
+CHY*AGGC*Choiseul Bay Airport*Choiseul Bay, Taro Island, Solomon Islands
+CHZ**Chiloquin State Airport (FAA: 2S7)*Chiloquin, Oregon, United States
+CIA*LIRA*Ciampino–G. B. Pastine International Airport*Rome, Lazio, Italy
+CIC*KCIC*Chico Municipal Airport*Chico, California, United States
+CID*KCID*The Eastern Iowa Airport*Cedar Rapids, Iowa, United States
+CIE*YCOI*Collie Airport*Collie, Western Australia, Australia
+CIF*ZBCF*Chifeng Yulong Airport*Chifeng, Inner Mongolia, China
+CIG*KCAG*Craig–Moffat Airport (FAA: CAG)*Craig, Colorado, United States
+CIH*ZBCZ*Changzhi Wangcun Airport*Changzhi, Shanxi, China
+CIJ*SLCO*Captain Aníbal Arab Airport*Cobija, Bolivia
+CIK*PACI*Chalkyitsik Airport*Chalkyitsik, Alaska, United States
+CIL**Council Airport (FAA: K29)*Council, Alaska, United States
+CIM*SKCM*Cimitarra Airport*Cimitarra, Colombia
+CIN*KCIN*Arthur N. Neu Airport*Carroll, Iowa, United States
+CIO*SGCO*Teniente Coronel Carmelo Peralta Airport*Concepción, Paraguay
+CIP*FLCP*Chipata Airport*Chipata, Zambia
+CIQ**Chiquimula Airport*Chiquimula, Guatemala
+CIR*KCIR*Cairo Regional Airport*Cairo, Illinois, United States
+CIS*PCIS*Canton Island Airport*Canton Island, Kiribati
+CIT*UAII*Shymkent International Airport*Shymkent, Kazakhstan
+CIU*KCIU*Chippewa County International Airport*Sault Ste Marie, Michigan, United States
+CIW*TVSC*Canouan Airport*Canouan, Saint Vincent and the Grenadines
+CIX*SPHI*FAP Captain José Abelardo Quiñones Gonzáles International Airport*Chiclayo, Peru
+CIY*LICB*Comiso Airport*Comiso, Sicily, Italy
+CIZ*SWKO*Coari Airport*Coari, Amazonas, Brazil
+CJA*SPJR*Mayor General FAP Armando Revoredo Iglesias Airport*Cajamarca, Peru
+CJB*VOCB*Coimbatore International Airport*Coimbatore, Tamil Nadu, India
+CJC*SCCF*El Loa Airport*Calama, Chile
+CJD**Candilejas Airport*Candilejas, Colombia
+CJF*YCWA*Coondewanna Airport*Coondewanna, Western Australia, Australia
+CJH**Chilko Lake (Tsylos Park Lodge) Aerodrome (TC: CAG3)*Chilko Lake, British Columbia, Canada
+CJJ*RKTU*Cheongju International Airport*Cheongju, South Korea
+CJL*OPCH*Chitral Airport*Chitral, Pakistan
+CJM*VTSE*Chumphon Airport*Chumphon, Thailand
+CJS*MMCS*Abraham González International Airport*Ciudad Juárez, Chihuahua, Mexico
+CJT*MMCO*Copalar Airport*Comitán, Chiapas, Mexico
+CJU*RKPC*Jeju International Airport*Jeju, South Korea
+CKA*KCKA*Kegelman Air Force Auxiliary Field*Cherokee, Oklahoma, United States
+CKB*KCKB*North Central West Virginia Airport*Clarksburg, West Virginia, United States
+CKC*UKKE*Cherkasy International Airport*Cherkasy, Ukraine
+CKD**Crooked Creek Airport (FAA: CJX)*Crooked Creek, Alaska, United States
+CKE**Lampson Field (FAA: 1O2)*Lakeport, California, United States
+CKG*ZUCK*Chongqing Jiangbei International Airport*Chongqing, China
+CKH*UESO*Chokurdakh Airport*Chokurdakh, Yakutia, Russia
+CKI*YCKI*Croker Island Airport*Croker Island, Northern Territory, Australia
+CKK*KCVK*Sharp County Regional Airport (FAA: CVK)*Ash Flat, Arkansas, United States
+CKL*UUMU*Chkalovsky Airport*Shchyolkovo (Moscow Oblast), Russia
+CKM*KCKM*Fletcher Field*Clarksdale, Mississippi, United States
+CKN*KCKN*Crookston Municipal Airport (Kirkwood Field)*Crookston, Minnesota, United States
+CKO*SSCP*Cornélio Procópio Airport*Cornélio Procópio, Paraná, Brazil
+CKR**Crane Island Airstrip*Crane Island, Washington, United States
+CKS*SBCJ*Carajás Airport*Parauapebas, Pará, Brazil
+CKT*OIMC*Sarakhs Airport*Sarakhs, Iran
+CKU**Cordova Municipal Airport*Cordova, Alaska, United States
+CKV*KCKV*Clarksville–Montgomery County Regional Airport (Outlaw Field)*Clarksville, Tennessee, United States
+CKW*YCHK*Graeme Rowley Aerodrome*Christmas Creek mine, Western Australia
+CKX**Chicken Airport*Chicken, Alaska, United States
+CKY*GUCY*Conakry International Airport (Gbessia Int'l Airport)*Conakry, Guinea
+CKZ*LTBH*Çanakkale Airport*Çanakkale, Turkey
+CLA*VGCM*Comilla Airport*Comilla, Bangladesh
+CLD*KCRQ*McClellan–Palomar Airport (FAA: CRQ)*Carlsbad, California, United States
+CLE*KCLE*Cleveland Hopkins International Airport*Cleveland, Ohio, United States
+CLG**New Coalinga Municipal Airport (FAA: C80)*Coalinga, California, United States
+CLH*YCAH*Coolah Airport*Coolah, New South Wales, Australia
+CLI*KCLI*Clintonville Municipal Airport*Clintonville, Wisconsin, United States
+CLJ*LRCL*Cluj-Napoca International Airport*Cluj-Napoca, Romania
+CLK*KCLK*Clinton Regional Airport*Clinton, Oklahoma, United States
+CLL*KCLL*Easterwood Airport (Easterwood Field)*College Station, Texas, United States
+CLM*KCLM*William R. Fairchild International Airport*Port Angeles, Washington, United States
+CLN*SBCI*Carolina Airport*Carolina, Maranhão, Brazil
+CLO*SKCL*Alfonso Bonilla Aragón International Airport*Cali, Colombia
+CLP*PFCL*Clarks Point Airport*Clark's Point, Alaska, United States
+CLQ*MMIA*Licenciado Miguel de la Madrid Airport*Colima City, Colima, Mexico
+CLR*KCLR*Cliff Hatfield Memorial Airport*Calipatria, California, United States
+CLS*KCLS*Chehalis-Centralia Airport*Chehalis, Washington, United States
+CLT*KCLT*Charlotte Douglas International Airport*Charlotte, North Carolina, United States
+CLU*KBAK*Columbus Municipal Airport (FAA: BAK)*Columbus, Indiana, United States
+CLV*SWKN*Caldas Novas Airport*Caldas Novas, Goiás, Brazil
+CLW*KCLW*Clearwater Air Park*Clearwater, Florida, United States
+CLX*SATC*Clorinda Airport*Clorinda, Formosa, Argentina
+CLY*LFKC*Calvi – Sainte-Catherine Airport*Calvi, Corsica, France
+CLZ*SVCL*Calabozo Airport*Calabozo, Venezuela
+CMA*YCMU*Cunnamulla Airport*Cunnamulla, Queensland, Australia
+CMB*VCBI*Bandaranaike International Airport*Colombo, Sri Lanka
+CMC*SNWC*Camocim Airport*Camocim, Ceará, Brazil
+CMD*YCTM*Cootamundra Airport*Cootamundra, New South Wales, Australia
+CME*MMCE*Ciudad del Carmen International Airport*Ciudad del Carmen, Campeche, Mexico
+CMF*LFLB*Chambéry-Savoie Airport*Chambéry, Rhône-Alpes, France
+CMG*SBCR*Corumbá International Airport*Corumbá, Mato Grosso do Sul, Brazil
+CMH*KCMH*John Glenn Columbus International Airport*Columbus, Ohio, United States
+CMI*KCMI*University of Illinois Willard Airport*Champaign, Illinois, United States
+CMJ*RCCM*Qimei Airport*Qimei, Taiwan
+CMK*FWCM*Club Makokola Airport*Club Makokola, Malawi
+CML*YCMW*Camooweal Airport*Camooweal, Queensland, Australia
+CMM*MGCR*Carmelita Airport*Carmelita, Guatemala
+CMN*GMMN*Mohammed V International Airport*Casablanca, Morocco
+CMO*HCMO*Obbia Airport*Obbia, Somalia
+CMP*SNKE*Santana do Araguaia Airport*Santana do Araguaia, Pará, Brazil
+CMQ*YCMT*Clermont Airport*Clermont, Queensland, Australia
+CMR*LFGA*Colmar - Houssen Airport*Colmar, Alsace, France
+CMS*HCMS*Iskushuban Airport*Iskushuban (Scusciuban), Somalia
+CMT**Cameta Airport*Cametá, Pará, Brazil
+CMU*AYCH*Chimbu Airport*Kundiawa, Papua New Guinea
+CMV*NZCX*Coromandel Aerodrome*Coromandel, New Zealand
+CMW*MUCM*Ignacio Agramonte International Airport*Camagüey, Cuba
+CMX*KCMX*Houghton County Memorial Airport*Hancock, Michigan, United States
+CMY*KCMY*Sparta/Fort McCoy Airport*Sparta, Wisconsin, United States
+CMZ**Caia Airport*Caia, Mozambique
+CNA*MMCA*Cananea National Airport*Cananea, Sonora, Mexico
+CNB*YCNM*Coonamble Airport*Coonamble, New South Wales, Australia
+CNC*YCCT*Coconut Island Airport*Coconut (Poruma) Island, Queensland, Australia
+CNE**Fremont County Airport (FAA: 1V6)*Cañon City, Colorado, United States
+CNF*SBCF*Tancredo Neves International Airport (Confins Int'l Airport)*Belo Horizonte, Minas Gerais, Brazil
+CNG*LFBG*Cognac – Châteaubernard Air Base*Cognac, Poitou-Charentes, France
+CNH*KCNH*Claremont Municipal Airport*Claremont, New Hampshire, United States
+CNI*ZYCH*Changhai Airport*Changhai, Liaoning, China
+CNJ*YCCY*Cloncurry Airport*Cloncurry, Queensland, Australia
+CNK*KCNK*Blosser Municipal Airport*Concordia, Kansas, United States
+CNL*EKSN*Sindal Airport*Sindal, Denmark
+CNM*KCNM*Cavern City Air Terminal*Carlsbad, New Mexico, United States
+CNN*VOKN*Kannur International Airport*kannur, (Cannanore) Kerala, India
+CNO*KCNO*Chino Airport*Chino, California, United States
+CNP*BGCO*Nerlerit Inaat Airport (Constable Pynt Airport)*Ittoqqortoormiit, Greenland
+CNQ*SARC*Doctor Fernando Piragine Niveyro International Airport*Corrientes, Corrientes, Argentina
+CNR*SCRA*Chañaral Airport*Chañaral, Chile
+CNS*YBCS*Cairns Airport*Cairns, Queensland, Australia
+CNT**Charata Airport*Charata, Chaco, Argentina
+CNU*KCNU*Chanute Martin Johnson Airport*Chanute, Kansas, United States
+CNV*SNED*Canavieiras Airport*Canavieiras, Bahia, Brazil
+CNW*KCNW*TSTC Waco Airport*Waco, Texas, United States
+CNX*VTCC*Chiang Mai International Airport*Chiang Mai, Thailand
+CNY*KCNY*Canyonlands Field*Moab, Utah, United States
+CNZ**Cangamba Airport*Cangamba, Angola
+COA**Columbia Airport (FAA: O22)*Columbia, California, United States
+COB**Coolibah Airport*Coolibah Station, Northern Territory, Australia
+COC*SAAC*Comodoro Pierrestegui Airport*Concordia, Entre Ríos, Argentina
+COD*KCOD*Yellowstone Regional Airport*Cody, Wyoming, United States
+COE*KCOE*Coeur d'Alene Airport*Coeur d'Alene, Idaho, United States
+COF*KCOF*Patrick Air Force Base*Cocoa Beach, Florida, United States
+COG*SKCD*Mandinga Airport*Condoto, Colombia
+COH*VECO*Cooch Behar Airport*Cooch Behar, West Bengal, India
+COI*KCOI*Merritt Island Airport*Merritt Island, Florida, United States
+COJ*YCBB*Coonabarabran Airport*Coonabarabran, New South Wales, Australia
+COK*VOCI*Cochin International Airport (Nedumbassery Airport)*Kochi (Cochin), Kerala, India
+COL**Coll Airport*Coll, Scotland, United Kingdom
+COM*KCOM*Coleman Municipal Airport*Coleman, Texas, United States
+CON*KCON*Concord Municipal Airport*Concord, New Hampshire, United States
+COO*DBBB*Cadjehoun Airport*Cotonou, Benin
+COP**Cooperstown-Westville Airport (FAA: K23)*Cooperstown, New York, United States
+COQ*ZMCD*Choibalsan Airport*Choibalsan, Mongolia
+COR*SACO*Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport (Pajas Blancas)*Córdoba, Córdoba, Argentina
+COS*KCOS*Colorado Springs Airport*Colorado Springs, Colorado, United States
+COT*KCOT*Cotulla–La Salle County Airport*Cotulla, Texas, United States
+COU*KCOU*Columbia Regional Airport*Columbia, Missouri, United States
+COW*SCQB*Coquimbo Airport*Coquimbo, Chile
+COY*YCWY*Coolawanyah Station Airport*Coolawanyah Station, Western Australia, Australia
+COZ*MDCZ*Constanza Airport*Constanza, Dominican Republic
+CPA*GLCP*Cape Palmas Airport*Harper, Liberia
+CPB*SKCA*Capurganá Airport*Capurganá, Colombia
+CPC*SAZY*Aviador Carlos Campos Airport*San Martín de los Andes, Neuquén, Argentina
+CPD*YCBP*Coober Pedy Airport*Coober Pedy, South Australia, Australia
+CPE*MMCP*Ing. Alberto Acuña Ongay International Airport*Campeche, Campeche, Mexico
+CPF*WARC*Ngloram Airport*Cepu, Indonesia
+CPG**Carmen de Patagones Airport*Carmen de Patagones, Buenos Aires, Argentina
+CPH*EKCH*Copenhagen Airport, Kastrup*Copenhagen, Denmark
+CPI**Cape Orford Airport*Cape Orford, Papua New Guinea
+CPL*SKHA*General Navas Pardo Airport*Chaparral, Colombia
+CPM*KCPM*Compton/Woodley Airport*Compton, California, United States
+CPN**Cape Rodney Airport*Cape Rodney, Papua New Guinea
+CPO*SCAT*Desierto de Atacama Airport*Copiapó, Chile
+CPR*KCPR*Casper–Natrona County International Airport*Casper, Wyoming, United States
+CPS*KCPS*St. Louis Downtown Airport*Cahokia (near St. Louis/MO), Illinois, United States
+CPT*FACT*Cape Town International Airport*Cape Town, South Africa
+CPU**Cururupu Airport*Cururupu, Maranhão, Brazil
+CPV*SBKG*Campina Grande Airport (Presidente João Suassuna Airport)*Campina Grande, Paraíba, Brazil
+CPX*TJCP*Benjamín Rivera Noriega Airport*Culebra, Puerto Rico, United States
+CQA**Canarana Airport*Canarana, Mato Grosso, Brazil
+CQD*OIFS*Shahrekord Airport*Shahrekord, Iran
+CQF*LFAC*Calais–Dunkerque Airport*Calais / Dunkirk, Nord-Pas-de-Calais, France
+CQM*LERL*Ciudad Real Central Airport*Ciudad Real, Castilla-La Mancha, Spain
+CQP**Cape Flattery Airport*Cape Flattery, Queensland, Australia
+CQS*SWCQ*Costa Marques Airport*Costa Marques, Rondônia, Brazil
+CQT**Caquetania Airport*Caquetania, Colombia
+CRA*LRCV*Craiova International Airport*Craiova, Romania
+CRB*YCBR*Collarenebri Airport*Collarenebri, New South Wales, Australia
+CRC*SKGO*Santa Ana Airport*Cartago, Colombia
+CRD*SAVC*General Enrique Mosconi International Airport*Comodoro Rivadavia, Chubut, Argentina
+CRE*KCRE*Grand Strand Airport*North Myrtle Beach, South Carolina, United States
+CRF*FEFC*Carnot Airport*Carnot, Central African Republic
+CRG*KCRG*Jacksonville Executive at Craig Airport*Jacksonville, Florida, United States
+CRH**Cherrabah Airport*Cherrabah, Queensland, Australia
+CRI*MYCI*Colonel Hill Airport (Crooked Island Airport)*Colonel Hill, Crooked Island, Bahamas
+CRJ**Coorabie Airport*Coorabie, South Australia, Australia
+CRK*RPLC*Clark International Airport*Clark Special Economic Zone, Philippines
+CRL*EBCI*Brussels South Charleroi Airport*Charleroi, Belgium
+CRM*RPVF*Catarman National Airport*Catarman, Philippines
+CRO*KCRO*Corcoran Airport*Corcoran, California, United States
+CRP*KCRP*Corpus Christi International Airport*Corpus Christi, Texas, United States
+CRQ*SBCV*Caravelas Airport*Caravelas, Bahia, Brazil
+CRR*SANW*Ceres Airport*Ceres, Santa Fe, Argentina
+CRS*KCRS*C. David Campbell Field (Corsicana Municipal Airport)*Corsicana, Texas, United States
+CRT*KCRT*Z. M. Jack Stell Field*Crossett, Arkansas, United States
+CRU**Lauriston Airport (Carriacou Island Airport)*Carriacou, Grenada
+CRV*LIBC*Crotone Airport (Sant'Anna Airport)*Crotone, Calabria, Italy
+CRW*KCRW*Yeager Airport*Charleston, West Virginia, United States
+CRX*KCRX*Roscoe Turner Airport*Corinth, Mississippi, United States
+CRY**Carlton Hill Airport*Carlton Hill Station, Western Australia, Australia
+CRZ*UTAV*Turkmenabat Airport*Türkmenabat, Turkmenistan
+CSA**Colonsay Airport*Colonsay, Scotland, United Kingdom
+CSC*MRMJ*Cañas Mojica Airport*Cañas, Costa Rica
+CSD**Cresswell Downs Airport*Cresswell Downs, Northern Territory, Australia
+CSE**Buckhorn Ranch Airport (FAA: 0CO2)*Crested Butte, Colorado, United States
+CSF*LFPC*Creil Air Base*Creil, Picardy, France
+CSG*KCSG*Columbus Airport*Columbus, Georgia, United States
+CSH*ULAS*Solovki Airport*Solovetsky Islands, Arkhangelsk Oblast, Russia
+CSI*YCAS*Casino Airport*Casino, New South Wales, Australia
+CSK*GOGS*Cap Skirring Airport*Cap Skirring, Senegal
+CSM*KCSM*Clinton-Sherman Airport*Clinton, Oklahoma, United States
+CSN*KCXP*Carson Airport (FAA: CXP)*Carson City, Nevada, United States
+CSO*EDBC*Magdeburg–Cochstedt Airport*Magdeburg, Saxony-Anhalt, Germany
+CSQ*KCSQ*Creston Municipal Airport*Creston, Iowa, United States
+CSR**Casuarito Airport*Casuarito, Colombia
+CSS*SSCL*Cassilândia Airport*Cassilândia, Mato Grosso do Sul, Brazil
+CST*NFCS*Castaway Island Seaplane Base*Castaway Island, Mamanuca Islands, Fiji
+CSU**Santa Cruz do Sul Airport*Santa Cruz do Sul, Rio Grande do Sul, Brazil
+CSV*KCSV*Crossville Memorial-Whitson Field*Crossville, Tennessee, United States
+CSX*ZGHA*Changsha Huanghua International Airport*Changsha, Hunan, China
+CSY*UWKS*Cheboksary Airport*Cheboksary, Chuvashia, Russia
+CSZ*SAZC*Brigadier Hector Eduardo Ruiz Airport*Coronel Suárez, Buenos Aires, Argentina
+CTA*LICC*Catania–Fontanarossa Airport*Catania, Sicily, Italy
+CTB*KCTB*Cut Bank Municipal Airport*Cut Bank, Montana, United States
+CTC*SANC*Coronel Felipe Varela International Airport*Catamarca, Catamarca, Argentina
+CTD*MPCE*Chitré Alonso Valderrama Airport*Chitré, Panama
+CTE**Cartí Airport*Cartí, Panama
+CTF*MGCT*Coatepeque Airport*Coatepeque, Guatemala
+CTG*SKCG*Rafael Núñez International Airport*Cartagena, Colombia
+CTH*KMQS*Chester County G. O. Carlson Airport (FAA: MQS)*Coatesville, Pennsylvania, United States
+CTI*FNCV*Cuito Cuanavale Airport*Cuito Cuanavale, Angola
+CTK**Canton Municipal Airport (FAA: 7G9)*Canton, South Dakota, United States
+CTL*YBCV*Charleville Airport*Charleville, Queensland, Australia
+CTM*MMCM*Chetumal International Airport*Chetumal, Quintana Roo, Mexico
+CTN*YCKN*Cooktown Airport*Cooktown, Queensland, Australia
+CTO**Calverton Executive Airpark (FAA: 3C8)*Calverton, New York, United States
+CTP*SNCP*Carutapera Airport*Carutapera, Maranhão, Brazil
+CTQ*SSVP*Do Palmar Airport*Santa Vitória, Rio Grande do Sul, Brazil
+CTR**Cattle Creek Airport*Cattle Creek, Northern Territory, Australia
+CTS*RJCC*New Chitose Airport*Sapporo, Hokkaido, Japan
+CTT*LFMQ*Le Castellet Airport*Le Castellet, Provence-Alpes-Côte d'Azur, France
+CTU*ZUUU*Chengdu Shuangliu International Airport*Chengdu, Sichuan, China
+CTW**Cottonwood Airport (FAA: P52)*Cottonwood, Arizona, United States
+CTX**Cortland County Airport (Chase Field, FAA: N03)*Cortland, New York, United States
+CTY*KCTY*Cross City Airport*Cross City, Florida, United States
+CTZ*KCTZ*Clinton–Sampson County Airport*Clinton, North Carolina, United States
+CUA**Ciudad Constitución Airport*Ciudad Constitución, Baja California Sur, Mexico
+CUB*KCUB*Jim Hamilton–L.B. Owens Airport*Columbia, South Carolina, United States
+CUC*SKCC*Camilo Daza International Airport*Cúcuta, Colombia
+CUD*YCDR*Caloundra Airport*Caloundra, Queensland, Australia
+CUE*SECU*Mariscal Lamar International Airport*Cuenca, Ecuador
+CUF*LIMZ*Cuneo International Airport*Cuneo, Piedmont, Italy
+CUG*YCUA*Cudal Airport*Cudal, New South Wales, Australia
+CUH*KCUH*Cushing Municipal Airport*Cushing, Oklahoma, United States
+CUI**Curillo Airport*Curillo, Colombia
+CUJ**Culion Airport*Culion, Philippines
+CUK**Caye Caulker Airport*Caye Caulker, Belize
+CUL*MMCL*Bachigualato Federal International Airport*Culiacán, Sinaloa, Mexico
+CUM*SVCU*Antonio José de Sucre Airport*Cumaná, Venezuela
+CUN*MMUN*Cancún International Airport*Cancún, Quintana Roo, Mexico
+CUO*SKCR*Caruru Airport*Caruru, Colombia
+CUP*SVCP*General José Francisco Bermúdez Airport*Carúpano, Venezuela
+CUQ*YCOE*Coen Airport*Coen, Queensland, Australia
+CUR*TNCC*Curaçao International Airport (Hato Int'l Airport)*Willemstad, Curaçao
+CUS**Columbus Municipal Airport (FAA: 0NM0)*Columbus, New Mexico, United States
+CUT*SAZW*Cutral Có Airport*Cutral Có, Neuquén, Argentina
+CUU*MMCU*General Roberto Fierro Villalobos International Airport*Chihuahua, Chihuahua, Mexico
+CUV*SVCG*Casigua El Cubo Airport*Casigua El Cubo, Venezuela
+CUX**Cuddihy Field (FAA: 07TE)*Corpus Christi, Texas, United States
+CUY*YCUE*Cue Airport*Cue, Western Australia, Australia
+CUZ*SPZO*Alejandro Velasco Astete International Airport*Cusco, Peru
+CVB*AYCB*Chungrebu Airport*Chungrebu, Papua New Guinea
+CVC*YCEE*Cleve Airport*Cleve, South Australia, Australia
+CVE*SKCV*Coveñas Airport*Coveñas, Colombia
+CVF*LFLJ*Courchevel Altiport*Courchevel, Rhône-Alpes, France
+CVG*KCVG*Cincinnati/Northern Kentucky International Airport*Hebron (near Cincinnati/OH), Kentucky, United States
+CVH**Caviahue Airport*Caviahue, Neuquén, Argentina
+CVI**Caleta Olivia Airport*Caleta Olivia, Santa Cruz, Argentina
+CVJ*MMCB*General Mariano Matamoros Airport*Cuernavaca, Morelos, Mexico
+CVL**Cape Vogel Airport*Cape Vogel, Papua New Guinea
+CVM*MMCV*General Pedro J. Méndez International Airport*Ciudad Victoria, Tamaulipas, Mexico
+CVN*KCVN*Clovis Municipal Airport*Clovis, New Mexico, United States
+CVO*KCVO*Corvallis Municipal Airport*Corvallis, Oregon, United States
+CVQ*YCAR*Carnarvon Airport*Carnarvon, Western Australia, Australia
+CVS*KCVS*Cannon Air Force Base*Clovis, New Mexico, United States
+CVT*EGBE*Coventry Airport*Coventry, England, United Kingdom
+CVU*LPCR*Corvo Airport*Corvo Island, Azores, Portugal
+CWA*KCWA*Central Wisconsin Airport*Wausau, Wisconsin, United States
+CWB*SBCT*Afonso Pena International Airport*Curitiba, Paraná, Brazil
+CWC*UKLN*Chernivtsi International Airport*Chernivtsi, Ukraine
+CWF*KCWF*Chennault International Airport*Lake Charles, Louisiana, United States
+CWI*KCWI*Clinton Municipal Airport*Clinton, Iowa, United States
+CWL*EGFF*Cardiff Airport*Cardiff, Wales, United Kingdom
+CWR*YCWI*Cowarie Airport*Cowarie, South Australia, Australia
+CWS**Center Island Airport (FAA: 78WA)*Center Island, Washington, United States
+CWT*YCWR*Cowra Airport*Cowra, New South Wales, Australia
+CWW*YCOR*Corowa Airport*Corowa, New South Wales, Australia
+CWX**Cochise County Airport (FAA: P33)*Willcox, Arizona, United States
+CXA*SVCD*Caicara del Orinoco Airport*Caicara del Orinoco, Venezuela
+CXB*VGCB*Cox's Bazar Airport*Cox's Bazar, Bangladesh
+CXC**Chitina Airport*Chitina, Alaska, United States
+CXF*PACX*Coldfoot Airport*Coldfoot, Alaska, United States
+CXH*CYHC*Vancouver Harbour Flight Centre (Coal Harbour Seaplane Base)*Vancouver, British Columbia, Canada
+CXI*PLCH*Cassidy International Airport*Christmas Island, Kiribati
+CXJ*SBCX*Caxias do Sul Airport (Hugo Cantergiani Regional Airport)*Caxias do Sul, Rio Grande do Sul, Brazil
+CXL*KCXL*Calexico International Airport*Calexico, California, United States
+CXN*HCMC*Candala Airport*Candala, Somalia
+CXO*KCXO*Lone Star Executive Airport*Houston, Texas, United States
+CXP*WIHL*Tunggul Wulung Airport*Cilacap, Indonesia
+CXQ*YCRK*Christmas Creek Airport*Christmas Creek Station, Western Australia, Australia
+CXR*VVCR*Cam Ranh International Airport*Cam Ranh, Vietnam
+CXT*YCHT*Charters Towers Airport*Charters Towers, Queensland, Australia
+CXY*MYCC*Cat Cay Airport*Cat Cays, Bimini, Bahamas
+CYA*MTCA*Antoine-Simon Airport*Les Cayes, Haiti
+CYB*MWCB*Charles Kirkconnell International Airport*Cayman Brac, British Overseas Territory of Cayman Islands
+CYC**Caye Chapel Airport*Caye Chapel, Belize
+CYD**San Ignacio Town Airstrip*San Ignacio, Belize
+CYF*PACK*Chefornak Airport (FAA: CFK)*Chefornak, Alaska, United States
+CYG*YCRG*Corryong Airport*Corryong, Victoria, Australia
+CYI*RCKU*Chiayi Airport*Chiayi, Taiwan
+CYL*MHCS*Coyoles Airport*Coyoles, Honduras
+CYM**Chatham Seaplane Base*Chatham, Alaska, United States
+CYO*MUCL*Vilo Acuña Airport*Cayo Largo del Sur, Cuba
+CYP*RPVC*Calbayog Airport*Calbayog, Philippines
+CYR*SUCA*Colonia Airport (Laguna de los Patos Intn'l Airport)*Colonia del Sacramento, Uruguay
+CYS*KCYS*Cheyenne Regional Airport (Jerry Olson Field)*Cheyenne, Wyoming, United States
+CYT*PACY*Yakataga Airport*Yakataga, Alaska, United States
+CYU*RPLO*Cuyo Airport*Cuyo, Philippines
+CYW*MMCY*Captain Rogelio Castillo National Airport*Celaya, Guanajuato, Mexico
+CYX*UESS*Chersky Airport*Chersky, Yakutia, Russia
+CYZ*RPUY*Cauayan Airport*Cauayan, Philippines
+CZA*MMCT*Chichen Itza International Airport*Chichen Itza, Yucatán, Mexico
+CZB**Carlos Ruhl Airport*Cruz Alta, Rio Grande do Sul, Brazil
+CZC**Copper Center 2 Airport (FAA: Z93)*Copper Center, Alaska, United States
+CZE*SVCR*José Leonardo Chirino Airport*Coro, Venezuela
+CZF*PACZ*Cape Romanzof LRRS Airport*Cape Romanzof, Alaska, United States
+CZH**Corozal Airport*Corozal, Belize
+CZJ**Corazón de Jesús Airport*Corazón de Jesús, Panama
+CZK*KCZK*Cascade Locks State Airport*Cascade Locks, Oregon, United States
+CZL*DABC*Mohamed Boudiaf International Airport*Constantine, Algeria
+CZM*MMCZ*Cozumel International Airport*Cozumel, Quintana Roo, Mexico
+CZN**Chisana Airport*Chisana, Alaska, United States
+CZO**Chistochina Airport*Chistochina, Alaska, United States
+CZP**Cape Pole Seaplane Base (FAA: Z71)*Cape Pole, Alaska, United States
+CZS*SBCZ*Cruzeiro do Sul International Airport*Cruzeiro do Sul, Acre, Brazil
+CZT*KCZT*Dimmit County Airport*Carrizo Springs, Texas, United States
+CZU*SKCZ*Las Brujas Airport*Corozal, Colombia
+CZX*ZSCG*Changzhou Benniu Airport*Changzhou, Jiangsu, China
+CZY*YUNY*Cluny Airport*Cluny, Queensland, Australia

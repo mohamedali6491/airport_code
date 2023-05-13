@@ -1,0 +1,258 @@
+IAA*UOII*Igarka Airport*Igarka, Krasnoyarsk Krai, Russia
+IAB*KIAB*McConnell Air Force Base*Wichita, Kansas, United States
+IAD*KIAD*Washington Dulles International Airport*Washington, D.C.,1 United States
+IAG*KIAG*Niagara Falls International Airport*Niagara Falls, New York, United States
+IAH*KIAH*George Bush Intercontinental Airport*Houston, Texas, United States
+IAM*DAUZ*In Amenas Airport (Zarzaitine Airport)*In Amenas, Algeria
+IAN*PAIK*Bob Baker Memorial Airport*Kiana, Alaska, United States
+IAO*RPNS*Sayak Airport (Siargao Airport)*Del Carmen, Philippines
+IAQ*OIBH*Bahregan Airport*Bahregan, Iran
+IAR*UUDL*Tunoshna Airport*Yaroslavl, Yaroslavl Oblast, Russia
+IAU**Iaura Airport*Iaura, Papua New Guinea
+IBA*DNIB*Ibadan Airport*Ibadan, Nigeria
+IBB*SEII*General Villamil Airport*Isabela Island, Galápagos Islands, Ecuador
+IBE*SKIB*Perales Airport*Ibagué, Colombia
+IBI**Iboki Airport*Iboki, Papua New Guinea
+IBL**Indigo Bay Lodge Airport*Bazaruto Island, Mozambique
+IBO**Ibo Island Airport*Ibo Island, Mozambique
+IBP*SPBR*Iberia Airport*Iberia, Peru
+IBR*RJAH*Ibaraki Airport*Omitama, Honshu, Japan
+IBZ*LEIB*Ibiza Airport*Ibiza, Balearic Islands, Spain
+ICA*SVIC*Icabarú Airport*Icabarú, Venezuela
+ICC*SVIE*Andrés Miguel Salazar Marcano Airport*Coche Island, Venezuela
+ICI*NFCI*Cicia Airport*Cicia Island, Fiji
+ICK*SMNI*Majoor Henry Fernandes Airport (Nieuw Nickerie Airport)*Nieuw Nickerie, Suriname
+ICL*KICL*Schenck Field*Clarinda, Iowa, United States
+ICN*RKSI*Incheon International Airport*Seoul, South Korea
+ICO*RPSG*Sicogon Airport*Sicogon, Philippines
+ICS**Cascade Airport (FAA: KU70)*Cascade, Idaho, United States
+ICT*KICT*Wichita Dwight D. Eisenhower National Airport*Wichita, Kansas, United States
+ICY**Icy Bay Airport (FAA: 19AK)*Icy Bay, Alaska, United States
+IDA*KIDA*Idaho Falls Regional Airport*Idaho Falls, Idaho, United States
+IDB*ESUE*Idre Airport*Idre, Sweden
+IDC**Chilonzuine Island Airstrip*Chilonzuine Island, Mozambique
+IDF*FZCB*Idiofa Airport*Idiofa, Democratic Republic of the Congo
+IDG*KIDG*Ida Grove Municipal Airport*Ida Grove, Iowa, United States
+IDH*KGIC*Idaho County Airport (FAA: GIC)*Grangeville, Idaho, United States
+IDI*KIDI*Indiana County–Jimmy Stewart Airport*Indiana, Pennsylvania, United States
+IDK*YIDK*Indulkana Airport*Indulkana, South Australia, Australia
+IDN**Indagen Airport*Indagen, Papua New Guinea
+IDO*SWIY*Santa Isabel do Morro Airport*Santa Isabel do Morro, Tocantins, Brazil
+IDP*KIDP*Independence Municipal Airport*Independence, Kansas, United States
+IDR*VAID*Devi Ahilyabai Holkar International Airport*Indore, Madhya Pradesh, India
+IDY*LFEY*Île d'Yeu Aerodrome*Île d'Yeu, Pays de la Loire, France
+IEG*EPZG*Zielona Góra Airport*Zielona Góra, Poland
+IEJ*RORE*Iejima Airport*Iejima, Okinawa, Japan
+IES*EDAU*Riesa–Göhlis Airfield*Riesa, Saxony, Germany
+IEV*UKKK*Kyiv International Airport (Zhuliany)*Kiev, Ukraine
+IFA*KIFA*Iowa Falls Municipal Airport*Iowa Falls, Iowa, United States
+IFF*YIFY*Iffley Airport*Iffley, Queensland, Australia
+IFH*OIFE*Hesa Air Base*Shahin Shahr, Iran
+IFJ*BIIS*Ísafjörður Airport*Ísafjörður, Iceland
+IFL*YIFL*Innisfail Airport*Innisfail, Queensland, Australia
+IFN*OIFM*Isfahan International Airport (Shahid Beheshti Int'l)*Isfahan, Iran
+IFO*UKLI*Ivano-Frankivsk International Airport*Ivano-Frankivsk, Ukraine
+IFP*KIFP*Laughlin/Bullhead International Airport*Bullhead City, Arizona, United States
+IFU*VREI*Ifuru Airport*Ifuru, Raa Atoll, Maldives
+IGA*MYIG*Inagua Airport (Matthew Town Airport)*Inagua Islands, Bahamas
+IGB*SAVJ*Ingeniero Jacobacci Airport (Capitán FAA H. R. Borden Airport)*Ingeniero Jacobacci, Río Negro, Argentina
+IGE*FOOI*Tchongorove Airport*Iguela, Gabon
+IGG*PAIG*Igiugig Airport*Igiugig, Alaska, United States
+IGH*YIGM*Ingham Airport*Ingham, Queensland, Australia
+IGM*KIGM*Kingman Airport*Kingman, Arizona, United States
+IGN*RPMI*Maria Cristina Airport (Iligan Airport)*Iligan, Philippines
+IGO*SKIG*Jaime Ortíz Betancur Airport*Chigorodó, Colombia
+IGR*SARI*Cataratas del Iguazú International Airport*Puerto Iguazú, Misiones, Argentina
+IGS*ETSI*Ingolstadt Manching Airport*Ingolstadt, Bavaria, Germany
+IGT*URMS*Magas Airport (Sleptsovskaya Airport)*Nazran, Ingushetia, Russia
+IGU*SBFI*Foz do Iguaçu International Airport*Foz do Iguaçu, Paraná, Brazil
+IHC*FQIA*Inhaca Airport*Inhaca Island, Mozambique
+IHN*OYQN*Qishn Airport*Qishn, Yemen
+IHO*FMSI*Ihosy Airport*Ihosy, Madagascar
+IHR*OIZI*Iranshahr Airport*Iranshahr, Iran
+IHU**Ihu Airport*Ihu, Papua New Guinea
+IIA*EIMN*Inishmaan Aerodrome*Inishmaan, Ireland
+IIL*OICI*Ilam Airport*Ilam, Iran
+IIS*AYIA*Nissan Island Airport*Nissan Island, Papua New Guinea
+IJK*USII*Izhevsk Airport*Izhevsk, Udmurtia, Russia
+IJU*SSIJ*João Batista Bos Filho Airport*Ijuí, Rio Grande do Sul, Brazil
+IJX*KIJX*Jacksonville Municipal Airport*Jacksonville, Illinois, United States
+IKA*OIIE*Tehran Imam Khomeini International Airport*Tehran, Iran
+IKB*KUKF*Wilkes County Airport (FAA: UKF)*North Wilkesboro, North Carolina, United States
+IKI*RJDB*Iki Airport*Iki, Iki Island, Japan
+IKK*KIKK*Greater Kankakee Airport*Kankakee, Illinois, United States
+IKL*FZGV*Ikela Airport*Ikela, Democratic Republic of the Congo
+IKO*PAKO*Nikolski Air Station*Nikolski, Alaska, United States
+IKP*YIKM*Inkerman Airport*Inkerman, Queensland, Australia
+IKS*UEST*Tiksi Airport*Tiksi, Yakutia, Russia
+IKT*UIII*International Airport Irkutsk*Irkutsk, Irkutsk Oblast, Russia
+ILA*WABL*Illaga Airport*Illaga, Indonesia
+ILD*LEDA*Lleida–Alguaire Airport*Lleida, Catalonia, Spain
+ILE*KILE*Skylark Field*Killeen, Texas, United States
+ILF*CZBD*Ilford Airport*Ilford, Manitoba, Canada
+ILG*KILG*Wilmington Airport (New Castle Airport)*Wilmington, Delaware, United States
+ILH*ETIK*Illesheim Army Airfield*Illesheim, Bavaria, Germany
+ILI*PAIL*Iliamna Airport*Iliamna, Alaska, United States
+ILK*FMMQ*Ilaka-Est Airport (Atsinanana Airport)*Ilaka, Madagascar
+ILL*KBDH*Willmar Municipal Airport (John L. Rice Field)*Willmar, Minnesota, United States
+ILM*KILM*Wilmington International Airport*Wilmington, North Carolina, United States
+ILN*KILN*Wilmington Air Park*Wilmington, Ohio, United States
+ILO*RPVI*Iloilo International Airport*Iloilo, Philippines
+ILP*NWWE*Île des Pins Airport*Île des Pins, New Caledonia
+ILQ*SPLO*Ilo Airport*Ilo, Peru
+ILR*DNIL*Ilorin International Airport*Ilorin, Nigeria
+ILU*HKKL*Kilaguni Airport*Kilaguni, Kenya
+ILX**Ileg Airport*Ileg, Papua New Guinea
+ILY*EGPI*Islay Airport (Glenegedale Airport)*Islay, Scotland, United Kingdom
+ILZ*LZZI*Žilina Airport*Žilina, Slovakia
+IMA**Iamalele Airport*Iamalele, Papua New Guinea
+IMB*SYIB*Imbaimadai Airport*Imbaimadai, Guyana
+IMD**Imonda Airport*Imonda, Papua New Guinea
+IMF*VEIM*Imphal International Airport (Tulihal Airport)*Imphal, Manipur, India
+IMG**Inhaminga Airport*Inhaminga, Mozambique
+IMI**Ine Airport (FAA: N20)*Ine, Arno Atoll, Marshall Islands
+IMK*VNST*Simikot Airport*Simikot, Nepal
+IML*KIML*Imperial Municipal Airport*Imperial, Nebraska, United States
+IMM*KIMM*Immokalee Regional Airport*Immokalee, Florida, United States
+IMN*AYII*Imane Airport*Imane, Papua New Guinea
+IMO*FEFZ*Zemio Airport*Zemio, Central African Republic
+IMP*SBIZ*Imperatriz Airport (Prefeito Renato Moreira Airport)*Imperatriz, Maranhão, Brazil
+IMT*KIMT*Ford Airport*Iron Mountain / Kingsford, Michigan, United States
+INA*UUYI*Inta Airport*Inta, Komi Republic, Russia
+INB**Independence Airport*Independence, Belize
+INC*ZLIC*Yinchuan Hedong International Airport*Yinchuan, Ningxia, China
+IND*KIND*Indianapolis International Airport*Indianapolis, Indiana, United States
+INE**Chinde Airport*Chinde, Mozambique
+INF*DATG*In Guezzam Airport*In Guezzam, Algeria
+INH*FQIN*Inhambane Airport*Inhambane, Mozambique
+INI*LYNI*Niš Constantine the Great Airport*Niš, Serbia
+INJ*YINJ*Injune Airport*Injune, Queensland, Australia
+INK*KINK*Winkler County Airport*Wink, Texas, United States
+INL*KINL*Falls International Airport*International Falls, Minnesota, United States
+INM*YINN*Innamincka Airport*Innamincka, South Australia, Australia
+INN*LOWI*Innsbruck Airport (Kranebitten Airport)*Innsbruck, Austria
+INO*FZBA*Inongo Airport*Inongo, Democratic Republic of the Congo
+INQ*EIIR*Inisheer Aerodrome*Inisheer, Ireland
+INS*KINS*Creech Air Force Base*Indian Springs, Nevada, United States
+INT*KINT*Smith Reynolds Airport*Winston-Salem, North Carolina, United States
+INU*ANYN*Nauru International Airport*Yaren, Nauru
+INV*EGPE*Inverness Airport*Inverness, Scotland, United Kingdom
+INW*KINW*Winslow–Lindbergh Regional Airport*Winslow, Arizona, United States
+INX*WASI*Inanwatan Airport*Inanwatan, Indonesia
+INY**Inyati Airport*Inyati, South Africa
+INZ*DAUI*In Salah Airport*In Salah, Algeria
+IOA*LGIO*Ioannina National Airport*Ioannina, Greece
+IOK**Iokea Airport*Iokea, Papua New Guinea
+IOM*EGNS*Isle of Man Airport (Ronaldsway Airport)*Isle of Man, United Kingdom
+ION*FCOI*Impfondo Airport*Impfondo, Republic of the Congo
+IOP**Ioma Airport*Ioma, Papua New Guinea
+IOR*EIIM*Inishmore Aerodrome (Kilronan Airport)*Inishmore, Ireland
+IOS*SBIL*Ilhéus Jorge Amado Airport*Ilhéus, Bahia, Brazil
+IOW*KIOW*Iowa City Municipal Airport*Iowa City, Iowa, United States
+IPA*NVVI*Ipota Airport*Erromango, Tafea, Vanuatu
+IPC*SCIP*Mataveri International Airport (Isla de Pascua Airport)*Easter Island, Chile
+IPE*RPMV*Ipil Airport*Ipil, Philippines
+IPG*SWII*Ipiranga Airport*Santo Antônio do Içá, Amazonas, Brazil
+IPH*WMKI*Sultan Azlan Shah Airport*Ipoh, Perak, Malaysia
+IPI*SKIP*San Luis Airport*Ipiales, Colombia
+IPL*KIPL*Imperial County Airport (Boley Field)*Imperial / El Centro, California, United States
+IPN*SBIP*Usiminas Airport*Ipatinga, Minas Gerais, Brazil
+IPT*KIPT*Williamsport Regional Airport*Williamsport, Pennsylvania, United States
+IPU*SNIU*Ipiaú Airport*Ipiaú, Bahia, Brazil
+IQA*ORAA*Al Asad Airbase*Anbar Province, Iraq
+IQM*ZWCM*Qiemo Airport*Qiemo, Xinjiang, China
+IQN*ZLQY*Qingyang Airport*Qingyang, Gansu, China
+IQQ*SCDA*Diego Aracena International Airport*Iquique, Chile
+IQT*SPQT*Coronel FAP Francisco Secada Vignetta International Airport*Iquitos, Peru
+IRA*AGGK*Kirakira Airport (Ngorangora Airstrip)*Kirakira, Makira Island, Solomon Islands
+IRB**Iraan Municipal Airport (FAA: 2F0)*Iraan, Texas, United States
+IRC*PACR*Circle City Airport (FAA: CRC)*Circle, Alaska, United States
+IRD*VGIS*Ishwardi Airport*Ishwardi, Bangladesh
+IRE*SNIC*Irecê Airport*Irecê, Bahia, Brazil
+IRG*YLHR*Lockhart River Airport*Lockhart River, Queensland, Australia
+IRI*HTIR*Iringa Airport (Nduli Airport)*Iringa, Tanzania
+IRJ*SANL*Capitán Vicente Almandos Almonacid Airport*La Rioja, Argentina
+IRK*KIRK*Kirksville Regional Airport*Kirksville, Missouri, United States
+IRM*USHI*Igrim Airport*Igrim, Khanty-Mansi Autonomous Okrug, Russia
+IRN*MHIR*Iriona Airport*Iriona, Honduras
+IRO*FEFI*Birao Airport*Birao, Central African Republic
+IRP*FZJH*Matari Airport*Isiro, Democratic Republic of the Congo
+IRS*KIRS*Kirsch Municipal Airport*Sturgis, Michigan, United States
+IRU**Iranamadu Waterdrome*Kilinochchi, Sri Lanka
+IRZ*SWTP*Tapuruquara Airport*Santa Isabel do Rio Negro, Amazonas, Brazil
+ISA*YBMA*Mount Isa Airport*Mount Isa, Queensland, Australia
+ISB*OPIS*Islamabad  International Airport*Islamabad / Rawalpindi, Pakistan
+ISC*EGHE*St Mary's Airport*St Mary's, Isles of Scilly, United Kingdom
+ISD**Iscuande Airport*Iscuande, Colombia
+ISE*LTFC*Isparta Süleyman Demirel Airport*Isparta, Turkey
+ISG*ROIG*New Ishigaki Airport*Ishigaki, Yaeyama Islands, Japan
+ISI*YISF*Isisford Airport*Isisford, Queensland, Australia
+ISJ*MMIM*Isla Mujeres Airport*Isla Mujeres, Quintana Roo, Mexico
+ISK*VAOZ*Ozar Airport*Nashik, Maharashtra, India
+ISL*LTFM*Istanbul New Airport*Istanbul, Turkey
+ISM*KISM*Kissimmee Gateway Airport*Orlando, Florida, United States
+ISN*KISN*Sloulin Field International Airport*Williston, North Dakota, United States
+ISO*KISO*Kinston Regional Jetport (Stallings Field)*Kinston, North Carolina, United States
+ISP*KISP*Long Island MacArthur Airport*Islip, New York, United States
+ISQ*KISQ*Schoolcraft County Airport*Manistique, Michigan, United States
+ISS*KIWI*Wiscasset Airport (FAA: IWI)*Wiscasset, Maine, United States
+IST*LTBA*Istanbul Atatürk Airport*Istanbul, Turkey
+ISU*ORSU*Sulaimaniyah International Airport*Sulaymaniyah, Iraq
+ISW*KISW*South Wood County Airport (Alexander Field)*Wisconsin Rapids, Wisconsin, United States
+ITA*SBIC*Itacoatiara Airport*Itacoatiara, Amazonas, Brazil
+ITB*SBIH*Itaituba Airport*Itaituba, Pará, Brazil
+ITE*SNZW*Ituberá Airport*Ituberá, Bahia, Brazil
+ITH*KITH*Ithaca Tompkins Regional Airport*Ithaca, New York, United States
+ITI**Itambacuri Airport*Itambacuri, Minas Gerais, Brazil
+ITK**Itokama Airport*Itokama, Papua New Guinea
+ITM*RJOO*Osaka International Airport (Itami Int'l)*Osaka, Honshu, Japan
+ITN*SNHA*Itabuna Airport*Itabuna, Bahia, Brazil
+ITO*PHTO*Hilo International Airport*Hilo, Hawaii, United States
+ITP*SDUN*Itaperuna Airport*Itaperuna, Rio de Janeiro, Brazil
+ITQ*SSIQ*Itaqui Airport*Itaqui, Rio Grande do Sul, Brazil
+ITR*SBIT*Itumbiara Airport*Itumbiara, Goiás, Brazil
+ITU*UHSI*Iturup Airport*Kurilsk, Sakhalin Oblast, Russia
+IUE*NIUE*Niue International Airport (Hanan Int'l)*Alofi, Niue
+IUL**Ilu Airport*Ilu, Indonesia
+IUS**Inus Airport*Inus, Papua New Guinea
+IVA*FMNJ*Ambanja Airport*Ambanja, Madagascar
+IVC*NZNV*Invercargill Airport*Invercargill, New Zealand
+IVG*LYBR*Dolac Airport*Berane, Montenegro
+IVI**Viveros Island Airport*Viveros Island, Panama
+IVL*EFIV*Ivalo Airport*Ivalo, Finland
+IVO**Chibolo Airport*Chibolo, Colombia
+IVR*YIVL*Inverell Airport*Inverell, New South Wales, Australia
+IVW*YINW*Inverway Airport*Inverway, Northern Territory, Australia
+IWA*UUBI*Ivanovo Yuzhny Airport*Ivanovo, Ivanovo Oblast, Russia
+IWD*KIWD*Gogebic–Iron County Airport*Ironwood, Michigan, United States
+IWJ*RJOW*Iwami Airport (Hagi-Iwami Airport)*Masuda, Honshu, Japan
+IWK*RJOI*Marine Corps Air Station Iwakuni*Iwakuni, Honshu, Japan
+IWO*RJAW*Iwo Jima Air Base*Iwo Jima, Bonin Islands, Japan
+IWS*KIWS*West Houston Airport*Houston, Texas, United States
+IXA*VEAT*Agartala Airport (Singerbhil Airport)*Agartala, Tripura, India
+IXB*VEBD*Bagdogra Airport*Siliguri, West Bengal, India
+IXC*VICG*Chandigarh Airport*Chandigarh, India
+IXD*VIAL*Allahabad Airport (Bamrauli Air Force Base)*Allahabad, Uttar Pradesh, India
+IXE*VOML*Mangalore Airport*Mangalore, Karnataka, India
+IXG*VABM*Belgaum Airport*Belgaum, Karnataka, India
+IXH*VEKR*Kailashahar Airport*Kailashahar, Tripura, India
+IXI*VELR*Lilabari Airport*North Lakhimpur, Assam, India
+IXJ*VIJU*Jammu Airport (Satwari Airport)*Jammu, Jammu and Kashmir, India
+IXK*VAKS*Keshod Airport*Keshod, Gujarat, India
+IXL*VILH*Kushok Bakula Rimpochee Airport*Leh, Jammu and Kashmir, India
+IXM*VOMD*Madurai Airport*Madurai, Tamil Nadu, India
+IXN*VEKW*Khowai Airport*Khowai, Tripura, India
+IXP*VIPK*Pathankot Airport*Pathankot, Punjab, India
+IXQ*VEKM*Kamalpur Airport*Kamalpur, Tripura, India
+IXR*VERC*Birsa Munda Airport*Ranchi, Jharkhand, India
+IXS*VEKU*Silchar Airport (Kumbhirgram Air Force Base)*Silchar, Assam, India
+IXT*VEPG*Pasighat Airport*Pasighat, Arunachal Pradesh, India
+IXU*VAAU*Aurangabad Airport (Chikkalthana Airport)*Aurangabad, Maharashtra, India
+IXV*VEAN*Along Airport*Along (Aalo), Arunachal Pradesh, India
+IXW*VEJS*Sonari Airport*Jamshedpur, Jharkhand, India
+IXY*VAKE*Kandla Airport (Gandhidham Airport)*Kandla / Gandhidham, Gujarat, India
+IXZ*VOPB*Veer Savarkar International Airport (Port Blair Airport)*Port Blair, Andaman and Nicobar Islands, India
+IYK*KIYK*Inyokern Airport*Inyokern, California, United States
+IZA*SBZM*Presidente Itamar Franco Airport (Zona da Mata Regional Airport)*Juiz de Fora, Minas Gerais, Brazil
+IZO*RJOC*Izumo Airport*Izumo, Honshu, Japan
+IZT*MMIT*Ixtepec Airport*Ixtepec, Oaxaca, Mexico
