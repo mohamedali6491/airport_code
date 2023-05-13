@@ -1,0 +1,249 @@
+EAA*PAEG*Eagle Airport*Eagle, Alaska, United States
+EAB*ODAS*Abbs Airport*Abbs, Yemen
+EAE*NVSE*Siwo Airport*Emae Island, Shefa, Vanuatu
+EAL**Elenak Airport*Mejato Island, Kwajalein Atoll, Marshall Islands
+EAM*OENG*Najran Domestic Airport*Najran, Saudi Arabia
+EAN*KEAN*Phifer Airfield*Wheatland, Wyoming, United States
+EAP**metropolitan area2*Basel, Switzerland / Mulhouse, Alsace, France
+EAR*KEAR*Kearney Regional Airport*Kearney, Nebraska, United States
+EAS*LESO*San Sebastián Airport*San Sebastián, Basque Country, Spain
+EAT*KEAT*Pangborn Memorial Airport*Wenatchee, Washington, United States
+EAU*KEAU*Chippewa Valley Regional Airport*Eau Claire, Wisconsin, United States
+EBA*LIRJ*Marina di Campo Airport*Elba Island, Tuscany, Italy
+EBB*HUEN*Entebbe International Airport*Entebbe, Uganda
+EBD*HSOB*El Obeid Airport*El Obeid, Sudan
+EBG*SKEB*El Bagre Airport (El Tomin Airport)*El Bagre, Colombia
+EBH*DAOY*El Bayadh Airport*El Bayadh, Algeria
+EBJ*EKEB*Esbjerg Airport*Esbjerg, Denmark
+EBL*ORER*Erbil International Airport*Erbil, Iraq
+EBM*DTTR*El Borma Airport*El Borma, Tunisia
+EBN**Ebadon Airstrip*Ebadon Island, Kwajalein Atoll, Marshall Islands
+EBO**Ebon Airport*Ebon Atoll, Marshall Islands
+EBS*KEBS*Webster City Municipal Airport*Webster City, Iowa, United States
+EBU*LFMH*Saint-Étienne–Bouthéon Airport*Saint-Étienne, Rhône-Alpes, France
+EBW*FKKW*Ebolowa Airport*Ebolowa, Cameroon
+ECA**Iosco County Airport (FAA: 6D9)*East Tawas, Michigan, United States
+ECG*KECG*Elizabeth City Regional Airport*Elizabeth City, North Carolina, United States
+ECH*YECH*Echuca Airport*Echuca, Victoria, Australia
+ECI*MNLP*Costa Esmeralda Airport*Rivas, Nicaragua
+ECO**El Encanto Airport*El Encanto, Colombia
+ECP*KECP*Northwest Florida Beaches International Airport*Panama City, Florida, United States
+ECR*SKEH*El Charco Airport*El Charco, Colombia
+ECS*KECS*Mondell Field*Newcastle, Wyoming, United States
+EDA**Edna Bay Seaplane Base*Edna Bay, Alaska, United States
+EDB*HSDB*El Debba Airport*El Debba, Sudan
+EDD**Erldunda Airport*Erldunda, Northern Territory, Australia
+EDE*KEDE*Northeastern Regional Airport*Edenton, North Carolina, United States
+EDF*PAED*Elmendorf Air Force Base*Anchorage, Alaska, United States
+EDI*EGPH*Edinburgh Airport*Edinburgh, Scotland, United Kingdom
+EDK*KEQA*Captain Jack Thomas/El Dorado Airport (FAA: EQA)*El Dorado, Kansas, United States
+EDL*HKEL*Eldoret International Airport*Eldoret, Kenya
+EDM*LFRI*La Roche-sur-Yon Aerodrome*La Roche-sur-Yon, Pays de la Loire, France
+EDQ**Erandique Airport*Erandique, Honduras
+EDR*YPMP*Edward River Airport*Pormpuraaw, Queensland, Australia
+EDW*KEDW*Edwards Air Force Base*Edwards, California, United States
+EED*KEED*Needles Airport*Needles, California, United States
+EEK*PAEE*Eek Airport*Eek, Alaska, United States
+EEN*KEEN*Dillant–Hopkins Airport*Keene, New Hampshire, United States
+EFD*KEFD*Ellington Field*Houston, Texas, United States
+EFG*AYEF*Efogi Airport*Efogi, Papua New Guinea
+EFK*KEFK*Newport State Airport*Newport, Vermont, United States
+EFL*LGKF*Cephalonia International Airport*Cephalonia, Greece
+EFW*KEFW*Jefferson Municipal Airport*Jefferson, Iowa, United States
+EGA*AYEN*Engati Airport*Engati, Papua New Guinea
+EGC*LFBE*Bergerac Dordogne Périgord Airport*Bergerac, Aquitaine, France
+EGE*KEGE*Eagle County Regional Airport*Eagle / Vail, Colorado, United States
+EGI*KEGI*Duke Field (Eglin Auxiliary Field 3)*Crestview, Florida, United States
+EGL*HANG*Neghelle Airport*Neghelle, Ethiopia
+EGM*AGGS*Seghe Airport*Seghe, Western Province, Solomon Islands
+EGN*HSGN*Geneina Airport*Geneina, Sudan
+EGO*UUOB*Belgorod International Airport*Belgorod, Belgorod Oblast, Russia
+EGP**Maverick County Memorial International Airport*Eagle Pass, Texas, United States
+EGS*BIEG*Egilsstaðir Airport*Egilsstaðir, Iceland
+EGV*KEGV*Eagle River Union Airport*Eagle River, Wisconsin, United States
+EGX*PAII*Egegik Airport (FAA: EII)*Egegik, Alaska, United States
+EHL*SAVB*El Bolsón Airport*El Bolsón, Río Negro, Argentina
+EHM*PAEH*Cape Newenham LRRS Airport*Cape Newenham, Alaska, United States
+EIA**Popondetta Airport*Eia, Papua New Guinea
+EIB*EDGE*Eisenach-Kindel Airport*Eisenach, Thuringia, Germany
+EIE*UNII*Yeniseysk Airport*Yeniseysk, Krasnoyarsk Krai, Russia
+EIH**Einasleigh Airport*Einasleigh, Queensland, Australia
+EIK**Yeysk Airport*Yeysk, Krasnodar Krai, Russia
+EIL*PAEI*Eielson Air Force Base*Fairbanks, Alaska, United States
+EIN*EHEH*Eindhoven Airport*Eindhoven, Netherlands
+EIS*TUPJ*Terrance B. Lettsome International Airport*Tortola, British Overseas Territory of Virgin Islands
+EIY*LLEY*Ein Yahav Airfield*Ein Yahav, Israel
+EJA*SKEJ*Yariguíes Airport*Barrancabermeja, Colombia
+EJH*OEWJ*Al Wajh Domestic Airport*Al Wajh, Saudi Arabia
+EJN**Ejin Banner Taolai Airport*Ejin Banner, Inner Mongolia, China
+EJT**Enejit Airport*Enejit, Mili Atoll, Marshall Islands
+EKA*KEKA*Murray Field*Eureka, California, United States
+EKB*UASB*Ekibastuz Airport*Ekibastuz, Kazakhstan
+EKD**Elkedra Airport*Elkedra, Northern Territory, Australia
+EKE**Ekereku Airport*Ekereku, Guyana
+EKI*KEKM*Elkhart Municipal Airport (FAA: EKM)*Elkhart, Indiana, United States
+EKN*KEKN*Elkins-Randolph County Airport*Elkins, West Virginia, United States
+EKO*KEKO*Elko Regional Airport*Elko, Nevada, United States
+EKS*UHSK*Shakhtyorsk Airport*Shakhtyorsk, Sakhalin Oblast, Russia
+EKT*ESSU*Eskilstuna Airport*Eskilstuna, Sweden
+EKX*KEKX*Elizabethtown Regional Airport (Addington Field)*Elizabethtown, Kentucky, United States
+ELA*KELA*Eagle Lake Airport*Eagle Lake, Texas, United States
+ELB*SKBC*Las Flores Airport*El Banco, Colombia
+ELC*YELD*Elcho Island Airport*Elcho Island, Northern Territory, Australia
+ELD*KELD*South Arkansas Regional Airport at Goodwin Field*El Dorado, Arkansas, United States
+ELE**El Real Airport*El Real, Panama
+ELF*HSFS*El Fasher Airport*El Fasher, Sudan
+ELG*DAUE*El Golea Airport*El Goléa, Algeria
+ELH*MYEH*North Eleuthera Airport*North Eleuthera, Eleuthera Island, Bahamas
+ELI*PFEL*Elim Airport*Elim, Alaska, United States
+ELJ*SVWX*El Recreo Airport*El Recreo, Colombia
+ELK*KELK*Elk City Regional Business Airport*Elk City, Oklahoma, United States
+ELL*FAER*Ellisras Airport*Ellisras, South Africa
+ELM*KELM*Elmira/Corning Regional Airport*Elmira / Corning, New York, United States
+ELN*KELN*Bowers Field*Ellensburg, Washington, United States
+ELO*SATD*Eldorado Airport*Eldorado, Misiones, Argentina
+ELP*KELP*El Paso International Airport*El Paso, Texas, United States
+ELQ*OEGS*Prince Nayef bin Abdulaziz Regional Airport*Buraidah, Saudi Arabia
+ELR**Elelim Airport*Elelim, Indonesia
+ELS*FAEL*East London Airport*East London, South Africa
+ELT*HETR*El Tor Airport*El Tor, Egypt
+ELU*DAUO*Guemar Airport*El Oued, Algeria
+ELV*PAEL*Elfin Cove Seaplane Base*Elfin Cove, Alaska, United States
+ELW**Ellamar Seaplane Base (FAA: 1Z9)*Ellamar, Alaska, United States
+ELX**El Tigre Airport*El Tigre, Venezuela
+ELY*KELY*Ely Airport*Ely, Nevada, United States
+ELZ*KELZ*Wellsville Municipal Airport (Tarantine Field)*Wellsville, New York, United States
+EMA*EGNX*East Midlands Airport*Nottingham / Leicester / Derby, England, United Kingdom
+EMD*YEML*Emerald Airport*Emerald, Queensland, Australia
+EME*EDWE*Emden Airport*Emden, Lower Saxony, Germany
+EMG*FAEM*Empangeni Airport*Empangeni, South Africa
+EMI*AYEE*Emirau Airport*Emirau Island, Papua New Guinea
+EMK*PAEM*Emmonak Airport (FAA: ENM)*Emmonak, Alaska, United States
+EML*LSME*Emmen Air Base*Emmen, Switzerland
+EMM*KEMM*Kemmerer Municipal Airport*Kemmerer, Wyoming, United States
+EMN*GQNI*Néma Airport*Néma, Mauritania
+EMO*AYEO*Emo Airport*Emo, Papua New Guinea
+EMP*KEMP*Emporia Municipal Airport*Emporia, Kansas, United States
+EMS*AYEB*Embessa Airport*Embessa, Papua New Guinea
+EMT*KEMT*San Gabriel Valley Airport*El Monte, California, United States
+EMX*SAVD*El Maitén Airport*El Maitén, Chubut, Argentina
+EMY*HEMN*El Minya Airport*El Minya, Egypt
+ENA*PAEN*Kenai Municipal Airport*Kenai, Alaska, United States
+ENB*YEEB*Eneabba Airport*Eneabba, Western Australia, Australia
+ENC*LFSN*Nancy-Essey Airport*Nancy, Lorraine, France
+END*KEND*Vance Air Force Base*Enid, Oklahoma, United States
+ENE*WATE*H. Hasan Aroeboesman Airport*Ende, Indonesia
+ENF*EFET*Enontekiö Airport*Enontekiö, Finland
+ENH*ZHES*Enshi Xujiaping Airport*Enshi, Hubei, China
+ENI*RPEN*El Nido Airport*El Nido, Philippines
+ENJ**El Naranjo Airport*El Naranjo, Guatemala
+ENK*EGAB*Enniskillen/St Angelo Airport*Enniskillen, Northern Ireland, United Kingdom
+ENL*KENL*Centralia Municipal Airport*Centralia, Illinois, United States
+ENN*PANN*Nenana Municipal Airport*Nenana, Alaska, United States
+ENO*SGEN*Teniente Amin Ayub Gonzalez Airport*Encarnacion, Paraguay
+ENS*EHTW*Enschede Airport Twente*Enschede, Netherlands
+ENT*PKMA*Enewetak Auxiliary Airfield*Enewetak, Marshall Islands
+ENU*DNEN*Akanu Ibiam International Airport*Enugu, Nigeria
+ENV*KENV*Wendover Airport*Wendover, Utah, United States
+ENW*KENW*Kenosha Regional Airport*Kenosha, Wisconsin, United States
+ENY*ZLYA*Yan'an Ershilipu Airport*Yan'an, Shaanxi, China
+EOH*SKMD*Olaya Herrera Airport*Medellín, Colombia
+EOI*EGED*Eday Airport*Eday, Scotland, United Kingdom
+EOK*KEOK*Keokuk Municipal Airport*Keokuk, Iowa, United States
+EOR*SVED*El Dorado Airport*El Dorado, Venezuela
+EOS*KEOS*Neosho Hugh Robinson Airport*Neosho, Missouri, United States
+EOZ*SVEZ*Elorza Airport*Elorza, Venezuela
+EPA*SADP*El Palomar Airport*El Palomar, Buenos Aires, Argentina
+EPG**Browns Airport (FAA: NE69)*Weeping Water, Nebraska, United States
+EPH*KEPH*Ephrata Municipal Airport*Ephrata, Washington, United States
+EPL*LFSG*Épinal – Mirecourt Airport*Épinal / Mirecourt, Lorraine, France
+EPN**Epéna Airport*Epéna, Republic of the Congo
+EPR*YESP*Esperance Airport*Esperance, Western Australia, Australia
+EPS*MDAB*Arroyo Barril Airport*Samaná, Dominican Republic
+EPT*AYEL*Eliptamin Airport*Eliptamin, Papua New Guinea
+EPU*EEPU*Pärnu Airport*Pärnu, Estonia
+EQS*SAVE*Esquel Airport*Esquel, Chubut, Argentina
+ERA*HCMU*Erigavo Airport*Erigavo, Somalia
+ERB*YERN*Pukatja Airport (Ernabella Airport)*Pukatja, South Australia, Australia
+ERC*LTCD*Erzincan Airport*Erzincan, Turkey
+ERD*UKDB*Berdiansk Airport*Berdiansk, Ukraine
+ERE*AYEV*Erave Airport*Erave, Papua New Guinea
+ERF*EDDE*Erfurt–Weimar Airport*Erfurt, Thuringia, Germany
+ERG*UIKE*Erbogachen Airport*Yerbogachen, Irkutsk Oblast, Russia
+ERH*GMFK*Moulay Ali Cherif Airport*Errachidia, Morocco
+ERI*KERI*Erie International Airport (Tom Ridge Field)*Erie, Pennsylvania, United States
+ERL*ZBER*Erenhot Saiwusu International Airport*Erenhot, Inner Mongolia, China
+ERM*SSER*Erechim Airport*Erechim, Rio Grande do Sul, Brazil
+ERN*SWEI*Eirunepé Airport (Amaury Feitosa Tomaz Airport)*Eirunepé, Amazonas, Brazil
+ERQ*YESE*Elrose Airport*Eloise Copper Mine, Queensland, Australia
+ERR*KERR*Errol Airport*Errol, New Hampshire, United States
+ERS*FYWE*Eros Airport*Windhoek, Namibia
+ERT**Erdenet Airport*Erdenet, Mongolia
+ERU*AYER*Erume Airport*Erume, Papua New Guinea
+ERV*KERV*Kerrville Municipal Airport (Louis Schreiner Field)*Kerrville, Texas, United States
+ERZ*LTCE*Erzurum Airport*Erzurum, Turkey
+ESA**Esa'ala Airport*Esa'ala, Papua New Guinea
+ESC*KESC*Delta County Airport*Escanaba, Michigan, United States
+ESD*KORS*Orcas Island Airport (FAA: ORS)*Eastsound, Washington, United States
+ESE*MMES*Ensenada Airport*Ensenada, Baja California, Mexico
+ESF*KESF*Esler Airfield (Esler Regional Airport)*Alexandria, Louisiana, United States
+ESG*SGME*Dr. Luis María Argaña International Airport*Mariscal Estigarribia, Paraguay
+ESH*EGKA*Shoreham Airport (Brighton City Airport)*Shoreham-by-Sea, England, United Kingdom
+ESI*SBEP*Espinosa Airport*Espinosa, Minas Gerais, Brazil
+ESL*URWI*Elista Airport*Elista, Kalmykia, Russia
+ESM*SETN*Carlos Concha Torres International Airport*Esmeraldas, Ecuador
+ESN*KESN*Easton Airport (Newnam Field)*Easton, Maryland, United States
+ESO**Ohkay Owingeh Airport (FAA: E14)*Española, New Mexico, United States
+ESP**Stroudsburg–Pocono Airport (FAA: N53)*East Stroudsburg, Pennsylvania, United States
+ESR*SCES*Ricardo García Posada Airport*El Salvador, Chile
+ESS*EDLE*Essen/Mülheim Airport*Essen, North Rhine-Westphalia, Germany
+EST*KEST*Estherville Municipal Airport*Estherville, Iowa, United States
+ESU*GMMI*Essaouira-Mogador Airport*Essaouira, Morocco
+ESW*KESW*Easton State Airport*Easton, Washington, United States
+ETB*KETB*West Bend Municipal Airport*West Bend, Wisconsin, United States
+ETD*YEDA*Etadunna Airport*Etadunna, South Australia, Australia
+ETE*HAMM*Genda Wuha Airport*Metemma, Ethiopia
+ETH*LLET*J. Hozman Airport*Eilat, Israel
+ETM*LLER*Ramon Airport*Eilat, Israel,
+ETN*KETN*Eastland Municipal Airport*Eastland, Texas, United States
+ETR*SERO*Santa Rosa International Airport*Santa Rosa, Ecuador
+ETS*KEDN*Enterprise Municipal Airport (FAA: EDN)*Enterprise, Alabama, United States
+ETZ*LFJL*Metz–Nancy–Lorraine Airport*Metz / Nancy, Lorraine, France
+EUA*NFTE*Eua Airport (Kaufana Airport)*Eua, Tonga
+EUC*YECL*Eucla Airport*Eucla, Western Australia, Australia
+EUE**Eureka Airport (FAA: 05U)*Eureka, Nevada, United States
+EUF*KEUF*Weedon Field*Eufaula, Alabama, United States
+EUG*KEUG*Eugene Airport (Mahlon Sweet Airport)*Eugene, Oregon, United States
+EUM*EDHN*Neumünster Airport*Neumünster, Schleswig-Holstein, Germany
+EUN*GMML*Hassan I Airport*Laayoune, Morocco
+EUO**Paratebueno Airport*Paratebueno, Colombia
+EUQ*RPVS*Evelio Javier Airport (Antique Airport)*San Jose de Buenavista, Philippines
+EUX*TNCE*F. D. Roosevelt Airport*Oranjestad, Sint Eustatius, Caribbean Netherlands
+EVA**Ben Bruce Memorial Airpark (FAA: 4TE8)*Evadale, Texas, United States
+EVD**Eva Downs Airport*Eva Downs, Northern Territory, Australia
+EVE*ENEV*Harstad/Narvik Airport, Evenes*Harstad / Narvik, Norway
+EVG*ESND*Sveg Airport*Sveg, Sweden
+EVH*YEVD*Evans Head Memorial Aerodrome*Evans Head, New South Wales, Australia
+EVM*KEVM*Eveleth-Virginia Municipal Airport*Eveleth, Minnesota, United States
+EVN*UDYZ*Zvartnots International Airport*Yerevan, Armenia
+EVV*KEVV*Evansville Regional Airport*Evansville, Indiana, United States
+EVW*KEVW*Evanston-Uinta County Burns Field*Evanston, Wyoming, United States
+EVX*LFOE*Évreux-Fauville Air Base*Évreux, Upper Normandy, France
+EWB*KEWB*New Bedford Regional Airport*New Bedford / Fall River, Massachusetts, United States
+EWE**Ewer Airport*Ewer, Indonesia
+EWI*WABT*Enarotali Airport*Enarotali, Indonesia
+EWK*KEWK*Newton City/County Airport*Newton, Kansas, United States
+EWN*KEWN*Coastal Carolina Regional Airport*New Bern, North Carolina, United States
+EWO*FCOE*Ewo Airport*Ewo, Republic of the Congo
+EWR*KEWR*Newark Liberty International Airport*Newark, New Jersey, United States
+EXI**Excursion Inlet Seaplane Base*Excursion Inlet, Alaska, United States
+EXM*YEXM*Exmouth Airport*Exmouth, Western Australia, Australia
+EXT*EGTE*Exeter International Airport*Exeter, England, United Kingdom
+EYK*USHQ*Beloyarsk Airport*Beloyarsky, Khanty-Mansi Autonomous Okrug, Russia
+EYL*GAYE*Yélimané Airport*Yélimané, Mali
+EYP*SKYP*El Alcaraván Airport*Yopal, Colombia
+EYR**Yerington Municipal Airport (FAA: O43)*Yerington, Nevada, United States
+EYS*HKES*Eliye Springs Airport*Eliye Springs, Kenya
+EYW*KEYW*Key West International Airport*Key West, Florida, United States
+EZE*SAEZ*Ministro Pistarini International Airport*Buenos Aires, Argentina
+EZV**Beryozovo Airport*Beryozovo, Khanty-Mansi Autonomous Okrug, Russia

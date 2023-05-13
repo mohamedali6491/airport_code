@@ -1,0 +1,458 @@
+LAA*KLAA*Lamar Municipal Airport*Lamar, Colorado, United States
+LAB**Lab Lab Airport*Lab Lab, Papua New Guinea
+LAC**Layang-Layang Airport (Swallow Reef Airport)*Layang-Layang Island, Sabah, Malaysia
+LAD*FNLU*Quatro de Fevereiro Airport*Luanda, Angola
+LAE*AYNZ*Lae Nadzab Airport*Lae, Papua New Guinea
+LAF*KLAF*Purdue University Airport*Lafayette, Indiana, United States
+LAH*WAPH*Oesman Sadik Airport*Labuha, Indonesia
+LAI*LFRO*Lannion – Côte de Granit Airport*Lannion, Brittany, France
+LAJ*SBLJ*Antônio Correia Pinto de Macedo Airport*Lages, Santa Catarina, Brazil
+LAK*CYKD*Aklavik/Freddie Carmichael Airport*Aklavik, Northwest Territories, Canada
+LAL*KLAL*Lakeland Linder International Airport*Lakeland, Florida, United States
+LAM*KLAM*Los Alamos County Airport*Los Alamos, New Mexico, United States
+LAN*KLAN*Capital Region International Airport*Lansing, Michigan, United States
+LAO*RPLI*Laoag International Airport*Laoag, Philippines
+LAP*MMLP*Manuel Márquez de León International Airport*La Paz, Baja California Sur, Mexico
+LAQ*HLLQ*Al Abraq International Airport*Bayda, Libya
+LAR*KLAR*Laramie Regional Airport*Laramie, Wyoming, United States
+LAS*KLAS*McCarran International Airport*Las Vegas, Nevada, United States
+LAU*HKLU*Manda Airport*Lamu, Kenya
+LAW*KLAW*Lawton–Fort Sill Regional Airport*Lawton, Oklahoma, United States
+LAX*KLAX*Los Angeles International Airport*Los Angeles, California, United States
+LAY*FALY*Ladysmith Airport*Ladysmith, South Africa
+LAZ*SBLP*Bom Jesus da Lapa Airport*Bom Jesus da Lapa, Bahia, Brazil
+LBA*EGNM*Leeds Bradford Airport*Leeds / Bradford, England, United Kingdom
+LBB*KLBB*Lubbock Preston Smith International Airport*Lubbock, Texas, United States
+LBC*EDHL*Lübeck Airport*Lübeck, Schleswig-Holstein, Germany
+LBD*UTDL*Khujand Airport*Khujand, Tajikistan
+LBE*KLBE*Arnold Palmer Regional Airport*Latrobe, Pennsylvania, United States
+LBF*KLBF*North Platte Regional Airport (Lee Bird Field)*North Platte, Nebraska, United States
+LBG*LFPB*Paris–Le Bourget Airport*Paris, Île-de-France, France
+LBH**Palm Beach Water Airport*Palm Beach, New South Wales, Australia
+LBI*LFCI*Le Sequestre Airport*Albi, Midi-Pyrénées, France
+LBJ*WATO*Komodo Airport*Labuan Bajo, Indonesia
+LBK**Liboi Airport*Liboi, Kenya
+LBL*KLBL*Liberal Mid-America Regional Airport*Liberal, Kansas, United States
+LBM**Luabo Airport*Luabo, Mozambique
+LBN**Lake Baringo Airport*Lake Baringo, Kenya
+LBO*FZVI*Lusambo Airport*Lusambo, Democratic Republic of the Congo
+LBP**Long Banga Airport*Long Banga, Sarawak, Malaysia
+LBQ*FOGR*Lambaréné Airport*Lambaréné, Gabon
+LBR*SWLB*Lábrea Airport*Lábrea, Amazonas, Brazil
+LBS*NFNL*Labasa Airport*Labasa, Fiji
+LBT*KLBT*Lumberton Municipal Airport*Lumberton, North Carolina, United States
+LBU*WBKL*Labuan Airport*Labuan, Malaysia
+LBV*FOOL*Libreville International Airport*Libreville, Gabon
+LBW*WRLB*Juvai Semaring Airport (Long Bawan Airport)*Long Bawan, Indonesia
+LBX*RPLU*Lubang Airport*Lubang, Philippines
+LBY*LFRE*La Baule-Escoublac Airport*La Baule-Escoublac, Pays de la Loire, France
+LBZ*FNLK*Lucapa Airport*Lucapa, Angola
+LCA*LCLK*Larnaca International Airport*Larnaca, Cyprus
+LCB**Pontes e Lacerda Airport*Pontes e Lacerda, Mato Grosso, Brazil
+LCC*LIBN*Galatina Air Base*Lecce, Apulia, Italy
+LCD*FALO*Louis Trichardt Airport*Louis Trichardt, South Africa
+LCE*MHLC*Golosón International Airport*La Ceiba, Honduras
+LCF*MGRD*Río Dulce Airport (Las Vegas Airport)*Río Dulce, Guatemala
+LCG*LECO*A Coruña Airport*A Coruña, Galicia, Spain
+LCH*KLCH*Lake Charles Regional Airport*Lake Charles, Louisiana, United States
+LCI*KLCI*Laconia Municipal Airport*Laconia, New Hampshire, United States
+LCK*KLCK*Rickenbacker International Airport*Columbus, Ohio, United States
+LCL*MULM*La Coloma Airport*Pinar del Río, Cuba
+LCM*SACC*La Cumbre Airport*La Cumbre, Córdoba, Argentina
+LCN*YBLC*Balcanoona Airport*Balcanoona, South Australia, Australia
+LCO*FCBL*Lague Airport*Lague, Republic of the Congo
+LCP**Loncopué Airport*Loncopué, Neuquén, Argentina
+LCQ*KLCQ*Lake City Gateway Airport*Lake City, Florida, United States
+LCR**La Chorrera Airport*La Chorrera, Colombia
+LCV*LIQL*Lucca-Tassignano Airport*Lucca, Tuscany, Italy
+LCX*ZSLO*Longyan Guanzhishan Airport*Longyan, Fujian, China
+LCY*EGLC*London City Airport*London, England, United Kingdom
+LDA*VEMH*Malda Airport*Malda, West Bengal, India
+LDB*SBLO*Londrina–Governador José Richa Airport*Londrina, Paraná, Brazil
+LDC*YLIN*Lindeman Island Airport*Lindeman Island, Queensland, Australia
+LDE*LFBT*Tarbes–Lourdes–Pyrénées Airport*Tarbes / Lourdes, Midi-Pyrénées, France
+LDG*ULAL*Leshukonskoye Airport*Leshukonskoye, Arkhangelsk Oblast, Russia
+LDH*YLHI*Lord Howe Island Airport*Lord Howe Island, New South Wales, Australia
+LDI*HTLI*Lindi Airport (Kikwetu Airport)*Lindi, Tanzania
+LDJ*KLDJ*Linden Airport*Linden, New Jersey, United States
+LDK*ESGL*Lidköping-Hovby Airport*Lidköping, Sweden
+LDM*KLDM*Mason County Airport*Ludington, Michigan, United States
+LDN*VNLD*Lamidanda Airport*Lamidanda, Nepal
+LDO*SMDO*Laduani Airstrip*Aurora, Suriname
+LDR**Lawdar Airport*Lawdar, Yemen
+LDS*ZYLD*Yichun Lindu Airport[2]*Yichun, Heilongjiang, China
+LDU*WBKD*Lahad Datu Airport*Lahad Datu, Sabah, Malaysia
+LDV*LFRJ*Landivisiau Air Base*Landivisiau, Brittany, France
+LDW**Lansdowne Airport*Lansdowne, Western Australia, Australia
+LDX*SOOM*Saint-Laurent-du-Maroni Airport*Saint-Laurent-du-Maroni, French Guiana
+LDY*EGAE*City of Derry Airport*Derry (Londonderry), Northern Ireland, United Kingdom
+LDZ*FALD*Londolozi Airport*Londolozi, South Africa
+LEA*YPLM*RAAF Learmonth (Learmonth Airport)*Exmouth, Western Australia, Australia
+LEB*KLEB*Lebanon Municipal Airport*Lebanon / Hanover, New Hampshire, United States
+LEC*SBLE*Coronel Horácio de Mattos Airport*Lençóis, Bahia, Brazil
+LED*ULLI*Pulkovo Airport*Saint Petersburg, Russia
+LEE*KLEE*Leesburg International Airport*Leesburg, Florida, United States
+LEF*FXLK*Lebakeng Airport*Lebakeng, Lesotho
+LEG**Aleg Airport*Aleg, Mauritania
+LEH*LFOH*Le Havre – Octeville Airport*Le Havre, Upper Normandy, France
+LEI*LEAM*Almería Airport*Almería, Andalusia, Spain
+LEJ*EDDP*Leipzig/Halle Airport*Leipzig, Saxony / Halle, Saxony-Anhalt,2 Germany
+LEK*GULB*Tata Airport*Labé, Guinea
+LEL*YLEV*Lake Evella Airport*Gapuwiyak, Northern Territory, Australia
+LEM*KLEM*Lemmon Municipal Airport*Lemmon, South Dakota, United States
+LEN*LELN*León Airport*León, Castile and León, Spain
+LEO**Lékoni Airport*Lékoni, Gabon
+LEP*SNDN*Leopoldina Airport*Leopoldina, Minas Gerais, Brazil
+LEQ*EGHC*Land's End Airport*St Just, England, United Kingdom
+LER*YLST*Leinster Airport*Leinster, Western Australia, Australia
+LES*FXLS*Lesobeng Airport*Lesobeng, Lesotho
+LET*SKLT*Alfredo Vásquez Cobo International Airport*Leticia, Colombia
+LEU*LESU*La Seu d'Urgell Airport*La Seu d'Urgell, Catalonia, Spain
+LEV*NFNB*Levuka Airfield (Bureta Airport)*Levuka, Ovalau Island, Fiji
+LEW*KLEW*Auburn/Lewiston Municipal Airport*Auburn / Lewiston, Maine, United States
+LEX*KLEX*Blue Grass Airport*Lexington, Kentucky, United States
+LEY*EHLE*Lelystad Airport*Lelystad, Netherlands
+LEZ*MHLE*La Esperanza Airport*La Esperanza, Honduras
+LFB*FQLU*Lumbo Airport[2]*Lumbo, Mozambique
+LFI*KLFI*Langley Air Force Base[2]*Hampton, Virginia, United States
+LFK*KLFK*Angelina County Airport*Lufkin, Texas, United States
+LFM*OISR*Lamerd Airport[2]*Lamerd, Iran
+LFN*KLHZ*Triangle North Executive Airport (Franklin County Airport) (FAA: LHZ)*Louisburg, North Carolina, United States
+LFO*HAKL*Kelafo Airport*Kelafo, Ethiopia
+LFP*YLFD*Lakefield Airport*Lakefield, Queensland, Australia
+LFQ**Linfen Qiaoli Airport[2]*Linfen, Shanxi, China
+LFR*SVLF*La Fría Airport*La Fría, Venezuela
+LFT*KLFT*Lafayette Regional Airport*Lafayette, Louisiana, United States
+LFW*DXXX*Lomé–Tokoin Airport (Gnassingbé Eyadéma Int'l)*Lomé, Togo
+LGA*KLGA*LaGuardia Airport*New York City, New York, United States
+LGB*KLGB*Long Beach Airport*Long Beach, California, United States
+LGC*KLGC*LaGrange Callaway Airport*LaGrange, Georgia, United States
+LGD*KLGD*La Grande/Union County Airport*La Grande, Oregon, United States
+LGE**Lake Gregory Airport*Lake Gregory, Western Australia, Australia
+LGF*KLGF*Laguna Army Airfield*Yuma Proving Ground, Arizona, United States
+LGG*EBLG*Liège Airport*Liège, Belgium
+LGH*YLEC*Leigh Creek Airport*Leigh Creek, South Australia, Australia
+LGI*MYLD*Deadman's Cay Airport*Deadman's Cay, Long Island, Bahamas
+LGK*WMKL*Langkawi International Airport*Langkawi, Kedah, Malaysia
+LGL*WBGF*Long Lellang Airport*Long Lellang, Sarawak, Malaysia
+LGM**Laiagam Airport*Laiagam, Papua New Guinea
+LGN**Linga Linga Airport*Linga Linga, Papua New Guinea
+LGO*EDWL*Langeoog Airport*Langeoog, Lower Saxony, Germany
+LGP*RPLP*Legazpi International Airport*Legazpi, Philippines
+LGQ*SENL*Lago Agrio Airport*Nueva Loja (Lago Agrio), Ecuador
+LGR*SCHR*Cochrane Airfield*Cochrane, Chile
+LGS*SAMM*Comodoro D. Ricardo Salomón Airport*Malargüe, Mendoza, Argentina
+LGT*SKGA*Las Gaviotas Airport*Gaviotas, Colombia
+LGU*KLGU*Logan-Cache Airport*Logan, Utah, United States
+LGW*EGKK*Gatwick Airport*London, England, United Kingdom
+LGX*HCMJ*Lugh Ganane Airport*Lugh Ganane (Luuq), Somalia
+LGY**Lagunillas Airport*Lagunillas, Venezuela
+LHA*EDTL*Flughafen Lahr (Lahr Airport)*Lahr, Baden-Württemberg, Germany
+LHB*EG74*Bruntingthorpe Aerodrome (Leicester Harboro'/Harbour Airport)*Greater Leicester, England, United Kingdom
+LHE*OPLA*Allama Iqbal International Airport*Lahore, Pakistan
+LHG*YLRD*Lightning Ridge Airport*Lightning Ridge, New South Wales, Australia
+LHI*WAJL*Lereh Airport*Lereh, Indonesia
+LHK*ZHGH*Laohekou Airport*Laohekou, Hubei, China
+LHP**Lehu Airport*Lehu, Papua New Guinea
+LHR*EGLL*Heathrow Airport*London, England, United Kingdom
+LHS*SAVH*Las Heras Airport*Las Heras, Santa Cruz, Argentina
+LHU*FYLS*Lianshulu Airport*Lianshulu, Namibia
+LHV*KLHV*William T. Piper Memorial Airport*Lock Haven, Pennsylvania, United States
+LHW*ZLLL*Lanzhou Zhongchuan International Airport*Lanzhou, Gansu, China
+LIA*ZULP*Liangping Airport*Liangping, Chongqing, China
+LIB**Limbunya Airport*Limbunya Station, Northern Territory, Australia
+LIC*KLIC*Limon Municipal Airport*Limon, Colorado, United States
+LIE*FZFA*Libenge Airport*Libenge, Democratic Republic of the Congo
+LIF*NWWL*Ouanaham Airport*Lifou, Loyalty Islands, New Caledonia
+LIG*LFBL*Limoges – Bellegarde Airport*Limoges, Limousin, France
+LIH*PHLI*Lihue Airport*Lihue, Hawaii, United States
+LII*WAJM*Mulia Airport*Mulia, Indonesia
+LIK**Likiep Airport*Likiep Atoll, Marshall Islands
+LIL*LFQQ*Lille Airport (Lille–Lesquin Airport)*Lille, Nord-Pas-de-Calais, France
+LIM*SPIM*Jorge Chávez International Airport*Lima, Peru
+LIN*LIML*Linate Airport*Milan, Lombardy, Italy
+LIO*MRLM*Limón International Airport*Limón, Costa Rica
+LIP*SBLN*Lins Airport*Lins, São Paulo, Brazil
+LIQ*FZGA*Lisala Airport*Lisala, Democratic Republic of the Congo
+LIR*MRLB*Daniel Oduber Quirós International Airport*Liberia, Costa Rica
+LIS*LPPT*Lisbon Portela Airport*Lisbon, Portugal
+LIT*KLIT*Clinton National Airport (Adams Field)*Little Rock, Arkansas, United States
+LIV**Livengood Camp Airport (FAA: 4AK)*Livengood, Alaska, United States
+LIW*VYLK*Loikaw Airport*Loikaw, Myanmar
+LIX*FWLK*Likoma Airport*Likoma Island, Malawi
+LIY*KLHW*MidCoast Regional Airport at Wright Army Airfield (FAA: LHW)*Fort Stewart / Hinesville, Georgia, United States
+LIZ**Loring International Airport (FAA: ME16)*Limestone, Maine, United States
+LJA*FZVA*Lodja Airport*Lodja, Democratic Republic of the Congo
+LJG*ZPLJ*Lijiang Sanyi Airport*Lijiang, Yunnan, China
+LJN*KLBX*Texas Gulf Coast Regional Airport (FAA: LBX)*Angleton / Lake Jackson, Texas, United States
+LKA*WATL*Gewayantana Airport*Larantuka, Indonesia
+LKB*NFNK*Lakeba Airport*Lakeba Island, Fiji
+LKC**Lekana Airport*Lekana, Republic of the Congo
+LKD*YLND*Lakeland Downs Airport*Lakeland Downs, Queensland, Australia
+LKE**Kenmore Air Harbor Seaplane Base (Seattle Lake Union SPB) (FAA: W55)*Seattle, Washington, United States
+LKG*HKLK*Lokichogio Airport*Lokichogio, Kenya
+LKH*WBGL*Long Akah Airport[2]*Long Akah, Sarawak, Malaysia
+LKK*PAKL*Kulik Lake Airport*Kulik Lake, Alaska, United States
+LKL*ENNA*Lakselv Airport, Banak*Lakselv, Norway
+LKN*ENLK*Leknes Airport*Leknes, Norway
+LKO*VILK*Chaudhary Charan Singh International Airport*Lucknow, Uttar Pradesh, India
+LKP*KLKP*Lake Placid Airport*Lake Placid, New York, United States
+LKR**Las Khorey Airport*Las Khorey (Laasqoray), Somalia
+LKU**Lake Turkana Airport*Lake Turkana, Kenya
+LKV*KLKV*Lake County Airport*Lakeview, Oregon, United States
+LKW*OOLK*Lekhwair Airport[2]*Lekhwair, Oman
+LKY*HTLM*Lake Manyara Airport*Lake Manyara, Tanzania
+LKZ*EGUL*RAF Lakenheath*Brandon, England, United Kingdom
+LLA*ESPA*Luleå Airport (Kallax Airport)*Luleå, Sweden
+LLB*ZULB*Libo Airport (Qiannan Airport)*Libo, Guizhou, China
+LLC*RPLH*Cagayan North International Airport (Lal-lo Airport)*Lal-lo, Philippines
+LLE*FAMN*Malelane Airport*Malalane, South Africa
+LLF*ZGLG*Yongzhou Lingling Airport*Yongzhou, Hunan, China
+LLG*YCGO*Chillagoe Airport*Chillagoe, Queensland, Australia
+LLH**Las Limas Airport*Las Limas, Honduras
+LLI*HALL*Lalibela Airport*Lalibela, Ethiopia
+LLK*UBBL*Lankaran International Airport*Lankaran, Azerbaijan
+LLL**Lissadell Airport*Lissadell, Western Australia, Australia
+LLN*WAJV*Kelila Airport*Kelila, Indonesia
+LLO**Palopo Lagaligo Airport*Palopo, Indonesia
+LLP**Linda Downs Airport*Linda Downs, Queensland, Australia
+LLS*SATK*Alférez Armando Rodríguez Airport*Las Lomitas, Formosa, Argentina
+LLT*FNLB*Lobito Airport[2]*Lobito, Angola
+LLV*ZBLL*Lüliang Airport*Lüliang, Shanxi, China
+LLW*FWKI*Lilongwe International Airport (Kamuzu Int'l)*Lilongwe, Malawi
+LLX*KCDA*Caledonia County Airport (FAA: CDA)*Lyndonville, Vermont, United States
+LLY*KVAY*South Jersey Regional Airport (FAA: VAY)*Mount Holly, New Jersey, United States
+LMA*PAMH*Lake Minchumina Airport (FAA: MHM)*Lake Minchumina, Alaska, United States
+LMB*FWSM*Salima Airport*Salima, Malawi
+LMC*SKNA*La Macarena Airport*La Macarena, Colombia
+LMD**Los Menucos Airport*Los Menucos, Río Negro, Argentina
+LME*LFRM*Le Mans Arnage Airport*Le Mans, Pays de la Loire, France
+LMG**Lamassa Airport*Lamassa, Papua New Guinea
+LMH**Limón Airport*Limón, Honduras
+LMI**Lumi Airport*Lumi, Papua New Guinea
+LML**Lae Airport*Lae Atoll, Marshall Islands
+LMM*MMLM*Fort Valley Federal International Airport*Los Mochis, Sinaloa, Mexico
+LMN*WBGJ*Limbang Airport*Limbang, Sarawak, Malaysia
+LMO*EGQS*RAF Lossiemouth*Lossiemouth, Scotland, United Kingdom
+LMP*LICD*Lampedusa Airport*Lampedusa, Sicily, Italy
+LMQ*HLMB*Marsa Brega Airport*Brega, Libya
+LMR*FALC*Finsch Mine Airport*Lime Acres, South Africa
+LMS*KLMS*Louisville Winston County Airport*Louisville, Mississippi, United States
+LMT*KLMT*Klamath Falls Airport*Klamath Falls, Oregon, United States
+LMX**Lopéz de Micay Airport*El Trapiche, Colombia
+LMY**Lake Murray Airport*Lake Murray, Papua New Guinea
+LMZ**Palma Airport*Palma, Mozambique
+LNA*KLNA*Palm Beach County Park Airport*West Palm Beach, Florida, United States
+LNB*NVSM*Lamen Bay Airport*Lamen Bay, Epi Island, Shefa Province, Vanuatu
+LNC**Lengbati Airport*Lengbati, Papua New Guinea
+LND*KLND*Hunt Field*Lander, Wyoming, United States
+LNE*NVSO*Lonorore Airport*Lonorore, Pentecost Island, Penama Province, Vanuatu
+LNF**Munbil Airport*Munbil, Papua New Guinea
+LNG**Lese Airport*Lese, Papua New Guinea
+LNH*YLKN*Lake Nash Airport*Alpurrurulam (Lake Nash), Northern Territory, Australia
+LNI*PALN*Point Lonely Short Range Radar Site (FAA: AK71)*Lonely, Alaska, United States
+LNJ*ZPLC*Lincang Airport*Lincang, Yunnan, China
+LNK*KLNK*Lincoln Airport*Lincoln, Nebraska, United States
+LNL*ZLLN*Longnan Chengzhou Airport*Longnan, Gansu, China
+LNM**Langimar Airport*Langimar, Papua New Guinea
+LNN*KLNN*Lost Nation Airport*Willoughby, Ohio, United States
+LNO*YLEO*Leonora Airport*Leonora, Western Australia, Australia
+LNP*KLNP*Lonesome Pine Airport*Wise, Virginia, United States
+LNQ**Loani Airport*Loani, Papua New Guinea
+LNR*KLNR*Tri-County Regional Airport*Lone Rock, Wisconsin, United States
+LNS*KLNS*Lancaster Airport*Lancaster, Pennsylvania, United States
+LNV*AYKY*Lihir Island Airport*Lihir Island, Papua New Guinea
+LNX*UUBS*Smolensk South Airport*Smolensk, Smolensk Oblast, Russia
+LNY*PHNY*Lanai Airport*Lanai City, Hawaii, United States
+LNZ*LOWL*Linz Airport (Blue Danube Airport)*Linz, Austria
+LOA*YLOR*Lorraine Airport*Lorraine, Queensland, Australia
+LOB*SCAN*San Rafael Airport*Los Andes, Chile
+LOC*YLOK*Lock Airport*Lock, South Australia, Australia
+LOD*NVSG*Longana Airport*Longana, Aoba Island, Penama Province, Vanuatu
+LOE*VTUL*Loei Airport*Loei, Thailand
+LOF**Loen Airport*Loen Island, Namu Atoll, Marshall Islands
+LOH*SETM*Ciudad de Catamayo Airport*Loja, Ecuador
+LOI*SSLN*Helmuth Baungartem Airport*Lontras, Santa Catarina, Brazil
+LOK*HKLO*Lodwar Airport*Lodwar, Kenya
+LOL*KLOL*Derby Field*Lovelock, Nevada, United States
+LOM**Francisco Primo de Verdad National Airport*Lagos de Moreno, Jalisco, Mexico
+LON**metropolitan area3*London, England, United Kingdom
+LOO*DAUL*L'Mekrareg Airport (Laghouat Airport)*Laghouat, Algeria
+LOP*WADL*Lombok International Airport*Praya, Indonesia
+LOQ*FBLO*Lobatse Airport*Lobatse, Botswana
+LOS*DNMM*Murtala Muhammed International Airport*Lagos, Nigeria
+LOT*KLOT*Lewis University Airport*Romeoville, Illinois, United States
+LOU*KLOU*Bowman Field*Louisville, Kentucky, United States
+LOV*MMMV*Venustiano Carranza International Airport*Monclova, Coahuila, Mexico
+LOW*KLKU*Louisa County Airport (Freeman Field) (FAA: LKU)*Louisa, Virginia, United States
+LOX**Los Tablones Airport*Los Tablones, Guatemala
+LOY*HKLY*Loiyangalani Airport*Loiyangalani, Kenya
+LOZ*KLOZ*London-Corbin Airport (Magee Field)*London, Kentucky, United States
+LPA*GCLP*Gran Canaria Airport*Gran Canaria, Canary Islands, Spain
+LPB*SLLP*El Alto International Airport*La Paz, Bolivia
+LPC*KLPC*Lompoc Airport*Lompoc, California, United States
+LPD*SKLP*La Pedrera Airport*La Pedrera, Colombia
+LPE*SKIM*La Primavera Airport*La Primavera, Colombia
+LPF*ZUPS*Liupanshui Yuezhao Airport[2]*Liupanshui, Guizhou, China
+LPG*SADL*La Plata Airport*La Plata, Buenos Aires, Argentina
+LPI*ESSL*Linköping/Saab Airport*Linköping, Sweden
+LPJ*SVAS*Armando Schwarck Airport*Los Pijiguaos, Venezuela
+LPK*UUOL*Lipetsk Airport*Lipetsk, Lipetsk Oblast, Russia
+LPL*EGGP*Liverpool John Lennon Airport*Liverpool, England, United Kingdom
+LPM*NVSL*Malekoula Airport (Lamap Airport)*Lamap, Malampa, Vanuatu
+LPN**Leron Plains Airport[2]*Leron Plains, Papua New Guinea
+LPO*KPPO*La Porte Municipal Airport (FAA: PPO)*La Porte, Indiana, United States
+LPP*EFLP*Lappeenranta Airport*Lappeenranta, Finland
+LPQ*VLLB*Luang Prabang International Airport*Luang Prabang, Laos
+LPS**Fishermans Bay/LPS Seaplane Base*Lopez Island, Washington, United States
+LPT*VTCL*Lampang Airport*Lampang, Thailand
+LPU*WRLP*Long Apung Airport*Long Apung, Indonesia
+LPY*LFHP*Le Puy – Loudes Airport*Le Puy-en-Velay, Auvergne, France
+LQK*KLQK*Pickens County Airport*Pickens, South Carolina, United States
+LQM*SKLG*Caucayá Airport*Puerto Leguízamo, Colombia
+LQN*OAQN*Qala i Naw Airport*Qala i Naw, Afghanistan
+LRA*LGLR*Larissa National Airport*Larissa, Greece
+LRB*FXLR*Leribe Airport*Leribe (Hlotse), Lesotho
+LRC*EGBG*Leicester City Airport*Leicester, United Kingdom
+LRD*KLRD*Laredo International Airport*Laredo, Texas, United States
+LRE*YLRE*Longreach Airport*Longreach, Queensland, Australia
+LRF*KLRF*Little Rock Air Force Base*Jacksonville, Arkansas, United States
+LRG*OPLL*Loralai Airport*Loralai, Pakistan
+LRH*LFBH*La Rochelle – Île de Ré Airport*La Rochelle, Poitou-Charentes, France
+LRI**Lorica Airport*Lorica, Colombia
+LRJ*KLRJ*Le Mars Municipal Airport*Le Mars, Iowa, United States
+LRL*DXNG*Niamtougou International Airport*Niamtougou, Togo
+LRM*MDLR*La Romana International Airport (Casa de Campo International Airport)*La Romana, Dominican Republic
+LRQ**Laurie River Airport*Laurie River, Manitoba, Canada
+LRR*OISL*Larestan International Airport*Lar, Iran
+LRS*LGLE*Leros Municipal Airport*Leros, Greece
+LRT*LFRH*Lorient South Brittany Airport (Lann-Bihoué Airport)*Lorient, Brittany, France
+LRU*KLRU*Las Cruces International Airport*Las Cruces, New Mexico, United States
+LRV*SVRS*Los Roques Airport*Los Roques, Venezuela
+LSA*AYKA*Losuia Airport*Kiriwina Island, Papua New Guinea
+LSB*KLSB*Lordsburg Municipal Airport*Lordsburg, New Mexico, United States
+LSC*SCSE*La Florida Airport*La Serena, Chile
+LSE*KLSE*La Crosse Regional Airport*La Crosse, Wisconsin, United States
+LSF*KLSF*Lawson Army Airfield*Fort Benning / Columbus, Georgia, United States
+LSH*VYLS*Lashio Airport*Lashio, Myanmar
+LSI*EGPB*Sumburgh Airport*Shetland Islands, Scotland, United Kingdom
+LSJ**Long Island Airport*Long Island, Papua New Guinea
+LSK*KLSK*Lusk Municipal Airport*Lusk, Wyoming, United States
+LSL*MRLC*Los Chiles Airport*Los Chiles, Costa Rica
+LSM*WBGD*Long Semado Airport*Long Semado, Sarawak, Malaysia
+LSN*KLSN*Los Banos Municipal Airport*Los Banos, California, United States
+LSO*LFOO*Les Sables-d'Olonne – Talmont Airport*Les Sables-d'Olonne, Pays de la Loire, France
+LSP*SVJC*Josefa Camejo International Airport*Punto Fijo, Venezuela
+LSQ*SCGE*Maria Dolores Airport*Los Ángeles, Chile
+LSS*TFFS*Les Saintes Airport*Terre-de-Haut Island, Îles des Saintes, Guadeloupe
+LST*YMLT*Launceston Airport*Launceston, Tasmania, Australia
+LSU*WBGU*Long Sukang Airport*Long Sukang, Sarawak, Malaysia
+LSV*KLSV*Nellis Air Force Base*Las Vegas, Nevada, United States
+LSW*WITM*Malikus Saleh Airport*Lhokseumawe, Indonesia
+LSX*WITL*Lhok Sukon Airport*Lhoksukon, Indonesia
+LSY*YLIS*Lismore Airport*Lismore, New South Wales, Australia
+LSZ*LDLO*Lošinj Airport*Lošinj, Croatia
+LTA*FATZ*Tzaneen Airport (Letaba Airport)*Tzaneen, South Africa
+LTB**Latrobe Airport*Latrobe, Tasmania, Australia
+LTC*FTTH*Laï Airport*Laï, Chad
+LTD*HLTD*Ghadames Airport*Ghadames, Libya
+LTF**Leitre Airport*Leitre, Papua New Guinea
+LTG*VNLT*Langtang Airport*Langtang, Nepal
+LTI*ZMAT*Altai Airport*Altai, Mongolia
+LTK*OSLK*Bassel Al-Assad International Airport*Latakia, Syria
+LTL*FOOR*Lastourville Airport*Lastoursville, Gabon
+LTM*SYLT*Lethem Airport*Lethem, Guyana
+LTN*EGGW*Luton Airport*London, England, United Kingdom
+LTO*MMLT*Loreto International Airport*Loreto, Baja California Sur, Mexico
+LTP*YLHS*Lyndhurst Airport*Lyndhurst, Queensland, Australia
+LTQ*LFAT*Le Touquet – Côte d'Opale Airport*Le Touquet-Paris-Plage, Nord-Pas-de-Calais, France
+LTR*EILT*Letterkenny Airfield*Letterkenny, Ireland
+LTS*KLTS*Altus Air Force Base*Altus, Oklahoma, United States
+LTT*LFTZ*La Môle – Saint-Tropez Airport*Saint-Tropez, Provence-Alpes-Côte d'Azur, France
+LTU*VALT*Latur Airport*Latur, Maharashtra, India
+LTV*YLOV*Lotus Vale Station Airport*Lotus Vale Station, Queensland, Australia
+LTW**St. Mary's County Regional Airport (FAA: 2W6)(Captain Walter Francis Duke Regional Airport)*Leonardtown, Maryland, United States
+LTX**Cotopaxi International Airport*Latacunga, Ecuador
+LUA*VNLK*Tenzing-Hillary Airport*Lukla, Nepal
+LUB*SYLP*Lumid Pau Airport*Lumid Pau, Guyana
+LUC*NFNH*Laucala Airport*Laucala Island, Fiji
+LUD*FYLZ*Lüderitz Airport*Lüderitz, Namibia
+LUF*KLUF*Luke Air Force Base*Glendale, Arizona, United States
+LUG*LSZA*Lugano Airport*Lugano, Switzerland
+LUH*VILD*Sahnewal Airport (Ludhiana Airport)*Ludhiana, Punjab, India
+LUI**La Unión Airport*La Unión, Honduras
+LUK*KLUK*Cincinnati Municipal Airport (Lunken Field)*Cincinnati, Ohio, United States
+LUL*KLUL*Hesler-Noble Field*Laurel, Mississippi, United States
+LUM*ZPMS*Dehong Mangshi Airport*Mangshi, Yunnan, China
+LUN*FLLS*Kenneth Kaunda International Airport*Lusaka, Zambia
+LUO*FNUE*Luena Airport*Luena, Angola
+LUP*PHLU*Kalaupapa Airport*Kalaupapa, Hawaii, United States
+LUQ*SAOU*Brigadier Mayor César Raúl Ojeda Airport*San Luis, San Luis, Argentina
+LUR*PALU*Cape Lisburne LRRS Airport*Cape Lisburne, Alaska, United States
+LUS*FZCE*Lusanga Airport*Lusanga, Democratic Republic of the Congo
+LUT*YLRS*New Laura Airport*New Laura, Queensland, Australia
+LUU*YLRA*Laura Airport*Laura, Queensland, Australia
+LUV*WAPL*Karel Sadsuitubun Airport*Langgur, Indonesia
+LUW*WAMW*Syukuran Aminuddin Amir Airport*Luwuk, Indonesia
+LUX*ELLX*Luxembourg Findel Airport*Luxembourg, Luxembourg
+LUZ*EPLB*Lublin Airport*Lublin, Poland
+LVA*LFOV*Laval Entrammes Airport*Laval, Pays de la Loire, France
+LVB*SSLI*Galpões Airport*Santana do Livramento, Rio Grande do Sul, Brazil
+LVD**Lime Village Airport (FAA: 2AK)*Lime Village, Alaska, United States
+LVI*FLLI*Harry Mwanga Nkumbula International Airport*Livingstone, Zambia
+LVK*KLVK*Livermore Municipal Airport*Livermore, California, United States
+LVL*KLVL*Lawrenceville/Brunswick Municipal Airport*Lawrenceville, Virginia, United States
+LVM*KLVM*Mission Field*Livingston, Montana, United States
+LVO*YLTN*Laverton Airport*Laverton, Western Australia, Australia
+LVP*OIBV*Lavan Airport*Lavan Island, Iran
+LVR*SILC*Bom Futuro Municipal Airport[2]*Lucas do Rio Verde, Mato Grosso, Brazil
+LVS*KLVS*Las Vegas Municipal Airport*Las Vegas, New Mexico, United States
+LWA**Lebak Airport*Lebak, Philippines
+LWB*KLWB*Greenbrier Valley Airport*Lewisburg, West Virginia, United States
+LWC*KLWC*Lawrence Municipal Airport*Lawrence, Kansas, United States
+LWE*WATW*Wonopito Airport*Lewoleba, Indonesia
+LWH*YLAH*Lawn Hill Airport*Lawn Hill, Queensland, Australia
+LWI**Lowai Airport*Lowai, Papua New Guinea
+LWK*EGET*Tingwall Airport (Lerwick/Tingwall Airport)*Lerwick, Scotland, United Kingdom
+LWL*KLWL*Wells Municipal Airport (Harriet Field)*Wells, Nevada, United States
+LWM*KLWM*Lawrence Municipal Airport*Lawrence, Massachusetts, United States
+LWN*UDSG*Shirak Airport*Gyumri, Armenia
+LWO*UKLL*Lviv Danylo Halytskyi International Airport*Lviv, Ukraine
+LWR*EHLW*Leeuwarden Air Base*Leeuwarden, Netherlands
+LWS*KLWS*Lewiston–Nez Perce County Airport*Lewiston, Idaho, United States
+LWT*KLWT*Lewistown Municipal Airport*Lewistown, Montana, United States
+LWV*KLWV*Lawrenceville–Vincennes International Airport*Lawrenceville, Illinois, United States
+LWY*WBGW*Lawas Airport*Lawas, Sarawak, Malaysia
+LXA*ZULS*Lhasa Gonggar Airport*Lhasa, Tibet, China
+LXG*VLLN*Louang Namtha Airport*Luang Namtha, Laos
+LXN*KLXN*Jim Kelly Field*Lexington, Nebraska, United States
+LXR*HELX*Luxor International Airport*Luxor, Egypt
+LXS*LGLM*Lemnos International Airport*Lemnos (Limnos), Greece
+LXU*FLLK*Lukulu Airport*Lukulu, Zambia
+LXV*KLXV*Lake County Airport*Leadville, Colorado, United States
+LYA*ZHLY*Luoyang Beijiao Airport*Luoyang, Henan, China
+LYB*MWCL*Edward Bodden Airfield*Little Cayman, British Overseas Territory of Cayman Islands
+LYC*ESNL*Lycksele Airport*Lycksele, Sweden
+LYE*EGDL*RAF Lyneham*Lyneham, England, United Kingdom
+LYG*ZSLG*Lianyungang Baitabu Airport*Lianyungang, Jiangsu, China
+LYH*KLYH*Lynchburg Regional Airport (Preston Glenn Field)*Lynchburg, Virginia, United States
+LYI*ZSLY*Linyi Shubuling Airport*Linyi, Shandong, China
+LYK**Lunyuk Airport*Lunyuk, Indonesia
+LYN*LFLY*Lyon–Bron Airport*Lyon, Rhône-Alpes, France
+LYO*KLYO*Lyons–Rice County Municipal Airport*Lyons, Kansas, United States
+LYP*OPFA*Faisalabad International Airport*Faisalabad, Pakistan
+LYR*ENSB*Svalbard Airport, Longyear*Longyearbyen, Svalbard, Norway
+LYS*LFLL*Lyon–Saint-Exupéry Airport*Lyon, Rhône-Alpes, France
+LYT**Lady Elliot Island Airport*Lady Elliot Island, Queensland, Australia
+LYU*KELO*Ely Municipal Airport (FAA: ELO)*Ely, Minnesota, United States
+LYX*EGMD*Lydd Airport (London Ashford Airport)*Lydd, England, United Kingdom
+LZA*FZUG*Luiza Airport*Luiza, Democratic Republic of the Congo
+LZC*MMLC*Lázaro Cárdenas Airport*Lázaro Cárdenas, Michoacán, Mexico
+LZH*ZGZH*Liuzhou Bailian Airport*Liuzhou, Guangxi, China
+LZI*FZAL*Luozi Airport*Luozi, Democratic Republic of the Congo
+LZM*FNLZ*Cuango-Luzamba Airport*Cuango (Luzamba), Angola
+LZN*RCFG*Matsu Nangan Airport*Nangan, Taiwan
+LZO*ZULZ*Luzhou Lantian Airport*Luzhou, Sichuan, China
+LZR*YLZI*Lizard Island Airport*Lizard Island, Queensland, Australia
+LZU*KLZU*Gwinnett County Airport[2] (Briscoe Field)*LaGrange, Georgia, United States
+LZY*ZUNZ*Nyingchi Mainling Airport*Nyingchi (Linzhi), Tibet, China

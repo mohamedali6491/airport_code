@@ -1,0 +1,88 @@
+XAL**Álamos Airport*Álamos, Sonora, Mexico
+XAP*SBCH*Serafin Enoss Bertaso Airport*Chapecó, Santa Catarina, Brazil
+XAR*DFOY*Aribinda Airport*Aribinda, Burkina Faso
+XAU*SOOS*Saül Airport*Saül, French Guiana
+XBB**Blubber Bay Seaplane Base*Blubber Bay, British Columbia, Canada
+XBE**Bearskin Lake Airport (TC: CNE3)*Bearskin Lake, Ontario, Canada
+XBG*DFEB*Bogande Airport*Bogandé, Burkina Faso
+XBJ*OIMB*Birjand International Airport*Birjand, Iran
+XBL*HABB*Bedele Airport (Buno Bedele Airport)*Bedele, Ethiopia
+XBN**Biniguni Airport*Biniguni, Papua New Guinea
+XBO*DFEA*Boulsa Airport*Boulsa, Burkina Faso
+XBR**Brockville Regional Tackaberry Airport (TC: CNL3)*Brockville, Ontario, Canada
+XCH*YPXM*Christmas Island Airport*Christmas Island, Australia
+XCL**Cluff Lake Airport (TC: CJS3)*Cluff Lake, Saskatchewan, Canada
+XCM*CYCK*Chatham-Kent Airport*Chatham-Kent, Ontario, Canada
+XCN**Coron Airport*Coron, Philippines
+XCO*YOLA*Colac Airport*Colac, Victoria, Australia
+XCR*LFOK*Châlons Vatry Airport*Châlons-en-Champagne, Champagne-Ardenne, France
+XDE*DFOU*Diébougou Airport*Diébougou, Burkina Faso
+XDJ*DFCJ*Djibo Airport*Djibo, Burkina Faso
+XEN*ZYXC*Xingcheng Airport*Xingcheng, Liaoning, China
+XES**Grand Geneva Resort Airport (FAA: C02)*Lake Geneva, Wisconsin, United States
+XFN*ZHXF*Xiangyang Liuji Airport*Xiangyang, Hubei, China
+XFW*EDHI*Hamburg Finkenwerder Airport*Hamburg, Germany
+XGA*DFOG*Gaoua Airport (Amilcar Cabral Airport)*Gaoua, Burkina Faso
+XGG*DFEG*Gorom Gorom Airport*Gorom-Gorom, Burkina Faso
+XGL**Granville Lake Airport*Granville Lake, Manitoba, Canada
+XGN*FNXA*Xangongo Airport*Xangongo, Angola
+XGR*CYLU*Kangiqsualujjuaq (Georges River) Airport*Kangiqsualujjuaq, Quebec, Canada
+XIC*ZUXC*Xichang Qingshan Airport*Xichang, Sichuan, China
+XIE**Xienglom Airport*Xienglom, Laos
+XIG**Xinguara Municipal Airport*Xinguara, Pará, Brazil
+XIJ*OKAJ*Ahmad al-Jaber Air Base*Al Ahmadi, Kuwait
+XIL*ZBXH*Xilinhot Airport*Xilinhot, Inner Mongolia, China
+XIN*ZGXN*Xingning Air Base*Xingning, Guangdong, China
+XIY*ZLXY*Xi'an Xianyang International Airport*Xi'an, Shaanxi, China
+XJD*OTBH*Al Udeid Air Base*Al Rayyan, Qatar
+XJM*OPMA*Mangla Airport*Mangla, Pakistan
+XKA*DFEL*Kantchari Airport*Kantchari, Burkina Faso
+XKH*VLXK*Xieng Khouang Airport*Phonsavan, Laos
+XKS*CYAQ*Kasabonika Airport*Kasabonika, Ontario, Canada
+XKY*DFCA*Kaya Airport*Kaya, Burkina Faso
+XLB*CZWH*Lac Brochet Airport*Lac Brochet, Manitoba, Canada
+XLO**Long Xuyen Airport*Long Xuyên, Vietnam
+XLS*GOSS*Saint-Louis Airport*Saint-Louis, Senegal
+XLU*DFCL*Leo Airport*Léo, Burkina Faso
+XLW*EDWD*Lemwerder Airport*Lemwerder, Lower Saxony, Germany
+XMA**Maramag Airport*Maramag, Philippines
+XMC*YMCO*Mallacoota Airport*Mallacoota, Victoria, Australia
+XMD*KMDS*Madison Municipal Airport (FAA: MDS)*Madison, South Dakota, United States
+XMG*VNMN*Mahendranagar Airport*Bhimdatta (Mahendranagar), Nepal
+XMH*NTGI*Manihi Airport*Manihi, Tuamotus, French Polynesia
+XMI*HTMI*Masasi Airport*Masasi, Tanzania
+XML*YMIN*Minlaton Airport*Minlaton, South Australia, Australia
+XMN*ZSAM*Xiamen Gaoqi International Airport*Xiamen, Fujian, China
+XMP**Macmillan Pass Airport (TC: CFC4)*Macmillan Pass, Yukon, Canada
+XMS*SEMC*Edmundo Carvajal Airport*Macas, Ecuador
+XMY*YYMI*Yam Island Airport*Yam Island, Queensland, Australia
+XNA*KXNA*Northwest Arkansas Regional Airport*Fayetteville / Springdale, Arkansas, United States
+XNN*ZLXN*Xining Caojiabao Airport*Xining, Qinghai, China
+XNT*ZBXT*Xingtai Dalian Airport*Xingtai, Hebei, China
+XNU*DFON*Nouna Airport*Nouna, Burkina Faso
+XPA*DFEP*Pama Airport*Pama, Burkina Faso
+XPK*CZFG*Pukatawagan Airport*Pukatawagan, Manitoba, Canada
+XPL*MHSC*Soto Cano Air Base*Comayagua, Honduras
+XPP*CZNG*Poplar River Airport*Poplar River, Manitoba, Canada
+XPR*KIEN*Pine Ridge Airport (FAA: IEN)*Pine Ridge, South Dakota, United States
+XQP*MRQP*Quepos La Managua Airport*Quepos, Costa Rica
+XQU**Qualicum Beach Airport (TC: CAT4)*Qualicum Beach, British Columbia, Canada
+XRH*YSRI*RAAF Base Richmond*Richmond, New South Wales, Australia
+XRR*CYDM*Ross River Airport*Ross River, Yukon, Canada
+XRY*LEJR*Jerez Airport (La Parra Airport)*Jerez de la Frontera, Andalusia, Spain
+XSB*OMBY*Sir Bani Yas Airport*Sir Bani Yas, United Arab Emirates
+XSC*MBSC*South Caicos Airport*South Caicos, British Overseas Territory of Turks and Caicos Islands
+XSD*KTNX*Tonopah Test Range Airport (FAA: TNX)*Tonopah, Nevada, United States
+XSE*DFES*Sebba Airport*Sebba, Burkina Faso
+XSI*CZSN*South Indian Lake Airport*South Indian Lake, Manitoba, Canada
+XSO*RPNO*Siocon Airport*Siocon, Philippines
+XSP*WSSL*Seletar Airport*Singapore
+XTG*YTGM*Thargomindah Airport*Thargomindah, Queensland, Australia
+XTL*CYBQ*Tadoule Lake Airport*Tadoule Lake, Manitoba, Canada
+XTO*YTAM*Taroom Airport*Taroom, Queensland, Australia
+XTR*YTAA*Tara Airport*Tara, Queensland, Australia
+XUZ*ZSXZ*Xuzhou Guanyin Airport*Xuzhou, Jiangsu, China
+XYA*AGGY*Yandina Airport*Yandina, Solomon Islands
+XYE*VYYE*Ye Airport*Ye, Myanmar
+XYR*AYED*Edwaki Airport*Yellow River, Papua New Guinea
+XZA*DFEZ*Zabré Airport*Zabré, Burkina Faso

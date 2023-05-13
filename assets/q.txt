@@ -1,0 +1,19 @@
+QAQ*LIAP*L'Aquila–Preturo Airport*L'Aquila, Abruzzo, Italy
+QBC*CYBD*Bella Coola Airport*Bella Coola, British Columbia, Canada
+QCY*EGXC*RAF Coningsby*Coningsby, England, United Kingdom
+QHU*EDXJ*Husum Schwesing Airport*Husum, Schleswig-Holstein, Germany
+QOW*DNIM*Sam Mbakwe Airport*Owerri, Nigeria
+QPG*WSAP*Paya Lebar Air Base*Singapore
+QRA*FAGM*Rand Airport*Johannesburg, South Africa
+QRO*MMQT*Querétaro Intercontinental Airport*Querétaro City, Querétaro, Mexico
+QRW*DNSU*Warri Airport (Osubi Airport)*Warri, Nigeria
+QSC*SDSC*Mário Pereira Lopes Airport*São Carlos, São Paulo, Brazil
+QSF*DAAS*Ain Arnat Airport*Sétif, Algeria
+QSR*LIRI*Salerno Costa d'Amalfi Airport (Pontecagnano Airport)*Salerno, Campania, Italy
+QSZ**Shache Airport*Shache, Xinjiang, China
+QUB*HLUB*Ubari Airport*Ubari, Libya
+QUG*EGHR*Chichester/Goodwood Airport*Chichester, England, United Kingdom
+QUO*DNAI*Akwa Ibom International Airport*Uyo, Nigeria
+QUY*EGUY*RAF Wyton*Wyton, England, United Kingdom
+QWG**Wilgrove Air Park (FAA: 8A6)*Charlotte, North Carolina, United States
+QXB*LFMA*Aix les Milles, France*Bouches-du-Rhône, Provence-Alpes-Côte d'Azur region, France

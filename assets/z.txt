@@ -1,0 +1,115 @@
+ZAA**Alice Arm/Silver City Water Aerodrome (TC: CAC3)*Alice Arm, British Columbia, Canada
+ZAC*CZAC*York Landing Airport*York Landing, Manitoba, Canada
+ZAD*LDZD*Zadar Airport*Zadar, Croatia
+ZAH*OIZH*Zahedan Airport*Zahedan, Iran
+ZAJ*OAZJ*Zaranj Airport*Zaranj, Afghanistan
+ZAL*SCVD*Pichoy Airport*Valdivia, Chile
+ZAM*RPMZ*Zamboanga International Airport*Zamboanga City, Philippines
+ZAO*LFCC*Cahors - Lalbenque Airport*Cahors, Midi-Pyrénées, France
+ZAR*DNZA*Zaria Airport*Zaria, Nigeria
+ZAT*ZPZT*Zhaotong Airport*Zhaotong, Yunnan, China
+ZAZ*LEZG*Zaragoza Airport*Zaragoza, Aragon, Spain
+ZBF*CZBF*Bathurst Airport*Bathurst, New Brunswick, Canada
+ZBK**Žabljak Airport*Žabljak, Montenegro
+ZBL**Biloela Airport*Biloela, Queensland, Australia
+ZBM*CZBM*Roland-Désourdy Airport*Bromont, Quebec, Canada
+ZBO*YBWN*Bowen Airport*Bowen, Queensland, Australia
+ZBR*OIZC*Konarak Airport*Chabahar (Chah Bahar), Iran
+ZBY*VLSB*Sayaboury Airport*Sainyabuli (Sayaboury), Laos
+ZCL*MMZC*General Leobardo C. Ruiz International Airport*Zacatecas City, Zacatecas, Mexico
+ZCO*SCQP*La Araucanía Airport*Temuco, Chile
+ZDY*OMDL*Dalma Airport*Dalma Island (Delma Island), United Arab Emirates
+ZEC*FASC*Secunda Airport*Secunda, South Africa
+ZEG**Senggo Airport*Senggo, Indonesia
+ZEL*CBBC*Bella Bella (Campbell Island) Airport*Bella Bella, British Columbia, Canada
+ZEM*CZEM*Eastmain River Airport*Eastmain, Quebec, Canada
+ZEN**Zenag Airport*Zenag, Papua New Guinea
+ZER*VEZO*Zero Airport (Ziro Airport)*Ziro, Arunachal Pradesh, India
+ZFA*CZFA*Faro Airport*Faro, Yukon, Canada
+ZFD*CZFD*Fond-du-Lac Airport*Fond-du-Lac, Saskatchewan, Canada
+ZFM*CZFM*Fort McPherson Airport*Fort McPherson, Northwest Territories, Canada
+ZFN*CZFN*Tulita Airport*Tulita, Northwest Territories, Canada
+ZFW**Fairview Airport (TC: CEB5)*Fairview, Alberta, Canada
+ZGF*CZGF*Grand Forks Airport*Grand Forks, British Columbia, Canada
+ZGI*CZGI*Gods River Airport*Gods River, Manitoba, Canada
+ZGL*YSGW*South Galway Airport*South Galway Station, Queensland, Australia
+ZGM*FLNA*Ngoma Airport*Ngoma, Zambia
+ZGR*CZGR*Little Grand Rapids Airport*Little Grand Rapids, Manitoba, Canada
+ZGS**La Romaine Airport (TC: CTT5)*La Romaine, Quebec, Canada
+ZGU*NVSQ*Gaua Airport*Gaua, Vanuatu
+ZHA*ZGZJ*Zhanjiang Airport*Zhanjiang, Guangdong, China
+ZHM*VGSH*Shamshernagar Airport*Shamshernagar, Bangladesh
+ZHP*CZHP*High Prairie Airport*High Prairie, Alberta, Canada
+ZHY*ZLZW*Zhongwei Shapotou Airport (Zhongwei Xiangshan Airport)*Zhongwei, Ningxia, China
+ZHZ*EDAQ*Halle-Oppin Airport*Oppin, Saxony-Anhalt, Germany
+ZIA*UUBW*Ramenskoye Airport (Zhukovsky Airport)*Zhukovsky, Moscow Oblast, Russia
+ZIC*SCTO*Victoria Airport*Victoria, Chile
+ZIG*GOGG*Ziguinchor Airport*Ziguinchor, Senegal
+ZIH*MMZH*Ixtapa-Zihuatanejo International Airport*Ixtapa / Zihuatanejo, Guerrero, Mexico
+ZIS*HLZN*Zintan Airport*Zintan, Libya
+ZIX*UEVV*Zhigansk Airport*Zhigansk, Yakutia, Russia
+ZIZ**Zamzama Airport*Zamzama, Pakistan
+ZJG*CZJG*Jenpeg Airport*Jenpeg, Manitoba, Canada
+ZJN*CZJN*Swan River Airport*Swan River, Manitoba, Canada
+ZJT**Tanjung Pelepas Port Airport*Tanjung Pelepas, Johor, Malaysia
+ZKB*FLKY*Kasaba Bay Airport*Kasaba Bay, Zambia
+ZKE*CZKE*Kashechewan Airport*Kashechewan, Ontario, Canada
+ZKG**Kegaska Airport (TC: CTK6)*Kegaska (Kegashka), Quebec, Canada
+ZKP*UESU*Zyryanka Airport*Zyryanka, Yakutia, Russia
+ZLO*MMZO*Playa de Oro International Airport*Manzanillo, Colima, Mexico
+ZLT**La Tabatière Airport (TC: CTU5)*Gros-Mécatina (La Tabatière), Quebec, Canada
+ZLW**Pasir Gudang Port Airport*Pasir Gudang, Johor, Malaysia
+ZLX*HSZA*Zalingei Airport*Zalingei (Zalengei), Sudan
+ZMD*SWSN*Sena Madureira Airport*Sena Madureira, Acre, Brazil
+ZMH*CZML*South Cariboo Regional Airport*108 Mile Ranch, British Columbia, Canada
+ZMM*MMZM*Zamora National Airport*Zamora, Michoacán, Mexico
+ZMT*CZMT*Masset Airport*Masset, British Columbia, Canada
+ZNA**Nanaimo Harbour Water Airport (TC: CAC8)*Nanaimo, British Columbia, Canada
+ZNC**Nyac Airport*Nyac, Alaska, United States
+ZND*DRZR*Zinder Airport*Zinder, Niger
+ZNE*YNWN*Newman Airport*Newman, Western Australia, Australia
+ZNU**Namu Water Aerodrome*Namu, British Columbia, Canada
+ZNZ*HTZA*Abeid Amani Karume International Airport*Zanzibar, Tanzania
+ZOF**Ocean Falls Water Aerodrome (TC: CAH2)*Ocean Falls, British Columbia, Canada
+ZOS*SCJO*Cañal Bajo Carlos Hott Siebert Airport*Osorno, Chile
+ZPB*CZPB*Sachigo Lake Airport*Sachigo Lake, Ontario, Canada
+ZPC*SCPC*Pucón Airport*Pucón, Chile
+ZPH*KZPH*Zephyrhills Municipal Airport*Zephyrhills, Florida, United States
+ZPO*CZPO*Pinehouse Lake Airport*Pinehouse, Saskatchewan, Canada
+ZQN*NZQN*Queenstown Airport*Queenstown, New Zealand
+ZQS**Queen Charlotte City Water Aerodrome (TC: CAQ6)*Queen Charlotte, British Columbia, Canada
+ZQW*EDRZ*Zweibrücken Airport*Zweibrücken, Rhineland-Palatinate, Germany
+ZQZ*ZBZJ*Zhangjiakou Ningyuan Airport*Zhangjiakou, Hebei, China
+ZRH*LSZH*Zürich Airport*Zürich, Switzerland
+ZRI*WABO*Serui Airport*Serui, Indonesia
+ZRJ*CZRJ*Round Lake (Weagamow Lake) Airport*North Caribou Lake (Round Lake), Ontario, Canada
+ZRM*WAJI*Sarmi Orai Airport*Sarmi, Indonesia
+ZSA*MYSM*San Salvador Airport (Cockburn Town Airport)*San Salvador Island, Bahamas
+ZSE*FMEP*Pierrefonds Airport*Saint-Pierre, Réunion, France
+ZSJ*CZSJ*Sandy Lake Airport*Sandy Lake, Ontario, Canada
+ZSS*DISS*Sassandra Airport*Sassandra, Ivory Coast
+ZST*CZST*Stewart Aerodrome*Stewart, British Columbia, Canada
+ZSW*CZSW*Prince Rupert/Seal Cove Water Airport*Prince Rupert, British Columbia, Canada
+ZTA*NTGY*Tureia Airport*Tureia, Tuamotus, French Polynesia
+ZTB**Tête-à-la-Baleine Airport (TC: CTB6)*Tête-à-la-Baleine, Quebec, Canada
+ZTH*LGZA*Zakynthos International Airport (Dionysios SolomosAirport)*Zakynthos, Greece
+ZTM*CZTM*Shamattawa Airport*Shamattawa, Manitoba, Canada
+ZTR*UKKV*Zhytomyr Airport*Zhytomyr, Ukraine
+ZTS**Tahsis Water Aerodrome (TC: CAL9)*Tahsis, British Columbia, Canada
+ZTU*UBBY*Zaqatala International Airport*Zaqatala, Azerbaijan
+ZUC*CZUC*Ignace Municipal Airport*Ignace, Ontario, Canada
+ZUD*SCAC*Pupelde Airfield*Ancud, Chile
+ZUH*ZGSD*Zhuhai Jinwan Airport (Zhuhai Sanzao Airport)*Zhuhai, Guangdong, China
+ZUL*OEZL*Zilfi Airport*Al Zulfi (Zilfi), Saudi Arabia
+ZUM*CZUM*Churchill Falls Airport*Churchill Falls, Newfoundland and Labrador, Canada
+ZVA*FMMN*Miandrivazo Airport*Miandrivazo, Madagascar
+ZVG**Springvale Airport*Springvale, Western Australia, Australia
+ZVK*VLSK*Savannakhet Airport*Savannakhet, Laos
+ZWA*FMND*Andapa Airport*Andapa, Madagascar
+ZWL*CZWL*Wollaston Lake Airport*Wollaston Lake, Saskatchewan, Canada
+ZXT*UBTT*Zabrat Airport*Baku, Azerbaijan
+ZYI*ZUZY*Zunyi Xinzhou Airport*Zunyi, Guizhou, China
+ZYL*VGSY*Osmani International Airport*Sylhet, Bangladesh
+ZZO*UHSO*Zonalnoye Airport*Tymovskoye, Sakhalin Oblast, Russia
+ZZU*FWUU*Mzuzu Airport*Mzuzu, Malawi
+ZZV*KZZV*Zanesville Municipal Airport*Zanesville, Ohio, United States

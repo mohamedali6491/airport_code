@@ -1,0 +1,451 @@
+YAA**Anahim Lake Airport (TC: CAJ4)*Anahim Lake, British Columbia, Canada
+YAB*CYAB*Arctic Bay Airport (TC: CJX7)*Arctic Bay, Nunavut, Canada
+YAC*CYAC*Cat Lake Airport*Cat Lake, Ontario, Canada
+YAD**Moose Lake Airport (TC: CJB4)*Moose Lake, Manitoba, Canada
+YAG*CYAG*Fort Frances Municipal Airport*Fort Frances, Ontario, Canada
+YAH*CYAH*La Grande-4 Airport*La Grande-4, Quebec, Canada
+YAI*SCCH*General Bernardo O'Higgins Airport*Chillán, Chile
+YAJ**Lyall Harbour Seaplane Base*Saturna Island, British Columbia, Canada
+YAK*PAYA*Yakutat Airport*Yakutat, Alaska, United States
+YAL*CYAL*Alert Bay Airport*Alert Bay, British Columbia, Canada
+YAM*CYAM*Sault Ste. Marie Airport*Sault Ste. Marie, Ontario, Canada
+YAN*FZIR*Yangambi Airport*Yangambi, Democratic Republic of the Congo
+YAO*FKKY*Yaoundé Airport*Yaoundé, Cameroon
+YAP*PTYA*Yap International Airport (FAA: T11)*Yap, Federated States of Micronesia
+YAQ**Maple Bay Seaplane Base*Maple Bay, British Columbia, Canada
+YAR*CYAD*La Grande-3 Airport*La Grande-3, Quebec, Canada
+YAS*NFSW*Yasawa Island Airport*Yasawa, Fiji
+YAT*CYAT*Attawapiskat Airport*Attawapiskat, Ontario, Canada
+YAU**Kattiniq/Donaldson Airport (TC: CTP9)*Raglan Mine, Quebec, Canada
+YAV**Mayne Island Water Aerodrome (Miner's Bay Seaplane Base) (TC: CAW7)*Mayne Island, British Columbia, Canada
+YAX**Angling Lake/Wapekeka Airport (TC: CKB6)*Wapekeka, Ontario, Canada
+YAY*CYAY*St. Anthony Airport*St. Anthony, Newfoundland and Labrador, Canada
+YAZ*CYAZ*Tofino/Long Beach Airport*Tofino, British Columbia, Canada
+YBA*CYBA*Banff Airport*Banff, Alberta, Canada
+YBB*CYBB*Kugaaruk Airport*Kugaaruk, Nunavut, Canada
+YBC*CYBC*Baie-Comeau Airport*Baie-Comeau, Quebec, Canada
+YBE*CYBE*Uranium City Airport*Uranium City, Saskatchewan, Canada
+YBF**Bamfield Water Aerodrome (TC: CAE9)*Bamfield, British Columbia, Canada
+YBG*CYBG*Canadian Forces Base Bagotville*La Baie (Bagotville), Quebec, Canada
+YBH*CYBH*Bull Harbour Waterdrome*Bull Harbour, British Columbia, Canada
+YBI**Black Tickle Airport (TC: CCE4)*Black Tickle, Newfoundland and Labrador, Canada
+YBJ**Baie-Johan-Beetz Seaplane Base*Baie-Johan-Beetz, Quebec, Canada
+YBK*CYBK*Baker Lake Airport*Baker Lake, Nunavut, Canada
+YBL*CYBL*Campbell River Airport*Campbell River, British Columbia, Canada
+YBO**Bob Quinn Lake Airport (TC: CBW4)*Bob Quinn Lake, British Columbia, Canada
+YBP*ZUYB*Yibin Caiba Airport*Yibin, Sichuan, China
+YBQ**Telegraph Harbour Seaplane Base*Thetis Island, British Columbia, Canada
+YBR*CYBR*Brandon Municipal Airport (McGill Field)*Brandon, Manitoba, Canada
+YBS**Opapimiskan Lake Airport (TC: CKM8)*Opapimiskan Lake, Ontario, Canada
+YBT*CYBT*Brochet Airport*Brochet, Manitoba, Canada
+YBV*CYBV*Berens River Airport*Berens River, Manitoba, Canada
+YBW**Bedwell Harbour Water Aerodrome (TC: CAB3)*Bedwell Harbour, British Columbia, Canada
+YBX*CYBX*Lourdes-de-Blanc-Sablon Airport*Blanc-Sablon, Quebec, Canada
+YBY*CYBF*Bonnyville Airport*Bonnyville, Alberta, Canada
+YCA**Courtenay Airpark (TC: CAH3)*Courtenay, British Columbia, Canada
+YCB*CYCB*Cambridge Bay Airport*Cambridge Bay, Nunavut, Canada
+YCC*CYCC*Cornwall Regional Airport*Cornwall, Ontario, Canada
+YCD*CYCD*Nanaimo Airport*Nanaimo, British Columbia, Canada
+YCE*CYCE*Centralia/James T. Field Memorial Aerodrome*Centralia, Ontario, Canada
+YCF**Cortes Island Aerodrome (TC: CCI9)*Cortes Island, British Columbia, Canada
+YCG*CYCG*West Kootenay Regional Airport (Castlegar Airport)*Castlegar, British Columbia, Canada
+YCH*CYCH*Miramichi Airport*Miramichi, New Brunswick, Canada
+YCK*CYVL*Colville Lake/Tommy Kochon Aerodrome*Colville Lake, Northwest Territories, Canada
+YCL*CYCL*Charlo Airport*Charlo, New Brunswick, Canada
+YCM*CYSN*St. Catharines/Niagara District Airport*St. Catharines, Ontario, Canada
+YCN*CYCN*Cochrane Aerodrome*Cochrane, Ontario, Canada
+YCO*CYCO*Kugluktuk Airport*Kugluktuk, Nunavut, Canada
+YCQ*CYCQ*Chetwynd Airport*Chetwynd, British Columbia, Canada
+YCR*CYCR*Cross Lake (Charlie Sinclair Memorial) Airport*Cross Lake, Manitoba, Canada
+YCS*CYCS*Chesterfield Inlet Airport*Chesterfield Inlet, Nunavut, Canada
+YCT*CYCT*Coronation Airport*Coronation, Alberta, Canada
+YCU*ZBYC*Yuncheng Guangong Airport*Yuncheng, Shanxi, China
+YCW*CYCW*Chilliwack Airport*Chilliwack, British Columbia, Canada
+YCY*CYCY*Clyde River Airport*Clyde River, Nunavut, Canada
+YCZ*CYCZ*Fairmont Hot Springs Airport*Fairmont Hot Springs, British Columbia, Canada
+YDA*CYDA*Dawson City Airport*Dawson City, Yukon, Canada
+YDB*CYDB*Burwash Airport*Burwash Landing, Yukon, Canada
+YDC**Drayton Valley Industrial Airport (TC: CER3)*Drayton Valley, Alberta, Canada
+YDE**Paradise River Airport (TC: CDF4)*Paradise River, Newfoundland and Labrador, Canada
+YDF*CYDF*Deer Lake Regional Airport*Deer Lake, Newfoundland and Labrador, Canada
+YDG*CYID*Digby/Annapolis Regional Airport*Digby, Nova Scotia, Canada
+YDJ**Hatchet Lake Airport (TC: CJL2)*Hatchet Lake, Saskatchewan, Canada
+YDL*CYDL*Dease Lake Airport*Dease Lake, British Columbia, Canada
+YDN*CYDN*Lt. Col W.G. (Billy) Barker VC Airport*Dauphin, Manitoba, Canada
+YDO*CYDO*Dolbeau-Saint-Félicien Airport*Dolbeau-Mistassini, Quebec, Canada
+YDP*CYDP*Nain Airport*Nain, Newfoundland and Labrador, Canada
+YDQ*CYDQ*Dawson Creek Airport*Dawson Creek, British Columbia, Canada
+YDT*CZBB*Boundary Bay Airport*Vancouver, British Columbia, Canada
+YDU**Kasba Lake Airport (TC: CJL8)*Kasba Lake, Northwest Territories, Canada
+YDV*CZTA*Bloodvein River Airport*Bloodvein, Manitoba, Canada
+YDW**Obre Lake/North of Sixty Airport (TC: CKV4)*Obre Lake, Northwest Territories, Canada
+YEA**metropolitan area1*Edmonton, Alberta, Canada
+YEB**Bar River Airport (TC: CPF2)*Bar River, Ontario, Canada
+YEC*RKTY*Yecheon Air Base*Yecheon, South Korea
+YEG*CYEG*Edmonton International Airport*Edmonton, Alberta, Canada
+YEK*CYEK*Arviat Airport*Arviat, Nunavut, Canada
+YEL*CYEL*Elliot Lake Municipal Airport*Elliot Lake, Ontario, Canada
+YEM*CYEM*Manitowaning/Manitoulin East Municipal Airport*Manitowaning, Ontario, Canada
+YEN*CYEN*Estevan Regional Aerodrome*Estevan, Saskatchewan, Canada
+YEO*EGDY*Royal Naval Air Station Yeovilton*Yeovilton, England, United Kingdom
+YEQ**Yankisa Airport*Yankisa, Papua New Guinea
+YER*CYER*Fort Severn Airport*Fort Severn, Ontario, Canada
+YES*OISY*Yasuj Airport*Yasuj (Yasouj), Iran
+YET*CYET*Edson Airport*Edson, Alberta, Canada
+YEU*CYEU*Eureka Aerodrome*Eureka, Nunavut, Canada
+YEV*CYEV*Inuvik (Mike Zubko) Airport*Inuvik, Northwest Territories, Canada
+YEY*CYEY*Amos/Magny Airport*Amos, Quebec, Canada
+YFA*CYFA*Fort Albany Airport*Fort Albany, Ontario, Canada
+YFB*CYFB*Iqaluit Airport*Iqaluit, Nunavut, Canada
+YFC*CYFC*Fredericton International Airport*Fredericton, New Brunswick, Canada
+YFE*CYFE*Forestville Airport*Forestville, Quebec, Canada
+YFG**Fontanges Airport (TC: CTU2)*Fontanges, Quebec, Canada
+YFH*CYFH*Fort Hope Airport*Eabametoong (Fort Hope), Ontario, Canada
+YFI**Fort MacKay/Firebag Aerodrome (TC: CFG6)*Fort McKay, Alberta, Canada
+YFJ*CYWE*Wekweètì Airport (Snare Lake Airport) (TC: CFJ7)*Wekweeti, Northwest Territories, Canada
+YFL**Fort Reliance Water Aerodrome (CJN8)*Fort Reliance, Northwest Territories, Canada
+YFO*CYFO*Flin Flon Airport*Flin Flon, Manitoba, Canada
+YFR*CYFR*Fort Resolution Airport*Fort Resolution, Northwest Territories, Canada
+YFS*CYFS*Fort Simpson Airport*Fort Simpson, Northwest Territories, Canada
+YFX**St. Lewis (Fox Harbour) Airport (TC: CCK4)*St. Lewis, Newfoundland and Labrador, Canada
+YGB*CYGB*Texada/Gillies Bay Airport*Gillies Bay, British Columbia, Canada
+YGC**Grande Cache Airport (TC: CEQ5)*Grande Cache, Alberta, Canada
+YGE**Gorge Harbour Water Aerodrome*Gorge Harbour, British Columbia, Canada
+YGG**Ganges Water Aerodrome (TC: CAX6)*Ganges, British Columbia, Canada
+YGH*CYGH*Fort Good Hope Airport*Fort Good Hope, Northwest Territories, Canada
+YGJ*RJOH*Miho–Yonago Airport*Yonago, Honshu, Japan
+YGK*CYGK*Kingston/Norman Rogers Airport*Kingston, Ontario, Canada
+YGL*CYGL*La Grande Rivière Airport*Radisson, Quebec, Canada
+YGM*CYGM*Gimli Industrial Park Airport*Gimli, Manitoba, Canada
+YGN**Greenway Sound Water Aerodrome*Greenway Sound, British Columbia, Canada
+YGO*CYGO*Gods Lake Narrows Airport*Gods Lake Narrows, Manitoba, Canada
+YGP*CYGP*Michel-Pouliot Gaspé Airport*Gaspé, Quebec, Canada
+YGQ*CYGQ*Geraldton (Greenstone Regional) Airport*Greenstone (Geraldton), Ontario, Canada
+YGR*CYGR*Îles-de-la-Madeleine Airport*Les Îles-de-la-Madeleine, Quebec, Canada
+YGT*CYGT*Igloolik Airport*Igloolik, Nunavut, Canada
+YGV*CYGV*Havre Saint-Pierre Airport*Havre-Saint-Pierre, Quebec, Canada
+YGW*CYGW*Kuujjuarapik Airport*Kuujjuarapik, Quebec, Canada
+YGX*CYGX*Gillam Airport*Gillam, Manitoba, Canada
+YGZ*CYGZ*Grise Fiord Airport*Grise Fiord, Nunavut, Canada
+YHA**Port Hope Simpson Airport (TC: CCP4)*Port Hope Simpson, Newfoundland and Labrador, Canada
+YHB*CYHB*Hudson Bay Airport*Hudson Bay, Saskatchewan, Canada
+YHC**Hakai Passage Water Aerodrome*Hakai Passage, British Columbia, Canada
+YHD*CYHD*Dryden Regional Airport*Dryden, Ontario, Canada
+YHE*CYHE*Hope Aerodrome*Hope, British Columbia, Canada
+YHF*CYHF*Hearst (René Fontaine) Municipal Airport*Hearst, Ontario, Canada
+YHG**Charlottetown Airport (TC: CCH4)*Charlottetown, Prince Edward Island, Canada
+YHH**Campbell River Water Aerodrome (TC: CAE3)*Campbell River, British Columbia, Canada
+YHI*CYHI*Ulukhaktok/Holman Airport*Ulukhaktok, Northwest Territories, Canada
+YHK*CYHK*Gjoa Haven Airport*Gjoa Haven, Nunavut, Canada
+YHM*CYHM*John C. Munro Hamilton International Airport*Hamilton, Ontario, Canada
+YHN*CYHN*Hornepayne Municipal Airport*Hornepayne, Ontario, Canada
+YHO*CYHO*Hopedale Airport*Hopedale, Newfoundland and Labrador, Canada
+YHP*CYHP*Poplar Hill Airport*Poplar Hill, Ontario, Canada
+YHR*CYHR*Chevery Airport*Chevery, Quebec, Canada
+YHS**Sechelt Aerodrome (TC: CAP3)*Sechelt, British Columbia, Canada
+YHT*CYHT*Haines Junction Airport*Haines Junction, Yukon, Canada
+YHU*CYHU*Montréal/Saint-Hubert Airport*Montreal, Quebec, Canada
+YHY*CYHY*Hay River/Merlyn Carter Airport*Hay River, Northwest Territories, Canada
+YHZ*CYHZ*Halifax Stanfield International Airport*Halifax, Nova Scotia, Canada
+YIB*CYIB*Atikokan Municipal Airport*Atikokan, Ontario, Canada
+YIC*ZSYC*Yichun Mingyueshan Airport*Yichun, Jiangxi, China
+YIE*ZBES*Arxan Yi'ershi Airport*Arxan (Aershan), Inner Mongolia, China
+YIF*CYIF*Saint-Augustin Airport*Saint-Augustin / Pakuashipi, Quebec, Canada
+YIG**Big Bay Water Aerodrome (TC: CAF6)*Stuart Island, British Columbia, Canada
+YIH*ZHYC*Yichang Sanxia Airport*Yichang, Hubei, China
+YIK*CYIK*Ivujivik Airport*Ivujivik, Quebec, Canada
+YIN*ZWYN*Yining Airport*Yining (Ghulja), Xinjiang, China
+YIO*CYIO*Pond Inlet Airport*Pond Inlet, Nunavut, Canada
+YIP*KYIP*Willow Run Airport*Detroit, Michigan, United States
+YIV*CYIV*Island Lake Airport (Garden Hill Airport)*Island Lake / Garden Hill, Manitoba, Canada
+YIW*ZSYW*Yiwu Airport*Yiwu, Zhejiang, China
+YJA*CYJA*Jasper Airport*Jasper, Alberta, Canada
+YJF*CYJF*Fort Liard Airport*Fort Liard, Northwest Territories, Canada
+YJN*CYJN*Saint-Jean Airport*Saint-Jean-sur-Richelieu, Quebec, Canada
+YJP**Hinton/Jasper-Hinton Airport (TC: CEC4)*Hinton, Alberta, Canada
+YJS*ZKSE*Samjiyon Airport*Samjiyon, North Korea
+YJT*CYJT*Stephenville International Airport*Stephenville, Newfoundland and Labrador, Canada
+YKA*CYKA*Kamloops Airport*Kamloops, British Columbia, Canada
+YKC*CYKC*Collins Bay Airport*Collins Bay, Saskatchewan, Canada
+YKD*CYKM*Kincardine Municipal Airport*Kincardine, Ontario, Canada
+YKE**Knee Lake Airport (TC: CJT3)*Knee Lake, Manitoba, Canada
+YKF*CYKF*Region of Waterloo International Airport*Kitchener / Cambridge / Waterloo, Ontario, Canada
+YKG*CYAS*Kangirsuk Airport*Kangirsuk, Quebec, Canada
+YKH*ZYYK*Yingkou Lanqi Airport*Yingkou, Liaoning, China
+YKJ*CYKJ*Key Lake Airport*Key Lake, Saskatchewan, Canada
+YKK**Kitkatla Water Aerodrome (TC: CAP7)*Kitkatla, British Columbia, Canada
+YKL*CYKL*Schefferville Airport*Schefferville, Quebec, Canada
+YKM*KYKM*Yakima Air Terminal (McAllister Field)*Yakima, Washington, United States
+YKN*KYKN*Chan Gurney Municipal Airport*Yankton, South Dakota, United States
+YKO*LTCW*Hakkari Yüksekova Airport*Hakkâri / Yüksekova, Turkey
+YKQ*CYKQ*Waskaganish Airport*Waskaganish, Quebec, Canada
+YKS*UEEE*Yakutsk Airport*Yakutsk, Yakutia, Russia
+YKT**Klemtu Water Aerodrome*Klemtu, British Columbia, Canada
+YKU**Chisasibi Airport (TC: CSU2)*Chisasibi, Quebec, Canada
+YKX*CYKX*Kirkland Lake Airport*Kirkland Lake, Ontario, Canada
+YKY*CYKY*Kindersley Regional Airport*Kindersley, Saskatchewan, Canada
+YKZ*CYKZ*Buttonville Municipal Airport*Toronto, Ontario, Canada
+YLB*CYLB*Lac La Biche Airport*Lac La Biche, Alberta, Canada
+YLC*CYLC*Kimmirut Airport*Kimmirut, Nunavut, Canada
+YLD*CYLD*Chapleau Airport*Chapleau, Ontario, Canada
+YLE**Whatì Airport (TC: CEM3)*Whatì, Northwest Territories, Canada
+YLG*YYAL*Yalgoo Airport*Yalgoo, Western Australia, Australia
+YLH*CYLH*Lansdowne House Airport*Neskantaga (Lansdowne House Indian Band), Ontario, Canada
+YLI*EFYL*Ylivieska Airfield*Ylivieska, Finland
+YLJ*CYLJ*Meadow Lake Airport*Meadow Lake, Saskatchewan, Canada
+YLK*CYLS*Lake Simcoe Regional Airport*Barrie / Orillia, Ontario, Canada
+YLL*CYLL*Lloydminster Airport*Lloydminster, Alberta/Saskatchewan,2 Canada
+YLM**Clinton Creek Airport*Clinton Creek, Yukon, Canada
+YLN*ZYYL*Yilan Airport*Yilan, Heilongjiang, China
+YLP*CYLP*Mingan Airport*Mingan, Quebec, Canada
+YLQ*CYLQ*La Tuque Airport*La Tuque, Quebec, Canada
+YLR*CYLR*Leaf Rapids Airport*Leaf Rapids, Manitoba, Canada
+YLS**Lebel-sur-Quévillon Airport (TC: CSH4)*Lebel-sur-Quévillon, Quebec, Canada
+YLT*CYLT*Alert Airport*Alert, Nunavut, Canada
+YLV*UBEE*Yevlakh Airport*Yevlakh, Azerbaijan
+YLW*CYLW*Kelowna International Airport*Kelowna, British Columbia, Canada
+YLY*CYNJ*Langley Regional Airport*Langley, British Columbia, Canada
+YMA*CYMA*Mayo Airport*Mayo, Yukon, Canada
+YMB**Merritt Airport (TC: CAD5)*Merritt, British Columbia, Canada
+YMD*CYMD*Mould Bay Airport*Prince Patrick Island, Northwest Territories, Canada
+YME*CYME*Matane Airport*Matane, Quebec, Canada
+YMF**Montague Harbour Water Aerodrome*Galiano Island, British Columbia, Canada
+YMG*CYMG*Manitouwadge Airport*Manitouwadge, Ontario, Canada
+YMH*CYMH*Mary's Harbour Airport*Mary's Harbour, Newfoundland and Labrador, Canada
+YMJ*CYMJ*CFB Moose Jaw (C.M. McEwen Airport)*Moose Jaw, Saskatchewan, Canada
+YMK*USDK*Mys-Kamenny Airport*Mys-Kamenny, Yamalo-Nenets Autonomous Okrug, Russia
+YML*CYML*Charlevoix Airport*La Malbaie, Quebec, Canada
+YMM*CYMM*Fort McMurray International Airport*Fort McMurray, Alberta, Canada
+YMN*CYFT*Makkovik Airport*Makkovik, Newfoundland and Labrador, Canada
+YMO*CYMO*Moosonee Airport*Moosonee, Ontario, Canada
+YMP**Port McNeill Airport (TC: CAT5)*Port McNeill, British Columbia, Canada
+YMQ**metropolitan area3*Montreal, Quebec, Canada
+YMS*SPMS*Moisés Benzaquén Rengifo Airport*Yurimaguas, Peru
+YMT*CYMT*Chibougamau/Chapais Airport*Chibougamau, Quebec, Canada
+YMU**Mansons Landing Water Aerodrome (TC: CAV7)*Mansons Landing, British Columbia, Canada
+YMV**Mary River Aerodrome (TC: CMR2)*Mary River, Nunavut, Canada
+YMW*CYMW*Maniwaki Airport*Maniwaki, Quebec, Canada
+YMX*CYMX*Montréal–Mirabel International Airport*Montreal, Quebec, Canada
+YNA*CYNA*Natashquan Airport*Natashquan, Quebec, Canada
+YNB*OEYN*Yanbu Airport (Yenbo Airport)*Yanbu al Bahr (Yenbo), Saudi Arabia
+YNC*CYNC*Wemindji Airport*Wemindji, Quebec, Canada
+YND*CYND*Gatineau-Ottawa Executive Airport*Gatineau / Ottawa (ON), Quebec, Canada
+YNE*CYNE*Norway House Airport*Norway House, Manitoba, Canada
+YNG*KYNG*Youngstown–Warren Regional Airport*Youngstown / Warren, Ohio, United States
+YNH*CYNH*Hudson's Hope Airport*Hudson's Hope, British Columbia, Canada
+YNJ*ZYYJ*Yanji Chaoyangchuan Airport*Yanji, Jilin, China
+YNL*CYNL*Points North Landing Airport*Points North Landing, Saskatchewan, Canada
+YNM*CYNM*Matagami Airport*Matagami, Quebec, Canada
+YNN**Yandicoogina Airport*Yandicoogina, Western Australia, Australia
+YNO**North Spirit Lake Airport (TC: CKQ3)*North Spirit Lake, Ontario, Canada
+YNP**Natuashish Airport (TC: CNH2)*Natuashish, Newfoundland and Labrador, Canada
+YNS*CYHH*Nemiscau Airport*Nemiscau, Quebec, Canada
+YNT*ZSYT*Yantai Penglai International Airport*Yantai, Shandong, China
+YNX**Snap Lake Airport (TC: CSK6)*Snap Lake, Northwest Territories, Canada
+YNY*RKNY*Yangyang International Airport*Yangyang, South Korea
+YNZ*ZSYN*Yancheng Nanyang International Airport*Yancheng, Jiangsu, China
+YOA*CYOA*Ekati Airport*Ekati, Northwest Territories, Canada
+YOC*CYOC*Old Crow Airport*Old Crow, Yukon, Canada
+YOD*CYOD*CFB Cold Lake (R.W. McNair Airport)*Cold Lake, Alberta, Canada
+YOE**Donnelly Airport (TC: CFM4)*Donnelly, Alberta, Canada
+YOG*CYKP*Ogoki Post Airport*Marten Falls (Ogoki), Ontario, Canada
+YOH*CYOH*Oxford House Airport*Oxford House, Manitoba, Canada
+YOI**Opinaca Aerodrome (TC: CPN8)*Opinaca, Quebec, Canada
+YOJ*CYOJ*High Level Airport*High Level, Alberta, Canada
+YOL*DNYO*Yola Airport*Yola, Nigeria
+YON*VQTY*Yongphulla Airport (Yonphula Airport)*Trashigang, Bhutan
+YOO*CYOO*Oshawa Airport*Oshawa, Ontario, Canada
+YOP*CYOP*Rainbow Lake Airport*Rainbow Lake, Alberta, Canada
+YOS*CYOS*Billy Bishop Regional Airport*Owen Sound, Ontario, Canada
+YOT*LLYT*Yotvata Airfield*Yotvata, Israel
+YOW*CYOW*Ottawa Macdonald–Cartier International Airport*Ottawa, Ontario, Canada
+YPA*CYPA*Prince Albert (Glass Field) Airport*Prince Albert, Saskatchewan, Canada
+YPB**Alberni Valley Regional Airport (TC: CBS8)*Port Alberni, British Columbia, Canada
+YPC*CYPC*Nora Aliqatchialuk Ruben Airport*Paulatuk, Northwest Territories, Canada
+YPD**Parry Sound Area Municipal Airport (TC: CNK4)*Parry Sound, Ontario, Canada
+YPE*CYPE*Peace River Airport*Peace River, Alberta, Canada
+YPG*CYPG*Portage la Prairie/Southport Airport*Portage la Prairie, Manitoba, Canada
+YPH*CYPH*Inukjuak Airport*Inukjuak, Quebec, Canada
+YPI**Port Simpson Water Aerodrome (TC: CAN8)*Lax Kw'alaams (Port Simpson), British Columbia, Canada
+YPJ*CYLA*Aupaluk Airport*Aupaluk, Quebec, Canada
+YPL*CYPL*Pickle Lake Airport*Pickle Lake, Ontario, Canada
+YPM*CYPM*Pikangikum Airport*Pikangikum, Ontario, Canada
+YPN*CYPN*Port-Menier Airport*Port-Menier, Quebec, Canada
+YPO*CYPO*Peawanuck Airport*Peawanuck, Ontario, Canada
+YPQ*CYPQ*Peterborough Airport*Peterborough, Ontario, Canada
+YPR*CYPR*Prince Rupert Airport*Prince Rupert, British Columbia, Canada
+YPS*CYPD*Port Hawkesbury Airport*Port Hawkesbury, Nova Scotia, Canada
+YPT**Pender Harbour Water Aerodrome (TC: CAG8)*Pender Harbour, British Columbia, Canada
+YPW*CYPW*Powell River Airport*Powell River, British Columbia, Canada
+YPX*CYPX*Puvirnituq Airport*Puvirnituq, Quebec, Canada
+YPY*CYPY*Fort Chipewyan Airport*Fort Chipewyan, Alberta, Canada
+YPZ*CYPZ*Burns Lake Airport*Burns Lake, British Columbia, Canada
+YQA*CYQA*Muskoka Airport*Muskoka, Ontario, Canada
+YQB*CYQB*Québec City Jean Lesage International Airport*Quebec City, Quebec, Canada
+YQC*CYHA*Quaqtaq Airport*Quaqtaq, Quebec, Canada
+YQD*CYQD*The Pas Airport*The Pas, Manitoba, Canada
+YQF*CYQF*Red Deer Regional Airport*Red Deer, Alberta, Canada
+YQG*CYQG*Windsor International Airport*Windsor, Ontario, Canada
+YQH*CYQH*Watson Lake Airport*Watson Lake, Yukon, Canada
+YQI*CYQI*Yarmouth Airport*Yarmouth, Nova Scotia, Canada
+YQJ**April Point Water Aerodrome*Quadra Island, British Columbia, Canada
+YQK*CYQK*Kenora Airport*Kenora, Ontario, Canada
+YQL*CYQL*Lethbridge Airport*Lethbridge, Alberta, Canada
+YQM*CYQM*Greater Moncton International Airport*Moncton, New Brunswick, Canada
+YQN*CYQN*Nakina Airport*Greenstone (Nakina), Ontario, Canada
+YQQ*CYQQ*CFB Comox*Comox, British Columbia, Canada
+YQR*CYQR*Regina International Airport*Regina, Saskatchewan, Canada
+YQS*CYQS*St. Thomas Municipal Airport*St. Thomas, Ontario, Canada
+YQT*CYQT*Thunder Bay International Airport*Thunder Bay, Ontario, Canada
+YQU*CYQU*Grande Prairie Airport*Grande Prairie, Alberta, Canada
+YQV*CYQV*Yorkton Municipal Airport*Yorkton, Saskatchewan, Canada
+YQW*CYQW*North Battleford Airport (Cameron McIntosh Airport)*North Battleford, Saskatchewan, Canada
+YQX*CYQX*Gander International Airport / CFB Gander*Gander, Newfoundland and Labrador, Canada
+YQY*CYQY*Sydney/J.A. Douglas McCurdy Airport*Sydney, Nova Scotia, Canada
+YQZ*CYQZ*Quesnel Airport*Quesnel, British Columbia, Canada
+YRA*CYRA*Gamètì/Rae Lakes Airport*Gamèti, Northwest Territories, Canada
+YRB*CYRB*Resolute Bay Airport*Resolute, Nunavut, Canada
+YRC**Refuge Cove Water Aerodrome*Refuge Cove, British Columbia, Canada
+YRD**Dean River Airport*Dean River, British Columbia, Canada
+YRF*CYCA*Cartwright Airport*Cartwright, Newfoundland and Labrador, Canada
+YRG**Rigolet Airport (TC: CCZ2)*Rigolet, Newfoundland and Labrador, Canada
+YRI*CYRI*Rivière-du-Loup Airport*Rivière-du-Loup, Quebec, Canada
+YRJ*CYRJ*Roberval Airport*Roberval, Quebec, Canada
+YRL*CYRL*Red Lake Airport*Red Lake, Ontario, Canada
+YRM*CYRM*Rocky Mountain House Airport*Rocky Mountain House, Alberta, Canada
+YRN**Rivers Inlet Water Aerodrome (TC: CAU8)*Rivers Inlet, British Columbia, Canada
+YRO*CYRO*Ottawa/Rockcliffe Airport*Ottawa, Ontario, Canada
+YRP*CYRP*Ottawa/Carp Airport*Carp, Ontario, Canada
+YRQ*CYRQ*Trois-Rivières Airport*Trois-Rivières, Quebec, Canada
+YRR**Stuart Island Airport*Stuart Island, British Columbia, Canada
+YRS*CYRS*Red Sucker Lake Airport*Red Sucker Lake, Manitoba, Canada
+YRT*CYRT*Rankin Inlet Airport*Rankin Inlet, Nunavut, Canada
+YRV*CYRV*Revelstoke Airport*Revelstoke, British Columbia, Canada
+YSA**Sable Island Aerodrome*Sable Island, Nova Scotia, Canada
+YSB*CYSB*Sudbury Airport*Greater Sudbury, Ontario, Canada
+YSC*CYSC*Sherbrooke Airport*Sherbrooke, Quebec, Canada
+YSD*CYSD*CFB Suffield*Suffield, Alberta, Canada
+YSE*CYSE*Squamish Airport*Squamish, British Columbia, Canada
+YSF*CYSF*Stony Rapids Airport*Stony Rapids, Saskatchewan, Canada
+YSG*CYLK*Lutselk'e Airport*Lutselk'e, Northwest Territories, Canada
+YSH*CYSH*Smiths Falls-Montague Airport*Smiths Falls, Ontario, Canada
+YSI**Parry Sound/Frying Pan Island-Sans Souci Water Aerodrome (TC: CPS9)*Fryingpan Island, Ontario, Canada
+YSJ*CYSJ*Saint John Airport*Saint John, New Brunswick, Canada
+YSK*CYSK*Sanikiluaq Airport*Sanikiluaq, Nunavut, Canada
+YSL*CYSL*Saint-Léonard Aerodrome*Saint-Léonard, New Brunswick, Canada
+YSM*CYSM*Fort Smith Airport*Fort Smith, Northwest Territories, Canada
+YSN*CZAM*Salmon Arm Airport*Salmon Arm, British Columbia, Canada
+YSO**Postville Airport (TC: CCD4)*Postville, Newfoundland and Labrador, Canada
+YSP*CYSP*Marathon Aerodrome*Marathon, Ontario, Canada
+YST*CYST*St. Theresa Point Airport*St. Theresa Point, Manitoba, Canada
+YSU*CYSU*Summerside Airport*Summerside, Prince Edward Island, Canada
+YSX**Bella Bella/Shearwater Water Aerodrome (TC: CAW8)*Bella Bella, British Columbia, Canada
+YSY*CYSY*Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport*Sachs Harbour, Northwest Territories, Canada
+YTA*CYTA*Pembroke Airport*Pembroke, Ontario, Canada
+YTB**Hartley Bay Water Aerodrome (TC: CAY4)*Hartley Bay, British Columbia, Canada
+YTD*CZLQ*Thicket Portage Airport*Thicket Portage, Manitoba, Canada
+YTE*CYTE*Cape Dorset Airport*Cape Dorset, Nunavut, Canada
+YTF*CYTF*Alma Airport*Alma, Quebec, Canada
+YTG**Sullivan Bay Water Aerodrome (TC: CAV5)*Sullivan Bay, British Columbia, Canada
+YTH*CYTH*Thompson Airport*Thompson, Manitoba, Canada
+YTL*CYTL*Big Trout Lake Airport*Kitchenuhmaykoosib Inninuwug (Big Trout Lake), Ontario, Canada
+YTM*CYFJ*Mont Tremblant International Airport*Mont-Tremblant, Quebec, Canada
+YTO**metropolitan area4*Toronto, Ontario, Canada
+YTP**Tofino Harbour Water Aerodrome (TC: CAB4)*Tofino, British Columbia, Canada
+YTQ*CYTQ*Tasiujaq Airport*Tasiujaq, Quebec, Canada
+YTR*CYTR*CFB Trenton*Trenton, Ontario, Canada
+YTS*CYTS*Timmins/Victor M. Power Airport*Timmins, Ontario, Canada
+YTT**Tisdale Airport (TC: CJY3)*Tisdale, Saskatchewan, Canada
+YTU**Tasu Water Aerodrome*Tasu, British Columbia, Canada
+YTX**Telegraph Creek Airport (TC: CBM5)*Telegraph Creek, British Columbia, Canada
+YTY*ZSYA*Yangzhou Taizhou Airport*Yangzhou / Taizhou, Jiangsu, China
+YTZ*CYTZ*Billy Bishop Toronto City Airport (Toronto Island Airport)*Toronto, Ontario, Canada
+YUA*ZPYM*Yuanmou Air Base*Yuanmou, Yunnan, China
+YUB*CYUB*Tuktoyaktuk/James Gruben Airport*Tuktoyaktuk, Northwest Territories, Canada
+YUD*CYMU*Umiujaq Airport*Umiujaq, Quebec, Canada
+YUE*YYND*Yuendumu Airport*Yuendumu, Northern Territory, Australia
+YUL*CYUL*Montréal–Pierre Elliott Trudeau International Airport*Montreal, Quebec, Canada
+YUM*KNYL*Yuma International Airport / MCAS Yuma (FAA: NYL)*Yuma, Arizona, United States
+YUS*ZLYS*Yushu Batang Airport*Yushu City, Qinghai, China
+YUT*CYUT*Repulse Bay Airport*Naujaat (Repulse Bay), Nunavut, Canada
+YUX*CYUX*Hall Beach Airport*Hall Beach, Nunavut, Canada
+YUY*CYUY*Rouyn-Noranda Airport*Rouyn-Noranda, Quebec, Canada
+YVA*FMCN*Iconi Airport*Moroni, Comoros
+YVB*CYVB*Bonaventure Airport*Bonaventure, Quebec, Canada
+YVC*CYVC*La Ronge (Barber Field) Airport*La Ronge, Saskatchewan, Canada
+YVD**Yeva Airport*Yeva, Papua New Guinea
+YVE*CYVK*Vernon Regional Airport*Vernon, British Columbia, Canada
+YVG*CYVG*Vermilion Airport*Vermilion, Alberta, Canada
+YVM*CYVM*Qikiqtarjuaq Airport*Qikiqtarjuaq, Nunavut, Canada
+YVN*CYVN*Cape Dyer Airport*Cape Dyer, Nunavut, Canada
+YVO*CYVO*Val-d'Or Airport*Val-d'Or, Quebec, Canada
+YVP*CYVP*Kuujjuaq Airport*Kuujjuaq, Quebec, Canada
+YVQ*CYVQ*Norman Wells Airport*Norman Wells, Northwest Territories, Canada
+YVR*CYVR*Vancouver International Airport*Vancouver, British Columbia, Canada
+YVT*CYVT*Buffalo Narrows Airport*Buffalo Narrows, Saskatchewan, Canada
+YVV*CYVV*Wiarton Airport*Wiarton, Ontario, Canada
+YVZ*CYVZ*Deer Lake Airport*Deer Lake, Ontario, Canada
+YWA*CYWA*Petawawa Airport*Petawawa, Ontario, Canada
+YWB*CYKG*Kangiqsujuaq (Wakeham Bay) Airport*Kangiqsujuaq, Quebec, Canada
+YWG*CYWG*Winnipeg James Armstrong Richardson International Airport*Winnipeg, Manitoba, Canada
+YWH*CYWH*Victoria Harbour Water Airport*Victoria, British Columbia, Canada
+YWJ*CYWJ*Déline Airport*Deline, Northwest Territories, Canada
+YWK*CYWK*Wabush Airport*Wabush, Newfoundland and Labrador, Canada
+YWL*CYWL*Williams Lake Airport*Williams Lake, British Columbia, Canada
+YWM**Williams Harbour Airport (TC: CCA6)*William's Harbour, Newfoundland and Labrador, Canada
+YWP*CYWP*Webequie Airport*Webequie, Ontario, Canada
+YWQ**Chutes-des-Passes/Lac Margane Water Aerodrome (TC: CTM3)*Passes-Dangereuses (Chute-des-Passes), Quebec, Canada
+YWR**White River Water Aerodrome (TC: CNJ8)*White River, Ontario, Canada
+YWS**Whistler/Green Lake Water Aerodrome (TC: CAE5)*Whistler, British Columbia, Canada
+YWY*CYWY*Wrigley Airport*Wrigley, Northwest Territories, Canada
+YXC*CYXC*Cranbrook/Canadian Rockies International Airport*Cranbrook, British Columbia, Canada
+YXD*CYXD*Edmonton City Centre (Blatchford Field) Airport*Edmonton, Alberta, Canada
+YXE*CYXE*Saskatoon John G. Diefenbaker International Airport*Saskatoon, Saskatchewan, Canada
+YXH*CYXH*Medicine Hat Airport*Medicine Hat, Alberta, Canada
+YXJ*CYXJ*Fort St. John Airport (North Peace Airport)*Fort St. John, British Columbia, Canada
+YXK*CYXK*Rimouski Airport*Rimouski, Quebec, Canada
+YXL*CYXL*Sioux Lookout Airport*Sioux Lookout, Ontario, Canada
+YXN*CYXN*Whale Cove Airport*Whale Cove, Nunavut, Canada
+YXP*CYXP*Pangnirtung Airport*Pangnirtung, Nunavut, Canada
+YXQ*CYXQ*Beaver Creek Airport*Beaver Creek, Yukon, Canada
+YXR*CYXR*Earlton (Timiskaming Regional) Airport*Armstrong (Earlton), Ontario, Canada
+YXS*CYXS*Prince George Airport*Prince George, British Columbia, Canada
+YXT*CYXT*Northwest Regional Airport*Terrace, British Columbia, Canada
+YXU*CYXU*London International Airport*London, Ontario, Canada
+YXX*CYXX*Abbotsford International Airport*Abbotsford, British Columbia, Canada
+YXY*CYXY*Erik Nielsen Whitehorse International Airport*Whitehorse, Yukon, Canada
+YXZ*CYXZ*Wawa Airport*Wawa, Ontario, Canada
+YYB*CYYB*North Bay/Jack Garland Airport*North Bay, Ontario, Canada
+YYC*CYYC*Calgary International Airport*Calgary, Alberta, Canada
+YYD*CYYD*Smithers Airport*Smithers, British Columbia, Canada
+YYE*CYYE*Northern Rockies Regional Airport*Fort Nelson, British Columbia, Canada
+YYF*CYYF*Penticton Regional Airport*Penticton, British Columbia, Canada
+YYG*CYYG*Charlottetown Airport*Charlottetown, Prince Edward Island, Canada
+YYH*CYYH*Taloyoak Airport*Taloyoak, Nunavut, Canada
+YYI*CYYI*Rivers Airport*Rivers, Manitoba, Canada
+YYJ*CYYJ*Victoria International Airport*Victoria, British Columbia, Canada
+YYL*CYYL*Lynn Lake Airport*Lynn Lake, Manitoba, Canada
+YYM*CYYM*Cowley Airport*Cowley, Alberta, Canada
+YYN*CYYN*Swift Current Airport*Swift Current, Saskatchewan, Canada
+YYQ*CYYQ*Churchill Airport*Churchill, Manitoba, Canada
+YYR*CYYR*CFB Goose Bay*Happy Valley-Goose Bay, Newfoundland and Labrador, Canada
+YYT*CYYT*St. John's International Airport*St. John's, Newfoundland and Labrador, Canada
+YYU*CYYU*Kapuskasing Airport*Kapuskasing, Ontario, Canada
+YYW*CYYW*Armstrong Airport*Armstrong, Ontario, Canada
+YYY*CYYY*Mont-Joli Airport*Mont-Joli, Quebec, Canada
+YYZ*CYYZ*Toronto Pearson International Airport*Toronto, Ontario, Canada
+YZA*CYZA*Cache Creek Airport (Ashcroft Regional Airport)*Cache Creek / Ashcroft, British Columbia, Canada
+YZE*CYZE*Gore Bay-Manitoulin Airport*Gore Bay, Ontario, Canada
+YZF*CYZF*Yellowknife Airport*Yellowknife, Northwest Territories, Canada
+YZG*CYZG*Salluit Airport*Salluit, Quebec, Canada
+YZH*CYZH*Slave Lake Airport*Slave Lake, Alberta, Canada
+YZP*CYZP*Sandspit Airport*Sandspit, British Columbia, Canada
+YZR*CYZR*Sarnia Chris Hadfield Airport*Sarnia, Ontario, Canada
+YZS*CYZS*Coral Harbour Airport*Coral Harbour, Nunavut, Canada
+YZT*CYZT*Port Hardy Airport*Port Hardy, British Columbia, Canada
+YZU*CYZU*Whitecourt Airport*Whitecourt, Alberta, Canada
+YZV*CYZV*Sept-Îles Airport*Sept-Îles, Quebec, Canada
+YZW*CYZW*Teslin Airport*Teslin, Yukon, Canada
+YZX*CYZX*CFB Greenwood*Greenwood, Nova Scotia, Canada
+YZY*ZLZY*Zhangye Ganzhou Airport*Zhangye, Gansu, China
+YZZ**Trail Airport (TC: CAD4)*Trail, British Columbia, Canada

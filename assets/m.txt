@@ -1,0 +1,641 @@
+MAA*VOMM*Chennai International Airport*Chennai, Tamil Nadu, India
+MAB*SBMA*João Correa da Rocha Airport*Marabá, Pará, Brazil
+MAC*KMAC*Macon Downtown Airport*Macon, Georgia, United States
+MAD*LEMD*Adolfo Suárez Madrid–Barajas Airport*Madrid, Spain
+MAE*KMAE*Madera Municipal Airport*Madera, California, United States
+MAF*KMAF*Midland International Air and Space Port*Midland, Texas, United States
+MAG*AYMD*Madang Airport*Madang, Papua New Guinea
+MAH*LEMH*Menorca Airport (Mahón Airport)*Menorca, Balearic Islands, Spain
+MAI*FWMG*Mangochi Airport*Mangochi, Malawi
+MAJ*PKMJ*Marshall Islands International Airport (Amata Kabua Int'l)*Majuro, Marshall Islands
+MAK*HSSM*Malakal Airport*Malakal, South Sudan
+MAL*WAPE*Mangole Airport*Mangole Island, Indonesia
+MAM*MMMA*General Servando Canales International Airport*Matamoros, Tamaulipas, Mexico
+MAN*EGCC*Manchester Airport*Manchester, England, United Kingdom
+MAO*SBEG*Eduardo Gomes International Airport*Manaus, Amazonas, Brazil
+MAP**Mamai Airport*Mamai, Papua New Guinea
+MAQ*VTPM*Mae Sot Airport*Mae Sot, Thailand
+MAR*SVMC*La Chinita International Airport*Maracaibo, Venezuela
+MAS*AYMO*Momote Airport*Manus Island, Papua New Guinea
+MAT*FZAM*Matadi Tshimpi Airport*Matadi, Democratic Republic of the Congo
+MAU*NTTP*Maupiti Airport*Maupiti, Leeward Islands, French Polynesia
+MAV**Maloelap Airport (FAA: 3N1)*Taroa Island, Maloelap Atoll, Marshall Islands
+MAW*KMAW*Malden Regional Airport*Malden, Missouri, United States
+MAX*GOSM*Ouro Sogui Airport*Matam, Senegal
+MAY*MYAB*Clarence A. Bain Airport*Mangrove Cay, Andros Island, Bahamas
+MAZ*TJMZ*Eugenio María de Hostos Airport*Mayagüez, Puerto Rico, United States
+MBA*HKMO*Moi International Airport*Mombasa, Kenya
+MBB*YMBL*Marble Bar Airport*Marble Bar, Western Australia, Australia
+MBC*FOGG*Mbigou Airport*Mbigou, Gabon
+MBD*FAMM*Mahikeng Airport (Mmabatho Airport)*Mmabatho, South Africa
+MBE*RJEB*Monbetsu Airport*Monbetsu, Hokkaido, Hokkaido, Japan
+MBF*YPOK*Porepunkah Airfield*Mount Buffalo, Victoria, Australia
+MBG*KMBG*Mobridge Municipal Airport*Mobridge, South Dakota, United States
+MBH*YMYB*Maryborough Airport*Maryborough, Queensland, Australia
+MBI*HTMB*Mbeya Airport*Mbeya, Tanzania
+MBJ*MKJS*Sangster International Airport*Montego Bay, Jamaica
+MBK*SWXM*Orlando Villas-Bôas Regional Airport*Matupá, Mato Grosso, Brazil
+MBL*KMBL*Manistee County Blacker Airport*Manistee, Michigan, United States
+MBM**Mkambati Airport*Mkambati, South Africa
+MBN**Mount Barnett Airport*Mount Barnett, Western Australia, Australia
+MBO*RPUM*Mamburao Airport*Mamburao, Philippines
+MBP*SPBB*Moyobamba Airport*Moyobamba, Peru
+MBQ*HUMA*Mbarara Airport*Mbarara, Uganda
+MBR*GQNU*M'Bout Airport*M'Bout, Mauritania
+MBS*KMBS*MBS International Airport*Saginaw / Midland / Bay City, Michigan, United States
+MBT*RPVJ*Moises R. Espinosa Airport (Masbate Airport)*Masbate, Philippines
+MBU*AGGD*Mbambanakira Airport*Mbambanakira, Solomon Islands
+MBV**Masa Airport*Masa, Papua New Guinea
+MBW*YMMB*Moorabbin Airport*Melbourne, Victoria, Australia
+MBX*LJMB*Maribor Edvard Rusjan Airport*Maribor, Slovenia
+MBY*KMBY*Omar N. Bradley Airport*Moberly, Missouri, United States
+MBZ*SWMW*Maués Airport*Maués, Amazonas, Brazil
+MCA*GUMA*Macenta Airport*Macenta, Guinea
+MCB*KMCB*McComb–Pike County Airport (John E. Lewis Field)*McComb, Mississippi, United States
+MCC*KMCC*McClellan Airfield*Sacramento, California, United States
+MCD*KMCD*Mackinac Island Airport*Mackinac Island, Michigan, United States
+MCE*KMCE*Merced Regional Airport (MacReady Field)*Merced, California, United States
+MCF*KMCF*MacDill Air Force Base*Tampa, Florida, United States
+MCG*PAMC*McGrath Airport*McGrath, Alaska, United States
+MCH*SEMH*General Manuel Serrano Airport*Machala, Ecuador
+MCI*KMCI*Kansas City International Airport*Kansas City, Missouri, United States
+MCJ*SKLM*Jorge Isaacs Airport (La Mina Airport)*Maicao, Colombia
+MCK*KMCK*McCook Ben Nelson Regional Airport*McCook, Nebraska, United States
+MCL*PAIN*McKinley National Park Airport (FAA: INR)*McKinley Park, Alaska, United States
+MCN*KMCN*Middle Georgia Regional Airport*Macon, Georgia, United States
+MCO*KMCO*Orlando International Airport*Orlando, Florida, United States
+MCP*SBMQ*Alberto Alcolumbre International Airport*Macapá, Amapá, Brazil
+MCQ*LHMC*Miskolc Airport*Miskolc, Hungary
+MCS*SARM*Monte Caseros Airport*Monte Caseros, Corrientes, Argentina
+MCT*OOMS*Muscat International Airport*Muscat, Oman
+MCU*LFBK*Montluçon – Guéret Airport*Montluçon, Auvergne, France
+MCV*YMHU*McArthur River Mine Airport*McArthur River, Northern Territory, Australia
+MCW*KMCW*Mason City Municipal Airport*Mason City, Iowa, United States
+MCX*URML*Uytash Airport*Makhachkala, Dagestan, Russia
+MCY*YBSU*Sunshine Coast Airport*Sunshine Coast, Queensland, Australia
+MCZ*SBMO*Zumbi dos Palmares International Airport*Maceió, Alagoas, Brazil
+MDB**Melinda Airport*Melinda, Belize
+MDC*WAMM*Sam Ratulangi International Airport*Manado, Indonesia
+MDD*KMDD*Midland Airpark*Midland, Texas, United States
+MDE*SKRG*José María Córdova International Airport*Medellín, Colombia
+MDF*KMDZ*Taylor County Airport*Medford, Wisconsin, United States
+MDG*ZYMD*Mudanjiang Hailang Airport*Mudanjiang, Heilongjiang, China
+MDH*KMDH*Southern Illinois Airport*Carbondale / Murphysboro, Illinois, United States
+MDI*DNMK*Makurdi Airport*Makurdi, Nigeria
+MDJ**Madras Municipal Airport (FAA: S33)*Madras, Oregon, United States
+MDK*FZEA*Mbandaka Airport*Mbandaka, Democratic Republic of the Congo
+MDL*VYMD*Mandalay International Airport*Mandalay, Myanmar
+MDM**Munduku Airport*Munduku, Papua New Guinea
+MDN*KIMS*Madison Municipal Airport*Madison, Indiana, United States
+MDO*PAMD*Middleton Island Airport*Middleton Island, Alaska, United States
+MDP*WAKD*Mindiptana Airport*Mindiptana, Indonesia
+MDQ*SAZM*Astor Piazzolla International Airport*Mar del Plata, Buenos Aires, Argentina
+MDS*MBMC*Middle Caicos Airport*Middle Caicos, British Overseas Territoryof Turks and Caicos Islands
+MDT*KMDT*Harrisburg International Airport*Harrisburg, Pennsylvania, United States
+MDU*AYMN*Mendi Airport*Mendi, Papua New Guinea
+MDV**Médouneu Airport*Médouneu, Gabon
+MDW*KMDW*Midway International Airport*Chicago, Illinois, United States
+MDX*SATM*Mercedes Airport*Mercedes, Corrientes, Argentina
+MDY*PMDY*Henderson Field*Sand Island, Midway Atoll, United States
+MDZ*SAME*Gov. Francisco Gabrielli International Airport (El Plumerillo)*Mendoza, Mendoza, Argentina
+MEA*SBME*Benedito Lacerda Airport*Macaé, Rio de Janeiro, Brazil
+MEB*YMEN*Essendon Airport*Melbourne, Victoria, Australia
+MEC*SEMT*Eloy Alfaro International Airport*Manta, Ecuador
+MED*OEMA*Prince Mohammad bin Abdulaziz Airport*Medina, Saudi Arabia
+MEE*NWWR*Maré Airport*Maré, Loyalty Islands, New Caledonia
+MEF**Melfi Airport*Melfi, Chad
+MEG*FNMA*Malanje Airport*Malanje, Angola
+MEH*ENMH*Mehamn Airport*Mehamn, Norway
+MEI*KMEI*Meridian Regional Airport (Key Field)*Meridian, Mississippi, United States
+MEJ*KGKJ*Port Meadville Airport (FAA: GKJ)*Meadville, Pennsylvania, United States
+MEK*GMFM*Bassatine Air Base*Meknes, Morocco
+MEL*YMML*Melbourne Airport*Melbourne, Victoria, Australia
+MEM*KMEM*Memphis International Airport*Memphis, Tennessee, United States
+MEN*LFNB*Brenoux Airport*Mende, Languedoc-Roussillon, France
+MEO*KMQI*Dare County Regional Airport (FAA: MQI)*Manteo, North Carolina, United States
+MEP*WMAU*Mersing Airport*Mersing, Johor, Malaysia
+MEQ*WITC*Cut Nyak Dhien Airport*Meulaboh, Indonesia
+MER*KMER*Castle Airport*Merced, California, United States
+MES*WIMK*Soewondo Air Force Base*Medan, Indonesia
+MET*YMOT*Moreton Airport*Moreton, Queensland, Australia
+MEU*SBMD*Serra do Areão Airport*Monte Dourado, Pará, Brazil
+MEV*KMEV*Minden–Tahoe Airport*Minden, Nevada, United States
+MEW*FZVM*Mweka Airport*Mweka, Democratic Republic of the Congo
+MEX*MMMX*Mexico City International Airport*Mexico City, Mexico
+MEY*VNMG*Meghauli Airport*Meghauli, Nepal
+MEZ*FAMS*Messina Airport*Messina, South Africa
+MFA*HTMA*Mafia Airport*Mafia Island, Tanzania
+MFB**Monfort Airport*Monfort, Colombia
+MFC*FXMF*Mafeteng Airport*Mafeteng, Lesotho
+MFD*KMFD*Mansfield Lahm Regional Airport*Mansfield, Ohio, United States
+MFE*KMFE*McAllen Miller International Airport*McAllen, Texas, United States
+MFF*FOOD*Moanda Airport*Moanda, Gabon
+MFG*OPMF*Muzaffarabad Airport*Muzaffarabad, Pakistan
+MFH**Mesquite Airport (FAA: 67L)*Mesquite, Nevada, United States
+MFI*KMFI*Marshfield Municipal Airport*Marshfield, Wisconsin, United States
+MFJ*NFMO*Moala Airport*Moala Island, Fiji
+MFK*RCMT*Matsu Beigan Airport*Beigan, Taiwan
+MFL**Mount Full Stop Airport*Wandovale, Queensland, Australia
+MFM*VMMC*Macau International Airport*Macau
+MFN*NZMF*Milford Sound Airport*Milford Sound, New Zealand
+MFO**Manguna Airport*Manguna, Papua New Guinea
+MFP*YMCR*Manners Creek Airport*Manners Creek Station, Northern Territory, Australia
+MFQ*DRRM*Maradi Airport*Maradi, Niger
+MFR*KMFR*Rogue Valley International–Medford Airport*Medford, Oregon, United States
+MFS*SKMF*Miraflores Airport*Miraflores, Colombia
+MFU*FLMF*Mfuwe Airport*Mfuwe, Zambia
+MFV*KMFV*Accomack County Airport*Melfa, Virginia, United States
+MFW**Magaruque Airport*Magaruque Island, Mozambique
+MFX*LFKX*Méribel Altiport*Méribel, Rhône-Alpes, France
+MFY**Mayfa'ah Airport*Mayfa'ah, Yemen
+MFZ**Meselia Airport*Meselia, Papua New Guinea
+MGA*MNMG*Augusto C. Sandino International Airport*Managua, Nicaragua
+MGB*YMTG*Mount Gambier Airport*Mount Gambier, South Australia, Australia
+MGC*KMGC*Michigan City Municipal Airport*Michigan City, Indiana, United States
+MGD*SLMG*Magdalena Airport*Magdalena, Bolivia
+MGE*KMGE*Dobbins Air Reserve Base*Marietta, Georgia, United States
+MGF*SBMG*Sílvio Name Júnior Regional Airport*Maringá, Paraná, Brazil
+MGG**Margarima Airport*Margarima, Papua New Guinea
+MGH*FAMG*Margate Airport*Margate, South Africa
+MGI**Aransas National Wildlife Refuge Airport (FAA: XS10)*Matagorda Island, Texas, United States
+MGJ*KMGJ*Orange County Airport*Montgomery, New York, United States
+MGK*VYMT*Mong Ton Airport*Mong Ton, Myanmar
+MGL*EDLN*Düsseldorf Mönchengladbach Airport*Mönchengladbach, North Rhine-Westphalia, Germany
+MGM*KMGM*Montgomery Regional Airport (Dannelly Field)*Montgomery, Alabama, United States
+MGN*SKMG*Baracoa Regional Airport*Magangué, Colombia
+MGO**Manega Airport*Manega, Gabon
+MGP**Manga Airport*Manga, Papua New Guinea
+MGQ*HCMM*Aden Adde International Airport*Mogadishu, Somalia
+MGR*KMGR*Moultrie Municipal Airport*Moultrie, Georgia, United States
+MGS*NCMG*Mangaia Airport*Mangaia Island, Cook Islands
+MGT*YMGB*Milingimbi Airport*Milingimbi Island, Northern Territory, Australia
+MGU*VYMN*Manaung Airport*Manaung, Myanmar
+MGV*YMGR*Margaret River Station Airport*Margaret River Station, Western Australia, Australia
+MGW*KMGW*Morgantown Municipal Airport (Walter L. Bill Hart Field)*Morgantown, West Virginia, United States
+MGX*FOGI*Moabi Airport*Moabi, Gabon
+MGY*KMGY*Dayton–Wright Brothers Airport*Dayton, Ohio, United States
+MGZ*VYME*Myeik Airport*Myeik, Myanmar
+MHA*SYMD*Mahdia Airport*Mahdia, Guyana
+MHC*SCPQ*Mocopulli Airport*Castro, Chile
+MHD*OIMM*Mashhad International Airport (Shahid Hashemi Nejad Airport)*Mashhad, Iran
+MHE*KMHE*Mitchell Municipal Airport*Mitchell, South Dakota, United States
+MHF**Morichal Airport*Morichal, Colombia
+MHG*EDFM*Mannheim City Airport*Mannheim, Baden-Württemberg, Germany
+MHH*MYAM*Marsh Harbour Airport*Marsh Harbour, Abaco Islands, Bahamas
+MHI*HDMO*Moucha Airport*Moucha Island, Djibouti
+MHK*KMHK*Manhattan Regional Airport*Manhattan, Kansas, United States
+MHL*KMHL*Marshall Memorial Municipal Airport*Marshall, Missouri, United States
+MHN*KMHN*Hooker County Airport*Mullen, Nebraska, United States
+MHO*YMHO*Mount House Airport*Mount House Station, Western Australia, Australia
+MHP*UMMM*Minsk-1 Airport*Minsk, Belarus
+MHQ*EFMA*Mariehamn Airport*Mariehamn, Åland Islands, Finland
+MHR*KMHR*Sacramento Mather Airport*Sacramento, California, United States
+MHS**Dunsmuir Municipal-Mott Airport (FAA: 1O6)*Mount Shasta, California, United States
+MHT*KMHT*Manchester–Boston Regional Airport*Manchester, New Hampshire, United States
+MHU*YHOT*Mount Hotham Airport*Mount Hotham, Victoria, Australia
+MHV*KMHV*Mojave Air and Space Port*Mojave, California, United States
+MHW*SLAG*Monteagudo Airport*Monteagudo, Bolivia
+MHX*NCMH*Manihiki Island Airport*Manihiki, Cook Islands
+MHY**Morehead Airport*Morehead, Papua New Guinea
+MHZ*EGUN*RAF Mildenhall*Mildenhall, England, United Kingdom
+MIA*KMIA*Miami International Airport*Miami, Florida, United States
+MIB*KMIB*Minot Air Force Base*Minot, North Dakota, United States
+MIC*KMIC*Crystal Airport*Minneapolis / St Paul, Minnesota, United States
+MID*MMMD*Manuel Crescencio Rejón International Airport*Mérida, Yucatán, Mexico
+MIE*KMIE*Delaware County Regional Airport*Muncie, Indiana, United States
+MIF**Roy Hurd Memorial Airport (FAA: E01)*Monahans, Texas, United States
+MIG*ZUMY*Mianyang Nanjiao Airport*Mianyang, Sichuan, China
+MIH*YMIP*Mitchell Plateau Airport*Mitchell Plateau, Western Australia, Australia
+MII*SBML*Frank Miloye Milenkowichi–Marília State Airport*Marília, São Paulo, Brazil
+MIJ*MLIP*Mili Airport (FAA: 1Q9)*Mili Atoll, Marshall Islands
+MIK*EFMI*Mikkeli Airport*Mikkeli, Finland
+MIL**metropolitan area1*Milan, Lombardy, Italy
+MIM*YMER*Merimbula Airport*Merimbula, New South Wales, Australia
+MIN*YMPA*Minnipa Airport*Minnipa, South Australia, Australia
+MIO*KMIO*Miami Municipal Airport*Miami, Oklahoma, United States
+MIP*LLMR*Mitzpe Ramon Airport*Mitzpe Ramon, Israel
+MIQ*KMLE*Millard Airport (FAA: MLE)*Omaha, Nebraska, United States
+MIR*DTMB*Monastir Habib Bourguiba International Airport*Monastir, Tunisia
+MIS*AYMS*Misima Island Airport*Misima Island, Papua New Guinea
+MIT*KMIT*Shafter Airport (Minter Field)*Shafter, California, United States
+MIU*DNMA*Maiduguri International Airport*Maiduguri, Nigeria
+MIV*KMIV*Millville Municipal Airport*Millville, New Jersey, United States
+MIW*KMIW*Marshalltown Municipal Airport*Marshalltown, Iowa, United States
+MIX**Mirití-Paraná Airport*Mirití-Paraná, Colombia
+MIY**Mittiebah Airport*Mittiebah Station, Northern Territory, Australia
+MIZ**Mainoru Airport*Mainoru, Northern Territory, Australia
+MJA*FMSJ*Manja Airport*Manja, Madagascar
+MJB**Mejit Airport (FAA: Q30)*Mejit Island, Marshall Islands
+MJC*DIMN*Man Airport*Man, Ivory Coast
+MJD*OPMJ*Moenjodaro Airport*Mohenjo-daro, Pakistan
+MJE**Majkin Airport*Majkin, Marshall Islands
+MJF*ENMS*Mosjøen Airport, Kjærstad*Mosjøen, Norway
+MJI*HLLM*Mitiga International Airport*Tripoli, Libya
+MJJ**Moki Airport*Moki, Papua New Guinea
+MJK*YSHK*Shark Bay Airport*Monkey Mia, Western Australia, Australia
+MJL*FOGM*Mouila Airport*Mouila, Gabon
+MJM*FZWA*Mbuji Mayi Airport*Mbuji-Mayi, Democratic Republic of the Congo
+MJN*FMNM*Amborovy Airport (Philibert Tsiranana Airport)*Mahajanga, Madagascar
+MJO*FYME*Mount Etjo Airport*Mount Etjo, Namibia
+MJP*YMJM*Manjimup Airport*Manjimup, Western Australia, Australia
+MJQ*KMJQ*Jackson Municipal Airport*Jackson, Minnesota, United States
+MJR**Miramar Airport*Miramar, Buenos Aires, Argentina
+MJS**Maganja da Costa Airport*Maganja da Costa, Mozambique
+MJT*LGMT*Mytilene International Airport*Mytilene, Lesbos, Greece
+MJU*WAAJ*Tampa Padang Airport*Mamuju, Indonesia
+MJV*LELC*Murcia–San Javier Airport*Murcia, Region of Murcia, Spain
+MJW*FVMH*Mahenye Airport*Mahenye, Zimbabwe
+MJX*KMJX*Robert J. Miller Air Park (Ocean County Airport)*Toms River, New Jersey, United States
+MJZ*UERR*Mirny Airport*Mirny, Yakutia, Russia
+MKB*FOOE*Mékambo Airport*Mékambo, Gabon
+MKC*KMKC*Charles B. Wheeler Downtown Airport*Kansas City, Missouri, United States
+MKE*KMKE*General Mitchell International Airport*Milwaukee, Wisconsin, United States
+MKF**Miangas Airport*Miangas, Indonesia
+MKG*KMKG*Muskegon County Airport*Muskegon, Michigan, United States
+MKH*FXMK*Mokhotlong Airport*Mokhotlong, Lesotho
+MKI*FEGE*M'Boki Airport*Obo, Central African Republic
+MKJ*FCOM*Makoua Airport*Makoua, Republic of the Congo
+MKK*PHMK*Molokai Airport*Kaunakakai, Hawaii, United States
+MKL*KMKL*McKellar–Sipes Regional Airport*Jackson, Tennessee, United States
+MKM*WBGK*Mukah Airport*Mukah, Sarawak, Malaysia
+MKN**Malekolon Airport*Malekolon, Papua New Guinea
+MKO*KMKO*Davis Field*Muskogee, Oklahoma, United States
+MKP*NTGM*Makemo Airport*Makemo, French Polynesia
+MKQ*WAKK*Mopah Airport*Merauke, Indonesia
+MKR*YMEK*Meekatharra Airport*Meekatharra, Western Australia, Australia
+MKS*HAMA*Mekane Selam Airport*Mekane Selam, Ethiopia
+MKT*KMKT*Mankato Regional Airport*Mankato, Minnesota, United States
+MKU*FOOK*Makokou Airport*Makokou, Gabon
+MKV*YMVG*Mount Cavenagh Airport*Mount Cavenagh, Northern Territory, Australia
+MKW*WASR*Rendani Airport*Manokwari, Indonesia
+MKY*YBMK*Mackay Airport*Mackay, Queensland, Australia
+MKZ*WMKM*Malacca International Airport*Malacca City, Malacca, Malaysia
+MLA*LMML*Malta International Airport (Luqa Airport)*Luqa, Malta
+MLB*KMLB*Orlando Melbourne International Airport*Melbourne, Florida, United States
+MLC*KMLC*McAlester Regional Airport*McAlester, Oklahoma, United States
+MLD*KMLD*Malad City Airport*Malad City, Idaho, United States
+MLE*VRMM*Ibrahim Nasir International Airport*Malé, Maldives
+MLF*KMLF*Milford Municipal Airport (Ben and Judy Briscoe Field)*Milford, Utah, United States
+MLG*WARA*Abdul Rachman Saleh Airport*Malang, Indonesia
+MLH*LFSB*EuroAirport Basel Mulhouse Freiburg*Mulhouse, Alsace, France
+MLI*KMLI*Quad City International Airport*Moline, Illinois, United States
+MLJ*KMLJ*Baldwin County Airport*Milledgeville, Georgia, United States
+MLK**Malta Airport (FAA: M75)*Malta, Montana, United States
+MLL*PADM*Marshall Don Hunter Sr. Airport (FAA: MDM)*Marshall, Alaska, United States
+MLM*MMMM*General Francisco J. Mujica International Airport*Morelia, Michoacán, Mexico
+MLN*GEML*Melilla Airport*Melilla, Spain
+MLO*LGML*Milos Island National Airport*Milos, Greece
+MLP*RPMM*Malabang Airport*Malabang, Philippines
+MLQ**Malalaua Airport*Malalaua, Papua New Guinea
+MLR*YMCT*Millicent Airport*Millicent, South Australia, Australia
+MLS*KMLS*Miles City Airport (Frank Wiley Field)*Miles City, Montana, United States
+MLT*KMLT*Millinocket Municipal Airport*Millinocket, Maine, United States
+MLU*KMLU*Monroe Regional Airport*Monroe, Louisiana, United States
+MLV*YMEU*Merluna Airport*Merluna, Queensland, Australia
+MLW*GLMR*Spriggs Payne Airport*Monrovia, Liberia
+MLX*LTAT*Malatya Erhaç Airport*Malatya, Turkey
+MLY*PAML*Manley Hot Springs Airport*Manley Hot Springs, Alaska, United States
+MLZ*SUMO*Cerro Largo International Airport*Melo, Uruguay
+MMA**metropolitan area2*Malmö, Sweden
+MMC*MMDM*Ciudad Mante National Airport*Ciudad Mante, Tamaulipas, Mexico
+MME*EGNV*Durham Tees Valley Airport*Teesside, England, United Kingdom
+MMF*FKKF*Mamfe Airport*Mamfe, Cameroon
+MMG*YMOG*Mount Magnet Airport*Mount Magnet, Western Australia, Australia
+MMH*KMMH*Mammoth Yosemite Airport*Mammoth Lakes, California, United States
+MMI*KMMI*McMinn County Airport*Athens, Tennessee, United States
+MMJ*RJAF*Matsumoto Airport*Matsumoto, Honshu, Japan
+MMK*ULMM*Murmansk Airport*Murmansk, Murmansk Oblast, Russia
+MML*KMML*Southwest Minnesota Regional Airport (Marshall/Ryan Field)*Marshall, Minnesota, United States
+MMM*YMMU*Middlemount Airport*Middlemount, Queensland, Australia
+MMN**Minute Man Air Field (FAA: 6B6)*Stow, Massachusetts, United States
+MMO*GVMA*Maio Airport*Maio Island, Cape Verde
+MMP*SKMP*San Bernardo Airport*Mompós (Mompóx), Colombia
+MMQ*FLBA*Mbala Airport*Mbala, Zambia
+MMS*KMMS*Selfs Airport*Marks, Mississippi, United States
+MMT*KMMT*McEntire Joint National Guard Base*Columbia, South Carolina, United States
+MMU*KMMU*Morristown Municipal Airport*Morristown, New Jersey, United States
+MMV**Mal Island Airport*Mal Island, Papua New Guinea
+MMW**Moma Airport*Moma, Mozambique
+MMX*ESMS*Malmö Airport*Malmö, Sweden
+MMY*ROMY*Miyako Airport*Miyakojima, Miyako Islands, Japan
+MMZ*OAMN*Maymana Airport*Maymana, Afghanistan
+MNA*WAMN*Melangguane Airport*Melonguane, Indonesia
+MNB*FZAG*Muanda Airport (Moanda Airport)*Moanda, Democratic Republic of the Congo
+MNC*FQNC*Nacala Airport*Nacala, Mozambique
+MND**Medina Airport*Medina, Colombia
+MNE*YMUG*Mungeranie Airport*Mungeranie, South Australia, Australia
+MNF*NFMA*Mana Island Airport*Mana Island, Fiji
+MNG*YMGD*Maningrida Airport*Maningrida, Northern Territory, Australia
+MNH**Al-Musannah Airport*Al-Musannah, Oman
+MNI*TRPG*John A. Osborne Airport*British Overseas Territory of Montserrat
+MNJ*FMSM*Mananjary Airport*Mananjary, Madagascar
+MNK*NGMA*Maiana Airport*Maiana, Kiribati
+MNL*RPLL*Ninoy Aquino International Airport / Villamor Air Base*Manila, Philippines
+MNM*KMNM*Menominee-Marinette Twin County Airport*Menominee, Michigan, United States
+MNN*KMNN*Marion Municipal Airport*Marion, Ohio, United States
+MNO*FZRA*Manono Airport*Manono, Democratic Republic of the Congo
+MNP**Maron Island Airport*Maron Island, Papua New Guinea
+MNQ*YMTO*Monto Airport*Monto, Queensland, Australia
+MNR*FLMG*Mongu Airport*Mongu, Zambia
+MNS*FLMA*Mansa Airport*Mansa, Zambia
+MNT**Minto Al Wright Airport (FAA: 51Z)*Minto, Alaska, United States
+MNU*VYMM*Mawlamyaing Airport*Mawlamyine (Mawlamyaing), Myanmar
+MNV**Mount Valley Airport*Mount Valley, Northern Territory, Australia
+MNW*YMDS*MacDonald Downs Airport*MacDonald Downs, Northern Territory, Australia
+MNX*SBMY*Manicoré Airport*Manicoré, Amazonas, Brazil
+MNY*AGGO*Mono Airport*Mono Island, Treasury Islands, Solomon Islands
+MNZ*KHEF*Manassas Regional Airport (FAA: HEF)*Manassas, Virginia, United States
+MOA*MUMO*Orestes Acosta Airport*Moa, Cuba
+MOB*KMOB*Mobile Regional Airport*Mobile, Alabama, United States
+MOC*SBMK*Montes Claros/Mário Ribeiro Airport*Montes Claros, Minas Gerais, Brazil
+MOD*KMOD*Modesto City–County Airport (Harry Sham Field)*Modesto, California, United States
+MOE*VYMO*Momeik Airport*Momeik, Myanmar
+MOF*WATC*Frans Seda Airport (Wai Oti Airport)*Maumere, Indonesia
+MOG*VYMS*Monghsat Airport*Mong Hsat (Monghsat), Myanmar
+MOI*NCMR*Mitiaro Airport (Nukuroa Airport)*Mitiaro Island, Cook Islands
+MOJ*MEMO*Moengo Airstrip*Moengo, Suriname
+MOL*ENML*Molde Airport, Årø*Molde, Norway
+MOM*GQNL*Letfotar Airport*Moudjeria, Mauritania
+MON*NZMC*Mount Cook Aerodrome*Mount Cook, New Zealand
+MOO*YOOM*Moomba Airport*Moomba, South Australia, Australia
+MOP*KMOP*Mount Pleasant Municipal Airport*Mount Pleasant, Michigan, United States
+MOQ*FMMV*Morondava Airport*Morondava, Madagascar
+MOR*KMOR*Morristown Regional Airport (Moore–Murrell Airport)*Morristown, Tennessee, United States
+MOS**Moses Point Airport*Elim, Alaska, United States
+MOT*KMOT*Minot International Airport*Minot, North Dakota, United States
+MOU*PAMO*Mountain Village Airport*Mountain Village, Alaska, United States
+MOV*YMRB*Moranbah Airport*Moranbah, Queensland, Australia
+MOW**metropolitan area3*Moscow, Russia
+MOX*KMOX*Morris Municipal Airport*Morris, Minnesota, United States
+MOY**Monterrey Airport*Monterrey, Colombia
+MOZ*NTTM*Moorea Airport (Temae Airport)*Mo'orea, Windward Islands, French Polynesia
+MPA*FYKM*Katima Mulilo Airport (Mpacha Airport)*Katima Mulilo, Namibia
+MPB**Miami Seaplane Base (FAA: X44)*Miami, Florida, United States
+MPC*WIPU*Muko-Muko Airport*Muko-Muko, Indonesia
+MPD*OPMP*Sindhri Airport*Mirpur Khas, Pakistan
+MPF**Mapoda Airport*Mapoda, Papua New Guinea
+MPG**Makini Airport*Makini, Papua New Guinea
+MPH*RPVE*Godofredo P. Ramos Airport (Caticlan Airport)*Malay, Philippines
+MPI**Mamitupo Airport*Mamitupo, Panama
+MPJ*KMPJ*Petit Jean Park Airport*Morrilton, Arkansas, United States
+MPL*LFMT*Montpellier–Méditerranée Airport (Fréjorgues Airport)*Montpellier, Languedoc-Roussillon, France
+MPM*FQMA*Maputo International Airport*Maputo, Mozambique
+MPN*EGYP*RAF Mount Pleasant*British Overseas Territory of Falkland Islands
+MPO*KMPO*Pocono Mountains Municipal Airport*Mount Pocono, Pennsylvania, United States
+MPP**Mulatupo Airport*Mulatupo, Panama
+MPQ*OJMN*Ma'an Airport*Ma'an, Jordan
+MPR*KMPR*McPherson Airport*McPherson, Kansas, United States
+MPS*KOSA*Mount Pleasant Regional Airport (FAA: OSA)*Mount Pleasant, Texas, United States
+MPT*WPMN*Maliana Airport*Maliana, East Timor
+MPU**Mabua Airstrip*Mabua, Papua New Guinea
+MPV*KMPV*Edward F. Knapp State Airport*Barre / Montpelier, Vermont, United States
+MPW*UKCM*Mariupol International Airport*Mariupol, Ukraine
+MPX**Miyanmin Airport*Miyanmin, Papua New Guinea
+MPY*SOOA*Maripasoula Airport*Maripasoula, French Guiana
+MPZ*KMPZ*Mount Pleasant Municipal Airport*Mount Pleasant, Iowa, United States
+MQA*YMDI*Mandora Station Airport*Mandora Station, Western Australia, Australia
+MQB*KMQB*Macomb Municipal Airport*Macomb, Illinois, United States
+MQC*LFVM*Miquelon Airport*Miquelon, Saint Pierre and Miquelon
+MQD*SAVQ*Maquinchao Airport*Maquinchao, Río Negro, Argentina
+MQE*YMQA*Marqua Airport*Marqua, Northern Territory, Australia
+MQF*USCM*Magnitogorsk International Airport*Magnitogorsk, Chelyabinsk Oblast5, Russia
+MQG*FYMG*Midgard Airport*Midgard, Namibia
+MQH*SBMC*Minaçu Airport*Minaçu, Goiás, Brazil
+MQJ*UEMA*Moma Airport*Khonuu, Yakutia, Russia
+MQK*SLTI*San Matías Airport*San Matías, Bolivia
+MQL*YMIA*Mildura Airport*Mildura, Victoria, Australia
+MQM*LTCR*Mardin Airport*Mardin, Turkey
+MQN*ENRA*Mo i Rana Airport, Røssvoll*Mo i Rana, Norway
+MQO**Malam Airport*Malam, Papua New Guinea
+MQP*FAKN*Kruger Mpumalanga International Airport*Nelspruit, South Africa
+MQQ*FTTD*Moundou Airport*Moundou, Chad
+MQR**Mosquera Airport*Mosquera, Colombia
+MQS*TVSM*Mustique Airport*Mustique Island, Saint Vincent and the Grenadines
+MQT*KSAW*Sawyer International Airport (FAA: SAW)*Marquette, Michigan, United States
+MQU*SKQU*Mariquita Airport*Mariquita, Colombia
+MQV**Mostaganem Airport*Mostaganem, Algeria
+MQW*KMQW*Telfair–Wheeler Airport*McRae, Georgia, United States
+MQX*HAMK*Alula Aba Nega Airport*Mek'ele (Mekelle), Ethiopia
+MQY*KMQY*Smyrna Airport*Smyrna, Tennessee, United States
+MQZ*YMGT*Margaret River Airport*Margaret River, Western Australia, Australia
+MRA**Misrata Airport*Misrata, Libya
+MRB*KMRB*Eastern WV Regional Airport (Shepherd Field)*Martinsburg, West Virginia, United States
+MRC*KMRC*Maury County Airport*Columbia/Mount Pleasant, Tennessee, United States
+MRD*SVMD*Alberto Carnevalli Airport*Mérida, Venezuela
+MRE**Mara Serena Airport*Maasai Mara, Kenya
+MRF*KMRF*Marfa Municipal Airport*Marfa, Texas, United States
+MRG*YMBA*Mareeba Airfield*Mareeba, Queensland, Australia
+MRH**May River Airport*May River, Papua New Guinea
+MRI*PAMR*Merrill Field*Anchorage, Alaska, United States
+MRJ*MHMA*Marcala Airport*Marcala, Honduras
+MRK*KMKY*Marco Island Airport (FAA: MKY)*Marco Island, Florida, United States
+MRL**Miners Lake Airport*Miners Lake, Queensland, Australia
+MRM*AYMA*Manari Airport*Manari, Papua New Guinea
+MRN*KMRN*Foothills Regional Airport (was Morganton-Lenoir Airport)*Morganton, North Carolina, United States
+MRO*NZMS*Hood Aerodrome*Masterton, New Zealand
+MRP*YALA*Marla Airport*Marla, South Australia, Australia
+MRQ*RPUW*Marinduque Airport*Marinduque Island, Philippines
+MRR*SEMA*José María Velasco Ibarra Airport*Macará, Ecuador
+MRS*LFML*Marseille Provence Airport*Marseille, Provence-Alpes-Côte d'Azur, France
+MRT**Moroak Airport*Moroak, Northern Territory, Australia
+MRU*FIMP*Sir Seewoosagur Ramgoolam International Airport*Plaine Magnien, Mauritius
+MRV*URMM*Mineralnye Vody Airport*Mineralnye Vody, Stavropol Krai, Russia
+MRW*EKMB*Lolland Falster Airport*Maribo, Denmark
+MRX*OIAM*Mahshahr Airport*Bandar-e Mahshahr, Iran
+MRY*KMRY*Monterey Regional Airport*Monterey, California, United States
+MRZ*YMOR*Moree Airport*Moree, New South Wales, Australia
+MSA*CZMD*Muskrat Dam Airport*Muskrat Dam, Ontario, Canada
+MSC*KFFZ*Falcon Field Airport (FAA: FFZ)*Phoenix, Arizona, United States
+MSD**Mount Pleasant Airport (FAA: 43U)*Mount Pleasant, Utah, United States
+MSE*EGMH*Manston Airport (Kent International Airport)*Manston, England, United Kingdom
+MSF*YMNS*Mount Swan Airport*Mount Swan, Northern Territory, Australia
+MSG*FXMA*Matsaile Airport*Matsaile, Lesotho
+MSH*OOMA*Masirah Air Base*Masirah Island, Oman
+MSI**Masalembo Airport*Masalembo, Indonesia
+MSJ*RJSM*Misawa Air Base*Misawa, Honshu, Japan
+MSL*KMSL*Northwest Alabama Regional Airport*Muscle Shoals / Florence, Alabama, United States
+MSM*FZCV*Masi-Manimba Airport*Masi-Manimba, Democratic Republic of the Congo
+MSN*KMSN*Dane County Regional Airport (Truax Field)*Madison, Wisconsin, United States
+MSO*KMSO*Missoula International Airport*Missoula, Montana, United States
+MSP*KMSP*Minneapolis–Saint Paul International Airport (Wold–Chamberlain Field)*Minneapolis / St Paul, Minnesota, United States
+MSQ*UMMS*Minsk National Airport*Minsk, Belarus
+MSS*KMSS*Massena International Airport (Richards Field)*Massena, New York, United States
+MST*EHBK*Maastricht Aachen Airport*Maastricht, Netherlands
+MSU*FXMM*Moshoeshoe I International Airport*Maseru, Lesotho
+MSV*KMSV*Sullivan County International Airport*Monticello, New York, United States
+MSW*HHMS*Massawa International Airport*Massawa, Eritrea
+MSX*FCMM*Mossendjo Airport*Mossendjo, Republic of the Congo
+MSY*KMSY*Louis Armstrong New Orleans International Airport*New Orleans, Louisiana, United States
+MSZ*FNMO*Moçâmedes Airport (Yuri Gagarin Airport)*Moçâmedes, Angola
+MTA*NZMA*Matamata Airport*Matamata, New Zealand
+MTB*SKML*Montelíbano Airport*Montelíbano, Colombia
+MTC*KMTC*Selfridge Air National Guard Base*Mount Clemens, Michigan, United States
+MTD*YMSF*Mount Sandford Station Airport*Mount Sandford Station, Northern Territory, Australia
+MTE*SNMA*Monte Alegre Airport*Monte Alegre, Pará, Brazil
+MTF*HAMT*Mizan Teferi Airport*Mizan Teferi, Ethiopia
+MTG**Mato Grosso Airport*Mato Grosso, Brazil
+MTH*KMTH*Florida Keys Marathon Airport*Marathon, Florida, United States
+MTI*GVMT*Mosteiros Airport*Mosteiros, Cape Verde
+MTJ*KMTJ*Montrose Regional Airport*Montrose, Colorado, United States
+MTK*NGMN*Makin Airport*Makin Island (Butaritari), Kiribati
+MTL*YMND*Maitland Airport*Maitland, New South Wales, Australia
+MTM*PAMM*Metlakatla Seaplane Base*Metlakatla, Alaska, United States
+MTN*KMTN*Martin State Airport*Baltimore, Maryland, United States
+MTO*KMTO*Coles County Memorial Airport*Mattoon / Charleston, Illinois, United States
+MTP*KMTP*Montauk Airport*Montauk, New York, United States
+MTQ*YMIT*Mitchell Airport*Mitchell, Queensland, Australia
+MTR*SKMR*Los Garzones Airport*Montería, Colombia
+MTS*FDMS*Matsapha Airport*Manzini, Swaziland
+MTT*MMMT*Minatitlán/Coatzacoalcos International Airport*Minatitlán, Veracruz, Mexico
+MTU**Montepuez Airport*Montepuez, Mozambique
+MTV*NVSA*Mota Lava Airport*Mota Lava, Vanuatu
+MTW*KMTW*Manitowoc County Airport*Manitowoc, Wisconsin, United States
+MTX*PABK*Metro Field (FAA: MTF)*Fairbanks, Alaska, United States
+MTY*MMMY*General Mariano Escobedo International Airport*Monterrey, Nuevo León, Mexico
+MTZ*LLMZ*Bar Yehuda Airfield (Masada Airfield)*Masada, Israel
+MUA*AGGM*Munda Airport*Munda, New Georgia, Solomon Islands
+MUB*FBMN*Maun Airport*Maun, Botswana
+MUC*EDDM*Munich Airport*Munich, Bavaria, Germany
+MUD*FQMD*Mueda Airport*Mueda, Mozambique
+MUE*PHMU*Waimea-Kohala Airport*Kamuela, Hawaii, United States
+MUF**Muting Airport*Muting, Indonesia
+MUG*MMMG*Mulegé Airstrip*Mulegé, Baja California Sur, Mexico
+MUH*HEMM*Marsa Matruh International Airport*Mersa Matruh, Egypt
+MUI*KMUI*Muir Army Airfield*Fort Indiantown Gap, Pennsylvania, United States
+MUJ*HAMR*Mui Airport*Mui, Ethiopia
+MUK*NCMK*Mauke Airport*Mauke Island, Cook Islands
+MUL*KMUL*Spence Airport*Moultrie, Georgia, United States
+MUN*SVMT*José Tadeo Monagas International Airport*Maturín, Venezuela
+MUO*KMUO*Mountain Home Air Force Base*Mountain Home, Idaho, United States
+MUP*YMUP*Mulga Park Airport*Mulga Park, Northern Territory, Australia
+MUQ*YMUC*Muccan Station Airport*Muccan Station, Western Australia, Australia
+MUR*WBGM*Marudi Airport*Marudi, Sarawak, Malaysia
+MUS*RJAM*Minami Torishima Airport*Minami-Tori-shima, Japan
+MUT*KMUT*Muscatine Municipal Airport*Muscatine, Iowa, United States
+MUW*DAOV*Ghriss Airport*Ghriss, Algeria
+MUX*OPMT*Multan International Airport*Multan, Pakistan
+MUY*FCBM*Mouyondzi Airport*Mouyondzi, Republic of the Congo
+MUZ*HTMU*Musoma Airport*Musoma, Tanzania
+MVA*BIRL*Mývatn Airport*Mývatn, Iceland
+MVB*FOON*M'Vengue El Hadj Omar Bongo Ondimba International Airport*Franceville, Gabon
+MVC*KMVC*Monroe County Airport*Monroeville, Alabama, United States
+MVD*SUMU*Carrasco Gral. Cesáreo L. Berisso International Airport*Montevideo, Uruguay
+MVE*KMVE*Montevideo–Chippewa County Airport*Montevideo, Minnesota, United States
+MVF*SBMS*Gov. Dix-Sept Rosado Airport*Mossoró, Rio Grande do Norte, Brazil
+MVG**Mevang Airport*Mevang, Gabon
+MVH**Macksville Airport*Macksville, New South Wales, Australia
+MVI**Manetai Airport*Manetai, Papua New Guinea
+MVK*YMUK*Mulka Airport*Mulka, South Australia, Australia
+MVL*KMVL*Morrisville–Stowe State Airport*Morrisville / Stowe, Vermont, United States
+MVM**Kayenta Airport (FAA: 0V7)*Kayenta, Arizona, United States
+MVN*KMVN*Mount Vernon Airport*Mount Vernon, Illinois, United States
+MVO*FTTM*Mongo Airport*Mongo, Chad
+MVP*SKMU*Fabio Alberto León Bentley Airport*Mitú, Colombia
+MVQ*UMOO*Mogilev Airport*Mogilev, Belarus
+MVR*FKKL*Salak Airport*Maroua, Cameroon
+MVS*SNMU*Mucuri Airport*Mucuri, Bahia, Brazil
+MVT*NTGV*Mataiva Airport*Mataiva, Tuamotus, French Polynesia
+MVU*YMGV*Musgrave Airport*Musgrave, Queensland, Australia
+MVV*LFHM*Megève Altiport*Megève, Rhône-Alpes, France
+MVW*KBVS*Skagit Regional Airport (FAA: BVS)*Burlington / Mount Vernon, Washington, United States
+MVX*FOGV*Minvoul Airport*Minvoul, Gabon
+MVY*KMVY*Martha's Vineyard Airport*Vineyard Haven, Massachusetts, United States
+MVZ*FVMV*Masvingo Airport*Masvingo, Zimbabwe
+MWA*KMWA*Williamson County Regional Airport*Marion, Illinois, United States
+MWB*YMRW*Morawa Airport*Morawa, Western Australia, Australia
+MWC*KMWC*Lawrence J. Timmerman Airport*Milwaukee, Wisconsin, United States
+MWD*OPMI*PAF Base M.M. Alam*Mianwali, Pakistan
+MWE*HSMR*Merowe Airport*Merowe, Sudan
+MWF*NVSN*Maewo-Naone Airport*Maewo, Vanuatu
+MWG**Marawaka Airport*Marawaka, Papua New Guinea
+MWH*KMWH*Grant County International Airport*Moses Lake, Washington, United States
+MWI**Maramuni Airport*Maramuni, Papua New Guinea
+MWJ*SYMR*Matthews Ridge Airport*Matthew's Ridge, Guyana
+MWK*WIOM*Matak Airport (Tarempa Airport)*Matak, Indonesia
+MWL*KMWL*Mineral Wells Airport*Mineral Wells, Texas, United States
+MWM*KMWM*Windom Municipal Airport*Windom, Minnesota, United States
+MWN*HTMD*Mwadui Airport*Mwadui, Tanzania
+MWO*KMWO*Middletown Regional Airport (Hook Field)*Middletown, Ohio, United States
+MWQ*VYMW*Magway Airport*Magway, Myanmar
+MWR**Motswari Airstrip*Motswari, South Africa
+MWT*YMWT*Moolawatana Airport*Moolawatana Station, South Australia, Australia
+MWU**Mussau Island Airport*Mussau Island, Papua New Guinea
+MWV*VDMK*Mondulkiri Airport*Senmonorom, Cambodia
+MWX*RKJB*Muan International Airport*Muan, South Korea
+MWY*YMIR*Miranda Downs Airport*Miranda Downs, Queensland, Australia
+MWZ*HTMW*Mwanza Airport*Mwanza, Tanzania
+MXA*KMXA*Manila Municipal Airport*Manila, Arkansas, United States
+MXB*WAWM*Andi Jemma Airport*Masamba, Indonesia
+MXC**Monticello Airport (FAA: U43)*Monticello, Utah, United States
+MXD*YMWX*Marion Downs Airport*Marion Downs Station, Queensland, Australia
+MXE*KMEB*Laurinburg–Maxton Airport (FAA: MEB)*Laurinburg / Maxton, North Carolina, United States
+MXF*KMXF*Maxwell Air Force Base*Montgomery, Alabama, United States
+MXG**Marlboro Airport (FAA: 9B1)*Marlborough, Massachusetts, United States
+MXH*AYMR*Moro Airport*Moro, Papua New Guinea
+MXI*RPMQ*Mati Airport (Imelda R. Marcos Airport)*Mati, Philippines
+MXJ*DNMN*Minna Airport*Minna, Nigeria
+MXK**Mindik Airport*Mindik, Papua New Guinea
+MXL*MMML*General Rodolfo Sánchez Taboada International Airport*Mexicali, Baja California, Mexico
+MXM*FMSR*Morombe Airport*Morombe, Madagascar
+MXN*LFRU*Morlaix – Ploujean Airport*Morlaix, Brittany, France
+MXO*KMXO*Monticello Regional Airport*Monticello, Iowa, United States
+MXP*LIMC*Milan–Malpensa Airport*Milan, Lombardy, Italy
+MXR**Myrhorod Air Base*Myrhorod, Ukraine
+MXS*NSMA*Maota Airport*Maota, Samoa
+MXT*FMMO*Maintirano Airport*Maintirano, Madagascar
+MXU*YMWA*Mullewa Airport*Mullewa, Western Australia, Australia
+MXV*ZMMN*Mörön Airport*Mörön, Mongolia
+MXW*ZMMG*Mandalgovi Airport*Mandalgovi, Mongolia
+MXX*ESKM*Mora–Siljan Airport*Mora, Sweden
+MXY*PAMX*McCarthy Airport (FAA: 15Z)*McCarthy, Alaska, United States
+MXZ*ZGMX*Meixian Airport*Meizhou, Guangdong, China
+MYA*YMRY*Moruya Airport*Moruya, New South Wales, Australia
+MYB*FOOY*Mayumba Airport*Mayumba, Gabon
+MYC*SVBS*Mariscal Sucre Airport*Maracay, Venezuela
+MYD*HKML*Malindi Airport*Malindi, Kenya
+MYE*RJTQ*Miyakejima Airport*Miyake-jima, Japan
+MYF*KMYF*Montgomery Field Airport*San Diego, California, United States
+MYG*MYMM*Mayaguana Airport (Abraham's Bay Airport)*Mayaguana, Bahamas
+MYH**Marble Canyon Airport (FAA: L41)*Marble Canyon, Arizona, United States
+MYI*YMUI*Murray Island Airport*Murray Island, Queensland, Australia
+MYJ*RJOM*Matsuyama Airport*Matsuyama, Shikoku, Japan
+MYK**May Creek Airport*May Creek, Alaska, United States
+MYL*KMYL*McCall Municipal Airport*McCall, Idaho, United States
+MYM*SYMM*Monkey Mountain Airport*Monkey Mountain, Guyana
+MYN*OYMB*Marib Airport*Ma'rib, Yemen
+MYO*YMYR*Myroodah Airport*Myroodah Station, Western Australia, Australia
+MYP*UTAM*Mary International Airport*Mary, Turkmenistan
+MYQ*VOMY*Mysore Airport (Mandakalli Airport)*Mysore, Karnataka, India
+MYR*KMYR*Myrtle Beach International Airport*Myrtle Beach, South Carolina, United States
+MYT*VYMK*Myitkyina Airport*Myitkyina, Myanmar
+MYU*PAMY*Mekoryuk Airport*Mekoryuk, Alaska, United States
+MYV*KMYV*Yuba County Airport*Marysville, California, United States
+MYW*HTMT*Mtwara Airport*Mtwara, Tanzania
+MYX**Menyamya Airport*Menyamya, Papua New Guinea
+MYY*WBGR*Miri Airport*Miri, Sarawak, Malaysia
+MYZ*FWMY*Monkey Bay Airport*Monkey Bay, Malawi
+MZA*SPMF*Manuel Prado Ugarteche Airport*Mazamari, Peru
+MZB*FQMP*Mocímboa da Praia Airport*Mocímboa da Praia, Mozambique
+MZC*FOOM*Mitzic Airport*Mitzic, Gabon
+MZD**Méndez Airport*Santiago de Méndez, Ecuador
+MZE**Manatee Airport*Manatee, Belize
+MZF*FAMW*Wild Coast Sun Airport*Mzamba, South Africa
+MZG*RCQC*Magong Airport*Magong, Taiwan
+MZH*LTAP*Amasya Merzifon Airport*Amasya, Turkey
+MZI*GAMB*Mopti Airport (Ambodedjo Airport)*Mopti, Mali
+MZJ*KMZJ*Pinal Airpark*Marana, Arizona, United States
+MZK*NGMK*Marakei Airport*Marakei, Kiribati
+MZL*SKMZ*La Nubia Airport (Santaguida Airport)*Manizales, Colombia
+MZM*LFSF*Metz-Frescaty Air Base*Metz, Lorraine, France
+MZN**Minj Airport*Minj, Papua New Guinea
+MZO*MUMZ*Sierra Maestra Airport*Manzanillo, Cuba
+MZP*NZMK*Motueka Aerodrome*Motueka, New Zealand
+MZQ*FAMU*Mkuze Airport*Mkuze, South Africa
+MZR*OAMS*Mazar-e Sharif International Airport*Mazar-i-Sharif, Afghanistan
+MZT*MMMZ*General Rafael Buelna International Airport*Mazatlán, Sinaloa, Mexico
+MZU*VEMZ*Muzaffarpur Airport*Muzaffarpur, Bihar, India
+MZV*WBMU*Mulu Airport*Mulu, Sarawak, Malaysia
+MZW*DAAY*Mécheria Airport*Mécheria, Algeria
+MZX*HAML*Mena Airport*Mena, Ethiopia
+MZY*FAMO*Mossel Bay Airport*Mossel Bay, South Africa
+MZZ*KMZZ*Marion Municipal Airport*Marion, Indiana, United States

@@ -1,0 +1,497 @@
+KAA*FLKS*Kasama Airport*Kasama, Zambia
+KAB*FVKB*Kariba Airport*Kariba, Zimbabwe
+KAC*OSKL*Kamishly Airport*Qamishli (Kamishly), Syria
+KAD*DNKA*Kaduna Airport*Kaduna, Nigeria
+KAE*PAFE*Kake Airport (FAA: AFE)*Kake, Alaska, United States
+KAF**Karato Airport*Karato, Papua New Guinea
+KAG*RKNN*Gangneung Air Base*Gangneung, South Korea
+KAI*SYKA*Kaieteur International Airport*Kaieteur, Guyana
+KAJ*EFKI*Kajaani Airport*Kajaani, Finland
+KAK**Kar Airport*Kar, Papua New Guinea
+KAL*PAKV*Kaltag Airport*Kaltag, Alaska, United States
+KAM*ODKM*Kamaran Airport*Kamaran, Yemen
+KAN*DNKN*Mallam Aminu Kano International Airport*Kano, Nigeria
+KAO*EFKS*Kuusamo Airport*Kuusamo, Finland
+KAP*FZSK*Kapanga Airport*Kapanga, Democratic Republic of the Congo
+KAQ*AYKH*Kamulai Airport*Kamulai, Papua New Guinea
+KAR*SYKM*Kamarang Airport*Kamarang, Guyana
+KAS*FYKB*Karasburg Airport*Karasburg, Namibia
+KAT*NZKT*Kaitaia Airport*Kaitaia, New Zealand
+KAU*EFKA*Kauhava Airfield*Kauhava, Finland
+KAV*SVKA*Kavanayén Airport*Kavanayén, Venezuela
+KAW*VYKT*Kawthaung Airport*Kawthaung, Myanmar
+KAX*YKBR*Kalbarri Airport*Kalbarri, Western Australia, Australia
+KAY*NFNW*Wakaya Airport*Wakaya Island, Fiji
+KAZ*WAMK*Kao Airport*Kao, Indonesia
+KBA*GFKB*Kabala Airport*Kabala, Sierra Leone
+KBB**Kirkimbie Airport*Kirkimbie Station, Northern Territory, Australia
+KBC**Birch Creek Airport (FAA: Z91)*Birch Creek, Alaska, United States
+KBD**Kimberley Downs Airport*Kimberley Downs, Western Australia, Australia
+KBE**Bell Island Hot Springs Seaplane Base*Bell Island, Alaska, United States
+KBF*WABK*Karubaga Airport*Karubaga, Indonesia
+KBG*HUKF*Kabalega Falls Airport*Kabalega Falls, Uganda
+KBI*FKKB*Kribi Airport*Kribi, Cameroon
+KBJ*YKCA*Kings Canyon Airport*Kings Canyon, Northern Territory, Australia
+KBL*OAKB*Hamid Karzai International Airport*Kabul, Afghanistan
+KBM*AYKB*Kabwum Airport*Kabwum, Papua New Guinea
+KBN*FZWT*Tunta Airport*Kabinda, Democratic Republic of the Congo
+KBO*FZRM*Kabalo Airport*Kabalo, Democratic Republic of the Congo
+KBP*UKBB*Boryspil International Airport*Kiev, Ukraine
+KBQ*FWKG*Kasungu Airport*Kasungu, Malawi
+KBR*WMKC*Sultan Ismail Petra Airport*Kota Bharu, Kelantan, Malaysia
+KBS*GFBO*Bo Airport*Bo, Sierra Leone
+KBT**Kaben Airport*Kaben, Maloelap Atoll, Marshall Islands
+KBU*WRBK*Gusti Syamsir Alam Airport (Stagen Airport)*Kotabaru, Indonesia
+KBV*VTSG*Krabi Airport*Krabi, Thailand
+KBW**Chignik Bay Seaplane Base (FAA: Z78)*Chignik, Alaska, United States
+KBX*WASU*Kambuaya Airport*Ayamaru, Indonesia
+KBY*YKBY*Streaky Bay Airport*Streaky Bay, South Australia, Australia
+KBZ*NZKI*Kaikoura Aerodrome*Kaikoura, New Zealand
+KCA*ZWKC*Kuqa Qiuci Airport*Kuqa, Xinjiang, China
+KCB*SMTP*Tepoe Airstrip*Kasikasima, Suriname
+KCC**Coffman Cove Seaplane Base*Coffman Cove, Alaska, United States
+KCD**Kamur Airport*Kamur, Indonesia
+KCE*YCSV*Collinsville Airport*Collinsville, Queensland, Australia
+KCF**Kadanwari Airport*Kadanwari, Pakistan
+KCG**Chignik Fisheries Airport (closed)*Chignik, Alaska, United States
+KCH*WBGG*Kuching International Airport*Kuching, Sarawak, Malaysia
+KCI**Kon Airport*Kon, East Timor
+KCJ**Komaio Airport*Komaio, Papua New Guinea
+KCK*UIKK*Kirensk Airport*Kirensk, Irkutsk Oblast, Russia
+KCL**Chignik Lagoon Airport (Chignik Flats Airport)*Chignik Lagoon, Alaska, United States
+KCN**Chernofski Harbor Seaplane Base*Chernofski Harbor, Alaska, United States
+KCP**Kamianets-Podilskyi Airport*Kamianets-Podilskyi, Ukraine
+KCQ**Chignik Lake Airport (FAA: A79)*Chignik Lake, Alaska, United States
+KCR**Colorado Creek Airport*Colorado Creek, Alaska, United States
+KCS*YKCS*Kings Creek Station Airport*Kings Creek Station, Northern Territory, Australia
+KCT*VCCK*Koggala Airport*Koggala, Sri Lanka
+KCU*HUMI*Masindi Airport*Masindi, Uganda
+KDA*GOGK*Kolda North Airport*Kolda, Senegal
+KDB*YKBL*Kambalda Airport*Kambalda, Western Australia, Australia
+KDC*DBBK*Kandi Airport*Kandi, Benin
+KDD*OPKH*Khuzdar Airport*Khuzdar, Pakistan
+KDE*AYOW*Koroba Airport*Koroba, Papua New Guinea
+KDH*OAKN*Kandahar International Airport*Kandahar, Afghanistan
+KDI*WAWW*Haluoleo Airport*Kendari, Indonesia
+KDJ*FOGJ*Ndjolé Ville Airport*Ndjolé, Gabon
+KDK*PAKD*Kodiak Municipal Airport*Kodiak, Alaska, United States
+KDL*EEKA*Kärdla Airport*Kärdla, Estonia
+KDM*VRMT*Kaadedhdhoo Airport*Kaadedhdhoo Island, Gaafu Dhaalu Atoll, Maldives
+KDN*FOGE*Ndendé Airport*Ndendé, Gabon
+KDO*VRMK*Kadhdhoo Airport*Kadhdhoo Island, Laamu Atoll, Maldives
+KDP*AYNN*Kandep Airport*Kandep, Papua New Guinea
+KDQ*AYTO*Kamberatoro Airport*Kamberatoro, Papua New Guinea
+KDR*AYKC*Kandrian Airport*Kandrian, Papua New Guinea
+KDS**Kamaran Downs Airport*Kamaran Downs, Queensland, Australia
+KDT*VTBK*Kamphaeng Saen Airport*Kamphaeng Saen, Thailand
+KDU*OPSD*Skardu Airport*Skardu, Pakistan
+KDV*NFKD*Vunisea Airport*Vunisea, Kadavu Island, Fiji
+KDW**Victoria Reservoir Seaplane Base*Kandy, Sri Lanka
+KDX*HSLI*Kadugli Airport*Kaduqli (Kadugli), Sudan
+KDY*UEMH*Teply Klyuch Airport*Khandyga, Yakutia, Russia
+KDZ**Polgolla Reservoir Seaplane Base*Kandy, Sri Lanka
+KEB**Nanwalek Airport*Nanwalek, Alaska, United States
+KEC*FZQG*Kasenga Airport*Kasenga, Democratic Republic of the Congo
+KED*GQNK*Kaédi Airport*Kaédi, Mauritania
+KEE*FCOK*Kelle Airport*Kellé, Republic of the Congo
+KEF*BIKF*Keflavík International Airport*Reykjavík, Iceland
+KEG*AYLG*Keglsugl Airport*Keglsugl, Papua New Guinea
+KEH**Kenmore Air Harbor (FAA: S60)*Kenmore, Washington, United States
+KEI*WAKP*Kepi Airport*Kepi, Indonesia
+KEJ*UNEE*Kemerovo International Airport*Kemerovo, Kemerovo Oblast, Russia
+KEK**Ekwok Airport*Ekwok, Alaska, United States
+KEL*EDHK*Kiel Airport*Kiel, Schleswig-Holstein, Germany
+KEM*EFKE*Kemi-Tornio Airport*Kemi / Tornio, Finland
+KEN*GFKE*Kenema Airport*Kenema, Sierra Leone
+KEO*DIOD*Odienné Airport*Odienné, Ivory Coast
+KEP*VNNG*Nepalgunj Airport*Nepalgunj, Nepal
+KEQ*WASE*Kebar Airport*Kebar, Indonesia
+KER*OIKK*Kerman Airport*Kerman, Iran
+KES*CZEE*Kelsey Airport*Kelsey, Manitoba, Canada
+KET*VYKG*Kengtung Airport*Kengtung, Myanmar
+KEU*HKKE*Keekorok Airport*Keekorok, Kenya
+KEV*EFHA*Halli Airport*Kuorevesi, Finland
+KEW**Keewaywin Airport (TC LID: CPV8)*Keewaywin, Ontario, Canada
+KEX*AYNB*Kanabea Airport*Kanabea, Papua New Guinea
+KEY*HKKR*Kericho Airport*Kericho, Kenya
+KEZ**Kelani River-Peliyagoda Waterdrome*Colombo, Sri Lanka
+KFA*GQNF*Kiffa Airport*Kiffa, Mauritania
+KFE*YFDF*Fortescue Dave Forrest Airport*Cloudbreak, Western Australia, Australia
+KFG*YKKG*Kalkgurung Airport*Kalkarindji, Northern Territory, Australia
+KFP*PAKF*False Pass Airport*False Pass, Alaska, United States
+KFS*LTAL*Kastamonu Airport*Kastamonu, Turkey
+KGA*FZUA*Kananga Airport*Kananga, Democratic Republic of the Congo
+KGB*AYOE*Konge Airport*Konge, Papua New Guinea
+KGC*YKSC*Kingscote Airport*Kingscote, South Australia, Australia
+KGD*UMKK*Khrabrovo Airport*Kaliningrad, Kaliningrad Oblast, Russia
+KGE*AGKG*Kaghau Airport*Kaghau Island, Solomon Islands
+KGF*UAKK*Sary-Arka Airport*Karaganda, Kazakhstan
+KGG*GOTK*Kédougou Airport*Kédougou, Senegal
+KGH*AYJO*Yongai Airport*Yongai, Papua New Guinea
+KGI*YPKG*Kalgoorlie-Boulder Airport*Kalgoorlie, Western Australia, Australia
+KGJ*FWKA*Karonga Airport*Karonga, Malawi
+KGK*PAJZ*Koliganek Airport (FAA: JZZ)*Koliganek, Alaska, United States
+KGL*HRYR*Kigali International Airport (Kanombe Airport)*Kigali, Rwanda
+KGM**Kungim Airport*Kungim, Papua New Guinea
+KGN*FZOK*Kasongo Lunda Airport*Kasongo Lunda, Democratic Republic of the Congo
+KGO*UKKG*Kirovohrad Airport*Kropyvnytskyi, Ukraine
+KGP*USRK*Kogalym International Airport*Kogalym, Khanty-Mansi Autonomous Okrug, Russia
+KGR**Kulgera Airport*Kulgera, Northern Territory, Australia
+KGS*LGKO*Kos Island International Airport*Kos, Greece
+KGT*ZUKD*Kangding Airport*Kangding, Sichuan, China
+KGU*WBKG*Keningau Airport*Keningau, Sabah, Malaysia
+KGW*AYKQ*Kagi Airport*Kagi, Papua New Guinea
+KGX**Grayling Airport*Grayling, Alaska, United States
+KGY*YKRY*Kingaroy Airport*Kingaroy, Queensland, Australia
+KGZ**Glacier Creek Airport*Glacier Creek, Alaska, United States
+KHA*OITH*Khaneh Airport (Piranshahr Airport)*Piranshahr (Khaneh), Iran
+KHC*UKFK*Kerch Airport (Voykovo Airport)*Kerch, Ukraine
+KHD*OICK*Khorramabad Airport*Khorramabad, Iran
+KHE*UKOH*Kherson International Airport*Kherson, Ukraine
+KHG*ZWSH*Kashgar Airport (Kashi Airport)*Kashgar, Xinjiang, China
+KHH*RCKH*Kaohsiung International Airport*Kaohsiung, Taiwan
+KHI*OPKC*Jinnah International Airport*Karachi, Pakistan
+KHJ*EFKJ*Kauhajoki Airfield*Kauhajoki, Finland
+KHK*OIBQ*Kharg Airport*Kharg Island, Iran
+KHM*VYKI*Khamti Airport*Khamti, Myanmar
+KHN*ZSCN*Nanchang Changbei International Airport*Nanchang, Jiangxi, China
+KHO**Khoka Moya Airport*Manyeleti, South Africa
+KHR*ZMHH*Kharkhorin Airport*Kharkhorin, Mongolia
+KHS*OOKB*Khasab Airport*Khasab, Oman
+KHT*OAKS*Khost Airfield*Khost, Afghanistan
+KHU**Kremenchuk Airport*Kremenchuk, Ukraine
+KHV*UHHH*Khabarovsk Novy Airport*Khabarovsk, Khabarovsk Krai, Russia
+KHW*FBKR*Khwai River Airport*Khwai River Lodge, Botswana
+KHX**Kihihi Airstrip*Kihihi, Uganda
+KHY*OITK*Khoy Airport*Khoy, Iran
+KHZ*NTKA*Kauehi Airport*Kauehi, Tuamotus, French Polynesia
+KIA**Kaiapit Airport*Kaiapit, Papua New Guinea
+KIB**Ivanof Bay Seaplane Base*Ivanof Bay, Alaska, United States
+KIC*KKIC*Mesa Del Rey Airport*King City, California, United States
+KID*ESMK*Kristianstad Airport*Kristianstad, Sweden
+KIE*AYIQ*Aropa Airport*Kieta, Papua New Guinea
+KIF**Kingfisher Lake Airport*Kingfisher Lake, Ontario, Canada
+KIG**Koingnaas Airport*Koingnaas, South Africa
+KIH*OIBK*Kish International Airport*Kish Island, Iran
+KII*AYLI*Kibuli Airport*Kibuli, Papua New Guinea
+KIJ*RJSN*Niigata Airport*Niigata, Honshu, Japan
+KIK*ORKK*Kirkuk Airport*Kirkuk, Iraq
+KIL**Kilwa Airport*Kilwa, Democratic Republic of the Congo
+KIM*FAKM*Kimberley Airport*Kimberley, South Africa
+KIN*MKJP*Norman Manley International Airport*Kingston, Jamaica
+KIO**Kili Airport (FAA: Q51)*Kili Island, Marshall Islands
+KIP*KCWC*Kickapoo Downtown Airport (FAA: CWC)*Wichita Falls, Texas, United States
+KIQ*AYRA*Kira Airport*Kira, Papua New Guinea
+KIR*EIKY*Kerry Airport (Farranfore Airport)*Kerry, Ireland
+KIS*HKKI*Kisumu International Airport*Kisumu, Kenya
+KIT*LGKC*Kithira Island National Airport*Kythira, Greece
+KIU**Kiunga Airport*Kiunga, Kenya
+KIW*FLSO*Southdowns Airport*Kitwe, Zambia
+KIX*RJBB*Kansai International Airport*Osaka, Honshu, Japan
+KIY*HTKI*Kilwa Masoko Airport*Kilwa Masoko, Tanzania
+KIZ**Kikinonda Airport*Kikinonda, Papua New Guinea
+KJA*UNKL*Yemelyanovo International Airport*Krasnoyarsk, Krasnoyarsk Krai, Russia
+KJH**Kaili Huangping Airport*Kaili, Guizhou, China
+KJI*ZWKN*Kanas Airport*Burqin, Xinjiang, China
+KJK*EBKT*Kortrijk–Wevelgem International Airport*Kortrijk, Belgium
+KJP*ROKR*Kerama Airport*Fukaji Island, Kerama Islands, Japan
+KJT*WICA*Kertajati International Airport*Majalengka, West Java, Indonesia
+KJU**Kamiraba Airport*Kamiraba, Papua New Guinea
+KJX**Blangpidie Airport*Blangpidie, Southwest Aceh Regency, Indonesia
+KKA*PAKK*Koyuk Alfred Adams Airport*Koyuk, Alaska, United States
+KKB**Kitoi Bay Seaplane Base*Kitoi Bay, Alaska, United States
+KKC*VTUK*Khon Kaen Airport*Khon Kaen, Thailand
+KKD*AYKO*Kokoda Airport*Kokoda, Papua New Guinea
+KKE*NZKK*Kerikeri Airport (Bay of Islands Airport)*Kerikeri, New Zealand
+KKG**Konawaruk Airport*Konawaruk, Guyana
+KKH*PADY*Kongiganak Airport (FAA: DUY)*Kongiganak, Alaska, United States
+KKI**Akiachak Airport (FAA: Z13)*Akiachak, Alaska, United States
+KKJ*RJFR*Kitakyushu Airport*Kitakyushu, Kyushu, Japan
+KKK**Kalakaket Creek Air Station (FAA: 1KC)*Kalakaket Creek, Alaska, United States
+KKL**Karluk Lake Seaplane Base*Karluk Lake, Alaska, United States
+KKM*VTBL*Khok Kathiam Air Force Base*Lopburi, Thailand
+KKN*ENKR*Kirkenes Airport, Høybuktmoen*Kirkenes, Norway
+KKO*NZKO*Kaikohe Aerodrome*Kaikohe, New Zealand
+KKP*YKLB*Koolburra Airport*Koolburra, Queensland, Australia
+KKQ*USDP*Krasnoselkup Airport*Krasnoselkup, Yamalo-Nenets Autonomous Okrug, Russia
+KKR*NTGK*Kaukura Airport*Kaukura Atoll, Tuamotus, French Polynesia
+KKT**Kentland Municipal Airport (FAA: 50I)*Kentland, Indiana, United States
+KKU**Ekuk Airport*Ekuk, Alaska, United States
+KKW*FZCA*Kikwit Airport*Kikwit, Democratic Republic of the Congo
+KKX*RJKI*Kikai Airport (Kikaiga Shima Airport)*Kikai, Satsunan Islands, Japan
+KKY*EIKL*Kilkenny Airport*Kilkenny, Ireland
+KKZ*VDKK*Koh Kong Airport*Koh Kong, Cambodia
+KLB*FLKL*Kalabo Airport*Kalabo, Zambia
+KLC*GOOK*Kaolack Airport*Kaolack, Senegal
+KLD*UUEM*Migalovo Air Base*Tver, Tver Oblast, Russia
+KLE*FKKH*Kaélé Airport*Kaélé, Cameroon
+KLF*UUBC*Grabtsevo Airport*Kaluga, Kaluga Oblast, Russia
+KLG*PALG*Kalskag Airport*Kalskag, Alaska, United States
+KLH*VAKP*Kolhapur Airport*Kolhapur, Maharashtra, India
+KLI*FZFP*Kotakoli Air Base*Kotakoli, Democratic Republic of the Congo
+KLK*HKFG*Kalokol Airport (Fergusons Gulf Airport)*Kalokol, Kenya
+KLL**Levelock Airport (FAA: 9Z8)*Levelock, Alaska, United States
+KLM*OINE*Kalaleh Airport*Kalaleh, Iran
+KLN*PALB*Larsen Bay Airport (FAA: 2A3)*Larsen Bay, Alaska, United States
+KLO*RPVK*Kalibo International Airport*Kalibo, Philippines
+KLQ*WIPV*Keluang Airport*Keluang, Indonesia
+KLR*ESMQ*Kalmar Airport*Kalmar, Sweden
+KLS*KKLS*Southwest Washington Regional Airport*Kelso, Washington, United States
+KLU*LOWK*Klagenfurt Airport*Klagenfurt, Austria
+KLV*LKKV*Karlovy Vary Airport*Karlovy Vary, Czech Republic
+KLW*PAKW*Klawock Airport (FAA: AKW)*Klawock, Alaska, United States
+KLX*LGKL*Kalamata International Airport*Kalamata, Greece
+KLY*FZOD*Kamisuku Airport[2]*Kalima, Democratic Republic of the Congo
+KLZ*FAKZ*Kleinzee Airport*Kleinzee, South Africa
+KMA*AYKM*Kerema Airport*Kerema, Papua New Guinea
+KMB**Koinambe Airport*Koinambe, Papua New Guinea
+KMC*OEKK*King Khaled Military City Airport*King Khalid Military City, Saudi Arabia
+KME*HRZA*Kamembe Airport*Cyangugu, Rwanda
+KMF*AYKD*Kamina Airport*Kamina, Papua New Guinea
+KMG*ZPPP*Kunming Changshui International Airport*Kunming, Yunnan, China
+KMH*FAKU*Johan Pienaar Airport*Kuruman, South Africa
+KMI*RJFM*Miyazaki Airport*Miyazaki, Kyushu, Japan
+KMJ*RJFT*Kumamoto Airport*Mashiki, Kyushu, Japan
+KMK*FCPA*Makabana Airport*Makabana, Republic of the Congo
+KML*YKML*Kamileroi Airport*Kamileroi, Queensland, Australia
+KMM**Kimam Airport*Kimam, Indonesia
+KMN*FZSB*Kamina Airport (Kamina Ville Airport)*Kamina, Democratic Republic of the Congo
+KMO*PAMB*Manokotak Airport (FAA: MBA)*Manokotak, Alaska, United States
+KMP*FYKT*Keetmanshoop Airport*Keetmanshoop, Namibia
+KMQ*RJNK*Komatsu Airport (Kanazawa Airport)*Komatsu, Honshu, Japan
+KMR*AYRI*Karimui Airport*Karimui, Papua New Guinea
+KMS*DGSI*Kumasi Airport*Kumasi, Ghana
+KMT**Kampot Airport*Kampot, Cambodia
+KMU*HCMK*Kismayo Airport (Kisimayu Airport)*Kismayo, Somalia
+KMV*VYKL*Kalaymyo Airport (Kalemyo Airport)*Kalaymyo, Myanmar
+KMW*UUBA*Kostroma Airport*Kostroma, Kostroma Oblast, Russia
+KMX*OEKM*King Khalid Air Base*Khamis Mushait, Saudi Arabia
+KMY**Moser Bay Seaplane Base*Moser Bay, Alaska, United States
+KMZ*FLKO*Kaoma Airport*Kaoma, Zambia
+KNA*SCVM*Viña del Mar Airport*Viña del Mar, Chile
+KNB*KKNB*Kanab Municipal Airport*Kanab, Utah, United States
+KND*FZOA*Kindu Airport*Kindu, Democratic Republic of the Congo
+KNE*AYKJ*Kanainj Airport*Kanainj, Papua New Guinea
+KNF*EGYM*RAF Marham*King's Lynn, England, United Kingdom
+KNG*WASK*Kaimana Airport*Kaimana, Indonesia
+KNH*RCBS*Kinmen Airport (Shang Yi Airport)*Kinmen, Taiwan
+KNI*YKNG*Katanning Airport*Katanning, Western Australia, Australia
+KNJ*FCBK*Kindamba Airport*Kindamba, Republic of the Congo
+KNK*PFKK*Kokhanok Airport (FAA: 9K2)*Kokhanok, Alaska, United States
+KNL**Kelanoa Airport*Kelanoa, Papua New Guinea
+KNM*FZTK*Kaniama Airport*Kaniama, Democratic Republic of the Congo
+KNN*GUXN*Kankan Airport (Diankana Airport)*Kankan, Guinea
+KNO*WIMM*Kualanamu International Airport*Medan, Indonesia
+KNP*FNCP*Kapanda Airport*Capanda, Angola
+KNQ*NWWD*Koné Airport*Koné, New Caledonia
+KNR*OIBJ*Jam Airport*Kangan, Iran
+KNS*YKII*King Island Airport*King Island, Tasmania, Australia
+KNT*KTKX*Kennett Memorial Airport (FAA: TKX)*Kennett, Missouri, United States
+KNU*VIKA*Kanpur Airport (Chakeri Air Force Station)*Kanpur, Uttar Pradesh, India
+KNW*PANW*New Stuyahok Airport*New Stuyahok, Alaska, United States
+KNX*YPKU*East Kimberley Regional Airport*Kununurra, Western Australia, Australia
+KNZ*GAKA*Kéniéba Airport*Kéniéba, Mali
+KOC*NWWK*Koumac Airport*Koumac, New Caledonia
+KOD**Kotabangun Airport*Kotabangun, Indonesia
+KOE*WATT*El Tari Airport*Kupang, Indonesia
+KOF*FAKP*Komatipoort Airport*Komatipoort, South Africa
+KOG*VLKG*Khong Island Airport*Khong, Laos
+KOH*YKLA*Koolatah Airport*Koolatah, Queensland, Australia
+KOI*EGPA*Kirkwall Airport*Kirkwall, Scotland, United Kingdom
+KOJ*RJFK*Kagoshima Airport*Kagoshima, Kyushu, Japan
+KOK*EFKK*Kokkola-Pietarsaari Airport*Kokkola / Jakobstad, Finland
+KOL**Koumala Airport*Koumala, Central African Republic
+KOM**Komo-Manda Airport*Komo-Manda, Papua New Guinea
+KON**Kontum Airport*Kon Tum, Vietnam
+KOO*FZRQ*Kongolo Airport*Kongolo, Democratic Republic of the Congo
+KOP*VTUW*Nakhon Phanom Airport*Nakhon Phanom, Thailand
+KOQ*EDCK*Köthen Airport*Köthen, Saxony-Anhalt, Germany
+KOR*AYRO*Kakoro Airport*Kakoro, Papua New Guinea
+KOS*VDSV*Sihanoukville International Airport (Kaong Kang Airport)*Sihanoukville, Cambodia
+KOT*PFKO*Kotlik Airport (FAA: 2A9)*Kotlik, Alaska, United States
+KOU*FOGK*Koulamoutou Airport*Koulamoutou, Gabon
+KOV*UACK*Kokshetau Airport*Kokshetau, Kazakhstan
+KOW*ZSGZ*Ganzhou Huangjin Airport*Ganzhou, Jiangxi, China
+KOX*WABN*Kokonao Airport*Kokonao, Indonesia
+KOY**Olga Bay Seaplane Base*Olga Bay, Alaska, United States
+KOZ**Ouzinkie Airport (FAA: 4K5)*Ouzinkie, Alaska, United States
+KPA*AYKG*Kopiago Airport*Kopiago, Papua New Guinea
+KPB**Point Baker Seaplane Base*Point Baker, Alaska, United States
+KPC*PAPC*Port Clarence Coast Guard Station*Port Clarence, Alaska, United States
+KPE*AYYP*Yapsiei Airport*Yapsiei, Papua New Guinea
+KPF*AYDL*Kondubol Airport*Kondubol, Papua New Guinea
+KPG**Kurupung Airport*Kurupung, Guyana
+KPI*WBGP*Kapit Airport*Kapit, Sarawak, Malaysia
+KPL**Kapal Airport*Kapal, Papua New Guinea
+KPM*AYAQ*Kompiam Airport*Kompiam, Papua New Guinea
+KPN*PAKI*Kipnuk Airport (FAA: IIK)*Kipnuk, Alaska, United States
+KPO*RKTH*Pohang Airport*Pohang, South Korea
+KPP*YKPR*Kalpowar Airport*Kalpowar, Queensland, Australia
+KPR**Port Williams Seaplane Base*Port Williams, Alaska, United States
+KPS*YKMP*Kempsey Airport*Kempsey, New South Wales, Australia
+KPT**Jackpot Airport (Hayden Field) (FAA: 06U)*Jackpot, Nevada, United States
+KPV*PAPE*Perryville Airport (FAA: PEV)*Perryville, Alaska, United States
+KPW*UHMK*Keperveyem Airport*Keperveyem, Chukotka, Russia
+KPY**Port Bailey Seaplane Base*Port Bailey, Alaska, United States
+KQA**Akutan Seaplane Base*Akutan, Alaska, United States
+KQH*VIKG*Ajmer Kishangarh Airport*Kishangarh, Rajasthan, India
+KQL*AYOL*Kol Airport*Kol, Papua New Guinea
+KQR*YKAR*Karara Airport*Karara, Western Australia, Australia
+KQT*UTDT*Qurghonteppa International Airport*Qurghonteppa, Tajikistan
+KRA*YKER*Kerang Airport*Kerang, Victoria, Australia
+KRB*YKMB*Karumba Airport*Karumba, Queensland, Australia
+KRC*WIPH*Depati Parbo Airport*Kerinci, Indonesia
+KRD**Kurundi Airport*Kurundi Station, Northern Territory, Australia
+KRE*HBBO*Kirundo Airport*Kirundo, Burundi
+KRF*ESNK*Höga Kusten Airport (Kramfors-Sollefteå Airport)*Kramfors / Sollefteå, Sweden
+KRG*SYKS*Karasabai Airport*Karasabai, Guyana
+KRI*AYKK*Kikori Airport*Kikori, Papua New Guinea
+KRJ*AYQA*Karawari Airport*Karawari, Papua New Guinea
+KRK*EPKK*John Paul II International Airport Kraków–Balice*Kraków, Poland
+KRL*ZWKL*Korla Airport*Korla, Xinjiang, China
+KRM*SYKR*Karanambo Airport*Karanambo, Guyana
+KRN*ESNQ*Kiruna Airport*Kiruna, Sweden
+KRO*USUU*Kurgan Airport*Kurgan, Kurgan Oblast, Russia
+KRP*EKKA*Karup Airport*Karup, Denmark
+KRQ*UKCK*Kramatorsk Airport*Kramatorsk, Ukraine
+KRR*URKK*Krasnodar International Airport (Pashkovsky Airport)*Krasnodar, Krasnodar Krai, Russia
+KRS*ENCN*Kristiansand Airport, Kjevik*Kristiansand, Norway
+KRT*HSSS*Khartoum International Airport*Khartoum, Sudan
+KRU*AYEA*Kerau Airport*Kerau, Papua New Guinea
+KRV**Kimwarer Airport (Kerio Valley Airport)*Kimwarer, Kenya
+KRX*AYKR*Karkar Airport*Karkar Island, Papua New Guinea
+KRY*ZWKM*Karamay Airport*Karamay, Xinjiang, China
+KRZ*FZBT*Basango Mboliasa Airport*Kiri, Democratic Republic of the Congo
+KSA*PTSA*Kosrae International Airport (FAA: TTK)*Kosrae, Federated States of Micronesia
+KSB*AYNM*Kasanombe Airport*Kasanombe, Papua New Guinea
+KSC*LZKZ*Košice International Airport*Košice, Slovakia
+KSD*ESOK*Karlstad Airport*Karlstad, Sweden
+KSE*HUKS*Kasese Airport*Kasese, Uganda
+KSF*EDVK*Kassel Airport*Kassel, Hesse, Germany
+KSG**Kisengam Airport*Kisengam, Papua New Guinea
+KSH*OICC*Shahid Ashrafi Esfahani Airport (Kermanshah Airport)*Kermanshah, Iran
+KSI*GUKU*Kissidougou Airport*Kissidougou, Guinea
+KSJ*LGKS*Kasos Island Public Airport*Kasos Island, Greece
+KSK*ESKK*Karlskoga Airport*Karlskoga, Sweden
+KSL*HSKA*Kassala Airport*Kassala, Sudan
+KSM*PASM*St. Mary's Airport*St. Mary's, Alaska, United States
+KSN*UAUU*Kostanay Airport*Kostanay, Kazakhstan
+KSO*LGKA*Kastoria National Airport (Aristotelis Airport)*Kastoria, Greece
+KSP*AYOP*Kosipe Airport*Kosipe, Papua New Guinea
+KSQ*UTSL*Karshi Airport*Karshi, Uzbekistan
+KSS*GASK*Sikasso Airport*Sikasso, Mali
+KST*HSKI*Rabak Airport*Kosti, Sudan
+KSU*ENKB*Kristiansund Airport, Kvernberget*Kristiansund, Norway
+KSV*YSPV*Springvale Airport*Springvale, Queensland, Australia
+KSW*LLKS*Kiryat Shmona Airport*Kiryat Shmona, Israel
+KSX*AYYR*Yasuru Airport*Yasuru, Papua New Guinea
+KSY*LTCF*Kars Harakani Airport*Kars, Turkey
+KSZ*ULKK*Kotlas Airport*Kotlas, Arkhangelsk Oblast, Russia
+KTA*YPKA*Karratha Airport*Karratha, Western Australia, Australia
+KTB**Thorne Bay Seaplane Base*Thorne Bay, Alaska, United States
+KTC**Katiola Airport*Katiola, Ivory Coast
+KTE*WMKE*Kerteh Airport*Kerteh, Terengganu, Malaysia
+KTF*NZTK*Takaka Aerodrome*Takaka, New Zealand
+KTG*WIOK*Rahadi Osman Airport (Ketapang Airport)*Ketapang, Indonesia
+KTH**Tikchik Lodge Seaplane Base (FAA: AK56)*Tikchik, Alaska, United States
+KTI*VDKT*Kratié Airport*Kratié, Cambodia
+KTJ**Kichwa Tembo Airport*Kichwa Tembo, Kenya
+KTK**Kunua Airport*Kunua, Papua New Guinea
+KTL*HKKT*Kitale Airport*Kitale, Kenya
+KTM*VNKT*Tribhuvan International Airport*Kathmandu, Nepal
+KTN*PAKT*Ketchikan International Airport*Ketchikan, Alaska, United States
+KTO*SYKT*Kato Airport*Kato, Guyana
+KTP*MKTP*Tinson Pen Aerodrome*Kingston, Jamaica
+KTQ*EFIT*Kitee Airfield*Kitee, Finland
+KTR*YPTN*RAAF Base Tindal*Katherine, Northern Territory, Australia
+KTS*PFKT*Brevig Mission Airport*Brevig Mission, Alaska, United States
+KTT*EFKT*Kittilä Airport*Kittilä, Finland
+KTU*VIKO*Kota Airport*Kota, Rajasthan, India
+KTV*SVKM*Kamarata Airport*Kamarata, Venezuela
+KTW*EPKT*Katowice International Airport*Katowice, Poland
+KTX*GAKO*Koutiala Airport*Koutiala, Mali
+KTY*VCCN*Katukurunda Airport*Kalutara, Sri Lanka
+KUA*WMKD*Sultan Haji Ahmad Shah Airport (RMAF Kuantan)*Kuantan, Pahang, Malaysia
+KUC*NGKT*Kuria Airport*Kuria, Kiribati
+KUD*WBKT*Kudat Airport*Kudat, Sabah, Malaysia
+KUE*AGKU*Kukundu Airport*Kolombangara, Western Province, Solomon Islands
+KUF*UWWW*Kurumoch International Airport*Samara, Samara Oblast, Russia
+KUG*YKUB*Kubin Airport*Moa Island, Queensland, Australia
+KUH*RJCK*Kushiro Airport*Kushiro, Hokkaido, Japan
+KUK*PFKA*Kasigluk Airport (FAA: Z09)*Kasigluk, Alaska, United States
+KUL*WMKK*Kuala Lumpur International Airport*Kuala Lumpur,1 Malaysia
+KUN*EYKA*Kaunas International Airport*Kaunas, Lithuania
+KUO*EFKU*Kuopio Airport*Kuopio, Finland
+KUP**Kupiano Airport*Kupiano, Papua New Guinea
+KUQ*AYKU*Kuri Airport*Kuri, Papua New Guinea
+KUR*OARZ*Razer Airport*Koran va Monjan (Kiran wa Munjan), Afghanistan
+KUS*BGKK*Kulusuk Airport*Kulusuk, Greenland
+KUT*UGKO*David the Builder Kutaisi International Airport*Kutaisi, Georgia
+KUU*VIBR*Bhuntar Airport (Kullu Manali Airport)*Kullu, Himachal Pradesh, India
+KUV*RKJK*Gunsan Airport*Gunsan, South Korea
+KUX**Kuyol Airport*Kuyol, Papua New Guinea
+KUY**Kamusi Airport*Kamusi, Papua New Guinea
+KVA*LGKV*Kavala International Airport (Alexander the Great Airport)*Kavala, Greece
+KVB*ESGR*Skövde Airport*Skövde, Sweden
+KVC*PAVC*King Cove Airport*King Cove, Alaska, United States
+KVD*UBBG*Ganja International Airport*Ganja, Azerbaijan
+KVE**Kitava Island Airport*Kitava Island, Papua New Guinea
+KVG*AYKV*Kavieng Airport*Kavieng, Papua New Guinea
+KVK*ULMK*Kirovsk-Apatity Airport (Khibiny Airport)*Kirovsk / Apatity, Murmansk Oblast, Russia
+KVL*PAVL*Kivalina Airport*Kivalina, Alaska, United States
+KVM*UHMO*Markovo Airport*Markovo, Chukotka, Russia
+KVR**Kavalerovo Airport*Kavalerovo, Primorsky Krai, Russia
+KVU**Korolevu Seaplane Base*Korolevu, Fiji
+KVX*USKK*Pobedilovo Airport*Kirov, Kirov Oblast, Russia
+KWA*PKWA*Bucholz Army Airfield*Kwajalein, Marshall Islands
+KWB**Dewadaru Airport*Karimun Java, Indonesia
+KWD**Kavadja Airport*Kavadja, Central African Republic
+KWE*ZUGY*Guiyang Longdongbao International Airport*Guiyang, Guizhou, China
+KWF**Waterfall Seaplane Base*Waterfall, Alaska, United States
+KWG*UKDR*Kryvyi Rih International Airport*Kryvyi Rih (Krivoi Rog), Ukraine
+KWH*OAHN*Khwahan Airport*Khwahan, Afghanistan
+KWI*OKBK*Kuwait International Airport*Kuwait City, Kuwait
+KWJ*RKJJ*Gwangju Airport*Gwangju (Kwangju), South Korea
+KWK*PAGG*Kwigillingok Airport (FAA: GGV)*Kwigillingok, Alaska, United States
+KWL*ZGKL*Guilin Liangjiang International Airport*Guilin, Guangxi, China
+KWM*YKOW*Kowanyama Airport*Kowanyama, Queensland, Australia
+KWN*PAQH*Quinhagak Airport (FAA: AQH)*Quinhagak, Alaska, United States
+KWO*AYKW*Kawito Airport*Kawito, Papua New Guinea
+KWP**West Point Village Seaplane Base*West Point, Alaska, United States
+KWR**Kwai Harbour Airport*Kwai Harbour, Solomon Islands
+KWS*AGKW*Kwailabesi Airport*Kwailabesi, Solomon Islands
+KWT*PFKW*Kwethluk Airport*Kwethluk, Alaska, United States
+KWV**Kurwina Airport*Kurwina, Papua New Guinea
+KWX**Kiwai Island Airport*Kiwai Island, Papua New Guinea
+KWY**Kiwayu Airport*Kiwayu, Kenya
+KWZ*FZQM*Kolwezi Airport*Kolwezi, Democratic Republic of the Congo
+KXA**Kasaan Seaplane Base*Kasaan, Alaska, United States
+KXD*USHK*Kondinskoye Airport*Kondinskoye, Khanty-Mansi Autonomous Okrug, Russia
+KXE*FAKD*Klerksdorp Airport (P.C. Pelser Airport)*Klerksdorp, South Africa
+KXF*NFNO*Koro Airport*Koro Island, Fiji
+KXK*UHKK*Komsomolsk-on-Amur Airport*Komsomolsk-on-Amur, Khabarovsk Krai, Russia
+KXR**Karoola Airport*Karoola, Papua New Guinea
+KXU*NTKT*Katiu Airport*Katiu, Tuamotus, French Polynesia
+KYA*LTAN*Konya Airport*Konya, Turkey
+KYD*RCLY*Lanyu Airport*Orchid Island, Taiwan
+KYE*OLKA*Rene Mouawad Air Base (Kleyate Airport)*Tripoli, Lebanon
+KYF*YYLR*Yeelirrie Airport*Yeelirrie, Western Australia, Australia
+KYI*YYTA*Yalata Airport*Yalata Mission, South Australia, Australia
+KYK*PAKY*Karluk Airport*Karluk, Alaska, United States
+KYO**Tampa North Aero Park (FAA: X39)*Tampa, Florida, United States
+KYP*VYKP*Kyaukpyu Airport*Kyaukpyu, Myanmar
+KYS*GAKY*Kayes Airport (Dag-Dag Airport)*Kayes, Mali
+KYT*VYKU*Kyauktu Airport*Kyaukhtu, Myanmar
+KYU*PFKU*Koyukuk Airport*Koyukuk, Alaska, United States
+KYX*AYYE*Yalumet Airport*Yalumet, Papua New Guinea
+KYZ*UNKY*Kyzyl Airport*Kyzyl, Tuva, Russia
+KZB**Zachar Bay Seaplane Base*Zachar Bay, Alaska, United States
+KZC*VDKH*Kampong Chhnang Airport*Kampong Chhnang, Cambodia
+KZD**Krakor Airport*Krakor, Cambodia
+KZF*AYKT*Kaintiba Airport*Kaintiba, Papua New Guinea
+KZG*ETIN*Kitzingen Airport*Kitzingen, Bavaria, Germany
+KZI*LGKZ*Kozani National Airport (Filippos Airport)*Kozani, Greece
+KZN*UWKD*Kazan International Airport*Kazan, Tatarstan, Russia
+KZO*UAOO*Kyzylorda Airport*Kyzylorda, Kazakhstan
+KZR*LTBZ*Zafer Airport*Kütahya, Turkey
+KZS*LGKJ*Kastellorizo Island Public Airport*Kastellorizo, Greece

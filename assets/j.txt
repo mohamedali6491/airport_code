@@ -1,0 +1,162 @@
+JAA*OAJL*Jalalabad Airport*Jalalabad, Afghanistan
+JAB*YJAB*Jabiru Airport*Jabiru, Northern Territory, Australia
+JAC*KJAC*Jackson Hole Airport*Jackson, Wyoming, United States
+JAD*YPJT*Jandakot Airport*Perth, Western Australia, Australia
+JAE*SPJE*Jaén Airport*Jaén, Peru
+JAF*VCCJ*Jaffna Airport*Jaffna, Sri Lanka
+JAG*OPJA*PAF Base Shahbaz*Jacobabad, Pakistan
+JAI*VIJP*Jaipur International Airport*Jaipur, Rajasthan, India
+JAK*MTJA*Jacmel Airport*Jacmel, Haiti
+JAL*MMJA*El Lencero Airport*Xalapa (Jalapa), Veracruz, Mexico
+JAM**Bezmer Air Base*Yambol, Bulgaria
+JAN*KJAN*Jackson–Evers International Airport*Jackson, Mississippi, United States
+JAP*MRCH*Chacarita Airport*Puntarenas, Costa Rica
+JAQ**Jacquinot Bay Airport*Jacquinot Bay, Papua New Guinea
+JAR*OISJ*Jahrom Airport*Jahrom, Iran
+JAS*KJAS*Jasper County Airport (Bell Field)*Jasper, Texas, United States
+JAT**Jabot Airport*Jabat Island, Marshall Islands
+JAU*SPJJ*Francisco Carle Airport*Jauja, Peru
+JAV*BGJN*Ilulissat Airport*Ilulissat, Greenland
+JAX*KJAX*Jacksonville International Airport*Jacksonville, Florida, United States
+JBB*WARE*Notohadinegoro Airport*Jember, Indonesia
+JBQ*MDJB*La Isabela International Airport (Dr. Joaquin Balaguer Int'l)*La Isabela, Dominican Republic
+JBR*KJBR*Jonesboro Municipal Airport*Jonesboro, Arkansas, United States
+JBT**Bethel Seaplane Base (FAA: Z59)*Bethel, Alaska, United States
+JCB*SSJA*Santa Terezinha Municipal Airport*Joaçaba, Santa Catarina, Brazil
+JCH*BGCH*Qasigiannguit Heliport*Qasigiannguit, Greenland
+JCI*KIXD*New Century AirCenter (FAA: IXD)*Olathe, Kansas, United States
+JCK*YJLC*Julia Creek Airport*Julia Creek, Queensland, Australia
+JCM*SNJB*Jacobina Airport*Jacobina, Bahia, Brazil
+JCR*SBEK*Jacareacanga Airport*Jacareacanga, Pará, Brazil
+JCT*KJCT*Kimble County Airport*Junction, Texas, United States
+JCY**LBJ Ranch Airport (FAA: 0TE7)*Johnson City, Texas, United States
+JDA*KGCD*Grant County Regional Airport (Ogilvie Field) (FAA: GCD)*John Day, Oregon, United States
+JDF*SBJF*Francisco Álvares de Assis Airport*Juiz de Fora, Minas Gerais, Brazil
+JDG*RKPD*Jeongseok Airport*Seogwipo, South Korea
+JDH*VIJO*Jodhpur Airport*Jodhpur, Rajasthan, India
+JDN*KJDN*Jordan Airport*Jordan, Montana, United States
+JDO*SBJU*Juazeiro do Norte Airport*Juazeiro do Norte, Ceará, Brazil
+JDR*SNJR*Prefeito Octávio de Almeida Neves Airport*São João del Rei, Minas Gerais, Brazil
+JDZ*ZSJD*Jingdezhen Luojia Airport*Jingdezhen, Jiangxi, China
+JED*OEJN*King Abdulaziz International Airport*Jeddah, Saudi Arabia
+JEE*MTJE*Jérémie Airport*Jérémie, Haiti
+JEF*KJEF*Jefferson City Memorial Airport*Jefferson City, Missouri, United States
+JEG*BGAA*Aasiaat Airport*Aasiaat, Greenland
+JEJ**Jeh Airport*Jeh Island, Ailinglaplap Atoll, Marshall Islands
+JEK**Jeki Airstrip*Jeki, Zambia
+JEQ*SNJK*Jequié Airport*Jequié, Bahia, Brazil
+JER*EGJJ*Jersey Airport*Jersey, Channel Islands, United Kingdom
+JFK*KJFK*John F. Kennedy International Airport*New York City, New York, United States
+JFN*KHZY*Northeast Ohio Regional Airport (FAA: HZY)*Ashtabula, Ohio, United States
+JFR*BGPT*Paamiut Airport*Paamiut, Greenland
+JGA*VAJM*Jamnagar Airport (Govardhanpur Airport)*Jamnagar, Gujarat, India
+JGB**Jagdalpur Airport*Jagdalpur, Chhattisgarh, India
+JGD*ZYJD*Jiagedaqi Airport*Jiagedaqi, Heilongjiang, China
+JGN*ZLJQ*Jiayuguan Airport*Jiayuguan, Gansu, China
+JGS*ZSJA*Jinggangshan Airport*Ji'an, Jiangxi, China
+JHB*WMKJ*Senai International Airport*Johor Bahru, Johor, Malaysia
+JHG*ZPJH*Xishuangbanna Gasa Airport*Jinghong, Yunnan, China
+JHL**Fort MacKay/Albian Aerodrome (TC: CAL4)*Fort McKay, Alberta, Canada
+JHM*PHJH*Kapalua Airport*Kapalua, Hawaii, United States
+JHS*BGSS*Sisimiut Airport*Sisimiut, Greenland
+JHW*KJHW*Chautauqua County-Jamestown Airport*Jamestown, New York, United States
+JIA*SWJN*Juína Airport*Juína, Mato Grosso, Brazil
+JIB*HDAM*Djibouti–Ambouli International Airport*Djibouti, Djibouti
+JIC*ZLJC*Jinchang Jinchuan Airport*Jinchang, Gansu, China
+JIJ*HAJJ*Wilwal International Airport*Jijiga, Ethiopia
+JIK*LGIK*Ikaria Island National Airport*Ikaria Island, Greece
+JIL*ZYJL*Jilin Ertaizi Airport*Jilin City, Jilin, China
+JIM*HAJM*Aba Segud Airport*Jimma, Ethiopia
+JIN*HUJI*Jinja Airport*Jinja, Uganda
+JIP*SEJI*Jipijapa Airport*Jipijapa, Ecuador
+JIQ*ZUQJ*Qianjiang Wulingshan Airport*Qianjiang, Chongqing, China
+JIR*VNJI*Jiri Airport*Jiri, Nepal
+JIU*ZSJJ*Jiujiang Lushan Airport*Jiujiang, Jiangxi, China
+JIW*OPJI*Jiwani Airport*Jiwani, Pakistan
+JJA*AGJO*Jajao Airport*Jajao, Isabel Province, Solomon Islands
+JJG*SBJA*Humberto Ghizzo Bortoluzzi Regional Airport*Jaguaruna, Santa Catarina, Brazil
+JJI*SPJI*Juanjuí Airport*Juanjuí, Peru
+JJM*HKMK*Mulika Lodge Airport*Meru National Park, Kenya
+JJN*ZSQZ*Quanzhou Jinjiang International Airport*Quanzhou, Fujian, China
+JKG*ESGJ*Jönköping Airport*Jönköping, Sweden
+JKH*LGHI*Chios Island National Airport*Chios, Greece
+JKL*LGKY*Kalymnos Island National Airport*Kalymnos, Greece
+JKR*VNJP*Janakpur Airport*Janakpur, Nepal
+JKT**metropolitan area2*Jakarta, Indonesia
+JKV*KJSO*Cherokee County Airport (FAA: JSO)*Jacksonville, Texas, United States
+JLA**Quartz Creek Airport*Cooper Landing, Alaska, United States
+JLG*VAJL*Jalgaon Airport*Jalgaon, Maharashtra, India
+JLN*KJLN*Joplin Regional Airport*Joplin, Missouri, United States
+JLR*VAJB*Jabalpur Airport (Dumna Airport)*Jabalpur, Madhya Pradesh, India
+JLS*SDJL*Jales Airport*Jales, São Paulo, Brazil
+JMB**Jamba Airport*Jamba, Angola
+JMK*LGMK*Mykonos Island National Airport*Mykonos, Greece
+JMO*VNJS*Jomsom Airport*Jomsom, Nepal
+JMS*KJMS*Jamestown Regional Airport*Jamestown, North Dakota, United States
+JMU*ZYJM*Jiamusi Dongjiao Airport*Jiamusi, Heilongjiang, China
+JNA*SNJN*Januária Airport*Januária, Minas Gerais, Brazil
+JNB*FAOR*O. R. Tambo International Airport*Johannesburg, South Africa
+JNG*ZLJN*Jining Qufu Airport*Jining, Shandong, China
+JNI*SAAJ*Junín Airport*Junín, Buenos Aires, Argentina
+JNJ**Duqm Jaaluni Airport*Duqm, Oman
+JNU*PAJN*Juneau International Airport*Juneau, Alaska, United States
+JNX*LGNX*Naxos Island National Airport*Naxos, Greece
+JNZ*ZYJZ*Jinzhou Bay Airport*Jinzhou, Liaoning, China
+JOE*EFJO*Joensuu Airport*Joensuu, Finland
+JOG*WIIJ*Adisucipto International Airport*Yogyakarta, Indonesia
+JOH*FAPJ*Port St. Johns Airport*Port St. Johns, South Africa
+JOI*SBJV*Joinville-Lauro Carneiro de Loyola Airport*Joinville, Santa Catarina, Brazil
+JOJ**Doris Lake Aerodrome (TC: CDL7)*Doris Lake, Nunavut, Canada
+JOK*UWKJ*Yoshkar-Ola Airport*Yoshkar-Ola, Mari El, Russia
+JOL*RPMJ*Jolo Airport*Jolo, Philippines
+JOM*HTNJ*Njombe Airport*Njombe, Tanzania
+JOP**Josephstaal Airport*Josephstaal, Papua New Guinea
+JOS*DNJO*Yakubu Gowon Airport*Jos, Nigeria
+JOT*KJOT*Joliet Regional Airport*Joliet, Illinois, United States
+JPA*SBJP*Presidente Castro Pinto International Airport*João Pessoa, Paraíba, Brazil
+JPR*SWJI*José Coleto Airport*Ji-Paraná, Rondônia, Brazil
+JQA*BGUQ*Qaarsut Airport (Uummannaq/Qaarsut Airport)*Qaarsut, Greenland
+JQE*MPJE*Jaqué Airport*Jaqué, Panama
+JQF*KJQF*Concord-Padgett Regional Airport*Concord, North Carolina, USA
+JRF*PHJR*Kalaeloa Airport (John Rodgers Field)*Kapalua, Hawaii, United States
+JRH*VEJT*Jorhat Airport (Rowriah Airport)*Jorhat, Assam, India
+JRN*SWJU*Juruena Airport*Juruena, Mato Grosso, Brazil
+JRO*HTKJ*Kilimanjaro International Airport*Kilimanjaro, Tanzania
+JRS*OJJR*Atarot Airport (Jerusalem International Airport)*Jerusalem, Israel1
+JSA*VIJR*Jaisalmer Airport*Jaisalmer, Rajasthan, India
+JSH*LGST*Sitia Public Airport*Sitia, Greece
+JSI*LGSK*Skiathos Island National Airport*Skiathos, Greece
+JSJ*XYJS*Jiansanjiang Airport*Jiansanjiang, Heilongjiang, China
+JSM*SAWS*José de San Martín Airport*José de San Martín, Chubut, Argentina
+JSR*VGJR*Jessore Airport*Jessore, Bangladesh
+JST*KJST*John Murtha Johnstown–Cambria County Airport*Johnstown, Pennsylvania, United States
+JSU*BGMQ*Maniitsoq Airport*Maniitsoq, Greenland
+JSY*LGSO*Syros Island National Airport*Syros, Greece
+JTC*SBAE*Moussa Nakhl Tobias–Bauru/Arealva State Airport*Bauru, São Paulo, Brazil
+JTI*SWJW*Jataí Airport*Jataí, Goiás, Brazil
+JTR*LGSR*Santorini (Thira) National Airport*Santorini (Thira), Greece
+JTY*LGPL*Astypalaia Island National Airport*Astypalaia, Greece
+JUA*SIZX*Inácio Luís do Nascimento Airport*Juara, Mato Grosso, Brazil
+JUB*HSSJ*Juba International Airport*Juba, South Sudan
+JUH**Chizhou Jiuhuashan Airport*Chizhou / Tongling, Anhui, China
+JUI*EDWJ*Juist Airport*Juist, Lower Saxony, Germany
+JUJ*SASJ*Gobernador Horacio Guzmán International Airport*San Salvador de Jujuy, Jujuy, Argentina
+JUL*SPJL*Inca Manco Cápac International Airport*Juliaca, Peru
+JUM*VNJL*Jumla Airport*Jumla, Nepal
+JUN*YJDA*Jundah Airport*Jundah, Queensland, Australia
+JUO*SKJU*Juradó Airport*Juradó, Colombia
+JUR*YJNB*Jurien Bay Airport*Jurien Bay, Western Australia, Australia
+JUT*MHJU*Juticalpa Airport*Juticalpa, Honduras
+JUV*BGUK*Upernavik Airport*Upernavik, Greenland
+JUZ*ZSJU*Quzhou Airport*Quzhou, Zhejiang, China
+JVA*FMMK*Ankavandra Airport*Ankavandra, Madagascar
+JVI**Central Jersey Regional Airport (FAA: 47N)*Manville, New Jersey, United States
+JVL*KJVL*Southern Wisconsin Regional Airport*Janesville, Wisconsin, United States
+JWA*FBJW*Jwaneng Airport*Jwaneng, Botswana
+JWN*OITZ*Zanjan Airport*Zanjan, Iran
+JWO*RKTI*Jungwon Air Base*Chungju, South Korea
+JXA*ZYJX*Jixi Xingkaihu Airport*Jixi, Heilongjiang, China
+JXN*KJXN*Jackson County Airport (Reynolds Field)*Jackson, Michigan, United States
+JYR*OIKJ*Jiroft Airport*Jiroft, Iran
+JYV*EFJY*Jyväskylä Airport*Jyväskylä, Finland
+JZH*ZUJZ*Jiuzhai Huanglong Airport*Jiuzhaigou, Sichuan, China

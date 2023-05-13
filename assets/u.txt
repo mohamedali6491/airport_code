@@ -1,0 +1,197 @@
+UAB*LTAG*Incirlik Air Base*Adana, Turkey
+UAC**San Luis Río Colorado Airport*San Luis Río Colorado, Sonora, Mexico
+UAE**Mount Aue Airport*Mount Aue, Papua New Guinea
+UAH*NTMU*Ua Huka Airport*Ua Huka, Marquesas Islands, French Polynesia
+UAI*WPDB*Suai Airport*Suai, East Timor
+UAK*BGBW*Narsarsuaq Airport*Narsarsuaq, Greenland
+UAL*FNUA*Luau Airport*Luau, Angola
+UAM*PGUA*Andersen Air Force Base*Hagåtña (Agana), Guam
+UAP*NTMP*Ua Pou Airport*Ua Pou, Marquesas Islands, French Polynesia
+UAQ*SANU*Domingo Faustino Sarmiento Airport*San Juan, San Juan, Argentina
+UAR*GMFB*Bouarfa Airport*Bouarfa, Morocco
+UAS*HKSB*Samburu Airport (Buffalo Spring Airport)*Samburu, Kenya
+UAX**Uaxactun Airport*Uaxactun, Guatemala
+UBA*SBUR*Mário de Almeida Franco Airport*Uberaba, Minas Gerais, Brazil
+UBB*YMAA*Mabuiag Island Airport*Mabuiag Island, Queensland, Australia
+UBI**Buin Airport*Buin, Papua New Guinea
+UBJ*RJDC*Yamaguchi Ube Airport*Ube, Honshu, Japan
+UBP*VTUU*Ubon Ratchathani Airport*Ubon Ratchathani, Thailand
+UBR*WAJU*Ubrub Airport*Ubrub, Indonesia
+UBS*KUBS*Columbus-Lowndes County Airport*Columbus, Mississippi, United States
+UBT*SDUB*Ubatuba Airport (Gastão Madeira Airport)*Ubatuba, São Paulo, Brazil
+UBU*YKAL*Kalumburu Airport*Kalumburu, Western Australia, Australia
+UCB**Ulanqab Airport*Ulanqab, Inner Mongolia, China
+UCC*KUCC*Yucca Airstrip (FAA: NV11)*Mercury, Nevada, United States
+UCE**Eunice Airport (FAA: 4R7)*Eunice, Louisiana, United States
+UCK*UKLC*Lutsk Airport*Lutsk, Ukraine
+UCN*GLBU*Buchanan Airport*Buchanan, Liberia
+UCT*UUYH*Ukhta Airport*Ukhta, Komi Republic, Russia
+UCY*KUCY*Everett–Stewart Regional Airport*Union City, Tennessee, United States
+UDA*YUDA*Undara Airport*Undara, Queensland, Australia
+UDD*KUDD*Bermuda Dunes Airport*Palm Springs, California, United States
+UDE*EHVK*Volkel Air Base*Uden, Netherlands
+UDI*SBUL*Ten. Cel. Av. César Bombonato Airport*Uberlândia, Minas Gerais, Brazil
+UDJ*UKLU*Uzhhorod International Airport*Uzhhorod, Ukraine
+UDN*LIPD*Campoformido Airport*Udine, Friuli-Venezia Giulia, Italy
+UDR*VAUD*Maharana Pratap Airport*Udaipur, Rajasthan, India
+UEE*YQNS*Queenstown Airport*Queenstown, Tasmania, Australia
+UEL*FQQL*Quelimane Airport*Quelimane, Mozambique
+UEN*USDU*Urengoy Airport*Urengoy, Yamalo-Nenets Autonomous Okrug, Russia
+UEO*ROKJ*Kumejima Airport*Kumejima, Okinawa Islands, Japan
+UES*KUES*Waukesha County Airport (Crites Field)*Waukesha, Wisconsin, United States
+UET*OPQT*Quetta International Airport*Quetta, Pakistan
+UFA*UWUU*Ufa International Airport*Ufa, Bashkortostan, Russia
+UGA*ZMBN*Bulgan Airport*Bulgan, Mongolia
+UGB**Ugashik Bay Airport*Pilot Point, Alaska, United States
+UGC*UTNU*Urgench International Airport*Urgench, Uzbekistan
+UGI**San Juan (Uganik) Seaplane Base (FAA: WSJ)*Uganik, Alaska, United States
+UGN*KUGN*Waukegan National Airport*Waukegan, Illinois, United States
+UGO*FNUG*Uíge Airport*Uíge, Angola
+UGS**Ugashik Airport (FAA: 9A8)*Ugashik, Alaska, United States
+UGT*ZMBR*Bulagtai Airport*Bulagtai, Mongolia
+UGU**Bilogai Airport*Bilogai, Indonesia
+UIB*SKUI*El Caraño Airport*Quibdó, Colombia
+UII*MHUT*Útila Airport*Útila, Honduras
+UIK*UIBS*Ust-Ilimsk Airport*Ust-Ilimsk, Irkutsk Oblast, Russia
+UIL*KUIL*Quillayute Airport*Forks, Washington, United States
+UIN*KUIN*Quincy Regional Airport (Baldwin Field)*Quincy, Illinois, United States
+UIO*SEQM*Mariscal Sucre International Airport*Quito, Ecuador
+UIP*LFRQ*Quimper–Cornouaille Airport (Pluguffan)*Quimper, Brittany, France
+UIQ*NVVQ*Quoin Hill Airfield*Quoin Hill, Vanuatu
+UIR*YQDI*Quirindi Airport*Quirindi, New South Wales, Australia
+UIT**Jaluit Airport (FAA: N55)*Jaluit Atoll, Marshall Islands
+UJE**Ujae Airport*Ujae Atoll, Marshall Islands
+UJN*RKTL*Uljin Airport*Uljin, South Korea
+UJU*ZKUJ*Uiju Airfield*Uiju, North Korea
+UKA*HKUK*Ukunda Airport (Diani Airport)*Ukunda, Kenya
+UKB*RJBE*Kobe Airport*Kobe / Osaka, Honshu, Japan
+UKG*UEBT*Ust-Kuyga Airport*Ust-Kuyga, Yakutia, Russia
+UKH*OOMK*Mukhaizna Airport*Mukhaizna, Oman
+UKI*KUKI*Ukiah Municipal Airport*Ukiah, California, United States
+UKK*UASK*Oskemen Airport (Ust-Kamenogorsk Airport)*Oskemen (Ust-Kamenogorsk), Kazakhstan
+UKN**Waukon Municipal Airport (FAA: Y01)*Waukon, Iowa, United States
+UKR*OYMK*Mukeiras Airport*Mukayras, Yemen
+UKS*UKFB*Sevastopol International Airport*Sevastopol
+UKT*KUKT*Quakertown Airport*Quakertown, Pennsylvania, United States
+UKU**Nuku Airport*Nuku, Papua New Guinea
+UKX*UITT*Ust-Kut Airport*Ust-Kut, Irkutsk Oblast, Russia
+ULA*SAWJ*Capitán José Daniel Vazquez Airport*Puerto San Julián, Santa Cruz, Argentina
+ULB*NVSU*Ulei Airport*Ulei, Vanuatu
+ULD*FAUL*Ulundi Airport*Ulundi, South Africa
+ULE**Sule Airport*Sule, Papua New Guinea
+ULG*ZMUL*Ölgii Airport*Ölgii, Mongolia
+ULH*OEAO*Prince Abdul Majeed bin Abdulaziz Domestic Airport*Al-Ula, Saudi Arabia
+ULI**Ulithi Airport (FAA: TT02)*Ulithi, Federated States of Micronesia
+ULK*UERL*Lensk Airport*Lensk, Yakutia, Russia
+ULL**Glenforsa Airfield*Mull, Scotland, United Kingdom
+ULM*KULM*New Ulm Municipal Airport*New Ulm, Minnesota, United States
+ULN*ZMUB*Chinggis Khaan International Airport*Ulaanbaatar, Mongolia
+ULO*ZMUG*Ulaangom Airport*Ulaangom, Mongolia
+ULP*YQLP*Quilpie Airport*Quilpie, Queensland, Australia
+ULQ*SKUL*Heriberto Gíl Martínez Airport*Tuluá, Colombia
+ULS**Mulatos Airport*Mulatos, Colombia
+ULU*HUGU*Gulu Airport*Gulu, Uganda
+ULV*UWLL*Ulyanovsk Baratayevka Airport*Ulyanovsk, Ulyanovsk Oblast, Russia
+ULX**Ulusaba Airstrip*Ulusaba, South Africa
+ULY*UWLW*Ulyanovsk Vostochny Airport*Ulyanovsk, Ulyanovsk Oblast, Russia
+ULZ*ZMDN*Donoi Airport*Uliastai, Mongolia
+UMA**Punta de Maisí Airport*Maisí, Cuba
+UMC**Umba Airport*Umba, Papua New Guinea
+UMD**Uummannaq Heliport*
+UME*ESNU*Umeå Airport*Umeå, Sweden
+UMI*SPIL*Quince Mil Airport*Quince Mil, Peru
+UMM*PAST*Summit Airport*Summit, Alaska, United States
+UMR*YPWR*RAAF Woomera Airfield*Woomera, South Australia, Australia
+UMS*UEMU*Ust-Maya Airport*Ust-Maya, Yakutia, Russia
+UMT*PAUM*Umiat Airport*Umiat, Alaska, United States
+UMU*SSUM*Orlando de Carvalho Airport*Umuarama, Paraná, Brazil
+UMY*UKHS*Sumy Airport*Sumy, Ukraine
+UNA*SBTC*Una-Comandatuba Airport*Una / Comandatuba Island, Bahia, Brazil
+UNC**Unguía Airport*Unguía, Colombia
+UND*OAUZ*Kunduz Airport*Kunduz, Afghanistan
+UNE*FXQN*Qacha's Nek Airport*Qacha's Nek, Lesotho
+UNG*AYKI*Kiunga Airport*Kiunga, Papua New Guinea
+UNI*TVSU*Union Island Airport*Union Island, Saint Vincent and the Grenadines
+UNK*PAUN*Unalakleet Airport*Unalakleet, Alaska, United States
+UNN*VTSR*Ranong Airport*Ranong, Thailand
+UNR*ZMUH*Öndörkhaan Airport*Öndörkhaan, Mongolia
+UNT**Baltasound Airport*Unst, Scotland, United Kingdom
+UNU*KUNU*Dodge County Airport*Juneau, Wisconsin, United States
+UOA*NTTX*Mururoa Airport*Moruroa (Mururoa), Tuamotus, French Polynesia
+UOL*WAMY*Pogogul Airport*Buol, Indonesia
+UOS*KUOS*Franklin County Airport*Sewanee, Tennessee, United States
+UOX*KUOX*University-Oxford Airport*Oxford, Mississippi, United States
+UPB*MUPB*Playa Baracoa Airport*Havana, Cuba
+UPG*WAAA*Sultan Hasanuddin International Airport*Makassar, Indonesia
+UPL*MRUP*Upala Airport*Upala, Costa Rica
+UPN*MMPN*Ignacio López Rayón International Airport*Uruapan, Michoacán, Mexico
+UPP*PHUP*Upolu Airport*Hawi, Hawaii, United States
+UPR**Upiara Airport*Upiara, Papua New Guinea
+UPV*EGDJ*RAF Upavon*Upavon, England, United Kingdom
+URA*UARR*Oral Ak Zhol Airport*Oral (Uralsk), Kazakhstan
+URB**Castilho Airport (Urubupunga Airport)*Castilho, São Paulo, Brazil
+URC*ZWWW*Ürümqi Diwopu International Airport*Ürümqi, Xinjiang, China
+URD*EDQE*Burg Feuerstein Airport*Burg Feuerstein, Bavaria, Germany
+URE*EEKE*Kuressaare Airport*Kuressaare, Estonia
+URG*SBUG*Rubem Berta International Airport*Uruguaiana, Rio Grande do Sul, Brazil
+URI*SKUB*Uribe Airport*La Uribe, Colombia
+URJ*USHU*Uray Airport*Uray, Khanty-Mansi Autonomous Okrug, Russia
+URM*SVUM*Uriman Airport*Uriman, Venezuela
+URN*OAOG*Urgun Airport*Urgun, Afghanistan
+URO*LFOP*Rouen Airport (Vallée de Seine Airport)*Rouen, Upper Normandy, France
+URR*SKUR*Urrao Airport*Urrao, Colombia
+URS*UUOK*Kursk Vostochny Airport*Kursk, Kursk Oblast, Russia
+URT*VTSB*Surat Thani Airport*Surat Thani, Thailand
+URU**Uroubi Airport*Uroubi, Papua New Guinea
+URY*OEGT*Gurayat Domestic Airport*Qurayyat (Gurayat), Saudi Arabia
+URZ*OARG*Uruzgan Airport*Khas Uruzgan, Afghanistan
+USA*KJQF*Concord Regional Airport (FAA: JQF)*Concord, North Carolina, United States
+USC**Union County Airport/Troy Shelton Field (FAA: 35A)*Union, South Carolina, United States
+USH*SAWH*Ushuaia – Malvinas Argentinas International Airport*Ushuaia, Tierra del Fuego, Argentina
+USI*SYMB*Mabaruma Airport*Mabaruma, Guyana
+USK*UUYS*Usinsk Airport*Usinsk, Komi Republic, Russia
+USL*YUSL*Useless Loop Airport*Useless Loop, Western Australia, Australia
+USM*VTSM*Samui Airport*Ko Samui, Thailand
+USN*RKPU*Ulsan Airport*Ulsan, South Korea
+USO**Usino Airport*Usino, Papua New Guinea
+USR*UEMT*Ust-Nera Airport*Ust-Nera, Yakutia, Russia
+USS*MUSS*Sancti Spíritus Airport*Sancti Spíritus, Cuba
+UST*KSGJ*Northeast Florida Regional Airport (FAA: SGJ)*St. Augustine, Florida, United States
+USU*RPVV*Francisco B. Reyes Airport*Busuanga, Philippines
+UTA*FVMU*Mutare Airport*Mutare, Zimbabwe
+UTB*YMTB*Muttaburra Airport*Muttaburra, Queensland, Australia
+UTC*EHSB*Soesterberg Air Base*Utrecht, Netherlands
+UTD**Nutwood Downs Airport*Nutwood Downs, Northern Territory, Australia
+UTG*FXQG*Quthing Airport*Quthing, Lesotho
+UTH*VTUD*Udon Thani International Airport*Udon Thani, Thailand
+UTI*EFUT*Utti Airport*Utti, Finland
+UTK**Utirik Airport (FAA: 03N)*Utirik Atoll, Marshall Islands
+UTM*KUTA*Tunica Municipal Airport (FAA: UTA)*Tunica, Mississippi, United States
+UTN*FAUP*Upington Airport*Upington, South Africa
+UTO*PAIM*Indian Mountain LRRS Airport*Utopia Creek, Alaska, United States
+UTP*VTBU*U-Tapao International Airport*Rayong, Thailand
+UTR*VTPU*Uttaradit Airport*Uttaradit, Thailand
+UTS*UUYX*Ust-Tsilma Airport*Ust-Tsilma, Komi Republic, Russia
+UTT*FAUT*Mthatha Airport*Mthatha (Umtata), South Africa
+UTU**Ustupo Airport*Ustupo, Panama
+UTW*FAQT*Queenstown Airport*Queenstown, South Africa
+UUA*UWKB*Bugulma Airport*Bugulma, Tatarstan, Russia
+UUD*UIUU*Baikal International Airport*Ulan-Ude, Buryatia, Russia
+UUK*PAKU*Ugnu-Kuparuk Airport (FAA: UBW)*Kuparuk, Alaska, United States
+UUN*ZMBU*Baruun-Urt Airport*Baruun-Urt, Mongolia
+UUS*UHSS*Yuzhno-Sakhalinsk Airport (Khomutovo Airport)*Yuzhno-Sakhalinsk, Sakhalin Oblast, Russia
+UUU**Manumu Airport*Manumu, Papua New Guinea
+UVA*KUVA*Garner Field*Uvalde, Texas, United States
+UVE*NWWV*Ouvéa Airport (Ouloup Airport)*Ouvéa, New Caledonia
+UVF*TLPL*Hewanorra International Airport*Vieux Fort, Saint Lucia
+UVL*HEKG*El Kharga Airport*Kharga Oasis, Egypt
+UVO**Uvol Airport*Uvol, Papua New Guinea
+UWA**Ware Airport (FAA: MA53)*Ware, Massachusetts, United States
+UYL*HSNN*Nyala Airport*Nyala, Sudan
+UYN*ZLYL*Yulin Yuyang Airport*Yulin, Shaanxi, China
+UYU*SLUY*Uyuni Airport (Joya Andina Airport)*Uyuni, Bolivia
+UZC*LYUZ*Užice-Ponikve Airport*Užice, Serbia
+UZH**Unaizah Airport*Unaizah (Unayzah), Saudi Arabia
+UZM**Hope Bay Aerodrome (TC: CHB3)*Hope Bay, Nunavut, Canada
+UZR**Urzhar Airport*Urzhar (Urdzhar), Kazakhstan
+UZU*SATU*Curuzú Cuatiá Airport*Curuzú Cuatiá, Corrientes, Argentina

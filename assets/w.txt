@@ -1,0 +1,230 @@
+WAC*HAWC*Wacca Airport*Wacca, Ethiopia
+WAD**Andriamena Airport*Andriamena, Madagascar
+WAE*OEWD*Wadi al-Dawasir Domestic Airport*Wadi ad-Dawasir (Wadi al-Dawaser), Saudi Arabia
+WAF*OPWN*Wana Airport*Wana, Pakistan
+WAG*NZWU*Whanganui Airport*Whanganui, New Zealand
+WAH*KBWP*Harry Stern Airport (FAA: BWP)*Wahpeton, North Dakota, United States
+WAI*FMNW*Ambalabe Airport*Antsohihy, Madagascar
+WAJ**Wawoi Falls Airport*Wawoi Falls, Papua New Guinea
+WAK*FMSZ*Ankazoabo Airport*Ankazoabo, Madagascar
+WAL*KWAL*Wallops Flight Facility*Wallops Island, Virginia, United States
+WAM*FMMZ*Ambatondrazaka Airport*Ambatondrazaka, Madagascar
+WAN**Waverney Airport*Waverney, Queensland, Australia
+WAO*AYWB*Wabo Airport*Wabo, Papua New Guinea
+WAP*SCAP*Alto Palena Airfield*Palena, Chile
+WAQ*FMMG*Antsalova Airport*Antsalova, Madagascar
+WAR*WAJR*Waris Airport*Waris, Indonesia
+WAS**metropolitan area1*Washington, D.C., United States
+WAT*EIWF*Waterford Airport*Waterford, Ireland
+WAU**Wauchope Airport*Wauchope, New South Wales, Australia
+WAV*YWAV*Wave Hill Airport*Kalkarindji (Wave Hill), Northern Territory, Australia
+WAW*EPWA*Warsaw Chopin Airport*Warsaw, Poland
+WAX*HLZW*Zuwarah Airport*Zuwarah (Zuara), Libya
+WAY*KWAY*Greene County Airport*Waynesburg, Pennsylvania, United States
+WAZ*YWCK*Warwick Airport*Warwick, Queensland, Australia
+WBA*WAPV*Wahai Airport*Seram Island, Indonesia
+WBB**Stebbins Airport*Stebbins, Alaska, United States
+WBC**Wapolu Airport*Wapolu, Papua New Guinea
+WBD*FMNF*Befandriana Airport*Befandriana-Avaratra, Madagascar
+WBE**Ankaizina Airport*Bealanana, Madagascar
+WBG*ETNS*Schleswig Air Base*Schleswig, Schleswig-Holstein, Germany
+WBK**West Branch Community Airport (FAA: Y31)*West Branch, Michigan, United States
+WBM*AYWD*Wapenamanda Airport*Wapenamanda, Papua New Guinea
+WBO*FMSB*Antsoa Airport*Beroroha, Madagascar
+WBQ*PAWB*Beaver Airport*Beaver, Alaska, United States
+WBR*KRQB*Roben–Hood Airport (FAA: RQB)*Big Rapids, Michigan, United States
+WBU*KBDU*Boulder Municipal Airport (FAA: BDU)*Boulder, Colorado, United States
+WBW*KWBW*Wilkes-Barre Wyoming Valley Airport*Wilkes-Barre, Pennsylvania, United States
+WCA*SCST*Gamboa Airport*Castro, Chile
+WCH*SCTN*Chaitén Airfield*Chaitén, Chile
+WCR*PALR*Chandalar Lake Airport*Chandalar Lake, Alaska, United States
+WDA**Wadi Ain Airport*Wadi Ain, Yemen
+WDG*KWDG*Enid Woodring Regional Airport*Enid, Oklahoma, United States
+WDH*FYWH*Hosea Kutako International Airport*Windhoek, Namibia
+WDI*YWND*Wondai Airport*Wondai, Queensland, Australia
+WDN**Waldronaire Airport (FAA: 90WA)*Waldron Island, Washington, United States
+WDR*KWDR*Barrow County Airport*Winder, Georgia, United States
+WDS*ZHSY*Shiyan Wudangshan Airport*Shiyan, Hubei, China
+WEA*KWEA*Parker County Airport*Weatherford, Texas, United States
+WED**Wedau Airport*Wedau, Papua New Guinea
+WEF*ZSWF*Weifang Airport*Weifang, Shandong, China
+WEH*ZSWH*Weihai Dashuibo Airport*Weihai, Shandong, China
+WEI*YBWP*Weipa Airport*Weipa, Queensland, Australia
+WEL*FAWM*Welkom Airport*Welkom, South Africa
+WEP**Weam Airport*Weam, Papua New Guinea
+WET*WABG*Waghete Airport*Waghete, Indonesia
+WEW*YWWA*Wee Waa Airport*Wee Waa, New South Wales, Australia
+WFB**Ketchikan Harbor Seaplane Base (FAA: 5KE)*Ketchikan, Alaska, United States
+WFD*EGCD*Woodford Aerodrome*Woodford, England, United Kingdom
+WFI*FMSF*Fianarantsoa Airport*Fianarantsoa, Madagascar
+WFK*KFVE*Northern Aroostook Regional Airport (FAA: FVE)*Frenchville, Maine, United States
+WGA*YSWG*Wagga Wagga Airport*Wagga Wagga, New South Wales, Australia
+WGC*VOWA*Warangal Airport*Warangal, Telangana, India
+WGE*YWLG*Walgett Airport*Walgett, New South Wales, Australia
+WGN*ZGSY*Shaoyang Wugang Airport*Shaoyang, Hunan, China
+WGO*KOKV*Winchester Regional Airport (FAA: OKV)*Winchester, Virginia, United States
+WGP*WADW*Mau Hau Airport (Umbu Mehang Kunda Airport)*Waingapu, Indonesia
+WGT*YWGT*Wangaratta Airport*Wangaratta, Victoria, Australia
+WGU**Wagau Airport*Wagau, Papua New Guinea
+WGY**Wagny Airport*Wagny, Gabon
+WHD**Hyder Seaplane Base (FAA: 4Z7)*Hyder, Alaska, United States
+WHF*HSSW*Wadi Halfa Airport*Wadi Halfa, Sudan
+WHK*NZWK*Whakatane Airport*Whakatane, New Zealand
+WHL**Welshpool Airport*Welshpool, Victoria, Australia
+WHO**Franz Josef Glacier Aerodrome*Franz Josef Glacier, New Zealand
+WHP*KWHP*Whiteman Airport*Los Angeles, California, United States
+WHS*EGEH*Whalsay Airstrip*Whalsay, Scotland, United Kingdom
+WHT*KARM*Wharton Regional Airport (FAA: ARM)*Wharton, Texas, United States
+WHU*ZSWU*Wuhu Airport*Wuhu, Anhui, China
+WIB**Wilbarger County Airport (FAA: F05)*Vernon, Texas, United States
+WIC*EGPC*Wick Airport*Wick, Scotland, United Kingdom
+WIE*ETOU*Wiesbaden Army Airfield*Wiesbaden, Hesse, Germany
+WIK*NZKE*Waiheke Island Aerodrome*Waiheke Island, New Zealand
+WIL*HKNW*Wilson Airport*Nairobi, Kenya
+WIN*YWTN*Winton Airport*Winton, Queensland, Australia
+WIO*YWCA*Wilcannia Airport*Wilcannia, New South Wales, Australia
+WIR*NZWO*Wairoa Aerodrome*Wairoa, New Zealand
+WIT*YWIT*Wittenoom Airport*Wittenoom, Western Australia, Australia
+WIU**Witu Airport*Witu, Papua New Guinea
+WJA**Woja Airport*Woja, Ailinglaplap Atoll, Marshall Islands
+WJF*KWJF*General William J. Fox Airfield*Lancaster, California, United States
+WJR*HKWJ*Wajir Airport*Wajir, Kenya
+WJU*RKNW*Wonju Airport*Wonju, South Korea
+WKA*NZWF*Wanaka Airport*Wanaka, New Zealand
+WKB*YWKB*Warracknabeal Airport*Warracknabeal, Victoria, Australia
+WKF*FAWK*Air Force Base Waterkloof*Pretoria, South Africa
+WKI*FVWT*Hwange Town Airport*Hwange, Zimbabwe
+WKJ*RJCW*Wakkanai Airport*Wakkanai, Hokkaido, Japan
+WKK**Aleknagik Airport (FAA: 5A8)*Aleknagik, Alaska, United States
+WKL**Waikoloa Heliport (FAA: HI07)*Waikoloa Village, Hawaii, United States
+WKN**Wakunai Airport*Wakunai, Papua New Guinea
+WKR*MYAW*Walker's Cay Airport*Walker's Cay, Abaco Islands, Bahamas
+WLA*YWAL*Wallal Airport*Wallal (Wallal Downs), Western Australia, Australia
+WLC*YWCH*Walcha Airport*Walcha, New South Wales, Australia
+WLD*KWLD*Strother Field*Winfield / Arkansas City, Kansas, United States
+WLE*YMLS*Miles Airport*Miles, Queensland, Australia
+WLG*NZWN*Wellington International Airport*Wellington, New Zealand
+WLH*NVSW*Walaha Airport*Walaha, Vanuatu
+WLK*PASK*Selawik Airport*Selawik, Alaska, United States
+WLL*YWOR*Wollogorang Airport*Wollogorang Station, Northern Territory, Australia
+WLO*YWTL*Waterloo Airport*Waterloo, Northern Territory, Australia
+WLP*YANG*West Angelas Airport*West Angelas, Western Australia, Australia
+WLR**Loring Seaplane Base (FAA: 13Z)*Loring, Alaska, United States
+WLS*NLWW*Hihifo Airport*Wallis Island, Wallis and Futuna
+WLW*KWLW*Willows-Glenn County Airport*Willows, California, United States
+WMA*FMNX*Mandritsara Airport*Mandritsara, Madagascar
+WMB*YWBL*Warrnambool Airport*Warrnambool, Victoria, Australia
+WMC*KWMC*Winnemucca Municipal Airport*Winnemucca, Nevada, United States
+WMD*FMSC*Mandabe Airport*Mandabe, Madagascar
+WME*YMNE*Mount Keith Airport*Mount Keith, Western Australia, Australia
+WMH*KBPK*Ozark Regional Airport (FAA: BPK)*Mountain Home, Arkansas, United States
+WMI*EPMO*Warsaw Modlin Airport*Warsaw, Poland
+WMK**Meyers Chuck Seaplane Base (FAA: 84K)*Meyers Chuck, Alaska, United States
+WML*FMMC*Malaimbandy Airport*Malaimbandy, Madagascar
+WMN*FMNR*Maroantsetra Airport*Maroantsetra, Madagascar
+WMO*PAWM*White Mountain Airport*White Mountain, Alaska, United States
+WMP*FMNP*Mampikony Airport*Mampikony, Madagascar
+WMR*FMNC*Mananara Nord Airport*Mananara Nord (Mananara Avaratra), Madagascar
+WMV**Madirovalo Airport*Madirovalo, Madagascar
+WMX*WAVV*Wamena Airport*Wamena, Indonesia
+WNA*PANA*Napakiak Airport*Napakiak, Alaska, United States
+WND**Windarra Airport*Windarra, Western Australia, Australia
+WNE**Wora na Yeno Airport*Wora na Yeno, Gabon
+WNH*ZPWS*Wenshan Puzhehei Airport*Wenshan, Yunnan, China
+WNN**Wunnummin Lake Airport (TC: CKL3)*Wunnumin Lake, Ontario, Canada
+WNP*RPUN*Naga Airport*Naga, Philippines
+WNR*YWDH*Windorah Airport*Windorah, Queensland, Australia
+WNS*OPNH*Nawabshah Airport*Nawabshah (Shaheed Benazirabad), Pakistan
+WNU**Wanuma Airport*Wanuma, Papua New Guinea
+WNZ*ZSWZ*Wenzhou Longwan International Airport*Wenzhou, Zhejiang, China
+WOA**Wonenara Airport*Wonenara, Papua New Guinea
+WOE*EHWO*Woensdrecht Air Base*Bergen op Zoom, Netherlands
+WOK*SVUQ*Uonquén Airport*Uonquén, Venezuela
+WOL*YWOL*Illawarra Regional Airport*Wollongong, New South Wales, Australia
+WON*YWDL*Wondoola Airport*Wondoola, Queensland, Australia
+WOR**Moramba Airport*Ankorefo, Madagascar
+WOS*ZKWS*Wonsan Kalma International Airport*Wonsan, North Korea
+WOT*RCWA*Wang-an Airport*Wang'an, Taiwan
+WOW*PAUO*Willow Airport (FAA: UUO)*Willow, Alaska, United States
+WPA*SCAS*Cabo Juan Román Airfield*Puerto Aisén, Chile
+WPB*FMNG*Port Bergé Airport*Boriziny (Port Bergé), Madagascar
+WPC*CZPC*Pincher Creek Airport*Pincher Creek, Alberta, Canada
+WPK*YWMP*Wrotham Park Airport*Wrotham Park, Queensland, Australia
+WPL**Powell Lake Water Aerodrome (TC: CAQ8)*Powell River, British Columbia, Canada
+WPM*AYXP*Wipim Airport*Wipim, Papua New Guinea
+WPO**North Fork Valley Airport (FAA: 7V2)*Paonia, Colorado, United States
+WPR*SCFM*Capitán Fuentes Martínez Airport*Porvenir, Chile
+WPU*SCGZ*Guardiamarina Zañartu Airport*Puerto Williams, Chile
+WRA*HAWR*Warder Airport*Werder (Warder), Ethiopia
+WRB*KWRB*Robins Air Force Base*Warner Robins, Georgia, United States
+WRE*NZWR*Whangarei Airport*Whangarei, New Zealand
+WRG*PAWG*Wrangell Airport*Wrangell, Alaska, United States
+WRI*KWRI*McGuire Air Force Base*Wrightstown, New Jersey, United States
+WRL*KWRL*Worland Municipal Airport*Worland, Wyoming, United States
+WRN*YWDG*Windarling Airport*Windarling, Western Australia, Australia
+WRT*EGNO*Warton Aerodrome*Warton, England, United Kingdom
+WRW*YWWG*Warrawagine Airport*Warrawagine Station, Western Australia, Australia
+WRY*EGEW*Westray Airport*Westray, Scotland, United Kingdom
+WRZ*VCCW*Weerawila Airport*Weerawila, Sri Lanka
+WSA**Wasua Airport*Wasua, Papua New Guinea
+WSB**Steamboat Bay Seaplane Base*Steamboat Bay, Alaska, United States
+WSD*KWSD*Condron Army Airfield*White Sands, New Mexico, United States
+WSF*PACS*Cape Sarichef Airport (FAA: 26AK)*Cape Sarichef, Alaska, United States
+WSG*KAFJ*Washington County Airport (FAA: AFJ)*Washington, Pennsylvania, United States
+WSH*KHWV*Brookhaven Airport (FAA: HWV)*Shirley, New York, United States
+WSM**Wiseman Airport*Wiseman, Alaska, United States
+WSN*PFWS*South Naknek Airport*South Naknek, Alaska, United States
+WSO*SMWS*Washabo Airport*Washabo (Wasjabo), Suriname
+WSP*MNWP*Waspam Airport*Waspam, Nicaragua
+WSR*WASW*Wasior Airport*Wasior, Indonesia
+WST*KWST*Westerly State Airport*Westerly, Rhode Island, United States
+WSU**Wasu Airport*Wasu, Papua New Guinea
+WSX**Westsound Seaplane Base (FAA: WA83)*West Sound, Washington, United States
+WSY*YSHR*Whitsunday Airport*Airlie Beach / Shute Harbour, Queensland, Australia
+WSZ*NZWS*Westport Airport*Westport, New Zealand
+WTA*FMMU*Tambohorano Airport*Tambohorano, Madagascar
+WTB*YBWW*Toowoomba Wellcamp Airport*Toowoomba, Queensland, Australia
+WTD*MYGW*West End Airport*West End, Grand Bahama, Bahamas
+WTE**Wotje Airport (FAA: N36)*Wotje Atoll, Marshall Islands
+WTK*PAWN*Noatak Airport*Noatak, Alaska, United States
+WTL**Tuntutuliak Airport (FAA: A61)*Tuntutuliak, Alaska, United States
+WTN*EGXW*RAF Waddington*Waddington, England, United Kingdom
+WTO**Wotho Airport*Wotho Atoll, Marshall Islands
+WTP*AYWT*Woitape Airport*Woitape, Papua New Guinea
+WTR**Whiteriver Airport (FAA: E24)*Whiteriver, Arizona, United States
+WTS*FMMX*Tsiroanomandidy Airport*Tsiroanomandidy, Madagascar
+WTT**Wantoat Airport*Wantoat, Papua New Guinea
+WTZ*NZWT*Whitianga Aerodrome*Whitianga, New Zealand
+WUA*ZBUH*Wuhai Airport*Wuhai, Inner Mongolia, China
+WUD*YWUD*Wudinna Airport*Wudinna, South Australia, Australia
+WUG*AYWU*Wau Airport*Wau, Papua New Guinea
+WUH*ZHHH*Wuhan Tianhe International Airport*Wuhan, Hubei, China
+WUI*YMMI*Murrin Murrin Airport*Murrin Murrin, Western Australia, Australia
+WUM**Wasum Airport*Wasum, Papua New Guinea
+WUN*YWLU*Wiluna Airport*Wiluna, Western Australia, Australia
+WUS*ZSWY*Wuyishan Airport*Wuyishan, Fujian, China
+WUT*ZBXZ*Xinzhou Wutaishan Airport*Xinzhou, Shanxi, China
+WUU*HSWW*Wau Airport*Wau, South Sudan
+WUV**Wuvulu Island Airport*Wuvulu Island, Papua New Guinea
+WUX*ZSWX*Sunan Shuofang International Airport*Wuxi / Suzhou, Jiangsu, China
+WUZ**Wuzhou Xijiang Airport*Wuzhou, Guangxi, China
+WVB*FYWB*Walvis Bay Airport*Walvis Bay, Namibia
+WVI*KWVI*Watsonville Municipal Airport*Watsonville, California, United States
+WVK*FMSK*Manakara Airport*Manakara, Madagascar
+WVL*KWVL*Waterville Robert LaFleur Airport*Waterville, Maine, United States
+WVN*EDWI*JadeWeserAirport*Wilhelmshaven, Lower Saxony, Germany
+WWA*PAWS*Wasilla Airport (FAA: IYS)*Wasilla, Alaska, United States
+WWD*KWWD*Cape May Airport*Wildwood, New Jersey, United States
+WWI*YWWI*Woodie Woodie Airport*Woodie Woodie, Western Australia, Australia
+WWK*AYWK*Wewak Airport*Wewak, Papua New Guinea
+WWP**North Whale Seaplane Base (FAA: 96Z)*Whale Pass, Alaska, United States
+WWR*KWWR*West Woodward Airport*Woodward, Oklahoma, United States
+WWT*PAEW*Newtok Airport (FAA: EWU)*Newtok, Alaska, United States
+WWY*YWWL*West Wyalong Airport*West Wyalong, New South Wales, Australia
+WXN*ZUWX*Wanzhou Wuqiao Airport*Wanzhou, Chongqing, China
+WYA*YWHA*Whyalla Airport*Whyalla, South Australia, Australia
+WYB**Yes Bay Lodge Seaplane Base (FAA: 78K)*Yes Bay, Alaska, United States
+WYE*GFYE*Yengema Airport*Yengema, Sierra Leone
+WYN*YWYM*Wyndham Airport*Wyndham, Western Australia, Australia
+WYS*KWYS*Yellowstone Airport*West Yellowstone, Montana, United States
+WZQ**Urad Middle Banner Airport*Urad Middle Banner, Inner Mongolia, China

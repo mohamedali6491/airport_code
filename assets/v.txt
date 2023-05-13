@@ -1,0 +1,176 @@
+VAA*EFVA*Vaasa Airport*Vaasa, Finland
+VAB**Yavarate Airport*Yavarate, Colombia
+VAC*EDWU*Varrelbusch Airport*Cloppenburg, Lower Saxony, Germany
+VAD*KVAD*Moody Air Force Base*Valdosta, Georgia, United States
+VAF*LFLU*Valence-Chabeuil Airport*Valence, Rhône-Alpes, France
+VAG*SBVG*Major Brigadeiro Trompowsky Airport*Varginha, Minas Gerais, Brazil
+VAH*SLVG*Cap. Av. Vidal Villagomez Toledo Airport*Vallegrande, Bolivia
+VAI*AYVN*Vanimo Airport*Vanimo, Papua New Guinea
+VAK*PAVA*Chevak Airport*Chevak, Alaska, United States
+VAL*SNVB*Valença Airport*Valença, Bahia, Brazil
+VAM*VRMV*Villa International Airport*Maamigili, Maldives
+VAN*LTCI*Van Ferit Melen Airport*Van, Turkey
+VAO*AGGV*Suavanao Airport*Suavanao, Solomon Islands
+VAP*SCRD*Rodelillo Airfield*Valparaíso, Chile
+VAR*LBWN*Varna Airport*Varna, Bulgaria
+VAS*LTAR*Sivas Airport*Sivas, Turkey
+VAT*FMMY*Vatomandry Airport*Vatomandry, Madagascar
+VAU*NFNV*Vatukoula Airport*Vatukoula, Fiji
+VAW*ENSS*Vardø Airport, Svartnes*Vardø, Norway
+VBA*VYAN*Ann Airport*Ann, Myanmar
+VBC*VYCZ*Mandalay Chanmyathazi Airport*Mandalay, Myanmar
+VBG*KVBG*Vandenberg Air Force Base*Lompoc, California, United States
+VBP*VYBP*Bokpyin Airport*Bokpyin, Myanmar
+VBS*LIPO*Brescia Airport (Gabriele D'Annunzio Airport)*Brescia, Lombardy, Italy
+VBV*NFVB*Vanuabalavu Airport*Vanua Balavu, Fiji
+VBY*ESSV*Visby Airport*Visby, Sweden
+VCD*YVRD*Victoria River Downs Airport*Victoria River Downs Station, Northern Territory, Australia
+VCE*LIPZ*Venice Marco Polo Airport*Venice, Veneto, Italy
+VCF**Valcheta Airport*Valcheta, Río Negro, Argentina
+VCH*SUVO*Vichadero Airport*Vichadero, Uruguay
+VCL*VVCA*Chu Lai International Airport*Chu Lai, Vietnam
+VCP*SBKP*Viracopos/Campinas International Airport*São Paulo / Campinas, São Paulo, Brazil
+VCR*SVCO*Carora Airport*Carora, Venezuela
+VCT*KVCT*Victoria Regional Airport*Victoria, Texas, United States
+VCV*KVCV*Southern California Logistics Airport*Victorville, California, United States
+VDA*LLOV*Ovda Airport*Ovda (Uvda), Israel
+VDB*ENFG*Fagernes Airport, Leirin*Fagernes, Norway
+VDC*SBQV*Pedro Otacílio Figueiredo Airport*Vitória da Conquista, Bahia, Brazil
+VDE*GCHI*El Hierro Airport*Valverde, Canary Islands, Spain
+VDI*KVDI*Vidalia Regional Airport*Vidalia, Georgia, United States
+VDM*SAVV*Gobernador Edgardo Castello Airport*Viedma, Río Negro, Argentina
+VDP*SVVP*Valle de la Pascua Airport*Valle de la Pascua, Venezuela
+VDR*SAOD*Villa Dolores Airport*Villa Dolores, Córdoba, Argentina
+VDS*ENVD*Vadsø Airport*Vadsø, Norway
+VDY*VOJV*Vidyanagar Airport (Jindal Airport)*Toranagallu, Karnataka, India
+VDZ*PAVD*Valdez Airport (Pioneer Field)*Valdez, Alaska, United States
+VEE*PAVE*Venetie Airport*Venetie, Alaska, United States
+VEG**Maikwak Airport*Maikwak, Guyana
+VEL*KVEL*Vernal Regional Airport*Vernal, Utah, United States
+VER*MMVR*General Heriberto Jara International Airport*Veracruz, Veracruz, Mexico
+VEV*AGBA*Barakoma Airport*Barakoma, Solomon Islands
+VEX**Tioga Municipal Airport (FAA: D60)*Tioga, North Dakota, United States
+VEY*BIVM*Vestmannaeyjar Airport*Vestmannaeyjar, Iceland
+VFA*FVFA*Victoria Falls Airport*Victoria Falls, Zimbabwe
+VGA*VOBZ*Vijayawada Airport*Vijayawada, Andhra Pradesh, India
+VGD*ULWW*Vologda Airport*Vologda, Vologda Oblast, Russia
+VGO*LEVX*Vigo–Peinador Airport*Vigo, Galicia, Spain
+VGS**General Villegas Airport*General Villegas, Buenos Aires, Argentina
+VGT*KVGT*North Las Vegas Airport*Las Vegas, Nevada, United States
+VGZ*SKVG*Villa Garzón Airport*Villagarzón, Colombia
+VHC*FNSA*Henrique de Carvalho Airport*Saurimo, Angola
+VHM*ESNV*Vilhelmina Airport*Vilhelmina, Sweden
+VHN*KVHN*Culberson County Airport*Van Horn, Texas, United States
+VHV*UENI*Verkhnevilyuysk Airport*Verkhnevilyuysk, Yakutia, Russia
+VHY*LFLV*Vichy — Charmeil Airport*Vichy, Auvergne, France
+VHZ*NTUV*Vahitahi Airport*Vahitahi, Tuamotus, French Polynesia
+VIA*SSVI*Ângelo Ponzoni Municipal Airport*Videira, Santa Catarina, Brazil
+VIB**Villa Constitución Airport*Ciudad Constitución, Baja California Sur, Mexico
+VIC*LIPT*Vicenza Airport*Vicenza, Veneto, Italy
+VIE*LOWW*Vienna International Airport*Vienna, Austria
+VIG*SVVG*Juan Pablo Pérez Alfonzo Airport*El Vigía, Venezuela
+VIH*KVIH*Rolla National Airport*Rolla / Vichy, Missouri, United States
+VII*VVVH*Vinh International Airport*Vinh, Vietnam
+VIJ*TUPW*Virgin Gorda Airport*Virgin Gorda, British Overseas Territory of Virgin Islands
+VIL*GMMH*Dakhla Airport*Dakhla, Morocco
+VIN*UKWW*Havryshivka Vinnytsia International Airport*Vinnytsia, Ukraine
+VIQ*WPVQ*Viqueque Airport*Viqueque, East Timor
+VIR*FAVG*Virginia Airport*Durban, South Africa
+VIS*KVIS*Visalia Municipal Airport*Visalia, California, United States
+VIT*LEVT*Vitoria Airport*Vitoria-Gasteiz, Basque Country, Spain
+VIU**Viru Harbour Airport*Viru Harbour, Solomon Islands
+VIV**Vivigani Airfield*Vivigani, Papua New Guinea
+VIX*SBVT*Eurico de Aguiar Salles Airport*Vitória, Espírito Santo, Brazil
+VIY*LFPV*Vélizy – Villacoublay Air Base*Paris, Île-de-France, France
+VJB*FQXA*Xai-Xai Airport*Xai-Xai, Mozambique
+VJI*KVJI*Virginia Highlands Airport*Abingdon, Virginia, United States
+VJQ**Gurúé Airport*Gurúè, Mozambique
+VKO*UUWW*Vnukovo International Airport*Moscow, Russia
+VKS*KVKS*Vicksburg Municipal Airport*Vicksburg, Mississippi, United States
+VKT*UUYW*Vorkuta Airport*Vorkuta, Komi Republic, Russia
+VLA*KVLA*Vandalia Municipal Airport*Vandalia, Illinois, United States
+VLC*LEVC*Valencia Airport*Valencia, Valencian Community, Spain
+VLD*KVLD*Valdosta Regional Airport*Valdosta, Georgia, United States
+VLE**Valle Airport (FAA: 40G)*Grand Canyon, Arizona, United States
+VLG*SAZV*Villa Gesell Airport*Villa Gesell, Buenos Aires, Argentina
+VLI*NVVV*Bauerfield International Airport*Port Vila, Vanuatu
+VLK*URRY*Volgodonsk Airport*Volgodonsk, Rostov Oblast, Russia
+VLL*LEVD*Valladolid Airport*Valladolid, Castile and León, Spain
+VLM*SLVM*Lieutenant Colonel Rafael Pabón Airport*Villamontes, Bolivia
+VLN*SVVA*Arturo Michelena International Airport*Valencia, Venezuela
+VLP**Vila Rica Municipal Airport*Vila Rica, Mato Grosso, Brazil
+VLR*SCLL*Vallenar Airport*Vallenar, Chile
+VLS*NVSV*Valesdir Airport*Valesdir, Vanuatu
+VLU*ULOL*Velikiye Luki Airport*Velikiye Luki, Pskov Oblast, Russia
+VLV*SVVL*Dr. Antonio Nicolás Briceño Airport*Valera, Venezuela
+VLY*EGOV*Anglesey Airport / RAF Valley*Anglesey, Wales, United Kingdom
+VME*SAOR*Villa Reynolds Airport*Villa Mercedes, San Luis, Argentina
+VMI**Dr. Juan Plate Airport*Puerto Valle-Mi, Paraguay
+VMU*AYBA*Baimuru Airport*Baimuru, Papua New Guinea
+VNA*VLSV*Salavan Airport*Salavan (Saravane), Laos
+VNC*KVNC*Venice Municipal Airport*Venice, Florida, United States
+VND*FMSU*Vangaindrano Airport*Vangaindrano, Madagascar
+VNE*LFRV*Meucon Airport*Vannes, Brittany, France
+VNO*EYVI*Vilnius Airport*Vilnius, Lithuania
+VNR*YVRS*Vanrook Airport*Vanrook Station, Queensland, Australia
+VNS*VEBN*Lal Bahadur Shastri Airport*Varanasi, Uttar Pradesh, India
+VNT*EVVA*Ventspils International Airport*Ventspils, Latvia
+VNX*FQVL*Vilankulo Airport*Vilankulo, Mozambique
+VNY*KVNY*Van Nuys Airport*Los Angeles, California, United States
+VOD*LKVO*Vodochody Airport*Prague, Czech Republic
+VOG*URWW*Volgograd International Airport*Volgograd, Volgograd Oblast, Russia
+VOH*FMNV*Vohemar Airport*Vohemar (Vohimarina), Madagascar
+VOI*GLVA*Voinjama Airport (Tenebu Airport)*Voinjama, Liberia
+VOK*KVOK*Volk Field Air National Guard Base*Camp Douglas, Wisconsin, United States
+VOL*LGBL*Nea Anchialos National Airport*Volos, Greece
+VOT*SDVG*Votuporanga Airport (Domingos Pignatari Airport)*Votuporanga, São Paulo, Brazil
+VOZ*UUOO*Voronezh International Airport (Chertovitskoye Airport)*Voronezh, Voronezh Oblast, Russia
+VPE*FNGI*Ondjiva Pereira Airport*Ondjiva, Angola
+VPG**Vipingo Airport*Vipingo, Kenya
+VPM**Tanjung Api Airport*Ampana, Indonesia
+VPN*BIVO*Vopnafjörður Airport*Vopnafjörður, Iceland
+VPS*KVPS*Destin–Fort Walton Beach Airport / Eglin Air Force Base*Destin / Fort Walton Beach, Florida, United States
+VPY*FQCH*Chimoio Airport*Chimoio, Mozambique
+VPZ*KVPZ*Porter County Regional Airport*Valparaiso, Indiana, United States
+VQQ*KVQQ*Cecil Airport*Jacksonville, Florida, United States
+VQS*TJVQ*Antonio Rivera Rodríguez Airport*Vieques, Puerto Rico, United States
+VRA*MUVR*Juan Gualberto Gómez Airport*Varadero, Cuba
+VRB*KVRB*Vero Beach Regional Airport*Vero Beach, Florida, United States
+VRC*RPUV*Virac Airport*Virac, Philippines
+VRE*FAVR*Vredendal Airport*Vredendal, South Africa
+VRI*ULDW*Varandey Airport*Varandey, Nenets Autonomous Okrug, Russia
+VRK*EFVR*Varkaus Airport*Varkaus, Finland
+VRL*LPVR*Vila Real Airport*Vila Real, Portugal
+VRN*LIPX*Verona Villafranca Airport*Verona, Veneto, Italy
+VRO*MUKW*Kawama Airport*Varadero, Cuba
+VRS**Roy Otten Memorial Airfield (FAA: 3VS)*Versailles, Missouri, United States
+VRU*FAVB*Vryburg Airport*Vryburg, South Africa
+VSA*MMVA*Carlos Rovirosa Pérez International Airport*Villahermosa, Tabasco, Mexico
+VSE*LPVZ*Viseu Airport*Viseu, Portugal
+VSF*KVSF*Hartness State Airport*Springfield, Vermont, United States
+VSG*UKCW*Luhansk International Airport*Luhansk, Ukraine
+VST*ESOW*Stockholm Västerås Airport*Stockholm / Västerås, Sweden
+VTB*UMII*Vitebsk Vostochny Airport*Vitebsk, Belarus
+VTE*VLVT*Wattay International Airport*Vientiane, Laos
+VTF*NFVL*Vatulele Airport*Vatulele, Fiji
+VTL*LFSZ*Vittel - Champ-de-Courses Airport*Vittel, Lorraine, France
+VTM*LLNV*Nevatim Airbase*Nevatim, Israel
+VTN*KVTN*Miller Field*Valentine, Nebraska, United States
+VTU*MUVT*Hermanos Ameijeiras Airport*Las Tunas, Cuba
+VTZ*VEVZ*Visakhapatnam Airport*Visakhapatnam (Vishakhapatnam), Andhra Pradesh, India
+VUP*SKVP*Alfonso López Pumarejo Airport*Valledupar, Colombia
+VUS*ULWU*Veliky Ustyug Airport*Veliky Ustyug, Vologda Oblast, Russia
+VUU**Mvuu Camp Airport*Liwonde, Malawi
+VVB*FMMH*Mahanoro Airport*Mahanoro, Madagascar
+VVC*SKVV*La Vanguardia Airport*Villavicencio, Colombia
+VVI*SLVR*Viru Viru International Airport*Santa Cruz de la Sierra, Bolivia
+VVK*ESSW*Västervik Airport*Västervik, Sweden
+VVN**Las Malvinas Airport*Las Malvinas, Peru
+VVO*UHWW*Vladivostok International Airport*Vladivostok, Primorsky Krai, Russia
+VVZ*DAAP*Takhamalt Airport*Illizi, Algeria
+VXC*FQLC*Lichinga Airport*Lichinga, Mozambique
+VXE*GVSV*Cesária Évora Airport (São Pedro Airport)*São Vicente, Cape Verde
+VXO*ESMX*Växjö Småland Airport*Växjö, Sweden
+VYD*FAVY*Vryheid Airport*Vryheid, South Africa
+VYI*UENW*Vilyuysk Airport*Vilyuysk, Yakutia, Russia
+VYS*KVYS*Illinois Valley Regional Airport (Walter A. Duncan Field)*Peru, Illinois, United States

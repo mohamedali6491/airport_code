@@ -1,0 +1,297 @@
+DAA*KDAA*Davison Army Airfield*Fort Belvoir, Virginia, United States
+DAB*KDAB*Daytona Beach International Airport*Daytona Beach, Florida, United States
+DAC*VGHS*Shahjalal International Airport*Dhaka, Bangladesh
+DAD*VVDN*Da Nang International Airport*Da Nang, Vietnam
+DAF**Daup Airport*Daup, Papua New Guinea
+DAG*KDAG*Barstow-Daggett Airport*Daggett, California, United States
+DAH**Dathina Airport*Dathina, Yemen
+DAK*HEDK*Dakhla Oasis Airport*Dakhla Oasis, Egypt
+DAL*KDAL*Dallas Love Field*Dallas, Texas, United States
+DAM*OSDI*Damascus International Airport*Damascus, Syria
+DAN*KDAN*Danville Regional Airport*Danville, Virginia, United States
+DAO**Dabo Airport*Dabo, Papua New Guinea
+DAP*VNDL*Darchula Airport*Darchula, Nepal
+DAR*HTDA*Julius Nyerere International Airport*Dar es Salaam, Tanzania
+DAS**Great Bear Lake Airport (TC: CFF4)*Great Bear Lake, Northwest Territories, Canada
+DAT*ZBDT*Datong Yungang Airport*Datong, Shanxi, China
+DAU*AYDU*Daru Airport*Daru, Papua New Guinea
+DAV*MPDA*Enrique Malek International Airport*David, Panama
+DAX*ZUDX*Dazhou Heshi Airport*Dazhou, Sichuan, China
+DAY*KDAY*Dayton International Airport*Dayton, Ohio, United States
+DAZ*OADZ*Darwaz Airport*Darwaz, Afghanistan
+DBA*OPDB*Dalbandin Airport*Dalbandin, Pakistan
+DBB*HEAL*Al Alamain International Airport*El Alamein, Egypt
+DBC**Baicheng Chang'an Airport*Baicheng, Jilin, China
+DBD*VEDB*Dhanbad Airport*Dhanbad, Jharkhand, India
+DBK**Dutch Bay Seaplane Base*Kalpitiya, Sri Lanka
+DBM*HADM*Debre Marqos Airport*Debre Marqos, Ethiopia
+DBN*KDBN*W. H. 'Bud' Barron Airport*Dublin, Georgia, United States
+DBO*YSDU*Dubbo City Regional Airport*Dubbo, New South Wales, Australia
+DBP*AYDB*Debepare Airport*Debepare, Papua New Guinea
+DBQ*KDBQ*Dubuque Regional Airport*Dubuque, Iowa, United States
+DBS**Dubois Municipal Airport (FAA: U41)*Dubois, Idaho, United States
+DBT*HADT*Debre Tabor Airport*Debre Tabor, Ethiopia
+DBU**Dambulu Oya Tank Seaplane Base*Dambulla, Sri Lanka
+DBV*LDDU*Dubrovnik Airport*Dubrovnik, Croatia
+DBY*YDAY*Dalby Airport*Dalby, Queensland, Australia
+DCA*KDCA*Ronald Reagan Washington National Airport*Arlington County (near Washington, D.C.), Virginia, United States
+DCF*TDCF*Canefield Airport*Canefield, Dominica
+DCG**Dubai Creek Seaplane Base*Dubai, United Arab Emirates
+DCI*LIED*Decimomannu Air Base*Decimomannu, Sardinia, Italy
+DCK**Dahl Creek Airport*Dahl Creek, Alaska, United States
+DCM*LFCK*Castres–Mazamet Airport*Castres, Midi-Pyrénées, France
+DCN*YCIN*RAAF Base Curtin*Derby, Western Australia, Australia
+DCT*MYRD*Duncan Town Airport*Duncan Town, Ragged Island, Bahamas
+DCU*KDCU*Pryor Field Regional Airport*Decatur, Alabama, United States
+DCY*ZUDC*Daocheng Yading Airport*Daocheng, Sichuan, China
+DDC*KDDC*Dodge City Regional Airport*Dodge City, Kansas, United States
+DDG*ZYDD*Dandong Langtou Airport*Dandong, Liaoning, China
+DDM**Dodoima Airport*Dodoima, Papua New Guinea
+DDN*YDLT*Delta Downs Airport*Delta Downs, Queensland, Australia
+DDU*OPDD*Dadu Airport*Dadu, Pakistan
+DEA*OPDG*Dera Ghazi Khan International Airport*Dera Ghazi Khan, Pakistan
+DEB*LHDC*Debrecen International Airport*Debrecen, Hungary
+DEC*KDEC*Decatur Airport*Decatur, Illinois, United States
+DED*VIDN*Jolly Grant Airport*Dehradun, Uttarakhand, India
+DEE*UHSM*Yuzhno-Kurilsk Mendeleyevo Airport*Yuzhno-Kurilsk, Sakhalin Oblast, Russia
+DEF*OIAD*Dezful Airport*Dezful, Iran
+DEH*KDEH*Decorah Municipal Airport*Decorah, Iowa, United States
+DEI*FSSD*Denis Island Airport*Denis Island, Seychelles
+DEL*VIDP*Indira Gandhi International Airport*Delhi, India
+DEM*HADD*Dembidolo Airport*Dembidolo, Ethiopia
+DEN*KDEN*Denver International Airport*Denver, Colorado, United States
+DEP*VEDZ*Daporijo Airport*Daporijo, Arunachal Pradesh, India
+DER*AYDE*Derim Airport*Derim, Papua New Guinea
+DES*FSDR*Desroches Airport*Desroches Island, Seychelles
+DET*KDET*Coleman A. Young International Airport*Detroit, Michigan, United States
+DEX**Nop Goliath Airport*Yahukimo, Indonesia
+DEZ*OSDZ*Deir ez-Zor Airport*Deir ez-Zor, Syria
+DFI*KDFI*Defiance Memorial Airport*Defiance, Ohio, United States
+DFP**Drumduff Airport*Drumduff, Queensland, Australia
+DFW*KDFW*Dallas/Fort Worth International Airport*Dallas / Fort Worth, Texas, United States
+DGA**Dangriga Airport*Dangriga, Belize
+DGC**Degeh Bur Airport*Degeh Bur, Ethiopia
+DGD*YDGA*Dalgaranga Airport*Dalgaranga Gold Mine, Western Australia, Australia
+DGE*YMDG*Mudgee Airport*Mudgee, New South Wales, Australia
+DGF**Douglas Lake Airport*Douglas Lake, British Columbia, Canada
+DGK**Dugong Beach Lodge Airstrip*Dugong Beach Lodge, Mozambique
+DGL*KDGL*Douglas Municipal Airport*Douglas, Arizona, United States
+DGM**Dandugama Seaplane Base*Colombo, Sri Lanka
+DGN*KNDY*Naval Surface Warfare Center Dahlgren Division (FAA: NDY)*Dahlgren, Virginia, United States
+DGO*MMDO*General Guadalupe Victoria International Airport*Durango, Durango, Mexico
+DGP*EVDA*Daugavpils International Airport*Daugavpils, Latvia
+DGR*NZDA*Dargaville Aerodrome*Dargaville, New Zealand
+DGT*RPVD*Sibulan Airport (Dumaguete Airport)*Dumaguete, Philippines
+DGU*DFOD*Dédougou Airport*Dédougou, Burkina Faso
+DGW*KDGW*Converse County Airport*Douglas, Wyoming, United States
+DHA*OEDR*King Abdulaziz Air Base*Dhahran, Saudi Arabia
+DHB**Deer Harbor Sea Plane Base*Deer Harbor, Washington, United States
+DHD*YDRH*Durham Downs Airport*Durham Downs, Queensland, Australia
+DHF*OMAM*Al Dhafra Air Base*Abu Dhabi, United Arab Emirates
+DHI*VNDH*Dhangadhi Airport*Dhangadhi, Nepal
+DHL*ODAL*Dhala Airport*Dhala, Yemen
+DHM*VIGG*Gaggal Airport*Kangra, Himachal Pradesh, India
+DHN*KDHN*Dothan Regional Airport*Dothan, Alabama, United States
+DHR*EHKD*De Kooy Airfield*Den Helder, Netherlands
+DHT*KDHT*Dalhart Municipal Airport*Dalhart, Texas, United States
+DIB*VEMN*Dibrugarh Airport (Mohanbari Airport)*Dibrugarh, Assam, India
+DIE*FMNA*Arrachart Airport*Antsiranana, Madagascar
+DIG*ZPDQ*Diqing Shangri-La Airport*Shangri-La, Yunnan, China
+DIJ*LFSD*Dijon Air Base*Dijon, Burgundy, France
+DIK*KDIK*Dickinson Theodore Roosevelt Regional Airport*Dickinson, North Dakota, United States
+DIL*WPDL*Presidente Nicolau Lobato International Airport*Dili, East Timor
+DIM*DIDK*Dimbokro Airport*Dimbokro, Ivory Coast
+DIN*VVDB*Dien Bien Phu Airport*Dien Bien Phu, Vietnam
+DIP*DFED*Diapaga Airport*Diapaga, Burkina Faso
+DIQ*SNDV*Divinópolis Airport (Brigadeiro Cabral Airport)*Divinópolis, Minas Gerais, Brazil
+DIR*HADR*Aba Tenna Dejazmach Yilma International Airport*Dire Dawa, Ethiopia
+DIS*FCPL*Dolisie Airport*Dolisie, Republic of the Congo
+DIU**Diu Airport*Diu, Daman and Diu, India
+DIV*DIDV*Divo Airport*Divo, Ivory Coast
+DIW**Mawella Lagoon Seaplane Base*Dickwella, Sri Lanka
+DJA*DBBD*Djougou Airport*Djougou, Benin
+DJB*WIPA*Sultan Thaha Airport*Jambi, Indonesia
+DJE*DTTJ*Djerba–Zarzis International Airport*Djerba, Tunisia
+DJG*DAAJ*Tiska Djanet Airport*Djanet, Algeria
+DJH**Jebel Ali Seaplane Base*Dubai, United Arab Emirates
+DJJ*WAJJ*Sentani Airport*Jayapura, Indonesia
+DJM*FCBD*Djambala Airport*Djambala, Republic of the Congo
+DJN**Delta Junction Airport (FAA: D66)*Delta Junction, Alaska, United States
+DJO*DIDL*Daloa Airport*Daloa, Ivory Coast
+DJU*BIDV*Djúpivogur Airport*Djúpivogur, Iceland
+DKA**Katsina Airport*Katsina, Nigeria
+DKI*YDKI*Dunk Island Airport*Dunk Island, Queensland, Australia
+DKK*KDKK*Chautauqua County/Dunkirk Airport*Dunkirk, New York, United States
+DKR*GOOY*Léopold Sédar Senghor International Airport*Dakar, Senegal
+DKS*UODD*Dikson Airport*Dikson, Krasnoyarsk Krai, Russia
+DKV*YDVR*Docker River Airport*Docker River, Northern Territory, Australia
+DLA*FKKD*Douala International Airport*Douala, Cameroon
+DLB**Dalbertis Airport*Dalbertis, Papua New Guinea
+DLC*ZYTL*Dalian Zhoushuizi International Airport*Dalian, Liaoning, China
+DLE*LFGJ*Dole–Jura Airport*Dole, Franche-Comté, France
+DLF*KDLF*Laughlin Air Force Base*Del Rio, Texas, United States
+DLG*PADL*Dillingham Airport*Dillingham, Alaska, United States
+DLH*KDLH*Duluth International Airport*Duluth, Minnesota, United States
+DLI*VVDL*Lien Khuong Airport*Da Lat, Vietnam
+DLK*YDLK*Dulkaninna Airport*Dulkaninna, South Australia, Australia
+DLL*KDLC*Dillon County Airport (FAA: DLC)*Dillon, South Carolina, United States
+DLM*LTBS*Dalaman Airport*Dalaman, Turkey
+DLN*KDLN*Dillon Airport*Dillon, Montana, United States
+DLS*KDLS*Columbia Gorge Regional Airport (The Dalles Municipal Airport)*The Dalles, Oregon, United States
+DLU*ZPDL*Dali Airport*Dali, Yunnan, China
+DLV*YDLV*Delissaville Airport*Delissaville, Northern Territory, Australia
+DLY*NVVD*Dillon's Bay Airport*Dillon's Bay, Erromango, Tafea, Vanuatu
+DLZ*ZMDZ*Dalanzadgad Airport*Dalanzadgad, Mongolia
+DMA*KDMA*Davis–Monthan Air Force Base*Tucson, Arizona, United States
+DMB*UADD*Taraz Airport (Jambyl Airport)*Taraz, Kazakhstan
+DMD*YDMG*Doomadgee Airport*Doomadgee, Queensland, Australia
+DME*UUDD*Domodedovo International Airport*Moscow, Russia
+DMK*VTBD*Don Mueang International Airport*Bangkok, Thailand
+DMM*OEDF*King Fahd International Airport*Dammam, Saudi Arabia
+DMN*KDMN*Deming Municipal Airport*Deming, New Mexico, United States
+DMO*KDMO*Sedalia Regional Airport*Sedalia, Missouri, United States
+DMR**Dhamar Airport*Dhamar, Yemen
+DMT*SWDM*Diamantino Airport*Diamantino, Mato Grosso, Brazil
+DMU*VEMR*Dimapur Airport*Dimapur, Nagaland, India
+DNA*RODN*Kadena Air Base*Kadena, Okinawa, Japan
+DNB*YDBR*Dunbar Airport*Dunbar, Queensland, Australia
+DND*EGPN*Dundee Airport*Dundee, Scotland, United Kingdom
+DNF**Martuba Air Base*Derna, Libya
+DNG**Doongan Airport*Doongan, Western Australia, Australia
+DNH*ZLDH*Dunhuang Airport*Dunhuang, Gansu, China
+DNI*HSWD*Wad Medani Airport*Wad Madani, Sudan
+DNK*UKDD*Dnipropetrovsk International Airport*Dnipro, Ukraine
+DNL*KDNL*Daniel Field*Augusta, Georgia, United States
+DNM**Denham Airport*Denham, Western Australia, Australia
+DNN*KDNN*Dalton Municipal Airport*Dalton, Georgia, United States
+DNO*SWDN*Dianópolis Airport*Dianópolis, Tocantins, Brazil
+DNP*VNDG*Tribhuvannagar Airport (Dang Airport)*Tribhuwannagar, Nepal
+DNQ*YDLQ*Deniliquin Airport*Deniliquin, New South Wales, Australia
+DNR*LFRD*Dinard–Pleurtuit–Saint-Malo Airport*Dinard / Saint-Malo, Brittany, France
+DNS*KDNS*Denison Municipal Airport*Denison, Iowa, United States
+DNU*AYDN*Dinangat Airport*Dinangat, Papua New Guinea
+DNV*KDNV*Vermilion Regional Airport*Danville, Illinois, United States
+DNX*HSGG*Galegu Airport*Dinder, Sudan
+DNZ*LTAY*Denizli Çardak Airport*Denizli, Turkey
+DOA**Doany Airport*Doany, Madagascar
+DOB*WAPD*Dobo Airport*Dobo, Indonesia
+DOC**Dornoch Airport*Dornoch, Scotland, United Kingdom
+DOD*HTDO*Dodoma Airport*Dodoma, Tanzania
+DOE**Djoemoe Airstrip*Djoemoe, Suriname
+DOG*HSDN*Dongola Airport*Dongola, Sudan
+DOH*OTHH*Hamad International Airport*Doha, Qatar
+DOI*AYDO*Doini Island Airport*Doini Island, Papua New Guinea
+DOK*UKCC*Donetsk International Airport*Donetsk, Ukraine
+DOL*LFRG*Deauville – Saint-Gatien Airport*Deauville, Lower Normandy, France
+DOM*TDPD*Douglas–Charles Airport*St Andrew Parish, Dominica
+DON**Dos Lagunas Airport*Dos Lagunas, Guatemala
+DOO*AYDR*Dorobisoro Airstrip*Dorobisoro, Papua New Guinea
+DOP*VNDP*Dolpa Airport*Dolpa, Nepal
+DOR*DFEE*Dori Airport*Dori, Burkina Faso
+DOS**Dios Airport*Dios, Papua New Guinea
+DOU*SSDO*Dourados Airport (Francisco de Matos Pereira Airport)*Dourados, Mato Grosso do Sul, Brazil
+DOV*KDOV*Dover Air Force Base*Dover, Delaware, United States
+DOX*YDRA*Dongara Airport*Dongara, Western Australia, Australia
+DOY*ZSDY*Dongying Shengli Airport*Dongying, Shandong, China
+DPA*KDPA*DuPage Airport*West Chicago, Illinois, United States
+DPE*LFAB*Dieppe - Saint-Aubin Airport*Dieppe, Upper Normandy, France
+DPG*KDPG*Michael Army Airfield*Dugway, Utah, United States
+DPL*RPMG*Dipolog Airport*Dipolog, Philippines
+DPO*YDPO*Devonport Airport*Devonport, Tasmania, Australia
+DPS*WADD*Ngurah Rai International Airport*Denpasar (Bali), Indonesia
+DPT**Deputatsky Airport*Deputatsky, Yakutia, Russia
+DPU**Dumpu Airport*Dumpu, Papua New Guinea
+DQA*ZYDQ*Daqing Sartu Airport*Daqing, Heilongjiang, China
+DQM**Duqm International Airport*Duqm, Oman
+DRA*KDRA*Desert Rock Airport*Mercury, Nevada, United States
+DRB*YDBY*Derby Airport*Derby, Western Australia, Australia
+DRC**Dirico Airport*Dirico, Angola
+DRD*YDOR*Dorunda Airport*Dorunda, Queensland, Australia
+DRE*KDRM*Drummond Island Airport (FAA: DRM)*Drummond Island, Michigan, United States
+DRF**Drift River Airport*Drift River, Alaska, United States
+DRG*PADE*Deering Airport (FAA: DEE)*Deering, Alaska, United States
+DRH**Dabra Airport*Dabra, Indonesia
+DRI*KDRI*Beauregard Regional Airport*DeRidder, Louisiana, United States
+DRJ*SMDA*Drietabbetje Airstrip*Drietabbetje, Suriname
+DRK*MRDK*Drake Bay Airport*Drake Bay, Costa Rica
+DRN*YDBI*Dirranbandi Airport*Dirranbandi, Queensland, Australia
+DRO*KDRO*Durango–La Plata County Airport*Durango, Colorado, United States
+DRR*YDRI*Durrie Airport*Durrie, Queensland, Australia
+DRS*EDDC*Dresden Airport*Dresden, Saxony, Germany
+DRT*KDRT*Del Rio International Airport*Del Rio, Texas, United States
+DRU**Drummond Airport (FAA: M26)*Drummond, Montana, United States
+DRV*VRMD*Dharavandhoo Airport*Dharavandhoo Island, Baa Atoll, Maldives
+DRW*YPDN*Darwin International Airport*Darwin, Northern Territory, Australia
+DRY*YDRD*Drysdale River Airport*Drysdale River, Western Australia, Australia
+DSA*EGCN*Robin Hood Airport Doncaster Sheffield*Doncaster, England, United Kingdom
+DSC*FKKS*Dschang Airport*Dschang, Cameroon
+DSD*TFFA*La Désirade Airport (Grande-Anse Airport)*La Désirade, Guadeloupe
+DSE*HADC*Combolcha Airport*Dessie / Kombolcha, Ethiopia
+DSG**Dilasag Airport*Dilasag, Philippines
+DSI*KDTS*Destin Executive Airport (FAA: DTS)*Destin, Florida, United States
+DSK*OPDI*Dera Ismail Khan Airport*Dera Ismail Khan, Pakistan
+DSM*KDSM*Des Moines International Airport*Des Moines, Iowa, United States
+DSN*ZBDS*Ordos Ejin Horo Airport*Ordos, Inner Mongolia, China
+DSO*ZKSD*Sondok Airport*Sondok, North Korea
+DSS*GOBD*Blaise Diagne International Airport*Dakar, Senegal
+DSV*KDSV*Dansville Municipal Airport*Dansville, New York, United States
+DSX*RCLM*Dongsha Island Airport*Pratas (Dongsha) Islands, Taiwan
+DTA*KDTA*Delta Municipal Airport*Delta, Utah, United States
+DTB*WIMN*Silangit Airport*Siborong-Borong, Indonesia
+DTD*WALJ*Datadawai Airport*Datadawai, Indonesia
+DTE*RPUD*Bagasbas Airport*Daet, Philippines
+DTH**Furnace Creek Airport (FAA: L06)*Death Valley, California, United States
+DTI*SNDT*Diamantina Airport*Diamantina, Minas Gerais, Brazil
+DTL*KDTL*Detroit Lakes Airport (Wething Field)*Detroit Lakes, Minnesota, United States
+DTM*EDLW*Dortmund Airport*Dortmund, North Rhine-Westphalia, Germany
+DTN*KDTN*Shreveport Downtown Airport*Shreveport, Louisiana, United States
+DTR**Decatur Shores Airport*Decatur Island, Washington, United States
+DTT**metropolitan area1*Detroit, Michigan, United States
+DTU**Wudalianchi Airport*Wudalianchi, Heilongjiang, China
+DTW*KDTW*Detroit Metropolitan Wayne County Airport*Detroit, Michigan, United States
+DUA*KDUA*Durant Regional Airport–Eaker Field*Durant, Oklahoma, United States
+DUB*EIDW*Dublin Airport*Dublin, Ireland
+DUC*KDUC*Halliburton Field*Duncan, Oklahoma, United States
+DUD*NZDN*Dunedin International Airport*Dunedin, New Zealand
+DUE*FNDU*Dundo Airport*Dundo, Angola
+DUF**Pine Island Airport (FAA: 7NC2)*Corolla, North Carolina, United States
+DUG*KDUG*Bisbee Douglas International Airport*Bisbee / Douglas, Arizona, United States
+DUJ*KDUJ*DuBois Regional Airport*DuBois, Pennsylvania, United States
+DUK*FADK*Dukuduku Airport*Mtubatuba, South Africa
+DUM*WIBD*Pinang Kampai Airport*Dumai, Indonesia
+DUQ**Duncan Airport*Duncan, British Columbia, Canada
+DUR*FALE*King Shaka International Airport*Durban, South Africa
+DUS*EDDL*Düsseldorf Airport*Düsseldorf, North Rhine-Westphalia, Germany
+DUT*PADU*Unalaska Airport*Unalaska, Alaska, United States
+DVD**Andavadoaka Airport*Andavadoaka, Madagascar
+DVK**Diavik Airport*Diavik Diamond Mine, Northwest Territories, Canada
+DVL*KDVL*Devils Lake Regional Airport (Devils Lake Municipal Airport)*Devils Lake, North Dakota, United States
+DVN*KDVN*Davenport Municipal Airport*Davenport, Iowa, United States
+DVO*RPMD*Francisco Bangoy International Airport*Davao City, Philippines
+DVP*YDPD*Davenport Downs Airport*Davenport Downs, Queensland, Australia
+DVR**Daly River Airport*Daly River, Northern Territory, Australia
+DVT*KDVT*Phoenix Deer Valley Airport*Phoenix, Arizona, United States
+DWA*FWDW*Dwanga Airport (Dwangwa Airport)*Dwangwa, Malawi
+DWB*FMNO*Soalala Airport*Soalala, Madagascar
+DWC*OMDW*Al Maktoum International Airport*Dubai, United Arab Emirates
+DWD*OEDW*Dawadmi Domestic Airport (King Salman bin Abdul Aziz Domestic Airport)*Dawadmi, Saudi Arabia
+DWH*KDWH*David Wayne Hooks Memorial Airport*Houston, Texas, United States
+DWO**Diyawanna Oya Seaplane Base*Sri Jayawardenepura Kotte, Sri Lanka
+DWR*OADY*Dwyer Airport*Camp Dwyer, Afghanistan
+DXB*OMDB*Dubai International Airport*Dubai, United Arab Emirates
+DXD*YDIX*Dixie Airport*Dixie, Queensland, Australia
+DXE*KMBO*Bruce Campbell Field (FAA: MBO)*Madison, Mississippi, United States
+DXR*KDXR*Danbury Municipal Airport*Danbury, Connecticut, United States
+DYA*YDYS*Dysart Airport*Dysart, Queensland, Australia
+DYG*ZGDY*Zhangjiajie Hehua Airport*Zhangjiajie, Hunan, China
+DYL*KDYL*Doylestown Airport*Doylestown, Pennsylvania, United States
+DYM**Diamantina Lakes Airport*Diamantina Lakes, Queensland, Australia
+DYR*UHMA*Ugolny Airport*Anadyr, Chukotka, Russia
+DYS*KDYS*Dyess Air Force Base*Abilene, Texas, United States
+DYU*UTDD*Dushanbe International Airport*Dushanbe, Tajikistan
+DYW**Daly Waters Airport*Daly Waters, Northern Territory, Australia
+DZA*FMCZ*Dzaoudzi–Pamandzi International Airport*Dzaoudzi, Mayotte
+DZI**Codazzi Airport*Codazzi, Colombia
+DZN*UAKD*Zhezkazgan Airport*Zhezkazgan, Kazakhstan
+DZO*SUDU*Santa Bernardina International Airport*Durazno, Uruguay
+DZU*ZUDZ*Dazu Air Base*Dazu, Chongqing, China

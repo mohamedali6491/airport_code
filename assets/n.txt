@@ -1,0 +1,318 @@
+NAA*YNBR*Narrabri Airport*Narrabri, New South Wales, Australia
+NAC*YNRC*Naracoorte Airport*Naracoorte, South Australia, Australia
+NAD**Macanal Airport*Macanal, Colombia
+NAE*DBBN*Boundétingou Airport*Natitingou, Benin
+NAF**Banaina Airport*Banaina, Indonesia
+NAG*VANP*Dr. Babasaheb Ambedkar International Airport*Nagpur, Maharashtra, India
+NAH*WAMH*Naha Airport*Tahuna, Indonesia
+NAI*SYAN*Annai Airport*Annai, Guyana
+NAJ*UBBN*Nakhchivan International Airport*Nakhchivan, Azerbaijan
+NAK*VTUQ*Nakhon Ratchasima Airport*Nakhon Ratchasima, Thailand
+NAL*URMN*Nalchik Airport*Nalchik, Kabardino-Balkaria, Russia
+NAM*WAPR*Namlea Airport*Namlea, Indonesia
+NAN*NFFN*Nadi International Airport*Nadi, Fiji
+NAO*ZUNC*Nanchong Gaoping Airport*Nanchong, Sichuan, China
+NAP*LIRN*Naples International Airport*Naples, Campania, Italy
+NAQ*BGQQ*Qaanaaq Airport*Qaanaaq, Greenland
+NAR*SKPN*Puerto Nare Airport*Puerto Nare, Colombia
+NAS*MYNN*Lynden Pindling International Airport*Nassau, New Providence, Bahamas
+NAT*SBSG*São Gonçalo do Amarante–Governador Aluízio Alves International Airport*Natal, Rio Grande do Norte, Brazil
+NAU*NTGN*Napuka Airport*Napuka, Tuamotus, French Polynesia
+NAW*VTSC*Narathiwat Airport*Narathiwat, Thailand
+NAY*ZBNY*Beijing Nanyuan Airport*Beijing, China
+NAZ*AGNA*Nana Airport*Star Harbour, Solomon Islands
+NBA**Nambaiyufa Airport*Nambaiyufa, Papua New Guinea
+NBB*SKBM*Barranco Minas Airport*Barranco Minas, Colombia
+NBC*UWKE*Begishevo Airport*Nizhnekamsk / Naberezhnye Chelny, Tatarstan, Russia
+NBE*DTNH*Enfidha-Hammamet International Airport*Enfidha, Tunisia
+NBG*KNBG*NAS JRB New Orleans (Alvin Callender Field)*New Orleans, Louisiana, United States
+NBH*YNHS*Nambucca Heads Airport*Nambucca Heads, New South Wales, Australia
+NBL*MPWN*Wannukandi Airport*San Blas, Panama
+NBN*FGAB*Annobón Airport*Annobón, Equatorial Guinea
+NBO*HKJK*Jomo Kenyatta International Airport*Nairobi, Kenya
+NBS*ZYBS*Changbaishan Airport*Baishan, Jilin, China
+NBW*KNBW*Guantanamo Bay Naval Base*Guantánamo Bay, Cuba
+NBX*WABI*Nabire Airport*Nabire, Indonesia
+NCA*MBNC*North Caicos Airport*North Caicos, British Overseas Territoryof Turks and Caicos Islands
+NCE*LFMN*Nice Côte d'Azur Airport*Nice, Provence-Alpes-Côte d'Azur, France
+NCG*MMCG*Nuevo Casas Grandes Municipal Airport*Nuevo Casas Grandes, Chihuahua, Mexico
+NCH*HTNA*Nachingwea Airport*Nachingwea, Tanzania
+NCI*SKNC*Antioquia Airport*Necoclí, Colombia
+NCJ*SAFS*Sunchales Airport*Sunchales, Santa Fe, Argentina
+NCL*EGNT*Newcastle Airport*Newcastle upon Tyne, England, United Kingdom
+NCN*PFCB*Chenega Bay Airport (FAA: C05)*Chenega, Alaska, United States
+NCO*KOQU*Quonset State Airport (FAA: OQU)*North Kingstown, Rhode Island, United States
+NCR*MNSC*San Carlos Airport*San Carlos, Nicaragua
+NCS*FANC*Newcastle Airport*Newcastle, South Africa
+NCT*MRNC*Nicoya Guanacaste Airport*Nicoya, Costa Rica
+NCU*UTNN*Nukus Airport*Nukus, Uzbekistan
+NCY*LFLP*Annecy – Haute-Savoie – Mont Blanc Airport*Annecy, Rhône-Alpes, France
+NDA*WAPC*Bandanaira Airport*Banda Islands, Indonesia
+NDB*GQPP*Nouadhibou International Airport*Nouadhibou, Mauritania
+NDC*VAND*Shri Guru Gobind Singh Ji Airport*Nanded, Maharashtra, India
+NDD*FNSU*Sumbe Airport*Sumbe, Angola
+NDE*HKMA*Mandera Airport*Mandera, Kenya
+NDF**N'dalatando Airport*N'dalatando, Angola
+NDG*ZYQQ*Qiqihar Sanjiazi Airport*Qiqihar, Heilongjiang, China
+NDI**Namudi Airport*Namudi, Papua New Guinea
+NDJ*FTTJ*N'Djamena International Airport*N'Djamena, Chad
+NDK**Namorik Airport (Namdrik Airport) (FAA: 3N0)*Namdrik Atoll, Marshall Islands
+NDL*FEFN*N'Délé Airport*N'Délé (Ndele), Central African Republic
+NDM*HAMN*Mendi Airport*Mendi, Ethiopia
+NDN**Nadunumu Airport*Nadunumu, Papua New Guinea
+NDR*GMMW*Nador International Airport*Nador, Morocco
+NDS*YSAN*Sandstone Airport*Sandstone, Western Australia, Australia
+NDU*FYRU*Rundu Airport*Rundu, Namibia
+NDY*EGES*Sanday Airport*Sanday, Scotland, United Kingdom
+NEA*KNEA*Naval Air Station Glynco*Glynco, Georgia, Georgia, United States
+NEC*SAZO*Necochea Airport*Necochea, Buenos Aires, Argentina
+NEF*UWUF*Neftekamsk Airport*Neftekamsk, Bashkortostan, Russia
+NEG*MKNG*Negril Aerodrome*Negril, Jamaica
+NEJ*HANJ*Nejjo Airport*Nejo, Ethiopia
+NEK*HANK*Nekemte Airport*Nekemte, Ethiopia
+NEL*KNEL*NAES Lakehurst (Maxfield Field)*Lakehurst, New Jersey, United States
+NEN*KNEN*NOLF Whitehouse*Jacksonville, Florida, United States
+NER*UELL*Chulman Neryungri Airport*Neryungri, Yakutia, Russia
+NEU*VLSN*Sam Neua Airport*Sam Neua, Laos
+NEV*TKPN*Vance W. Amory International Airport*Nevis, Saint Kitts and Nevis
+NEW*KNEW*Lakefront Airport*New Orleans, Louisiana, United States
+NFG*USRN*Nefteyugansk Airport*Nefteyugansk, Khanty-Mansi Autonomous Okrug, Russia
+NFL*KNFL*NAS Fallon (Van Voorhis Field)*Fallon, Nevada, United States
+NFO*NFTO*Niuafo'ou Airport*Niuafo'ou, Tonga
+NFR*HLNR*Nafoora Airport*Nafoora, Libya
+NGA*YYNG*Young Airport*Young, New South Wales, Australia
+NGB*ZSNB*Ningbo Lishe International Airport*Ningbo, Zhejiang, China
+NGD*TUPA*Auguste George Airport*Anegada, British Overseas Territory of Virgin Islands
+NGE*FKKN*Ngaoundéré Airport*Ngaoundéré, Cameroon
+NGF*PHNG*MCAS Kaneohe Bay*Kaneohe, Hawaii, United States
+NGI*NFNG*Gau Airport*Gau Island, Fiji
+NGK*UHSN*Nogliki Airport*Nogliki, Sakhalin Oblast, Russia
+NGL*FANG*Ngala Airfield*Ngala, South Africa
+NGN**Narganá Airport*Narganá, Panama
+NGP*KNGP*NAS Corpus Christi (Truax Field)*Corpus Christi, Texas, United States
+NGQ*ZUAL*Ngari Gunsa Airport*Shiquanhe, Tibet Autonomous Region, China
+NGR**Ningerum Airport*Ningerum, Papua New Guinea
+NGS*RJFU*Nagasaki Airport*Nagasaki, Kyushu, Japan
+NGU*KNGU*NS Norfolk (Chambers Field)*Norfolk, Virginia, United States
+NGW*KNGW*NOLF Cabaniss Field*Corpus Christi, Texas, United States
+NGX*VNMA*Manang Airport*Manang, Nepal
+NHA*VVNT*Nha Trang Air Base*Nha Trang, Vietnam
+NHD*OMDM*Al Minhad Air Base*Dubai, United Arab Emirates
+NHF*HSNW*New Halfa Airport*New Halfa, Sudan
+NHK*KNHK*NAS Patuxent River (Trapnell Field)*Patuxent River, Maryland, United States
+NHS**Nushki Airport*Nushki, Pakistan
+NHT*EGWU*RAF Northolt*Northolt, England, United Kingdom
+NHV*NTMD*Nuku Hiva Airport*Nuku Hiva, Marquesas Islands, French Polynesia
+NHX*KNBJ*NOLF Barin (FAA: NBJ)*Foley, Alabama, United States
+NHZ*KBXM*Brunswick Executive Airport*Brunswick, Maine, United States
+NIA*GLNA*Nimba Airport*Nimba, Liberia
+NIB*PAFS*Nikolai Airport (FAA: FSP)*Nikolai, Alaska, United States
+NIC*LCNC*Nicosia International Airport1*Nicosia, Cyprus
+NIF*YCNF*Nifty Airport*Nifty, Western Australia, Australia
+NIG*NGNU*Nikunau Airport*Nikunau, Kiribati
+NIK**Niokolo-Koba Airport*Niokolo-Koba, Senegal
+NIM*DRRN*Diori Hamani International Airport*Niamey, Niger
+NIN**Ninilchik Airport*Ninilchik, Alaska, United States
+NIO*FZBI*Nioki Airport*Nioki, Democratic Republic of the Congo
+NIP*KNIP*NAS Jacksonville (Towers Field)*Jacksonville, Florida, United States
+NIR**Chase Field Industrial Complex (FAA: 1XA2)*Beeville, Texas, United States
+NIS**Simberi Airport*Simberi Island, Papua New Guinea
+NIT*LFBN*Niort - Souché Airport*Niort, Poitou-Charentes, France
+NIU*NTKN*Niau Airport*Niau, Tuamotus, French Polynesia
+NIX*GANR*Nioro Airport*Nioro du Sahel, Mali
+NJA*RJTA*Naval Air Facility Atsugi*Atsugi, Honshu, Japan
+NJC*USNN*Nizhnevartovsk Airport*Nizhnevartovsk, Khanty-Mansi Autonomous Okrug, Russia
+NJF*ORNI*Al Najaf International Airport*Al Najaf, Iraq
+NJK*KNJK*NAF El Centro*El Centro, California, United States
+NKA**Nkan Airport*Ntoum (Nkan), Gabon
+NKB**Noonkanbah Airport*Noonkanbah Station, Western Australia, Australia
+NKC*GQNO*Nouakchott–Oumtounsy International Airport*Nouakchott, Mauritania
+NKD**Sinak Airport*Sinak, Indonesia
+NKG*ZSNJ*Nanjing Lukou International Airport*Nanjing, Jiangsu, China
+NKI**Naukati Bay Seaplane Base (FAA: AK62)*Naukati Bay, Alaska, United States
+NKL*FZAR*Nkolo-Fuma Airport*Kolo Fuma, Democratic Republic of the Congo
+NKM*RJNA*Nagoya Airfield (Komaki Airport)*Nagoya, Honshu, Japan
+NKN**Nankina Airport*Nankina, Papua New Guinea
+NKO**Ankokoambo Airport*Ankokoambo, Madagascar
+NKP**Nukutepipi Airport*Nukutepipi, Tuamotus, French Polynesia
+NKS*FKAN*Nkongsamba Airport*Nkongsamba, Cameroon
+NKU*FXNK*Nkaus Airport*Nkau, Lesotho
+NKX*KNKX*MCAS Miramar*San Diego, California, United States
+NKY*FCBY*Yokangassi Airport*Nkayi (N'kayi), Republic of the Congo
+NLA*FLND*Simon Mwansa Kapwepwe International Airport*Ndola, Zambia
+NLC*KNLC*NAS Lemoore (Reeves Field)*Lemoore, California, United States
+NLD*MMNL*Quetzalcóatl International Airport*Nuevo Laredo, Tamaulipas, Mexico
+NLE**Jerry Tyler Memorial Airport (FAA: 3TR)*Niles, Michigan, United States
+NLF*YDNI*Darnley Island Airport*Darnley Island, Queensland, Australia
+NLG*PAOU*Nelson Lagoon Airport (FAA: OUL)*Nelson Lagoon, Alaska, United States
+NLH**Ninglang Luguhu Airport*Ninglang, Yunnan, China
+NLI*UHNN*Nikolayevsk-on-Amur Airport*Nikolayevsk-on-Amur, Khabarovsk Krai, Russia
+NLK*YSNF*Norfolk Island Airport*Norfolk Island, Australia
+NLL*YNUL*Nullagine Airport*Nullagine, Western Australia, Australia
+NLN**Kneeland Airport (FAA: O19)*Arcata / Eureka, California, United States
+NLO*FZAB*N'Dolo Airport*Kinshasa, Democratic Republic of the Congo
+NLP*FANS*Nelspruit Airport*Nelspruit, South Africa
+NLS**Nicholson Airport*Nicholson, Western Australia, Australia
+NLT*ZWNL*Xinyuan Nalati Airport*Xinyuan, Xinjiang, China
+NLU*MMSM*Santa Lucía Air Force Base Num 1*Zumpango, State of Mexico, Mexico
+NLV*UKON*Mykolaiv International Airport*Mykolaiv, Ukraine
+NMA*UTFN*Namangan Airport*Namangan, Uzbekistan
+NMB*VADN*Daman Airport*Daman, Daman and Diu, India
+NMC*MYEN*Norman's Cay Airport*Norman's Cay, Exuma Islands, Bahamas
+NME*PAGT*Nightmute Airport (FAA: IGT)*Nightmute, Alaska, United States
+NMG**San Miguel Airport*San Miguel, Panama
+NML**Fort McMurray/Mildred Lake Airport (TC: CAJ3)*Fort McMurray, Alberta, Canada
+NMN**Nomane Airport*Nomane, Papua New Guinea
+NMP**New Moon Airport*New Moon, Queensland, Australia
+NMR*YNAP*Nappa Merrie Airport*Nappa Merrie, Queensland, Australia
+NMS*VYNS*Nansang Airport*Nansang (Namsang), Myanmar
+NMT*VYNT*Namtu Airport*Namtu, Myanmar
+NNA*GMMY*Kenitra Air Base*Kenitra, Morocco
+NNB*AGGT*Santa Ana Airport*Santa Ana Island (Owaraha), Solomon Islands
+NND**Nangade Airport*Nangade, Mozambique
+NNG*ZGNN*Nanning Wuxu International Airport*Nanning, Guangxi, China
+NNI*FYNA*Namutoni Airport*Namutoni, Namibia
+NNK**Naknek Airport (FAA: 5NK)*Naknek, Alaska, United States
+NNL*PANO*Nondalton Airport (FAA: 5NN)*Nondalton, Alaska, United States
+NNM*ULAM*Naryan-Mar Airport*Naryan-Mar, Nenets Autonomous Okrug, Russia
+NNR*EICA*Connemara Airport*Spiddal, Ireland
+NNT*VTCN*Nan Nakhon Airport*Nan, Thailand
+NNU*SNNU*Nanuque Airport*Nanuque, Minas Gerais, Brazil
+NNX*WRLF*Nunukan Airport*Nunukan, Indonesia
+NNY*ZHNY*Nanyang Jiangying Airport*Nanyang, Henan, China
+NOA*YSNW*NAS Nowra*Nowra, New South Wales, Australia
+NOB*MRNS*Nosara Airport*Nosara, Costa Rica
+NOC*EIKN*Ireland West Airport Knock*Knock, Ireland
+NOD*EDWS*Norddeich Airport*Norden, Lower Saxony, Germany
+NOG*MMNG*Nogales International Airport*Nogales, Sonora, Mexico
+NOI**Novorossiysk Airport*Novorossiysk, Krasnodar Krai, Russia
+NOJ*USRO*Noyabrsk Airport*Noyabrsk, Yamalo-Nenets Autonomous Okrug, Russia
+NOK*SWXV*Nova Xavantina Airport*Nova Xavantina, Mato Grosso, Brazil
+NOM*ATNR*Nomad River Airport*Nomad River, Papua New Guinea
+NON*NGTO*Nonouti Airport*Nonouti, Kiribati
+NOO**Naoro Airport*Naoro, Papua New Guinea
+NOP*LTCM*Sinop Airport*Sinop, Turkey
+NOR*BINF*Norðfjörður Airport*Nordfjordur, Iceland
+NOS*FMNN*Fascene Airport*Nosy Be, Madagascar
+NOT*KDVO*Marin County Airport (Gnoss Field) (FAA: DVO)*Novato, California, United States
+NOU*NWWW*La Tontouta International Airport*Nouméa, New Caledonia
+NOV*FNHU*Albano Machado Airport*Huambo, Angola
+NOZ*UNWW*Spichenkovo Airport*Novokuznetsk, Kemerovo Oblast, Russia
+NPA*KNPA*NAS Pensacola (Forrest Sherman Field)*Pensacola, Florida, United States
+NPE*NZNR*Hawke's Bay Airport*Napier / Hastings, New Zealand
+NPG**Nipa Airport*Nipa, Papua New Guinea
+NPH**Nephi Municipal Airport (FAA: U14)*Nephi, Utah, United States
+NPL*NZNP*New Plymouth Airport*New Plymouth, New Zealand
+NPO*WIOG*Nanga Pinoh Airport*Nanga Pinoh, Indonesia
+NPP**Napperby Airport*Napperby, Northern Territory, Australia
+NPR*SJNP*Novo Progresso Airport*Novo Progresso, Pará, Brazil
+NPT*KUUU*Newport State Airport (FAA: UUU)*Newport, Rhode Island, United States
+NPU**San Pedro de Urabá Airport*San Pedro de Urabá, Colombia
+NQA*KNQA*Millington Regional Jetport*Millington, Tennessee, United States
+NQI*KNQI*NAS Kingsville*Kingsville, Texas, United States
+NQL*SWNQ*Niquelândia Airport*Niquelândia, Goiás, Brazil
+NQN*SAZN*Presidente Perón International Airport*Neuquén, Neuquén, Argentina
+NQT*EGBN*Nottingham Airport*Nottingham, England, United Kingdom
+NQU*SKNQ*Reyes Murillo Airport*Nuquí, Colombia
+NQX*KNQX*NAS Key West (Boca Chica Field)*Key West, Florida, United States
+NQY*EGDG*Newquay Airport*Newquay, England, United Kingdom
+NRA*YNAR*Narrandera Airport*Narrandera, New South Wales, Australia
+NRB*KNRB*NS Mayport (Admiral David L. McDonald Field)*Mayport, Florida, United States
+NRC*KNRC*NASA Crows Landing Airport*Crows Landing, California, United States
+NRD*EDWY*Norderney Airport*Norderney, Lower Saxony, Germany
+NRE*WAPG*Namrole Airport*Namrole, Indonesia
+NRG*YNRG*Narrogin Airport*Narrogin, Western Australia, Australia
+NRI**Grand Lake Regional Airport (FAA: 3O9)*Afton, Oklahoma, United States
+NRK*ESSP*Norrköping Airport*Norrköping, Sweden
+NRL*EGEN*North Ronaldsay Airport*North Ronaldsay, Scotland, United Kingdom
+NRM*GANK*Keibane Airport*Nara, Mali
+NRN*EDLV*Weeze Airport (Niederrhein Airport)*Weeze, North Rhine-Westphalia, Germany
+NRR*TJRV*José Aponte de la Torre Airport (FAA: RVR)*Ceiba, Puerto Rico, United States
+NRS*KNRS*NOLF Imperial Beach (Ream Field)*Imperial Beach, California, United States
+NRT*RJAA*Narita International Airport*Tokyo, Honshu, Japan
+NRY**Newry Airport*Newry Station, Northern Territory, Australia
+NSA*SBNT*Augusto Severo International Airport*Natal, Rio Grande do Norte, Brazil
+NSB**North Seaplane Base*Bimini, Bahamas
+NSE*KNSE*NAS Whiting Field – North*Milton, Florida, United States
+NSH*OINN*Noshahr Airport*Nowshahr, Iran
+NSI*FKYS*Yaoundé Nsimalen International Airport*Yaoundé, Cameroon
+NSK*UOOO*Alykel Airport*Norilsk, Krasnoyarsk Krai, Russia
+NSL*KDVP*Slayton Municipal Airport (FAA: DVP)*Slayton, Minnesota, United States
+NSM*YNSM*Norseman Airport*Norseman, Western Australia, Australia
+NSN*NZNS*Nelson Airport*Nelson, New Zealand
+NSO*YSCO*Scone Airport*Scone, New South Wales, Australia
+NST*VTSF*Nakhon Si Thammarat Airport*Nakhon Si Thammarat, Thailand
+NSV*YNSH*Noosa Airport*Noosaville, Queensland, Australia
+NSY*LICZ*Naval Air Station Sigonella*Catania, Sicily, Italy
+NTA**Natadola Seaplane Base*Natadola Bay, Fiji
+NTB*ENNO*Notodden Airport, Tuven*Notodden, Norway
+NTC**Santa Carolina Airport*Santa Carolina, Mozambique
+NTD*KNTD*NAS Point Mugu (Naval Base Ventura County)*Point Mugu, California, United States
+NTE*LFRS*Nantes Atlantique Airport*Nantes, Pays de la Loire, France
+NTG*ZSNT*Nantong Xingdong Airport*Nantong, Jiangsu, China
+NTI**Stenkol Airport*Bintuni, Indonesia
+NTJ**Manti-Ephraim Airport (FAA: 41U)*Manti, Utah,  United States
+NTL*YWLM*Newcastle Airport / RAAF Base Williamtown*Newcastle, New South Wales, Australia
+NTM*SNRW*Miracema do Tocantins Airport*Miracema do Tocantins, Tocantins, Brazil
+NTN*YNTN*Normanton Airport*Normanton, Queensland, Australia
+NTO*GVAN*Agostinho Neto Airport*Santo Antão, Cape Verde
+NTQ*RJNW*Noto Airport*Wajima, Honshu, Japan
+NTR*MMAN*Del Norte International Airport*Monterrey, Nuevo León, Mexico
+NTT*NFTP*Niuatoputapu Airport*Niuatoputapu, Tonga
+NTU*KNTU*NAS Oceana (Apollo Soucek Field)*Virginia Beach, Virginia, United States
+NTX*WION*Ranai Airport*Natuna Islands, Indonesia
+NTY*FAPN*Pilanesberg International Airport*Sun City, South Africa
+NUA**Gregory Lake Seaplane Base*Nuwara Eliya, Sri Lanka
+NUB*YNUM*Numbulwar Airport*Numbulwar, Northern Territory, Australia
+NUD*HSNH*En Nahud Airport*En Nahud, Sudan
+NUE*EDDN*Nuremberg Airport*Nuremberg, Bavaria, Germany
+NUF**Castlereigh Reservoir Seaplane Base*Hatton, Sri Lanka
+NUG**Nuguria Airport*Nuguria, Papua New Guinea
+NUH**Nunchía Airport*Nunchía, Colombia
+NUI*PAQT*Nuiqsut Airport (FAA: AQT)*Nuiqsut, Alaska, United States
+NUJ*OIHS*Hamedan Air Base (Nogeh Airport)*Hamadan, Iran
+NUK*NTGW*Nukutavake Airport*Nukutavake, Tuamotus, French Polynesia
+NUL*PANU*Nulato Airport*Nulato, Alaska, United States
+NUN*KNUN*NOLF Saufley Field*Pensacola, Florida, United States
+NUP**Nunapitchuk Airport (FAA: 16A)*Nunapitchuk, Alaska, United States
+NUQ*KNUQ*Moffett Federal Airfield*Mountain View, California, United States
+NUR*YNUB*Nullabor Motel Airport*Nullarbor, South Australia, Australia
+NUS*NVSP*Norsup Airport*Norsup, Malakula, Vanuatu
+NUT**Nutuve Airport*Nutuve, Papua New Guinea
+NUU*HKNK*Nakuru Airport*Nakuru, Kenya
+NUW*KNUW*NAS Whidbey Island (Ault Field)*Oak Harbor, Washington, United States
+NUX*USMU*Novy Urengoy Airport*Novy Urengoy, Yamalo-Nenets Autonomous Okrug, Russia
+NVA*SKNV*Benito Salas Airport*Neiva, Colombia
+NVD*KNVD*Nevada Municipal Airport*Nevada, Missouri, United States
+NVG*MNNG*Nueva Guinea Airport*Nueva Guinea, Nicaragua
+NVI*UTSA*Navoi International Airport*Navoiy, Uzbekistan
+NVK*ENNK*Narvik Airport, Framnes*Narvik, Norway
+NVN**Nervino Airport (FAA: O02)*Beckwourth, California, United States
+NVP**Novo Aripuanã Airport*Novo Aripuanã, Amazonas, Brazil
+NVR*ULNN*Novgorod Airport*Veliky Novgorod, Novgorod Oblast, Russia
+NVS*LFQG*Nevers - Fourchambault Airport*Nevers, Burgundy, France
+NVT*SBNF*Navegantes–Ministro Victor Konder International Airport*Navegantes, Santa Catarina, Brazil
+NVY*VONV*Neyveli Airport*Neyveli, Tamil Nadu, India
+NWA*FMCI*Mohéli Bandar Es Eslam Airport*Mohéli, Comoros
+NWH**Parlin Field (FAA: 2B3)*Newport, New Hampshire, United States
+NWI*EGSH*Norwich International Airport*Norwich, England, United Kingdom
+NWT**Nowata Airport*Nowata, Papua New Guinea
+NYA*USHN*Nyagan Airport*Nyagan, Khanty-Mansi Autonomous Okrug, Russia
+NYC**metropolitan area2*New York City, New York, United States
+NYE*HKNI*Nyeri Airport*Nyeri, Kenya
+NYG*KNYG*MCAF Quantico (Turner Field)*Quantico, Virginia, United States
+NYI*DGSN*Sunyani Airport*Sunyani, Ghana
+NYK*HKNY*Nanyuki Airport*Nanyuki, Kenya
+NYM*USMM*Nadym Airport*Nadym, Yamalo-Nenets Autonomous Okrug, Russia
+NYN*YNYN*Nyngan Airport*Nyngan, New South Wales, Australia
+NYO*ESKN*Stockholm Skavsta Airport*Stockholm / Nyköping, Sweden
+NYR*UENN*Nyurba Airport*Nyurba, Yakutia, Russia
+NYT*VYNT*Naypyidaw Airport*Naypyidaw (Nay Pyi Taw), Myanmar
+NYU*VYBG*Nyaung U Airport*Bagan / Nyaung-U, Myanmar
+NYW*VYMY*Monywa Airport*Monywa, Myanmar
+NZA*FNZG*Nzagi Airport*Nzagi, Angola
+NZC*SPZA*Maria Reiche Neuman Airport*Nazca, Peru
+NZE*GUNZ*Nzérékoré Airport*Nzérékoré, Guinea
+NZH*ZBMZ*Manzhouli Xijiao Airport*Manzhouli, Inner Mongolia, China
+NZL**Zhalantun Chengjisihan Airport*Zhalantun, Inner Mongolia, China
+NZY*KNZY*NAS North Island (Halsey Field)*San Diego, California, United States
